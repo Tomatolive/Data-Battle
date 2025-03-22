@@ -1,0 +1,31 @@
+Mode' Solutiog
+(a) Yes, since the language of the priority application is not one of the official languages of
+the EPO, in accordance with Art. 88(1) EPC, 1st sentence, a translation of the priority
+documents into one Of the offlcial languages has to be filed.
+(b) Alternatively, in accordance with Rule 38(4), a declaration that the Europeul patent
+application is a complete translation Of the previous application may be submitted.
+(c) Under Rule 38(4) EPC, the translation (or declaration) must be filed within the time limit
+set by the EPO (extendable under Rule 84 EPC), but at the latest must be filed within the
+non-extendable time limit laid down In Rule 51(6) EPC, see GL, A-III, 6.8.
+(a) Under Art 99(1), 1st sentence opposition must be filed within 9 months of the publication
+Of the mention of the grant of the European patent to company A. In accordance with
+Art 99(1) and Rule 85(1), since 04.02.1996 was a Sunday, the opposition period expired
+on 05.02.1996, therefore opposition can no longer be filed.
+It is therefore advised to intervene as assumed infringer. Under Art 105(1), 1st sentence,
+intervention as assumed infringer is possible since:
+(i) from the information given an opposition procedure is pending before the EPO (B's
+opposition);
+(ii) the patent proprietor A has instituted proceedings for infringement of the European
+patent against C;
+(iii) the time limit for intervention assumed infringer which is three months from the
+date of institution Of proceedings against C by A, has not yet expired (expires
+28.05.1996).
+In accordance with Art. 105(2) EPC, notice Of intervention has to be filed in a written
+reasoned statement (Art. 105(2), 1st sentence) and the opposition fee has to be paid
+(Art. 105(2), 2nd sentence).
+C is not limited to the grounds of originally filed, in accordance with
+Art. 105(2), 3rd sentence, after notice of intervention has been filed, it shall, subject to any
+exceptions laid down in the implementing regulations, be treated as an opposition,
+GL D-VII,7.
+A less preferred altemative is for C to file observations under Art. 115 EPC but in this case
+he will not be a party to the proceedings.

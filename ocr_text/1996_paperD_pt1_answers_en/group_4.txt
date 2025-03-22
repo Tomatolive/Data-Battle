@@ -1,0 +1,31 @@
+-4.
+The Exhibition must be mentioned on filing the EP or PCT Application (A 55(2) EPC and the
+certificated filed (A 55(2) EPC or Rule EPC and Rule 51b" PCT
+In the US there is a I year grace period so the disclosure is not a problem.
+a) Rule 2(1) EPC first sentence
+A party to oral proceedings may use another official EPO language if he gives one month's
+notice.
+It is then the responsibility of the EPO to arrange for translation (Guidelines EVI)
+- So by 18 May 1996 (Saturday)
+extended under R 85(1) EPC to May 20 1996 Monday, give notification to EPO that
+English will be used.
+b) Rule 20) EPC second sentence
+- any party may likewise use my language of a contracting state, but then must make
+provision himself for translation into the language of the proceedings.
+Question 9
+DE 1 - Feature A - 28 Oct 93
+DE 2 - Feature A plus Feature B - 28 Sept 94
+Published 95 May 08
+EP - feature A plus feature B - 27 Sept 95
+a) Art 4 Paris Convention
++ Art 87(1) EPC - to claim priority validly, the EP Appn must be filed within 12 months Of
+the date of the first application disclosing a particular feature.
+For feature A, the first Application was filed on 28 Oct 1993 the European application was
+filed too late and cannot claim priority for feature A.
+However. feature B was first disclosed in an application filed on 28 Sept 1994
+therefore EP claims priority validly for feature B.
+b) No for feature A.
+It is too late to file a priority claiming application for feature A.
+Since feature A has been published, no valid patent can be obtained.
+For feature B a European Patent could be obtained since priority is validly claimed, since
+before the disclosure

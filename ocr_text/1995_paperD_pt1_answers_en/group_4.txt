@@ -1,0 +1,40 @@
+7.
+8.
+(i)
+(i)
+-4-
+File a new application, claiming pnority from the original application. Withdraw the
+incorrect European application.
+Because the new application can still claim the original priority date, there will be no
+loss Of rights in withdrawmg the existing application and filing a new one. (In view Of
+G3/93, it should be ensured that there is no possible intervening disclosure between the
+filing of the existing EP application and new European application. If there has been,
+further consideration may be required).
+Altematively, Figure 2 may immediately be filed, in which case the application will be
+re-dated to the date of filing the drawings - Rule 43(1) EPC, Article 91(6) EPC. These
+options both involve no additional cost, and so may be equally acceptable, but I would
+prefer filing a new case to ensure everything is filed together, in case my Other pages
+were originally missing in the original European application.
+Either file the drawing and lose priority, or do not file the drawing, keep the priority
+date, but lose references to the drawing. Under Article 80 EPC, all requirements have
+been met to give the application a date Of filing.
+The EPO will therefore examine the application to check. inter alia, whether the
+drawings were filed on the date Of filing - Article EPC,
+In this case, Figure 2 was not filed, and so Article 91(6) EPC applies.
+Under Rule 43(2) EPC, the EPO will set a one month term to file the drawings. Ifthe
+drawings are filed within this term, the application will be re-dated to the date On which
+the drawings are received. Accordingly, the priority claim will be lost as the filing date
+will be more than 12 months from the date of filing the priority application - Art-
+icie 87 EPC.
+If the drawings are not filed, then Rule 43(2) EPC and Article 91(6) EPC provides that
+the references to the drawings will be deleted. Nevertheless, in this case the priority
+date remains.
+The advice must therefore be to file the drawings as soon as possible, but lose the
+priority date if this is Of no value.
+Alternatively. do not file the drawings, and let all reference to them be deleted, but
+keep the priority date. In this case, no protection will be available covering
+Figure 2, but this may be filed a separate application if this is merited, but the
+priority date will remain. This may be important.
+Due from the date Of filing, or where priority is claimed, the priority
+date - Article 91(5) EPC
+If not done on time, the application is deemed - Art 91(5) EPC

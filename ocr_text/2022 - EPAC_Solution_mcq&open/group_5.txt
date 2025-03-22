@@ -1,0 +1,33 @@
+Notice from the EPO dated 21 February 2013 concerning the request for early processing, OJ EPO 3/2013,
+156 ff
+It depends on the date on which early processing is requested which further requirements stipulated in
+Rule 159(1) EPC must be complied with, since the (regular) time limits for paying the designation fee
+(Rule 39(1) EPC) and the renewal fee (Rule 51(1) EPC) and for filing the request for examination and paying
+the examination fee (Rule 70(1) EPC) may not have expired on the date the request for early processing is
+filed. Therefore, if any of these time limits is still running on that date, the request will be effective without
+the requirements concerned having been complied with (Article 153(2) EPC, Article 11(3) PCT).
+Claims fees can be paid up to expiry of the period under Rule 162(2) EPC.
+ln the present case, the (regular) time limits for paying the designation, examination and renewal fees are
+still running.
+Question 13: D
+Legal basis
+Guidelines for Examination in the EPO, E-VIII, 8.1, A-IV, 1.1.1
+Applicants may withdraw their application at any time as long as the application is pending.
+An application is pending up to (but not including) the date that the European Patent Bulletin mentions the
+grant of the patent (OJ EPO 2002, 112).
+Question 14: B
+Legal basis
+Guidelines for Examination in the EPO, H-VI, 6, C-V, 10
+Errors in publication occur where the content of the printed specification differs from the documents
+(Druckexemplar) transmitted ta the applicant with the communication under Rule 71(3) (Form 2004), if
+these documents form the basis of the decision to grant. The above errors in publication can be corrected
+at any time.
+Question 15: B
+Statement A is not correct because Rule 56 does not apply to missing claims (the application was filed in
+2021, i.e. before the entry into force of the new Rule 56a EPC).
+Statement B is correct (Rule 56(3) EPC).
+Statement C is not correct because it is not possible to amend the claims before search (Rule 137(1) EPC).
+Statement D is not a good solution because the date of a priority claim would precede the date offiling of
+the European patent application by more than twelve months.
+Legal basis
+5

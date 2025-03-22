@@ -1,0 +1,44 @@
+If the application is filed at the EPO, priority documents will not be required, simply
+a request that the EPO transmits priority documents to the 1B (PCT Rule 17. I(b)). If
+filed at a National office priority documents will need to be filed within 16 months
+from priority (PCT Rule 17 _ I(a)). The effect of non-filing Of priority of documents is
+that priority may be refused by National offices (PCT Rule 17.1(c)) although this is
+not the effect before the EPO (EPC Rule 104b(3)) where priority documents will be
+requested if they are not filed at the time of entry into the National Phase.
+(ii) EP(I) appears to be an enabling disclosure for broad claims to opto-electronic devices
+since the description of EP(I) was sufficient to allow experts to manufacture a device
+falling under such broad claims given reasonable experimentation (T 14/83 and
+T226/85). In contrast, for the specific devices X and Y, the basis for claims to these
+devices is found in EP(2).
+In summary, in the PCT application to be filed, broad claims should be drafted for
+opto-electric devices which include the improved optical fibres as justified by the
+disclosure of EP(I), together with specific claims to X and Y, as justified by the
+disclosure Of EP(2). It should be noted that under your agreement with GLAZECO
+your company only has the right to claims for devices.
+The new developments by NEWMAN would appear to be patentable in their own right
+(see Guidelines C IV 9.4(i), T 2/83 - evidence Of inventive step and novelty exists so
+far as you are aware). It may be useful to include these developments in the single
+application now with the option to divide out later so as to minimise costs in the first
+year, provided that NEWMAN can provide the necessary documentation in time for
+filing on the 18.04.95. However, a separate, non-convention application could be filed
+later if the details of the NEWMAN developments are not available in time. Claims
+could be incorporated for the specific device, the manufacturing process and for use
+Of the polarisation feature in improving the performance of devices X and Y
+(iii) To be safe you should claim priority of both EP(I) and EP(2). For the broad claims
+to opto-electric devices. the priority of EP(I) must be claimed, while as far as the
+specific device claims are concerned, EP(2) is the first application where devices X
+and Y are mentioned explicitly. EP(I) does not explicitly disclose the specific features
+of devices X or Y. The requirements for an implicit disclosure Of these features (see
+GL C-IV 7.5) are probably not fulfilled either, since the client's letter does not say that
+the skilled man would inevitably arrive at a device having the specific features Of
+device X or Y when carrying out the general procedure described in EP(I), but just
+that he could develop a device corresponding to the general description (Paris
+Convention Art. 4, PCT Art. 8(1), Art. 87(1) EPC). Therefore, only the priority of
+EP(2) can be claimed for the devices X and Y.
+The priority of EP(I) should in any event be claimed for the following reasons: Firstly,
+if it is not claimed, there is the risk of an EPC Art. 54(3) conflict with the application
+claiming only the EP(2) priority; secondly, EP(2) is not a "first application" with
+regard to the broad claims within the terms of EPC Art. 87(1) so that for these claims
+its priority cannot be validly claimed (withdrawal of EP(I ) before its publication would
+be of no help pursuant to EPC Art. 87(4) because GLAZECO will file a new
+application claiming the priority of EP(I)); hence, the disclosures at the conference

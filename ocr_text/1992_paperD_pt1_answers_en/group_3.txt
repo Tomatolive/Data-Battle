@@ -1,0 +1,54 @@
+3.2
+4.
+No — the corrununication under R. 51 (4) should include the text
+on which the Examiner intends to grant the patent. The
+applicant must approve the text and may suggest minor
+amendments. Norma Ily amendrnents Of substance are not allowed.
+[Guidelines support thisl .
+However, if the prior art is of extreme relevance, i t should
+be notified to the EPO, and they should consider re—opening
+examination. If this newly found patent application is of such
+relevance, then, during re—examinaeion a reference to i t could
+be introduced. If it i s not of such relevance to re—open
+proceedings a mention of it in the application can not be
+essential .
+(Guidelines indicate the procedure re. such situations) .
+a)
+b)
+c)
+NO — programs for computers are speciEica11y excluded
+under Art. 52 (2) To qua li fy for patentability as, for
+example, a computer operated by the program, there must
+be some technical progress. Translation of one language
+Co another — i.e. the Of the program, or the
+effect Of the program, can not be considered a technical
+effect, and would itself be excluded as a •method for
+pertorming mental aces • under Art. 52 (2) (c) . There is
+much Board Of Appeal case law on computer and mental
+aces.
+Methods of treatment of hurnan are excluded from
+patentability under Art. 52 (4) .
+However, a method of treatment is a method of surgery or
+therapy, including curative or prophylactic therapy.
+A sun—tanning pili might be considered a cosmetic
+treatment and may well have patentability because Of its
+sole cosmetic indication. European case law has indicated
+that cosmetic treatments are patentable.
+I would recorrunend claiming the tablet per se if new, or
+the use of the tablet in cosmetic treatment, rather than
+a method of treatment claim format .
+It Should be considered whether Such a compound would be
+excluded under Art. 53 i.e. as being contrary to
+ordre public and moral i Ey. Clearly, use Ot the cornpound
+would not be legal in that the police breath test would
+be ineffective. However, if some alternative use for the
+compound could be found it may then be patentable. (The
+Guidelines give Some examples here e . g. the let ter bornb
+which is Clear Iy not patentable — but a safe—breaking
+mechanism which may have alternative, i.e. non-burglaty
+related uses may be patentable) .
+If the only use Of the compound is an illegal use, then
+the compound Should not be patentable under Art. 53 (a) .
+If there is some alternate use, as well as the illegal
+use, patentability cannot be denied — if all other
+patentability requirements are fulfilled.

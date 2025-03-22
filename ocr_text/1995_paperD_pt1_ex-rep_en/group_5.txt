@@ -1,0 +1,37 @@
+the national courts in the designated countries to decide, were credited with having answered
+correctly].
+6
+According to Enlarged Board of Appeal decision GI/92, the chemical composition Of a product
+belongs to the state Of the art when the product as such is available to the public and can be
+analysed and reproduced without undue burden by the skilled person, irrespective of whether or
+not particular reasons can be identified for analysing the composition. Since the product Y in
+question was freely available ("sold without restriction"), it was available to the public, and could
+have been analysed by the skilled person. The issue of whether Company C actually made an
+analysis of the product Y or not has no relevance - it is only important that an analysis could
+have been made without undue burden. Therefore product Y does belong to the state of the art
+with respect to the opposed patent.
+(i) In the case where the pnority period has not yet expired, the applicant should file the
+omitted sheet containing figure 2 before the priority period expires. In accordance with
+Art. 91 (6) the applicant should request that the application be re-datcd to the date of receipt
+Of figure 2 (provided this is within the priority period). If the applicant does not request a
+re-date himself, the Receiving Section will set a One month term for the applicant to request
+a re-date. The applicant should not wait until receiving notification from the Receiving
+Section under Rule 43(2) that a figure is missing, since by then the priority period will
+probably have expired and the application would have to be re-dated to the date (after the
+priority date) on which the omitted figure was filed. Alternatively the applicant could file
+a new application within the priority period including the previously omitted figure 2. Since
+no fees have been paid on the original application EPI it can be left to be deemed to have
+been withdrawn.
+(ii) In the case where the priority period has already expired, the applicant must decide whether
+he considers the inclusion Of the omitted figure 2 more important that the loss of the priority
+claim. If he does, the omitted sheet should be filed With the EPO with the least possible
+delay (e.g. fax), and according to Art. 91(6) a request made for the application to be re-dated
+to the date of receipt of figure 2. If the priority claim is regarded as more important, then
+figure 2 will have to be abandoned and any references to figure 2 will be deemed to be
+deleted (Art. 91(6). A compromise solution could be to maintain the original application with
+the priority claim but without figure 2 and to file a new application straightaway without the
+priority but including figure 2.
+N.B. The omitted drawing cannot be corrected under Rule 88 since there is no way Of telling
+exactly what the applicant intended to be included in figure 2.
+(i) The designation of inventor(s) should be filed with the application, according to Art. 81 and
+Rule 17 EPC_ Art. 91 (10 stipulates that the Receiving Section examines whether the

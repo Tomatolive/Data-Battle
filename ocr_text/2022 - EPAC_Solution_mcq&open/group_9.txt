@@ -1,0 +1,36 @@
+The filing fee includes the additional fee for two pages (36 pages plus one page of
+abstract (even if abstract is two pages) minus 35 pages = 2 pages, Rule 38(2), (3)
+EPC, Article 2(1), item la, RFees and Guidelines A-lll, 13.2)_
+(b) The payment is deemed to have been made on the date on which the account was
+duly replenished (point 8 AAD)_
+Since this is after the due date for paying the fees, the application is deemed to be
+withdrawn (Article 78(2) EPC).
+No action is required as long as there are sufficient funds in the deposit account
+(the EPO will automatically debit the further processing fee, the search fee and the
+filing fee (which includes the page fee)).
+(c) A translation must be filed within two months of the filing of the application
+12 Dec 2022 + 2 months = 12 Feb 2023 (Sun) = 13 Feb 2023;
+or within two months of notification of a communication under Rule 58 EPC.
+If documents to be filed by one of the means of electronic communication permitted
+by the President of the European Patent Office (under Rule 2(1) EPC) cannot be
+received on the day on which a period for performing procedural acts expires, the
+period Shall extend to the first working day on which all means of electronic filing are
+available (Rule 134(1) EPC and OJ EPO 2020, A120)_
+Question 5
+A divisional application can only be filed if the parent application is still pending.
+Currently, EP-AI is deemed to be withdrawn because no response to the
+communication under Article 94(3) EPC was filed. The time limit for filing a response
+expired on 28 November 2022 (26 Saturday > Monday 28).
+ln order to revert application EP-AI to pending status, the applicant must request
+further processing by paying the further processing fee and file a response to the
+communication under Article 94(3) EPC_
+The filing fee and search fee for EP-A2 are due on filing_ They may be paid within one
+month of the date of filing of the divisional application (Rule 36(3) EPC).
+The third renewal fee and the fourth renewal fee for the divisional become due on filing_
+They can be validly paid without surcharge within four months of the date of filing of the
+divisional application (Rule 51(3) EPC) (othenvise with surcharge within six months of
+the same date).
+The applicant should file claims directed to invention Y (Rule 40(1) EPC) in response to
+a communication from the EPO (under Rule 58 EPC setting a time limit of two months
+from the date of receipt to supply claims) at the latest_
+9

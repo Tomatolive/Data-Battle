@@ -1,0 +1,40 @@
+-4-
+Priority of the EP application should be claimed as there might be intervening publications but
+the application itself may be allowed to lapse.
+(a)
+(b)
+(a)
+(b)
+(c)
+8
+Yes, in accordance with Rule 2(1), 1st sentence and Rule 2(5) EPC. Provided that the EPO
+is notified at least one month prior to the date set for oral proceedings (18.06.1996 in this
+case), the EPO has to make provisions for interpretation; otherwise the opponent himself
+must make the provisions for interpretation and pay the costs
+In accordance with Rule 2(1), 2nd sentence and Rule 2(5) EPC, since is not an
+official language of the EPO but is an official language of one of the contracting states, it
+is possible to use Spanish during the Oral proceedings, however in this case the opponent
+must make provisions for interpretation himself and pay the costs.
+9
+No, in accordance with Art. 87(1) the right of pnonty extends for a penod of 12 months
+from the date of filing of a first application for the same invention in a state which is party
+to the Paris convention.
+For the feature A, this period expires on 28.10.1994, 12 months after filing Of DEI. In
+accordance with Art. 87(4), DE2 could Only be considered as a first filing for the feature
+A, provided that DEI had been withdrawn, abandoned or refused without being made open
+to public inspection, and had not served as a basis for claiming a right of priority. Since this
+is not the case, EP cannot claim the priority of DE2, for the feature A. Hence the effective
+filing date for assessing novelty and inventive step of A is 27.09.1995, i.e. the date of filing
+Since feature B is not disclosed in DEI, and since EP is filed within the 12 month period
+after filing of DE2, (which represents the first filing for B) the priority claimed for feature
+B is valid in accordance with Art. 87(1) EPC
+Feature A is not new within the definition Of Art. 54(2) EPC and therefore, a claim to
+feature A is not allowable under Art. 52(1) EPC
+Feature B of EP is novel.
+Since EP validly claims the priority Of DE2 the priority date counts as the filing date for
+the purposes of Art 54(2) EPC (Art. 89 EPC)_ DEI is not prior art in the sense of
+Art. 54(2) nor is it prior art in the sense Of Art. 54(3) since it is not an EP application. DEI
+does, however, constitute a national prior right within the meaning of Art. 139(2) EPC and
+could be used in Germany but only in revocation proceedings.
+Because DE2 claims priority from DEI, even if DEI were withdrawn/abandoned without
+having been published, DE2 cannot be considered to be a first application as defined in

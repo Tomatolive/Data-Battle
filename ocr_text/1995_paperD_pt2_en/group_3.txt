@@ -1,0 +1,39 @@
+EAR.I_U
+Note to candidates:
+For this question. assume the date today is 13 April 1995.
+On 13 April 1995. you receive the following information from a client:
+(A) My company, BRIGHTCO, is a small. high-technology manufacturer of opto-electronic
+devices based in Britain. Recently, we signed a collaboration agreement with a British
+optical fibre manufacturer, GLAZECO. This agreement gives BRIGHTCO the option to
+acquire the rights to any invention of opto-electronic devices developed by GLAZECO
+Last year, GLAZECO developed a new method for incorporating various chemical dopants
+(additives) in glass for producing improved optical fibres.
+On 14 April 1994, GLAZECO filed a European patent application, EP(I), which specifi-
+cally described the details of this doping method. Research director KAPPA was named as
+inventor, I ) included claims to the doping method, to the doped glass and the improved
+optical fibre.
+From experiments using the dopants, GLAZECO found that the improved optical fibre
+made with the doped glass exhibited enhanced optical properties, enabling the production
+Of novel devices using such fibre. EP(I) included a general description Of the principles Of
+a device in which such doped fibre might be used, but without any detailed specific
+description of the features of such a device. The general description in EP(I) would clearly
+have been sufficient for any experts in the field (such as BRIGHTCO) to develop such a
+device themselves, given a reasonable amount of experimentation.
+However, On 21 April 1994, GLAZECO filed a second European patent application, EP(2),
+including the same description of the doping method as in EP(I), but with additional
+detailed descriptions of two devices, X and Y, made using the improved optical fibre. EP(2)
+included broad claims to opto-electronic devices incorporating the improved optical fibre
+and dependent claims to devices X and Y. KAPPA and a GLAZECO research engineer,
+LXMDA, were named as the inventors in this application. GLAZECO only paid filing and
+search fees for both applications EP(I) and EP(2).
+The details of the doping method and devices, exactly as described in EP(I) and EP(2)
+respectively, were disclosed by the inventors in two scientific papers which they presented
+at a conference on 24 June, 1994
+In accordance with our collaboration agreement we intend to acquire the rights to EP(2),
+but as we are not interested in manufacturing the optical fibre ourselves GLAZECO will
+keep its rights to EP(I). GLAZECO has instructed its own agents to file a new application
+claiming priority from EP(I) and adding the developments its research team has made to
+the doping method over the last year. GLAZECO has assured me that the outline
+description Of the principles Of the device which was included in EP(I) will be omitted
+completely from the new application.
+95/1)/e/5

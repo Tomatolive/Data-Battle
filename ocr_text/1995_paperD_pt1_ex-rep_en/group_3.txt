@@ -1,0 +1,34 @@
+Model Solution to Paper 1)/1995
+According to Rule 48(2), a European patent application shall not be published if it is withdrawn
+before the termination Of the technical preparations for publication. Rule 48(1) States that
+President of the EPO shall determine when technical preparations are deemed to have been
+completed. In the declsion of the EPO President dated 14.12.1992, it is stated that these
+preparations are considered terminated at the end of the day that comes seven weeks before
+expiry Of the eighteen month period from the date of filing or priority.
+Hence in this case, since the applicant notified the EPO nine weeks before the expiry Of the
+eighteen month period, he can be sure that the application will not be published.
+2
+(i) Since the EPO is closed for Easter between 14 and 17 April, according to Rule 85(1), the
+time limit is extended to the first day upon which all filing offices are open for the receipt
+of documents and on which ordinary mail is received i.e. 18 April. Therefore the
+representative can refile the application on the 18 April (which is still within the time limit)
+Claaming the priority Of 14 April 1994, and leave the original application to be deemed to
+have been withdrawn, as no fees have yet been paid.
+The alternative would be to add the priority data to the request for grant form, as a
+correction under Rule 88 EPC, first sentence, and it would not be necessary to prove that
+any mistake had been made (see Legal Board Of Appeal Decision J9/91).
+(ii) If the representative had only realised his mistake on 19 April, the first option above would
+not have been possible, since the time limit would have expired. The second option would
+be the only one remaining.
+The Rule 69(1) EPC notification regarding the ensuing loss of rights was sent out by the EPO
+on the 0508.1994. According to Rule 78(1) EPC this notification would have been made by
+registered letter, and was deemed to have been received by the representative on the 15.08.1994
+(Rule 78(3)). The receipt of this notification Constltutes a removal of the cause of non-compliance
+within the meaning of Art. 122(2)EPC. Therefore the representative has 2 months from the date
+of receipt of the Rule 69(1) notification in which to file an application for restitut10 in integrum
+(Art. 122). The two month period actually expires on the 17.10.1994 (Rule 85(1) EPC). The
+omitted act itself (the payment of the renewal fees) must also be completed within this period.
+According to Legal Board of Appeal decision J6/90, it is enough that the filing of an application
+for restitutio is completed within I year of expiry of the unobserved time-limit (i.e. 30.09.1994)
+(Art. 122(2)). The request for Restltutio in Integrum was received by the EPO on 21.09.1994 and
+the payment of the renewal fees on the 28.09.1994, i.e. both before 30.09.1994. Theother Art 122

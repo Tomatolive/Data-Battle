@@ -1,0 +1,37 @@
+(a)
+(b)
+(c)
+(a)
+(b)
+-2-
+Yes.
+To file a PCT applicatiom only one applicant needs to be national or resident of a PCT
+contracting State (RI 8.3 PCT). The Taiwanese inventor is not entitled (Taiwan is not a PCT
+memtM state), but the French company is (France is a PCT member state).
+By Section 203 (a) PCT Administrative Instructions, different applicants may be named for
+different designated states
+However, it is not possible to designate FR as a national application but only as a Euro-PCT
+designation, under Art 45(2) PCT
+The EPC allows, under Art 59 EPC, different applicants to designate different contracting
+states. The FR company can be applicant for EP(FR) and the Taiwanese inventor for all other
+EP states.
+PCT priority is determined under the Paris Convention, Art 8(1) and (2) PCT.
+Under Paris Convention Art 1 ) and (4), the first application in a Paris Convention country
+is the relevant one for priority. The Taiwanese application was not in a Paris Convention
+country (TW is not a member) the GB application is the relevant first application and priority
+can validly be claimed.
+Howeva, sonr countries (g DE, BE) do not recognise priority rights for applications filed by
+applicants not resident or national Ofa Paris Convention Country, but the EPO does. TtMe is
+a risk that the eventual national patents in sorne countries will be held to be not to
+priority by the national coulT
+We are within tlr priority year urxier Art 4C(l), can claim from 1 May 1996 application.
+TIE PCT contains no provisions regstration of licenc«. This must be done with the national
+or regiornl offces on entry to the national or regional phase, if possible with those offces.
+It will not be possible to add the examples to the application, because this would contravene
+Art 123(2) EPC, as confirmed by Guidelines C-VI, 5.7.
+Dropping the priority Pl is anyway not advisable This would mean paper reproducing contents
+Of P1 would become prior art under Art 54(2) and would destroy novelty Of the claims.
+I can howev« qabmit tir example to the EPO during examination. I shall do this after receipt
+Of the Search Report and before examination begins, asking that they be taken into account
+This is usually permitted, see Guidelines C-VI, 5.7a, in particular since the examples support
+an advantage (effect already discussed in the application)

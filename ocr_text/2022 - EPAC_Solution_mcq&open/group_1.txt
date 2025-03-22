@@ -1,0 +1,34 @@
+Part 1
+Question 1: C
+The question was which of the following statements is not correct. Statements A, B, D are
+correct.
+Statement C is not correct because further processing can be requested later than
+19 June 2023, namely within two months of a loss-of-right communication.
+Legal basis
+Rule 126(2) EPC
+Where notification is effected by registered letter, the letter Shall be deemed to be delivered to the
+addressee on the tenth dav follovïng its handover to the postal service provider unless it has failed to
+reach the addressee or has reached him at a later date.
+Rule 135(1) EPC
+Further processing under Article 121, paragraph 1, Shall be requested by payment of the prescribed fee
+within two months of the communication concerning either the failure ta observe a time limit or a loss of
+rights. The omitted act Shall be completed within the period for making the request.
+Rule 132(2) EPC
+ln special cases, the period may be extended upon request, presented before the expirv of such period.
+Question 2: A
+Legal basis
+Rule 30(3) EPC
+Where the applicant has not filed a sequence listing complying with the requirements under paragraph 1 at
+the date of filing, the European Patent Office Shall invite the applicant to furnish such a sequence listing
+and pay the late furnishing fee. If the applicant does not furnish the required sequence listing and pay the
+required late furnishing fee within a period of two months after such an invitation, the application Shall be
+refuse d.
+Decision of the President of the EPO dated 9 December 2021 on the filing of sequence listings, Article 1(1)
+If nucleotide or amino acid sequences are disclosed in a European patent application, the description must
+contain a sequence listing in XML format complying with WIPO Standard ST. 26.
+Question 3: A
+Legal basis
+Board of Appeal decision G12/91
+Guidelines for Examination in the EPO, H-VI, 2.1:
+The decision-making process is terminated on the date of handing over of the decision to grantto the EPO's
+postal service.

@@ -1,0 +1,36 @@
+(i)
+(ii)
+.3-
+Article 6 Protocol on Recognition provides that if none Of Articles 2 to 4 apply, as is
+the case here, then the qgr.man court has jurisdiction.
+In all above cases, if there is an agreement between the parties as to a different court
+which should have jurisdiction, Article 5(1) Protocol on Recognition provides that this
+Court will have jurisdiction.
+Yes.
+Article 8(2)(a) PCT provides that the conditions for making a priority claim for an
+international application are as provided in Article 4 Paris Convention.
+Article 4A(l) Paris Convention provides that priority may be claimed from an earlier
+patent application filed in one of the countries of the Union. Article 4A(2) Paris
+Convention provides that any filing equivalent to a regular national filing shall be
+sufficient for a priority claim. As a European application is deemed to be equivalent to
+a national application in any designated state - Article 66 EPC. a European filing meets
+the requirements for claiming priority made by Article 4 Paris Convention, and hence
+Article 8 PCT.
+It may be.
+If the scope of the eventually granted European patent is different to the scope of the
+patent resulting from the International application, then 2 patents should be granted. The
+EPO will not however allow the grant Of 2 identical patents.
+6.
+Yes.
+Article 54(1 ) EPC provides that the state of the art comprises everything made available to
+the public before the date of filing the application. Article 89 EPC provides that the date of
+filing is deemed to be the priority date.
+In GI/92, it was held that the composition or intemal structure of a compound is deemed to
+have been made available if the composition have been identified by a person skilled
+in the art. It was held to be irrelevant whether the person have identified the
+Composition, or actually did identifr the composition.
+Therefore, product Y was sold without restriction before the priority date of the patent to
+product X _ It appears that the composition have been determined, for example by C.
+and in this case, following GI/92, the composition Of Y does form part of the state of the
+If Such determination was not possible, then Only Y, and not its composition form part Of the
+State Of the art.
