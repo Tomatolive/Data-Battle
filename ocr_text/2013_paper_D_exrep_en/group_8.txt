@@ -1,0 +1,42 @@
+Possible solution - Paper D 2013 - Part II
+Question 1
+Analyse the patent situation for frying pans with
+a) 3D protrusions, and in panicular with
+b) pyramidal,
+c) hemispherical and
+d) cubic protrusions.
+a) EP-3D is the first application directed to a frying pan with 3D protrusions.
+The independent clam directed to 3D protrusions of EP-HEMI cannot validly claim priority
+from DE-HEMI, since DE-HEMI was not the first application by Schnell-Koch directed to a
+frying pan with 3D protrusions
+EP-3D was published before the filing date of EP-HEMI_ EP-3D belongs to the state of the
+aft (under Article 54(2) EPC) for the independent claim of EP-HEMI_
+The independent claim of EP-HEMI lacks novelty over EP-3D_
+The appeal period against the refusal of EP-3D expired on 5 June 2012 and EP-3D was
+pending until that day.
+The 24-month time limit for filing a divisional application expired at the earliest in July 2012.
+Thus, DIVI-3D related to a pending European patent application and was filed in time. By
+amending DIVI-3Di i.e. by removing the added subject-matter relating to cubic protrusions,
+and by filing an amended claim overcoming the clarity objection, a patent for a frying pan
+with 3D protrusions can be obtained, since there is no prior art disclosing a frying pan with
+3D protrusions, i.e. a claim to a frying pan with 3D protrusions is novel, and 3D protrusions
+heat up the food much faster than a flat surface, i.e. they involve an inventive step.
+b) IT-PYR is the only application directed to a frying pan with pyramidal protrusions. Buona
+Cucina can obtain a patent for a frying pan with pyramidal protrusions in IT because there
+is no prior art disclosing a frying pan with pyramidal protrusions, and since pyramidal
+protrusions reduce vitamin loss in fried food, i.e. they involve an inventive step.
+The priority period for IT-PYR has expired, so that no further patent application can validly
+claim priority from IT-PYR_
+c) DE-HEMI was the first patent application directed to a frying pan with hemispherical
+protrusions. EP-HEMI validly claims priority for hemispherical protrusions from DE-HEMI,
+since it was filed by the same applicant within the priority year. The deemed withdrawal of
+DE-HEMI does not affect the right to priority.
+EP-3D is prior art prior art under Alticle 54(3) EPC for the dependent claim of EP-HEMI_
+The dependent claim of EP-HEMI is novel over EP-3D_ The dependent clam of EP-HEMI
+involves an inventive step, since hemispherical protrusions can be cleaned easily and do
+not become encrusted with food residues.
+d) DIVI-3D is the first patent application which discloses a frying pan with cubic protrusions.
+However, the disclosure of a frying pan with cubic protrusions in DIVI-3D extends beyond
+the content of EP-3D. Therefore, no patent protection for a frying pan with cubic
+protrusions can be obtained via DIVI-3D
+-8

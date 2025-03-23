@@ -1,0 +1,25 @@
+Claim analysis
+For this question also assume that.
+a) the closest prior art is D4;
+b) the objective technical problem is "to provide a stopper having a filter plate
+whereby the filter plate is securely held"
+For each of the statements 19.1 — 19.4, indicate on the answer sheet whether the
+statement is true or false.
+Given a) and b), a valid argument as to why it is not obvious to solve the objective
+technical problem by the features of claim VI is that
+19.1
+starting from D4, the person skilled in the art would not consider to combine it
+with the teaching of Dl , since the stopper of Dl is made of cork instead of
+synthetic rubber as is the stopper of D4.
+19.2
+_ starting from D4, and considering D2, which teaches to use a strong glue, the
+skilled person would glue the filter plate of D4 to the body of D4 using a strong
+glue but would not consider integrating the filter plate of D4 within the body of D4_
+19.3
+starting from D4, the person skilled in the art would not consider to combine it
+with the teaching of D3, since D3 does not provide a filter plate.
+194
+starting from D4 alone, the person skilled in the art would not consider to
+provide two air channels.
+2013,'PE/EN
+Page 30 of 33

@@ -1,0 +1,24 @@
+Claim analysis
+QUESTION 16
+For this question consider only claim V_2 of claim set V and assume that:
+a) the EPO examiner considers D4 to be the closest prior art;
+b) the EPO examiner identifies the straight air channel extending from the first planar
+surface to the second planar surface as the distinguishing feature with respect to [)4.
+For each of the statements 16.1 — 164, indicate on the answer sheet whether the
+statement is true or false.
+Given a) and b), a valid identification of a technical effect for claim using the
+problem-solution approach is that
+16.1
+16.2
+_ a straight air channel extending from the first planar surface to the second
+planar surface is quicker to manufacture than foam.
+with a straight air channel extending from the first planar sulface to the second
+planar surface it is easier to determine by its diameter the rate of exchange of
+gasses _
+16.3 with a straight air channel extending from the first planar sulface to the second
+planar surface the rate of exchange of gasses is determined only by the gas
+permeability of the filter plate.
+16.4 the provision of a straight air channel extending from the first planar surface to
+the second planar sulface saves material of the stopper.
+2013,'PE/EN
+Page 26 of 33

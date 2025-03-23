@@ -1,0 +1,35 @@
+5
+10
+15
+m
+25
+30
+You are a European patent attorney and have today had a meeting with Dr Wichtig,
+managing director of your new client SILWAFE AG, Munich, DE, which you validly represent
+in proceedings before the EPO Dr Wichtig has informed you about the following facts:
+"SILWAFE AG is a supplier of silicon wafers to the electronic industry. These wafers are thin
+discs of about 0.5 mm thickness and 15 or 20 cm diameter. In our factory, they are produced
+by sawing from monocrystalline silicon rods. My company's R&D department is in charge Of
+developing and improving the sawing processes we use; however, we do not ourselves
+manufacture the sawing devices for use in production, but have them made by external
+engmeenng companies.
+The patent affairs Of my company have, in the past, been entrusted to our employee Dr
+Zornig. At the end of last month, I informed him that his job was to be taken over by an
+external patent attorney from 2003 on, for reasons Of rationalization. Dr Zornig was furious.
+He immediately left his work place and will no longer be available to do any work for the
+company. Since Dr Zornig left us, all we have been able to do is to carry Out a stock-taking Of
+the present situation, with the following result:
+During the last few years, Our department has been developing a new sawing process
+MULTISAW, in which the silicon rods are not cut by a single saw blade as in the state-of-the-
+art processes, but simultaneously with a plurality Of parallel saw blades. Thus we obtain,
+instead of only one wafer per sawing step, several wafers at the same time. This process will
+revolutionize the sawing technology in the field of wafer sawing and will, as we hope, give us
+a considerable advantage over Our competitors. We have also developed a new cooling
+composition COOLMIX which turned out to be especially suitable for this process. This
+composition is sprayed into the sawing gap during the sawing, for removal Of heat and
+abraded material.
+Dr Zornig had on 29 November 2000 and in the name Of SILWAFE AG filed an application
+MULTISAW-DE claiming and describing the sawing process and the device for carrying
+out the process, and an application COOLMIX-DE claiming and describing the cooling
+composition, at the German Patent and Trademark Office. Both applications are still
+2002/Dll/e/1

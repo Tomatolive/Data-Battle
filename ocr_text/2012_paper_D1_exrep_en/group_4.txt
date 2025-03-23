@@ -1,0 +1,38 @@
+Possible solution - Paper D 2012 - Part I
+Answer to question 1
+A correction of a mistake in a decision according to Rule 140 EPC has a retrospective
+effect, Tl 16/90 or T 212/88 The correction dated 24 January 2012 does not change the
+date of the decision dated 27 December 2011.
+The decision refusing the application was deemed delivered on 6 January 2012
+(27 December 2011 + 10 days, Rule 126(2) EPC). This is the starting date for calculating
+the time limit to appeal. In accordance with Article 108 EPC, notice of appeal shall be filed
+within 2 months of notification of the decision Therefore, the period for filing the notice of
+appeal and paying the appeal fee expires today, 6 March 2012. It is advisable to file the
+notice of appeal and to pay the appeal fee today.
+Should your client decide not to proceed with the appeal, the appeal fee will be reimbursed
+in accordance with Rule 103(1 )(b) EPC, provided that the appeal is withdrawn before filing
+the statement of grounds of appeal and before the period for filing that statement has
+expired.
+If your client decides to continue with the appeal, the statement of grounds of appeal has
+to be filed within 4 months from notification of the decision, Alticle 108 EPC. Since this
+period expires on Sunday, 6 May 2012, it is extended to Monday 7 May 2012, Rule 134 (1)
+EPC
+Answer to question 2
+a) Amended Rule 36(1) EPC entered into force on 1 April 2010.
+DIVI was filed on 14 December 2009, i.e. before amended Rule 36 EPC entered into force
+Hence, previous Rule 36(1) EPC applies, requiring only that the earlier application is
+pending. Moreover, according to Alticle 76(1) and Rule 36(2) EPC (as in force until 31
+March 2010), the divisional has to be filed in the language of the proceedings for EPI with
+the EPO in Munch, The Hague or Berlin Since DIVI was filed in English with the EPO in
+Munich, and EPI was still pending on 14 December 2009, all requirements were met.
+DIV2 was filed on 30 September 2010, i.e. after amended Rule 36 EPC entered into force
+In accordance with amended Rule 36(1)(a) EPC, the applicant may file a divisional
+application before the expiry of 24 months from the examining division's first
+communication in respect of the earliest application (i.e. EPI)_ This time limit expired
+before 1 April 2010. According to the transitional provision applicable to amended Rule
+36(1) EPC (Article 3 of the Decision of the Administrative Council of 25 March 2009, OJ
+2009, 298 or 485) a divisional application of EPI could still be filed until 1 October 2010.
+Moreover, according to Alticle 76(1) and amended Rule 36(2) EPC, the divisional has to
+be filed in the language of the proceedings for EPI at the EPO in Munich, The Hague or
+Berlim Since DIV2 was filed before 1 October 2010 in English with the EPO in Berlin, and
+EPI was still pending on 30 September 2010, all requirements were met

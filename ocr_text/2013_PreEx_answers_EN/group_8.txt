@@ -1,0 +1,45 @@
+Question 16
+In the context of the problem-solution approach, the technical effect is based on the
+identified distinguishing feature of claim over D4 (Guidelines G-VII, 5.2). With a
+straight air channel extending from the first planar sulface to the second planar
+sulface, different rate of exchange of gasses by the stopper can be easily
+determined by vary'lng the diameter of the straight air channel, see last sentences of
+paragraphs [006] and [0081
+The blind-hole of D4 is formed together with the foam body whereby the straight air
+channel is not necessarily quicker to manufacture.
+The gas permeability of the stopper is also dependent on the diameter of the air
+channel, and not only on the gas permeability of the filter plate (see
+paragraph [0008]).
+There is no basis for drawing any conclusion with regard to the amount of material
+used for making the stopper of claim V2 or for making the stopper of D4.
+16.2 - True
+17.1 -True
+17.4 - True
+16.1
+16.3
+16.4
+- False
+- False
+- False
+Question 17
+In the context of the problem-solution approach, the objective technical problem
+means the aim and task of modifying or adapting D4 to provide the technical effect
+that the distinguishing feature of clam V3 provides over D4 (Guidelines G-VII, 5.2).
+The distinguishing feature over D4 (the air channel is a through-hole extending
+from the first planar surface to the second planar surface and that the filter unit is
+attached to cover an end of the through-hole) provides the technical effect that gas
+can pass only through the filter plate and the air channel. Hence, the rate of
+exchange of gasses through the stopper can be more precisely determined by the
+diameter of the air channel and the gas permeability of the filter plate. In view of
+this, a valid definition of the objective technical problem is how to make a stopper
+for a bottle having a predictable gas permeability (see paragraphs [0007] and
+[0008]). Another more general definition is how to make a stopper for a bottle that
+allows to better predict the maturation of the wine (paragraph [0003]), last
+sentence).
+Statement 172 is not related to the claimed distinguishing feature. For statement
+IT3 it is noted that D4 is already air permeable without using cork, i.e. permeability
+in general is not the problem to be solved.
+17.2
+17.3
+- False
+- False

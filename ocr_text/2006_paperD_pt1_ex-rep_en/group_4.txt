@@ -1,0 +1,41 @@
+Answer to question 6:
+1. If the client insists on having the rejection of the requested extension of time limit
+reviewed by a board of appeal, further processing must be requested and a refund of the
+fee for further processing must be requested
+The Rule 69 (1) communication is deemed to be delivered on 03.032006 (Rule 78(2)
+EPC)_ The request for further processing must therefore be filed by
+Within said time limit, the fee for further processing must be paid and the reply to the
+communication must be filed.
+The decision to refuse the requested refund could then be challenged with the decision
+terminating the proceedings, Alt. 106(3) EPC, i.e. grant or refusal, or separately,
+Guidelines E-Vlll, 1.6 and J37/89 (OJ 4/1993, 201).
+2. No, a sailing trip is not a sufficiently exceptional circumstance for extension, Guidelines
+E-Vlll,
+Simply requesting further processing alone (Article 121 EPC) is cheaper and is guaranteed
+to succeed.
+Answer to question 7:
+Yes, see legal advice No. 11/82, OJ 82, 57 (or Guidelines D-VI 2.2 or Guidelines D-VIII
+1.2_5_ or Case Law Book VIII. or T 73/84 T 186/84 T 237/86, T 347/90, T 459/88).
+According to paragraph 3 of the legal advice, the request for revocation implies that the
+proprietor no longer approves the text as granted, Art 1 1 3(2) EPC_
+Answer to question 8:
+The opponent is allowed to file in Italian. According to Rule 6(2) EPC, the translation of the
+notice of opposition required under Art. 14(4)EPC has to be filed within the longer of one
+month after filing the notice (Rule 6(2), first sentence), i.e. 24.022006, or the nine-month
+opposition period (Article 99(1 ) EPC), expiring on 2T012006. Thus, the period for filing
+the translation expires on 24.022006.
+The one month time limit runs from the day the fax is received (Rule 36 (5) EPC, Notice of
+the President dated 06 December 04, OJ 1/2005,41, Guidelines A-IX, 2.5).
+The translation was received at the EPO on 28.022006. This is too late.
+Therefore, the opposition is deemed not to have been filed.
+Answer to question 9:
+The Vienna sub-office of the EPO is not a filing office in the sense of Alt. 75(1)a EPC
+Therefore European patent applications cannot be filed there. See notice of the EPO of 06
+December 2004 concerning the Vienna sub-office, OJ 1/2005, 44, Guidelines A-II, 1.1
+Applications received at the Vienna sub-office will be transmitted to Munich or The Hague,
+and their filing date is their date of receipt in Mumch or The Hague
+Hence the filing date of EP-A is 06.032006, which is later than the 12-month period of
+Article 87(1) EPC, which ended on 0303.2006.
+The priority claim is therefore not valid, and the lecture is novelty destroying for EP-A
+under Article 54(1) and (2) EPC. The lecture is not prior art against CZA
+_4_

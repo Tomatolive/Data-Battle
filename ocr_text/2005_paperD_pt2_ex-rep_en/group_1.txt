@@ -1,0 +1,30 @@
+Examiners' Report - Paper D - Part II
+Most candidates correctly assessed the relationship between the patent documents.
+However, many failed to outline in appropriate depth the relevance of the non-patent
+disclosures. It is noted that a small number of candidates believes that a granted patent
+gives a positive right to make use of the claimed subject-matter.
+The first three questions in the paper asked for an analysis of the patent situation and
+asked how the client could improve upon his position; it was therefore necessary to
+analyse the rights and the effect those rights would have on the client's business
+activities. Many candidates focussed on the analysis of the patent situation and
+neglected to clearly advise the client In some cases many pages were filled with
+detailed advice on formalities and fee payments to be taken care of at some time in the
+future and little attention was paid to acts that needed to be carried out urgently. The
+conclusion seems to be that many candidates either do not have experience of giving
+practical advice to clients or simply failed to read the questions to determine what the
+client (examiner) was looking for
+With regard to the first question (foamed core technology and the use of recycled
+material), most candidates realised that the client, MÖWE, cannot use the economically
+important recycled plastic material without a license from the competitor, DQWE Most
+recognised that DQWE needed a license under EPI but not all came to the conclusion
+that their client should be strongly advised to take up the offer of acquiring EPI from Mr
+Vinge_ Those candidates who advised their client to acquire EPI then correctly
+determined that a cross license with DQWE under which DQWE obtained a license
+under EPI in exchange for the client's license under PCTI was the logical conclusion.
+In order to answer the second question (flap technology) it was necessary to realise that,
+because the disclosure of EPI, as originally filed, included the text of the description of
+EP2 albeit without the "supelfluous" drawings, EPI was prior art under Article 54(3)
+against the re-dated and therefore later filed EP2_ Filing a divisional application was not
+necessary to obtain this prior art effect Those that realised that EP2 lacked novelty over
+EPI generally also realised that opposition against the European patent was possible
+but that the opposition period would soon expire. Those candidates that recommended

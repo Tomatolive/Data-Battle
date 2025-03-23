@@ -1,0 +1,36 @@
+Answer to question 6 (5 marks):
+Publication can only be avoided by withdrawing the application. Notice of withdrawal has
+to be received at the International Bureau (1B) before completion of the technical
+preparations for publication; Article 21 (5) PCT or Rule 90bis_ I(c) PCT. Withdraw the
+application by filing a notice of withdrawal with the 1B or the Receiving Office (RO)
+according to Rule 90bis_ I(b) PCT.
+The technical preparations are completed by the 15th day prior to the date of publication,
+which is around md-March 2008 (Nr. 305 PCT Applicant's Guide). Better file the
+withdrawal at the 1B to make sure it is received in time. The notice of withdrawal has to be
+signed by all applicants, Rule 90bis.5(a) PCT, which are companies B and D, and
+inventors X and Y, who are applicants for the US.
+Answer to question 7 (5 marks):
+Rectification in the international phase is possible File a request with the 1B to record a
+change in the person of the inventor by deleting Ms Grey and adding Ms White, Rule
+92bis_ I(a)(ii) PCT. The request must be received by the 1B within 30 months from the
+priority date, Rule 92bis_ I(b) PCT. This time limit expires on 21 March 2008 (possibly
+extended because of Good Friday and Easter Mondayy The request may also be filed with
+the EPO as RO (see Applicants Guide 1 429) (which will then fomard it to the 1B).
+Rectification is also possible in the European phase Obtain the consent of the wrongly
+designated person, and then file a request with the EPO for rectification of the designation
+of inventor by deleting Ms Grey and adding Ms White Rule, 21 (1) EPC Rectification in the
+international phase is preferable because the signature of the erroneously designated
+person for her consent is not required.
+Answer to question 8 (5 marks):
+a) Yes, the priority claim can be withdrawn until the expiration of 30 months from the
+priority date, Rule 90bis_3 (a) PCT, i.e. up to 14 June 2008, extended under Rule 80.5
+PCT to 16 June 2008.
+b) The time limit for filing a demand expires 22 months after the priority date, Rule
+54bis_ I(a)(ii) PCT, or three months after transmittal of the International Search Report,
+Rule 54bis. I(a)(i) PCT. The 22 month time limit, computed from the original priority
+date, has already expired, i.e. on 14 October 2007 (extended under Rule 80.5 PCT to
+15 October 2007). The three months time limit expired on 30 July 2007 (which is a
+Monday). Both time limits already expired Therefore, withdrawal of the priority causes
+no change in the computation of this time limit, Rule 90bis_3 (d) PCT. Hence, it is too
+late to file demand for international preliminary examination.
+-3

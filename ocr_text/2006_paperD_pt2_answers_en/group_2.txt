@@ -1,0 +1,31 @@
+Unless we can provide sound reasons against the printed document being a
+true account of what was said during the conference, it will be assumed that the
+printed document reproduces the oral description (C-lV-5_1, D-V-3.3) and thus
+the disclosure in the 2002 conference will be prior art Since in that article and
+hence presumably in the conference panels having undulating walls and in
+particular a panel 1 m long with walls having 20 undulations per metre (U/m)
+was disclosed, claim 1 would not be novel (A54(1) EPC)_
+Since apart from this single panel, no other disclosure appears to have been
+made, we could try to regain novelty by amending claim 1 to exclude what has
+been disclosed (the panel 1 m x 20 U/m).
+The insertion of such a disclaimer, which is not contained in the application as
+filed, will only be acceptable at the EPO following GI/03, i.e. will not be
+regarded as being against A123(2), if it is used to restore novelty against an
+accidental anticipation under A54(2)_ Moreover, according to this decision it is
+necessary to remove no more than strictly necessary to restore novelty. Though
+the disclosure in the Japanese symposium deals with solar panels, since it
+deals with an uncompletely related problem to the one we attempt to solve
+(mechanically strengthening panels versus improving thermal efficiency), we
+may well be able to argue that the disclosure of a panel having undulating walls
+with 1 m long and 20 IJ/m is an accidental disclosure.
+I would therefore propose to amend claim 1 by inserting a disclaimer to exclude
+this panel disclosed in 2002. Such a claim would then be novel. Since the
+technical effect of these panels, i.e. their improved thermal efficiency, cannot at
+all be derived from the prior art, I believe such a claim will be regarded as
+inventive (A56) and hence as patentable — it is clear it has industrial application
+under A57 too.
+I would also suggest, in view of this prior art we have discussed, to insert a
+claim directed to the use of undulating walls in solar panels to improve their
+thermal efficiency.
+Apart from the disclosure in the Tokyo Symposium, there is no other prior art.
+-2

@@ -1,0 +1,36 @@
+Examiner's report pre-examination 2012
+Question 1
+A European patent application may be filed in any language, such as in Danish, Korean or
+Japanese, Article 14(2) EPC If a European patent application is not filed in one of the
+official languages, a translation must be filed within two months of filing the application,
+Rule 6(1) EPC
+1.1 - True
+1.2 - True
+1.3 - True
+1.4 - False
+Question 2
+Mr X can validly claim priority from the German patent application if he files the European
+patent application on 10 April 2012 [6 April 2011 + 12 months (=6 April 2012), extended
+due to Easter holidays to 10 April 2012], Article 87(1) EPC, Rule 131(4) EPC and
+Rule 134(1) EPC The priority declaration must be made within sixteen months from the
+priority date claimed, i.e. latest on 6 August 2012, Rule 131(4) EPC Also a utility model
+application gives rise to a right of priority, Article 87(1) EPC The outcome of the priority
+application (such as a subsequent withdrawal) is irrelevant, Article 87(3) EPC.
+2.1 - True
+2.2 - False
+2.3 - True
+2.4 - True
+Question 3
+An element that the receiving Office must be provided with for according an international
+filing date to an international application is a description and one or more claims
+(Article 1 1(iii)(d) and (e) PCT)_ The abstract and the title of the invention are not required
+for obtaining an international filing date.
+3.1 - True
+3.2 - False
+3.3 - True
+3.4 - False
+Question 4
+If an additional search fee is paid under protest, the EPO as the International Searching
+Authority examines the protest in accordance with Rule 40_2(c) and (e) PCT provided that
+the prescribed protest fee, Rule 158(3) EPC, is also paid. If the applicant chooses to pay
+an additional fee for the third invention, the applicant can limit in the European phase the

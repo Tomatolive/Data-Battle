@@ -1,0 +1,38 @@
+Examiner's report pre-examination 2014
+Preliminary remark: the references from the Guidelines are from the version of the
+Guidelines which was to be used in the present examination.
+Question 1
+Further processing is excluded in respect of the period under Rule 64 EPC for paying an
+additional search fee, Article 121(4) EPC and Rule 135(2) EPC In order to pursue the
+second invention, the valid options include the following:
+1) since you have not taken any action, the application is pending (and not withdrawn).
+You can file a European divisional application to EP-A (Article 76(1) EPC and
+Rule 36 EPC);
+2) since the priority period has not yet expired (Article 87(1) EPC), you can file a European
+patent application EP-B claiming priority from EP-A;
+3) since the priority period has not yet expired (Article 8(2)(a) PCT and Article 4 C (1) of
+the Stockholm Act of the Paris Convention for the protection of industrial property), you
+can also file an international application PCT-B claiming priority from EP-A.
+1.1 - False
+1.2 - True
+1.3 - True
+1.4 - True
+Question 2
+The European divisional application EP-D can be validly filed as long as the earlier
+application (in this case EP-P) is pending, Rule 36(1 ) EPC. EP-D has to be filed before the
+time limit of twenty-four months for filing a divisional application to EP-P has expired. This
+time limit is triggered by the first communication under Article 94(3) EPC in respect of
+EP-P, Rule 36(1)(a) EPC as entered into force on 26 October 2010. Even if EP-D contains
+subject-matter extending beyond the content of the earlier application as originally filed, it
+cannot be converted into an independent application taking 6 December 2013 as its date
+of filing (Guidelines C-IX, or GI /05, Reasons 11 .1). Consequently, EP-P cannot be
+prior art for EP-D. Although no renewal fee was due in respect of EP-P when EP-D was
+filed, this fee for EP-P became due on 31 December 2013. The renewal fee due in respect
+of EP-P shall be also paid for EP-D, Rule 51 second sentence, EPC This fee can be
+paid within four months from filing without an additional fee, i.e. on 7 April 2014
+[6 December 2013 + 4 months (= 6 April 2014), extended to Monday 7 April 2014],
+Rule 51 (3) EPC, Rule 131(4) EPC and Rule 134(1) EPC)]_
+2.1 - False
+2.2 - False
+2.3 - True
+2.4 - False

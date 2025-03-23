@@ -1,0 +1,29 @@
+Rule 86(4)EPC and G2/93, amended claims may not relate to unsearched
+subject matter not combining with the originally claimed invention to form a
+single general inventive concept
+b) Yes because:
+The patentee may file amended claims in opposition proceedings under
+R57(1) EPC or R57a EPC_ However such amendments must not extend the
+protection conferred (Art 123(3) EPC)_ According to G2/88, a change of claim
+category mav not be a broadening amendment which would contravene Art
+123(3) EPC Amendment of a product claim to a use claim is a limiting
+amendment (because a product/substance claim includes all uses of that
+product). So this amendment would be permitted according to Art123(3) and
+G2/88. As the purpose of this use was originally disclosed, it seems that the
+amendment would also comply with Art 123(2) EPC.
+c) No because:
+Although under R36(5) EPC the President of the EPO may permit documents
+filed subsequent to filing the patent application to be transmitted by other
+means than by post, electronic filing of such documents via EPO-line (which is
+possible from 3/12/03 onwards) is only for use during grant proceedings
+(OJ 2003, 609; Decn Pres OJ 2002, 543) and is not available for opposition and
+appeal proceedings (OJ 2003, 609).
+d) Yes because:
+According to GI/03 and G2/03, an amendment by adding a disclaimer may
+not be refused under Art 123(2) EPC just because there is no basis in the
+application as filed. A disclaimer to give novelty over an Art 54(3) EPC
+document is permitted, provided it doesn't also restore novelty or give
+inventive step over an Art 54(2) EPC document, or remove more subject
+matter than is required to give novelty.
+So will be allowed with this proviso.
+-2

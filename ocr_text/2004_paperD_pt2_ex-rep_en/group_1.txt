@@ -1,0 +1,30 @@
+Examiners' Report on Paper Dll
+In the first pan of this paper, candidates had to deal with different inventions made by
+Electra Optic and its new subsidiary, Oedpus Electric. Not all candidates made the
+differentiation between the "basic software", the "improved software" and the circuit,
+which was rather crucial in view of the priority issues involved with the 'basic software"
+and the circuit In fact, few candidates located this problem and did realise that filing an
+application for the basic software in the name of Electra Optic (as wished by the client)
+had risks with regard to priority. Many candidates proposed to file one single application
+for all inventions and so failed to get the maximum patent term for the client
+Further, not all candidates seemed to know the practice of the EPO regarding protection
+of computer implemented inventions which means that some ignored this aspect of the
+question.
+Lastly, not all candidates realised the special situation of Taiwan (not member of PCT
+and of Paris Convention but WTO member) and some made the mistake of putting
+South Korea in the same basket.
+In the second pan of this paper, candidates were asked to advise as to the status of
+Leda-PCT and as to the situation regarding competitor Zeus. In contrast to the first pan,
+most candidates gave a thorough analysis of the status of Leda-PCT and also made
+recommendations on how to tackle the problems with Zeus. In particular, they mostly got
+the important aspect of freedom in the USA and Japan. But not all candidates realised
+that the Zeus-EP was filed too early to have the possibility of designating CZ, SK, BG
+and EE whereas Leda-PCT could take advantage of this possibility. As a result, the
+candidates who missed the point, did not realise the possibilities offered to Leda as a
+consequence, i.e. free manufacturing in Slovakia and perhaps the possibility to stop
+Zeus in the Czech Republic.
+Another point which was missed by certain candidates, was the fact that Zeus-EP had to
+be validated in the designated states in the near future in order to stop manufacture or
+sale of chips in EP countries.
+Simply mentioning cross licensing without indicating what was being licensed in
+exchange did not gain marks.

@@ -1,0 +1,37 @@
+Answer to question 5
+a) The intemational publication comprises a description, claims and drawings, if any (Rule
+48 2(a) ii-iv) PCT), a standardized front page (Rule 48.2 (a) i PCT) including the abstract
+(Rule 48.2(b) iii) PCT) and title, and the search report
+Since the amendments and statement under Article 19 PCT were filed with the 1B within
+the time limit of Rule 46.1 PCT, these will also be published, Rule 48.20, Rule 482(a)(vi)
+PCT.
+The description and claims (Rule 48_3(a) PCT), the amendments under Article 19 PCT
+(Rule 46.3 PCT) and the statement under Article 19 PCT (Rule 464 PCT) will be
+published in Chinese. The abstract, title and search report will be published in English and
+Chinese (Rule 48.3(c) PCT)_
+b) According to Rule 86.1 (i) and 86.2(a) PCT a French translation of the abstract is
+published in the Gazette. This translation is available on the WIPO web site.
+Answer to question 6
+For Invl, EPI validly claims priority from ITI , because EPI was filed within the priority
+period and in respect of the same invention, Article 87(1) EPC Therefore, document D is
+not part of the state of the art and protection can be obtained for Invl
+EPI does not claim the priority of IT 2 for Inv2 Thus, the effective date for Inv2 in EPI is
+28 October 2011 _ This is after D was published Therefore, at present D is comprised in
+the state of the art in accordance with Article 54(2) EPC, and destroys the novelty of Inv2
+in EPI _ Hence, only with a valid claim to priority of IT 2 protection for Inv2 in EPI can be
+obtained.
+The insertion of a priority declaration under Rule 52(2) EPC is no longer possible because
+the 16-month time limit expired on 28 February 2012. Further processing is ruled out, Rule
+135(2) EPC
+Filing a request for correction of the priority declaration under Rule 139 EPC, first sentence,
+is possible Since EPI has not been published yet and the preparations for publication
+have not been terminated yet, such a request has the potential to be granted (J3/91, J6/91
+or J9/91)_
+Answer to question 7
+According to GI/07 a method including a surgical step is excluded from patentability under
+Article 53(c) EPC. Thus, any method comprising (a) is excluded from patentability.
+Diagnostic methods carried out outside the human body, such as (b), are not excluded
+under Article 53(c) EPC, GI /04. Since the known method of biopsy (a) is not an essential
+feature of the method of diagnosing the illness, it can be omitted from a possible claim
+(Article 84 EPC). Thus (b) taken alone is patentable
+-6

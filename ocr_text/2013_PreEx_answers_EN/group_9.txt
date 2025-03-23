@@ -1,0 +1,49 @@
+Question 18
+The wording of A_V4 extends beyond the content of the application as filed, since
+only synthetic rubber is disclosed in the application for all the embodiments.
+The wording of B_V4 extends beyond the content of the application as filed, since
+none of the embodiments comprises more than one filter plate.
+The wording of C_V4 does not extend beyond the content of the application as
+filed, since this wording is explicitly disclosed for liquids (paragraph [0008]) and the
+stopper is for wine bottles (see paragraph [0001]) and wine as a specific liquid.
+The wording of D.V4 extends beyond the content of the application as filed, since
+the body itself of the second embodiment shown in Fig. 2 has no micro
+perforations. The filter plate with the micro perforations is glued onto the body.
+18.1 -True
+18.2 - True
+18.4 - True
+19.2 - True
+19.3 - True
+20.4 - True
+18.3
+- False
+Question 19
+The subject matter of claim VL is limited to the third embodiment of the application
+shown in Fig. 3.
+The argument given in statement 19.1 is irrelevant for the stated problem. However,
+the statement 19.2 is valid as it demonstrates that D4 teaches a different solution
+and that D2 does not suggest any alternative to gluing as taught in D4. Statement
+19.3 is a valid argument, since the air channel of D3 is closed when the stopper is
+inserted in the bottle, so that a filter plate is of no use. Statement 194 is incorrect,
+since D4 already teaches the use of a plurality of air channels in the foam.
+19.1
+19.4
+- False
+- False
+Question 20
+The application does not explicitly disclose sparkling wine, which may have
+different constraints on the stopper and the bottle
+The application only discloses the specific synthetic rubber; "rubber includes also
+the undisclosed natural rubber. In the wording "such as rubber" a preferable
+undisclosed embodiment is unallowably introduced.
+The term "element" generalizes the form of the filter plate, which has no basis in
+the application.
+The deletion of the wording is allowable, since it is redundant with the direction of
+the flow of air already defined in the last three lines of claim VII.
+20.1
+20.2
+20.3
+- False
+- False
+- False
+-8

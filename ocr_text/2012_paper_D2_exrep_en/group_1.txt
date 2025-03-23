@@ -1,0 +1,34 @@
+Examiners' Report Paper D 2012 - Part II
+The Dll paper requires candidates to analyse a situation conceming various
+existing patent rights and suggest specific actions that are usually to be
+camed out within a time limit Care should be taken to correctly calculate the
+time limits.
+This year the main aspects of the paper were.
+the priority claim for claim 1 of EP-2 was invalid since it was directed to a
+generalisation not directly and unambiguously derivable from EP-I ;
+claim 2 of EP-2, claiming validly the priority from EP-I , was novelty
+destroying for claim 1 of EP-WG;
+the interview with the examiner set for the following day indicated that the
+international preliminary examination report (IPER) of PCT-I had not been
+issued yet despite the expiration of the 31 month time limit; consequently
+the submissions of Membrain were not yet publicly available so that a new
+application based on them could still be filed;
+the time limit for PCT-I to enter the European regional phase had been
+missed but it was still possible to enter through the fufther processing
+procedure;
+it was possible to attack EP-CART for lack of inventive step by having
+Dialab appeal the decision of the opposition division and by Membrain
+intervening in the pending opposition-appeal proceedings;
+the encyclopaedia could be used as proof of common general knowledge
+despite the fact that it was published on the filing date of EP-CART and
+was not itself part of the state of the art
+Regarding the specific questions:
+Question 1
+Most candidates realised that PCT-I and EP-2 fulfilled the formal
+requirements for claiming priority from EP-I : identity of applicant and filing
+wthin the priority period. They also realised that claim 1 of EP-2 could not
+benefit from the priority of EP-I since it was not directed to the same invention
+as EP-I _ The consequence that this claim was lacking novelty over the
+website posting by Watergate was also recognised by many candidates.
+A lot of candidates correctly stated that claim 2 of EPO enjoyed the priority of
+EP-I and was novelty destroying for claim 1 of EP-WG_

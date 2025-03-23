@@ -1,0 +1,17 @@
+-5
+QUESTION 9
+(4 Points)
+A European patent application EPI was filed with the European Patent Office on
+21 March 2005 No priority was claimed DE, GB and NL were designated.
+The search report showed a European patent application Dl, which has a priority date
+earlier than the filing date of EPI and which has been published after the filing date of
+EPI. Dl validly designates FR, AT and TR and anticipates the subject-matter of all claims
+of EPI
+The search report also cites a document D2, which was published before the filing date of
+EPI and which anticipates only the subject-matter of claim 1
+After a first communication, the applicant amends the claims to render their subject-matter
+new and inventive over D2. In April 2008, one day after having received a communication
+under Rule 71 (3) EPC, the applicant files a divisional application comprising the same
+application documents as in originally filed parent application EPI.
+What is the relevance of Dl and D2 for the divisional application?
+2009/Dl/e/5

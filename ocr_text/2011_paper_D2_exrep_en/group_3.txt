@@ -1,0 +1,48 @@
+Possible solution - Paper D 2011
+Answer to question 1:
+- Part II
+For which aspects of our development can we obtain patent protection in Europe,
+and how?
+PCT-Ax is Axbruch's only pending patent application that could conceivably lead to
+protection in Europe, as DE-Ax is no longer pending.
+The priority period commencing with the filing of USP-Ax expired on 1 February 2011
+Although the time window for filing a new European or international patent application in
+combination with a request for re-establishment of rights into the priority period or
+restoration of the priority right respectively is still open, there are no grounds on which
+such a request could be based.
+PCT-Ax clams priority of DE-Ak DE-Ax has a filing date of 30 October 2009. PCT-Ax was
+filed in time to claim priority of DE-Ax, because 30 October 2010 is a Saturday and 1
+November 2010 is All Saints ' Day, which is a day on which the EPO (Munich) as the
+Receiving Office was closed. Axbruch GmbH was applicant for DE-Ax, and is applicant for
+PCT-Ax for all states except for the IJ_S_ From a formal point of view, the requirements for
+a valid priority claim are met
+DE-Ax discloses an axle unit with the special seal S and the nvo axle variants. It also
+discloses that the axle unit contains a lubricating composition of which the oil can be
+chosen from one long list of suitable oils and an additive from another list of suitable
+additives. However, all claims of PCT-Ax include the feature "silicon oil and a viscosity
+improver". This is a selection from the two lists, namely the list of Oils and the list of
+additives, given in DE-Ak Therefore, DE-Ax does not disclose the invention claimed in
+PCT-Ax, and the claims of PCT-Ax are not entitled to the priority date of DE-Ak As things
+stand, the effective date of all claims is the filing date of PCT-Ax (2 November 2010).
+The submission of the complete description of the two axle unit variants to the
+standardisation committee amounts to a public disclosure. Because the disclosure to the
+standardisation committee discloses all the subject-matter of PCT-Ax, it is essential that
+the claims of PCT-Ax have an effective date prior to 2 February 2010
+A claim to priority of USP-Ax in PCT-Ax should be added. At the filing date of PCT-Ax,
+IJSP-Ax stood in the name of Axbruch GmbH, following an assignment from the inventors.
+Therefore, the applicants for USP-Ax and PCT-Ax were the same at the filing date of
+PCT-Ax. A clam to priority may be added until 16 months from the earliest priority date,
+but in any case within 4 months from the filing date of PCT-Ak The 16-months period
+expired on 28 February 2011. However, the 4-months period expires on 2 March 2011
+Therefore, a request to add a claim to priority of USP-Ax should be filed tomorrow at the
+latest. This request can be filed with the 1B or with the EPO as Receiving Office. USP-Ax
+is Axbruch's first application to disclose in detail the two axle units that Axbruch has
+developed in combination with the lubricant compositiom The subject-matter of all clams
+of PCT-Ax is therefore disclosed in IJSP-Ax, so that all claims of PCT-Ax would be entitled
+to the date of filing of USP-Ax and would have 1 February 2010 as their effective date.
+JPU-PANI and JPU-PAN2 were published before the effective date of all the claims of
+PCT-Ax. EP-PANI is prior aft under Art. 54(3) EPC Each of JPIJ-PANI, JPIJ-PAN2 and
+EP-PANI discloses an axle unit with a seal corresponding to the seal S developed by
+Axbruch and with an axle decreasing in diameter towards each end. JPU-PANI
+JPU-PAN2 and EP-PANI additionally describe that the lubricant composition is a silicon oil
+in combination with an additive that may be a viscosity index improver, an emulsifier or an

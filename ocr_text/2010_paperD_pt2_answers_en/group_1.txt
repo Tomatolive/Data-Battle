@@ -1,0 +1,44 @@
+Candidate's answer
+You can achieve this objective as follows.
+The fishing method disclosed in EPKM refers to EPI as part of the direct
+disclosure of the invention.
+The fishing method appears to be novel and inventive based on the Search
+Opinion issued in September 2009.
+However, there is a problem with sufficiency of disclosure under A83 EPC
+because the structure of the electromagnetic signal is essential for carrying
+out the invention.
+EPKM discloses the signal structure only by reference to EPI
+This reference would need to be replaced by expressly incorporating the
+essential details of the signal structure into the description (Guidelines A-II
+4.19,
+However, the necessary reference can only be included if the reference
+document, i.e. EPI, is either publicly available on the filing date of EPKM
+(clearly here it was not) or it is both (a) available to the EPO on or before the
+filing date of EPKM and (b) published on or before the date of publication of
+EPKM (T737/go, Guidelines C-ll 419).
+Presently, EPI has not been published as publication occurs approximately
+18 months from the date of filing (A93(1) EPC), i.e. around 12/1/09 + 18m
+12/7/10.
+The sufficiency of EPKM will therefore depend on whether EPI publishes
+before EPKM itself publishes (EPI already bang available to the EPO and
+thus criterion (a) above being satisfied).
+If no action is taken to prevent EPI publishing, it will do so before EPKM
+because EPI was filed a month earlier than EPKM_ In that case, EPKM would
+be sufficiently disclosed and, probably, allowable.
+KA should therefore withdraw EPI as soon as possible to avoid it being
+published. The withdrawal should be effected well in advance of the
+completion of technical preparations for publication (5 weeks before
+publication so early June 2010).
+Once EPI is withdrawn, KA should monitor for publication of EPKM and then
+consider (a) filing 3rd party observations to draw attention to the insufficiency
+disclosure during pendency of the EPKM application and/or (b) filing an
+opposition to EPKM when it grants based on lack of sufficiency, within the 9
+month post-grant opposition period.
+In this case, 3rd party submissions may initially seem to be the better option as
+they are cheap, can be made anonymously and seem to have a high chance
+of success. However, it is recommended instead to wait until EPKM grants
+and then to file an opposition. The opposition should successfully prevent the
+claim to the fishing method; moreover, EPKM would likely not be able to
+amend the clams to instead cover the (apparently novel and inventive)
+combination of net and transmitter, because this would extend the scope of
+protection of the granted patent (A123(3) EPC)_

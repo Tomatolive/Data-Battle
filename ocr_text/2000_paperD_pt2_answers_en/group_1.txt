@@ -1,0 +1,38 @@
+Candidate's Answer on Paper D, Part II
+2.
+FORM-EU2 contains a description of both SAD FORM and SAD FORM 2.
+SAD FORM is also disclosed in FORM I-JK-I from which priority is claimed. On
+the assumption that FORM-EIJ2 validly claims priority from FORM I-JK-I the subject
+matter common to both applications will be entitled to the benefit Of the priority date
+of FORM UK-I, ie 24 July 1998 (A. 87/88 EPC).
+It appears that priority has validly been claimed under A. 87 EPC because the twelve
+month period for doing so, running from the filing date Of FORM I-JK-I , would be
+extended until 26 July 1999 under R. 85(i) EPC because 24 & 25 July 1999 were
+days on which at least one of the filing offices of the EPO was closed.
+Therefore, it appears that a valid patent can be obtained for the subject matter
+common to both FORM-UKI and FORM-EU2, ie SAD-FORM, because the article in
+the Journal Of Soap Chemistry was not published until 1 April 1999, after the filing Of
+FORM UK-I.
+Whether valid protection can be obtained for SAD FORM 2 is uncertain.
+The Soap Chemistry journal will be prior art under A. 54(2) EPC in relation to any
+claims Of FORM EU-2 directed to SAD FORM 2, because these claims will not be
+entitled to the benefit of the priority date of FORM-UKI , even though they may
+contain matter from FORM-UKI. This follows from 63/93.
+Whether valid protection for SAD FORM 2 per se can be obtained will depend upon
+whether claims to SAD FORM 2 distinguish inventively over the disclosure the
+Soap Journal article. (A. 56 EPC).
+We are told SAD FORM 2 is commercially very important, this could be an indication
+that it improves over SAD FORM and is therefore arguably not obvious over
+SAD-FORM.
+Whether or not protection can be obtained for SAD FORM 2 per se, claims to
+SAD-FORM may well (and probably do) cover SAD FORM 2 as SAD FORM 2 iS
+described as an •embodiment of SAD FORM". Would need to check this.
+so far as SAD-FORM is concerned it is no longer possible to file priority claiming
+applications directed to this invention, because more than 12 months has elapsed
+from the filing Of FORM UK-I , the first application for that subject matter.
+A. EPC, A. 4 C(2) Paris Convention.
+It is also too late to file a non priority application in the US as over a year has elapsed
+from publication of the Soap Joumal article on 1 April 1999. Cannot therefore take
+advantage of the 1 year grace period.
+Protection for SAD-FORM cannot be obtained Via non-priority applications elsewhere
+because of disclosure of SAD-FORM in Soap Journal article.

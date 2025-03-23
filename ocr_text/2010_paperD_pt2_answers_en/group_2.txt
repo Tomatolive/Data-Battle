@@ -1,0 +1,50 @@
+The lack of sufficiency attack outlined above will be preferable to any attack of
+lack of novelty and/or inventive step, e.g. made without withdrawing EPI
+because:
+(a) the public disclosure by KA at the 20/1/09 conference is not significant
+because it did not contain enablinq disclosure of the signal;
+(b) in any case, EPKM's disclosure of a combination of a fishing net and
+transmitters is apparently novel and inventive itself.
+It is noted that it will most likely not be possible to file new applications
+(either KM or another party) to the fishing method or net/transmitter combination,
+because KM have already publicly disclosed this subject-matter on their website
+on 11/2/09.
+For the avoidance of doubt that a combination of the general method of EP-KM
+and KA's specific signal might still be found inventive if combined in a later
+application, KA could themselves now simply publicly disclose their combination
+(eg_ on their website, in their public libraiY, etc.) (It is noted that KA are not
+interested in protection for the fishing method).
+Finally it should be noted that it would not be advisable to withdraw EPI, but then
+to add a priority claim to EPI in one of KA's later filings (e.g. in EP3)_ This is
+because the publication of the later application would then still occur before
+publication of EPKM (it being determined by the earliest priority date). Upon
+publication of the later application, e.g. EP3, the text of EPI would immediately
+become publicly available via the online file for the later application - hence
+EPKM would be sufficiently disclosed.
+2
+As indicated above, EPI should be withdrawn as soon as possible.
+EP2 contains apparently allowable claims to (1) the signal and (2) the filter, Fl
+(In fact, if EPI was QQ! withdrawn, it would on publication become a European
+prior right against EPI and so take away the novelty of claim (1) of EP2 — this will
+not be a problem given that EPI is being wthdrawn).
+Claim 3 of EP2, to the circuit Cl, is apparently insufficiently disclosed.
+EP3i as corrected by filing the missing description pages, has a filing date of
+2/2/10 and contains a sufficiently disclosed claim to Cl
+However, this filing date is after the public disclosure of EP3 at the end of January
+2010 in KA's public library. It is not relevant that "no one has consulted" EP3 so
+far: this is still a disclosure under 54(2) because it has nonetheless been made
+available to the public (see, e.g. Guidelines C-IV &1)_
+All of the claims of EP3 would therefore lack novelty over the library disclosure (in
+addition, EP2 will on publication become a European prior right against EP3,
+destroying the novelty of clams to the signal and Fl).
+KA should therefore reply to the EPO notification to withdraw the missing parts of
+the description, i.e. pages 6 to g.
+The deadline for doing this is:
+Notification of 17/2/10 is deemed to be 27/2/10 (R126(2) EPC);
+Time limit is therefore 27/2/10 + 1 month = 27/3/10 (R56(6) EPC).
+It will still be necessary to include pages 6 to g as these seem to be essential for
+disclosing Fl and thus the claimed combination FI+C containing the required
+electrical connection.
+Therefore, at the same time or later than withdrawing the pages 6 to 9 under
+R56(6), the following action should be taken:
+-2

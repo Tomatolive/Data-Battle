@@ -1,0 +1,28 @@
+According to Applicant's Guide, vol l, Annex C:
+- the CH patent office accepts English, French or German *so IA can be filed
+here in English
+- USPTO accepts English only *so IA can be filed here in English
+- EPO accepts English, French or German (see also here in
+English
+- the 1B accepts any language*so here you can file in English or Russian
+The competent ISA for each RO under A16, R35 PCT are as follows:
+- RO=CH -Y ISA is EPO (Applic. Guide vol l, Annex C)
+- RO=USA-» ISA is USPTO, EPO or Korean Patent Office
+- RO=EPO-» ISA is EPO (A154(1) EPC)
+- 1B is RO -5 then under R35_3a PCT, the competent ISA is the one that would
+have been competent if the IA would have been filed with a RO competent
+under R 19.1. So here, all the ones mentioned above (EPO, USPTO, KR patent
+office could be ISA). If more than one, the choice is to the applicant (R35.3b)_
+Question 4
+1) Yes, it is possible to record changes in relation to the applicant during the
+international phase under R92bis PCT (R92bis_ I(a)(i)).
+Request must be filed with the 1B or the receiving office (R92bis.1 (a)) and
+shall be requested before expiration of 30 months from priority.
+Recommended therefore to file it directly with the 1B. If submitted before
+technical preparations for publication are completed, this will be already
+reflected in the international publication under R48 PCT
+2) Company B is a US company.
+They are entitled to file a demand for IPE under A31.2a and R54.2 PCT.
+The IA has been filed at the EPO So the EPO is the competent IPEA
+under R5g. I(a). Under A155(2) EPC the EPO may act as PEA for a US
+-3

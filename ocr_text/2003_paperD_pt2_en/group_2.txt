@@ -1,0 +1,21 @@
+You are a European patent attorney and today you receive the following letter from a
+new client, the Dutch company "PP (for Plug & Pray), which you will represent in
+proceedings before the EPO
+"We are a manufacturer of high voltage, high frequency (HVHF) plugs. Our only markets
+are Europe and the USA.
+Over the last three years our R&D department has been developing a new generation of
+HVHF plugs. Usually the contacts of these plugs have a circular cross-section. However
+our developers found out that the product life can be extended significantly by using
+contacts of triangular cross-section.
+On 01.03_2001 , we filed a first patent application USI with the USPTO, because the
+USA is the most important market for us and we are very sensitive with regard to patent
+infringement lawsuits. USI describes and claims an HVHF plug with contacts of
+triangular cross-section.
+A few months later our developers discovered that contacts of square cross section also
+extend product life in comparison to traditional plugs. Accordingly, on 01.112001 , we
+filed a fufther US patent application IJS2 as a continuation-in-part (CIP) of USI. USI
+was withdrawn shortly after the filing of US2 US2 describes and claims the same
+subject-matter as USI. In addition IJS2 describes and claims a plug with contacts of
+square cross-section. A US patent was granted in February 2003 for our US2 application
+as filed.
+2003,'DlI/e/1

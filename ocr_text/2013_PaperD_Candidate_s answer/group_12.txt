@@ -1,0 +1,36 @@
+As discussed above, claim 1 is not entitled to the claimed priority date of DE-Hemi as
+DE-Hemi is not the first application by SK to a frying pan with 3D protrusions (EP-3D
+is). Therefore the effective date of claim 1 is 5.4.10.
+EP-3D was published before the effective date of claim 1 and therefore is relevant to
+the assessment of novelty and inventive step. Claim 1 lacks novelty over EP-3D as
+it discloses a frying pan with 3-D protrusions. Therefore your attack against claim 1
+should be successful.
+As discussed above the effective date of clam 2 is 106.09 (the filing date of DE-
+Hemi) as the priority claim for claim 2 valid (as explained above under 1) c)).
+EP-3D was filed before but published after the effective date of claim 2 and therefore
+it is prior art under A54(3) EPC - i.e. relevant to novelty only.
+EP-3D does not disclose hemispherical protrusions and so claim 2 is novel over EP-
+3D Inventive step over EP-3D is not assessed.
+There is no other relevant prior art and so if the patent is amended to delete claim 1
+and make claim 2 an independent claim. The EP-Hemi should be able to be
+maintained in amended forrn
+a) Currently SK may be able to obtain protection for a frying pan with 3D
+protrusions in Germany and Italy via DIV-3D
+If this application is granted with a claim to a frying pan with 3D protrusions you will
+not be able to act in Italy and Germany in respect of frying pans with any shaped 3-D
+protrusion.
+This is dependent on DIV-3D being granted.
+If SK remove the reference to cubic protrusions they should be able to obtain
+protection to a frying pan with 3D protrusions in Italy and Germany.
+DIF-3D has published with a claim to a frying pan characterised in that its inner
+surface will heat up the food much faster than a flat surface.
+Therefore frying pans sold with 3D protrusions will infringe the provisional protection
+conferred by DIV-3D_ However this is subject to translations into German and Italian
+having been filed (which does not appear to have been done).
+Therefore you a free to act in Italy and Germany until DIV-3D grants unless
+translations are filed to confer provisional protection which could make you liable for
+damages.
+EP-Hemi has been granted with a claim to 3D protrusions which you will infringe if
+you sell any frying pans with 3D protrusions. However we should get this claim
+revoked in opposition.
+-12

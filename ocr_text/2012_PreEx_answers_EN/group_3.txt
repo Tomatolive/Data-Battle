@@ -1,0 +1,43 @@
+application to an invention that was covered by the international search report, i.e. the third
+invention, Rule 164(2) EPC After entry into the European phase the applicant can file a
+divisional application directed to the third invention, G 2/92 and Article 76(1) EPC A
+supplementary European search report is not drawn up where the international search
+report was drawn up by the EPOI Article 153(7) EPC and Decision of the Administrative
+Council of 2810.2009 (OJ EPO 2004 594Y The applicant will have no opportunity to pay
+additional search fees in the European phase.
+4.1 - False
+4.2 - True
+4.3 - True
+4.4 - False
+Question 5
+Feature A is part of the state of the art under Article 54(2) EPC by publication of USI on 1
+February 2010 Feature B is part of the state of the art under Article 54(2) EPC by
+publication of EPI in December 201 The subject-matter of claim 2 of EP2 is inventive as
+it was not obvious to the skilled person until feature B became part of the prior art in
+December 2011 , Alticle 56 EPC, second sentence. If EP2 had not claimed priority from
+EPI the situation would have been as follows: the fiction under Article 89 EPC that 1 June
+2010 counts as date of filing of EP2 for the purpose of Article 54, paragraphs 2 and 3, EPC
+would not apply; EPI would have been prior art under Article 54(3) EPC against EP2; and
+the content of EPI would have rendered claim 1 of EP2 not novel. However, as EP2
+claims priority from EPI , the effective date for feature B is 1 June 2010, Alticle 89 EPC
+Thus no valid novelty objection against claim 1 of EP2 can be made using EPI _ The
+subject-matter of claim 2 is novel as it is not disclosed in the prior art neither USI nor EPI
+disclose the combination of features B and A.
+5.1 - False
+5.2 - False
+5.3 - False
+5.4 - True
+Question 6
+If EP-D contains subject-matter extending over the earlier application it cannot be
+converted into an independent application taking 10 February 2012 as its date of filing for
+all or part of its subject-matter. In such a case, EP-D can be amended to remove all
+additional matter to comply with the requirements of Article 76(1) EPC_ If the applicant is
+unwilling to remedy the defect by removal of the additional subject-matter, the divisional
+application is refused under Article 97(2) EPC due to non-compliance with Article 76(1)
+EPC. The claims of a divisional application need not be limited to subject-matter already
+claimed in the earlier application. (Guidelines, C-VI, 9.1_4, G 1/05).
+6.1 - False
+6.2 - False
+6.3 - False
+6.4 - True
+-2

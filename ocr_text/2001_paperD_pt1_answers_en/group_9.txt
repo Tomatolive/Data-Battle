@@ -1,0 +1,45 @@
+6.
+claims to disposable nappies containing product X. This is based on the fact that B-EU2
+cannot have matter added to it extending beyond the content of B-EU2 as filed
+(Art. 123(2)). So claims to product X can also not be introduced into B-EU2. Art. 123(2)
+(matter compared to application as filed) and Alt. I ) (matter compared to patent) are
+quite separate restrictions (T 441/92).
+A divisional can also theoretically not be filed based on B-EUI as approval Ofthe text
+under R. 5 1 (4) has already been given (R. 25(1 j). The only chance of filing a divisional
+based on B-EUI is if examination proceeding are re-opened before the decision to grant
+is issued, as discussed under Point 2, p. 8 • above. Following G 7/93 approval of the text
+becomes binding only on the issue of the decision to grant.
+However, it is not possible to withdraw approval of the text simply to file a divisional
+(J 29/96). If you file an amendment and the EPO simply accepts it and issues the decision
+to grant, then it will still not be possible to file a divisional, as this is still deemed approval
+Of the text (J 29/95). Only hope is for FPO to re-open examination proceedings, in which
+case R. 51(4) will require a new approval of the text, in which case a divisional can be
+filed up until the new approval ofthe text (G 10/92).
+The best bet would seem to be to attempt to file amended claims on B-EUI including
+a claim to a disposable nappy containing X and a claim to the use of blottanes as a
+moisture absorbent, drawing the examiner's attention to NF-EU2 and arguing that
+exceptional circumstances apply (T 92/85) so examination should be re-opened. Then
+he might re-open examination, in which case divisional can be validly filed. Or he might
+(R. 86(3)) simply accept the amendment, in which case no divisional can be filed but at
+least B•EUI would contain a claim to a disposable nappy containing X. Or he might just
+refuse the amendment and issue the decision to grant, in which case we have not lost
+anything by tDing! It is important only to amendment, not withdraw approval
+of text under R. 5 1 (4), as Otherwise you lun the risk of the application being refused for
+lack of an agreed text (R. 51(5)).
+As ever. this depends on whether the designation fees for NF-EU2 are paid.
+Ifthe designation fees for NF-EU2 paid with surcharge in the period of grace under
+R. 85a(l) or R. 85a(2), then claims in NF-EUI to the process of producing continuous
+fibres, and to blottanes in the form Of a woven textile, would not be valid as they would
+be anticipated under Art. 54(3) by NF-EU2. So they could not use NE-EUI to stop you.
+HQY.gygr, if they also paid the examination fees on NF-EU2 with surcharge within the
+R. 85b grace period, then NF-EU2 would remain alive and might proceed to grant. It
+contains a claim to a process for making continuous fibres of blottanes, and such a claim
+would prevent you from making continuous fibres of X (which is a blottane). It would
+also (Art. 64(2)) protect the continuous fibres of X per se. as the direct product of the
+claimed process. They could thus stop you from producing X as a woven textile to supply
+F (depending, Obviously, in which states they validate the patent).
+Ifthe designation fees are not paid for NF-EU2 then it will not act as Art. 54(3) prior
+art against NF-EUI. Claims in NF-EUI to the process for producing continuous fibres,
+although they cannot claim priority, were still novel and inventive at the date of
+• Ed. Note: page 8 in the original, ie puge 2 paragraph Of NO 2) in this printed copy
+-4-

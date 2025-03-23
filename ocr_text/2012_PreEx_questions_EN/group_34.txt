@@ -1,0 +1,26 @@
+Claim analysis
+For the purposes of question 20, assume that:
+- D2 is the closest prior art, it being acknowledged that D2 discloses a closure
+comprising features corresponding to those of the precharacterising portion of claim X;
+- the objective technical problem is defined as being to improve the resistance to
+separation of the pull tab from the sealing part during application of a screw cap.
+For each of the statements 20.1 — 204, indicate by marking true or false on the answer
+sheet whether the statement is a valid argument why it is not obvious to solve the stated
+objective technical problem by the features of claim X.
+The subject matter of claim X involves an inventive step because
+20.1
+D2 discloses a closure with a joined portion where a polyester film is attached
+to an aluminium foil, and a separated portion, forming a pull-tab, where the
+polyester film is separate and free from the aluminium foil.
+20.2
+D2 discloses that where a pull-tab is to be lightly attached to the sealing part,
+this should be achieved by a strip of adhesive.
+20.3
+the cited an does not disclose or suggest using a discontinuous adhesive
+portion distributed over the portion of the sealing part to which a pull-tab is
+attached, for lightly attaching the pull-tab to the sealing part.
+20.4
+the cited an does not disclose or suggest using dots of adhesive to lightly
+attach a pull-tab to a sealing pan.
+2012,'PE/EN
+Page 33 of 36

@@ -1,0 +1,15 @@
+Claim analysis
+Document D2
+[001] A problem with known liquid soap dispensers is that some of the product cannot be
+removed from the base of the bottle. We have developed a liquid soap dispenser 200 as
+shown in FIG. 1. The liquid soap dispenser 200 containing liquid soap comprises a
+bottle 210, a hand pump 220, a dispensing nozzle 230 and a tube 240. The tube 240
+extends down to the base of the bottle 210 such that the tube 240 is bent and the end of
+the tube 240 extends along the base of the bottle 210.
+230
+FIG. I
+2014,'PE/EN
+220
+240
+210
+Page 17 of29

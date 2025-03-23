@@ -1,0 +1,38 @@
+Examiners' Report Paper D 2011 - Part II
+It is well-established that Part II of Paper D requires the candidates to first analyze a
+situation involving various inventions, applications and patents and based on this analysis
+to provide advice to a client on actions to take in the form of answers to specific questions.
+The main issues the candidates were expected to recognise in this year's paper were:
+- The claims of PCT-Ax were not entitled to the priority of DE-Ax_ DE-Ax did not disclose
+the specific lubricating composition comprising a combination of a silicon oil and a
+viscosity improver, present in all claims of PCT-Ax. Instead, it disclosed that the
+lubricating composition comprised an oil to be selected from a long list of oils and at
+least one additive to be also chosen from a list of additives The lubricant composition in
+PCT-Ax was, thus, a selection from two lists of a certain length and could not be
+considered to have been disclosed in DE-Ax_
+- The priority claim from JP-PANI in EP-PANI was valid because JP-PANI and JP-PAN2
+were filed by different applicants (Pankutaya Nederland BV and Pankutaya Japan KK
+respectively). Hence, despite the fact that JP-PAN2 related to the same invention and
+was filed before JP- PAN 1 i the latter was still the first application for Pankutaya
+Nederland BV which was the applicant of EP-PANI
+- The disclaimer in EP-Ax was invalid. The disclaimer was an undisclosed disclaimer
+because there was no distinction in EP-Ax between mechanical and hydraulic brakes. It
+did not fulfil the requirements set in GOI /03 for several reasons: it disclaimed more than
+necessary to restore novelty (as brake systems with hydraulic disc brakes were not
+disclosed in EP-PAN2); it was not necessary to restore novelty because the
+embodiment in EP-PAN2 was not an enabling disclosure and could not be part of the
+state of the art; it disclaimed a non-working embodiment, so it was also relevant for
+sufficiency of disclosure.
+Candidates are encouraged to verify their calculations of time limits in order to avoid
+arriving at wrong dates and at a distorted view of the current situation.
+Regarding the specific questions:
+Question 1
+Most of the candidates realised that PCT-Ax was filed within the priority year of DE-Ax
+since the time limit was extended due to an official holiday of the EPO Some candidates
+recognised that the claims of PCT-Ax were not entitled to the priority of DE-Ax and saw the
+need to add a priority claim of USP-Ax in view of the disclosure to the standardisation
+committee.
+It was generally well-recognised that it was still possible to add a priority claim from
+IJSP-Ax since the four months from the filing date of PCT-Ax had not yet expired, although
+some candidates referred to the 16 months from priority date starting - wrongly - from the
+priority to be added (USP-Ax) and not from the earlier priority date (DE-Ax)_

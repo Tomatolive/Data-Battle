@@ -1,0 +1,34 @@
+Answer to question 3:
+On the PCT request form PCT/RO/IOI , all states and regions are automatically
+designated in the sense of Rule PCT. Hence, according to Rule 4.9 (a)(iii) PCT
+EP is also designated.
+Patent protection in Germany can therefore still be obtained through the existing
+designation of a European patent, in which the contracting state DE will have to be
+designated.
+The European phase for PCT-X has to be entered on or before 09 March 2007 (Rule
+107(1) EPC).
+Answer to question 4:
+DE-I is not a first application in the sense of Art. 87(1) EPC. Art 87(4) EPC does not apply
+here because DE-0 was withdrawn only after DE-I was filed, see also Guidelines, part C-
+v, 1.4.
+Since the priority of EP-I is invalid, the effective date of EP-I is its European filing date (01
+Feb 2005). Thus, DE-0 was published before the effective date and is prior aft against EP-
+1 according to Art 54(2) EPC_
+It is wontl considering if the publication of DE-0 could be a non-prejudicial disclosure under
+Art 55 EPC However, the publication of an application by a national office as a result of
+an error is, according to T585/92 or Guidelines part C-IV 8.3 not an abuse in relation to the
+applicant within the meaning of Art 55(1)(a) EPC.
+Answer to question 5:
+a) Concerning the automated mailbox of the EPO, the provisions are laid down in OJ
+2005, 44 or notice of the EPO dated 06 Dec 2004 or Guidelines, part A-IL According
+to these provisions the automated mailbox of the EPO in Munich can be used at any
+time, even on days when the EPO is not open. The date of posting the application in
+the automated mailbox (Sunday) 05 March 2006 is the date of filing.
+Hence, the time limit of Art. 87(1) EPC expired on 05 March 2007, so filing on
+06 March 2007 is too late to validly claim priority.
+b) The date of filing of the first application was 03 March 2006. The priority period
+according to Art. 87(1) EPC ends on 03 March 2007. As 03 March 2007 was a
+Saturday, the period is extended until 05 March 2007 according to R. 85(1) EPC.
+Therefore the period expired on 05 March 2007 and the priority has been validly
+claimed.
+-2

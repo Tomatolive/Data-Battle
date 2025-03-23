@@ -1,0 +1,25 @@
+Where Swiss Patent Office is the receiving Office: ISA may be EPO (All ros of
+EPC contracting states have specified the EPO as competent ISA (EPCa
+154(1))_
+If using the International Bureau, the competent ISA is anv ISA which would
+have been competent if the international application had been filed with any
+receiving Office of, or acting for, the PCT contracting state of which the
+applicant is a national or resident (PCTr_ 35.3(a)), the choice bang upto the
+applicant (PCTr_
+=> Any of USPTO, EPOI Korean Patent Office listed above.
+Question 4
+1)
+Yes.
+Under PCTr.92 bis_ I(a), the International Bureau shall, on request of the
+applicant or the receiving Office, record changes in the person of the
+application (PCTr.92 bis.l(a) (i). The request must be filed before the end of
+30 months from the priority date (PCTr.92 bis_ I(b)_
+The request may be sent either to the receiving Office or the International
+Bureau (AGI, para 429), although it must reach IE by the 30 month deadline.
+=> Best to file directly at the 1B.
+2) The demand has to be filed with the competent International
+Prelimina1Y Examining Authority (IPEA) For an application
+where the receiving Office was the EPO (as here), the competent IPEA is the
+EPO (specified under PCTa32(2) as the EPO according to AGI, Annex C-
+File the demand with the EPO
+-5

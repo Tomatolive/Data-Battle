@@ -1,0 +1,34 @@
+Possible Solution
+Memorandum
+- Paper D 2008 - Part II
+1 Current leqal situation (22 marks):
+Sports racket R and tennis racket RI: IN-DS is the earliest application for spons racket
+R. Furthermore, India was member of the Paris Convention at the relevant date.
+Consequently, IN-DS can serve as priority application for PCT-DS even in the European
+regional phase. The effective date of sports racket R therefore is 10.12.05
+The same applies for tennis racket RI, even though the claims of IN-DS or PCT-DS are
+directed to the spons racket in general and not to the specific example of tennis racket RI
+There is no prior art for PCT-DS
+The first filing by CopenTennis (CT) for tennis racket RI is DK-IJ_ The priority claims of
+EPI and EP2 are invalid with respect to RI , since DKI and DK2 are not the first filings by
+CT for RI Consequently, the effective dates for tennis racket RI in EPI and EP2 are the
+respective filing dates.
+The publication of DK-U, DKI , DK2 as well as PCT-DS is novelty destroying for the claims
+to the tennis racket RI alone in EPI and EP2
+As Euro-PCT-DS designates DK it will be an earlier right for DK-U, DKI and DK2 with
+respect to tennis racket RI
+In summary, DS can obtain patent protection in all PCT (in particular EP) member states
+for sports racket R and its specific embodiment RI and can in almost any country block us
+from manufacturing and selling RI once the patents resulting from PCT-DS are granted
+and, if applicable, validated.
+Racket damper Dl: DKI is the first filing for racket damper Dl. The priority claim of EPI
+is valid With respect to Dl; the effective date is the filing date of DKI , i.e. 27.12_06_
+If published, EP-BEP will be prior art under Art. 54(3) EPC for damper Dl of EPI in
+Europe. Moreover, PR-BEP is a national prior right with respect to EPI , which is not
+considered for novelty and inventive step in EP proceedings.
+However, racket damper Dl is clearly different from and operates on a different principle to
+racket damper D2_ Therefore it appears to be new over D2. The French patent resulting
+from EPI can be maintained in France in view of FR-BEP.
+Since there is no prior art disclosing racket damper Dl , the claim to Dl is new.
+Because of the missing pages EPI does not have an enabling disclosure of racket damper
+Dl (Art. 83 EPC)_

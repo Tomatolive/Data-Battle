@@ -1,0 +1,40 @@
+R 17(2)(a)(i) declaration means that EPO as ISA has told applicant and 1B that no
+international search report will be established as the ISA considers the application to
+relate to subject matter which the ISA is not required or decides not to search.
+No refund of search fee will be made by EPO, EPC or PCT. PCT only provides
+for refund of search fee where due to reasons of national security, the PCT
+application isn't treated as such (R 16.2 PCT) or if PCT application is withdrawn
+before the transmittal of the search copy to the ISA EPO also refund 100% of
+search fee where PCT appln is withdrawn or considered withdrawn under Art
+14(1), (3) or (4) PCT before the start of the international search or if the ISA is
+based wholly or partly on an earlier search (100% and 50% respectively),
+OJ 2002, 56, in line with R 16.3 and R 41 1 PCT. But no provisions for
+reimbursement of search fee in this case.
+Entry into the national phase is not affected by R 17(2)(a)(i) PCT declaration (A
+22(2) PCT)_ However, a designated state may consider unsearched pans (ie the
+only claim in this case) to be withdrawn unless the applicant pays a special fee
+to the national office of that state (A 17(3)(b) PCT).
+On entry into European regional phase, a European (supplementary) search
+report will not be established as claim relates to a method of treatment (A 52(4)
+EPC) as the subject matter is excluded from patentability, R 45 EPC
+Suggest filing amended claims on entry into European regional phase, which
+may have likelihood of being searched under A 92(1) EPC (will be given
+opportunity to do this under R 109 EPC + R 110 EPC)_
+As implant itself is new and revolutionary, file claim (product claim) to implant
+Appears to have support in description and claim amendment won't add matter
+over application as filed, in accordance with A 123(2) EPC and G 2/98.
+G 2/88 - change of claim category allowed if no extension of protection.
+QIO
+Thailand is not a Paris Convention country (see OJ 2002, 216).
+Thailand is a WTO country (see OJ 2002, 226).
+Article 8(2)(a) PCT and R 4.10(a) PCT provide that an application in or for any country
+party to the Paris Convention of the WTO can be basis of priority claim for a PCT
+application So, a PCT application can validly claim the Thailand priority. BUT
+R 4.10(d) PCT provides that where a designated office has laws incompatible with R
+4.10(a) and (b) PCT, those paragraphs do not apply to those states for as long as the
+incompatibility exists provided the office informs the 1B as required under R 4.10(d) PCT.
+The EPO and the JPO have informed the EPO of this incompatibility. So at present, for
+EPO and Japan, may not be able to sustain priority claim to the Thai application.
+However, for EPO this question has now been referred to the Enlarged Board of Appeal,
+G 2/02 and G 3/02.
+-5

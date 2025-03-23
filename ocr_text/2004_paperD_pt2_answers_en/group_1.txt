@@ -1,0 +1,30 @@
+Candidate's Answer - Dll
+ELECTRIC OPTICS/OEDIPUS
+l)
+Electra filed two applications in 1997, Electra Fl and Electra-EP_ Clearly more
+than 12 months have passed since these applications were filed, thus it is not
+possible to claim priority from either of these applications (A 4(1)PC)_
+It is, nevertheless, important to consider what these earlier applications
+described.
+Electra-Fl was the first application filed in the name of Electra to the basic
+software and a circuit for performing the software ("circuit'). Also, this application
+was used as the priority application in Electra-EP (under A 87(1 )EPC). Electra-EP is
+the first application filed in the name of Electra to the improved software.
+Neither of these applications will be prior art against any later filed application as
+they were withdrawn before publication. Their content is, however, relevant for
+determining whether any priority claims made from Oedipus-EP are valid.
+2) Oedipus-EP was filed on 30/04/03, therefore a priority claim can be made from
+this application up until 30/04/04. This deadline has not passed therefore there is still
+time to file one or more applications making this priority claim.
+The Oedipus application describes a digital camera carrying the software. This
+subject matter was not described in either of Electra's earlier applications of 1997,
+therefore Oedipus-EP is the first application filed to this subject matter.
+The other subject matter disclosed in Oedipus-EP is the software and its use in
+image enhancement. The software and, as I understand page 1 , paragraph 2, line 4,
+use of the software in image enhancement was, however, first described in Electra-
+Fl. This means that any claim to priority to this subject matter bv Electra must be
+based on the earlier Finnish application for it to be valid, unless the requirements of
+ART 4c(4) have been met This would not, however, appear to be the case because
+the Finnish application has served as a priority claim in Electra's EP application.
+This means that if Electra were to ty and claim priority from Oedipus-EP the
+priority claim would be invalid insofar as it relates to the software.

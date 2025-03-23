@@ -1,0 +1,28 @@
+-2
+Question 4
+(6 points)
+On 1 February 2005 an applicant filed a European patent application EP-I describing
+and claiming subject-matter A EP-I claims priority from a German national application
+DE-I filed on 1 March 2004. DE-I discloses subject-matter A
+The search report mentions a German patent application DE-0 filed by the same
+applicant and disclosing subject-matter A. DE-0 was filed on 1 June 2003 and was
+withdrawn on 1 July 2004.
+Due to an internal processing error of the German Patent and Trademark Office, DE-0
+was published on 1 October 2004, although the applicant had duly filed the letter
+withdrawing DE-0 in order to prevent publication of DE-O.
+Does DE-0 form prior art for EP-I?
+Question 5
+(3 points)
+a)
+b)
+A first application of applicant A was put into the automated mail-box of the EPO in
+Munich on 5 March 2006. A second application of applicant A having the same
+content as and claiming priority from the first application was put into the automated
+mail-box of the EPO in Munich on 6 March 2007. Has the priority been validly
+claimed?
+A first application of applicant B was put into the automated mail-box of the EPO in
+Munich on 3 March 2006. A second application of applicant B having the same
+content as and claiming priority from the first application was put into the automated
+mail-box of the EPO in Munich on 5 March 2007. Has the priority been validly
+claimed?
+2007/Dl/e,'2

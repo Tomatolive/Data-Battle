@@ -1,0 +1,36 @@
+Claim analysis
+QUESTION 17
+For questions 17 to 20, assume that independent claim IV.I and dependent claims IV.2,
+IV.3 and IV.4 were filed with the client's patent application:
+IV.I
+IV.2
+IV.3
+IV.4
+A dispensing system comprising:
+(a) a hand pump;
+(b) a bottle for liquid soap;
+(c) a tube,
+characterised in that the bottle comprises a base which is in contact with a part of
+the tube.
+A dispensing system according to claim IV.I, wherein the base of the bottle is
+dome-shaped for guiding away the tube from the top of the dome.
+A dispensing system according to claim IV.I, wherein the tube has a right angled
+portion and an end of the tube is in contact with the base of the bottle.
+A dispensing system according to claim IV.I, wherein the base of the bottle has a
+V-shaped well that guides an end of the tube into the lowest pan of the base of
+the bottle.
+For each of the statements ITI — 174, indicate on the answer sheet whether the
+statement is true or false.
+17.1
+17.2
+17.3
+174
+Claim IV.I covers the dispensing system of the second embodiment of the
+application when the bottle contains hand cream instead of liquid soap.
+Claim IV.2 unambiguously defines that the tube ends in the lowest part of the
+bottle.
+Claim IV.2 covers the dispensing system of the second embodiment of the application.
+The scope of claim IV.3 is limited to an embodiment wherein the right angled
+portion of the tube is positioned inside the bottle.
+2014,'PE/EN
+Page 25 of 29

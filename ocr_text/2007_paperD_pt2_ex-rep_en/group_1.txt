@@ -1,0 +1,41 @@
+Examiners' Report Paper D 2007 Part II
+This year about half of the marks awarded related to an analysis of Caledonian's [and their
+subsidiary Sean Insulation] patent poltfolio and making appropriate recommendations
+bearing in mind the constraints imposed by Caledonian The remaining marks were
+awarded to analysis of the situation relating to Goldfinger and Ms. Moneypenny. Generally
+the candidates answered the first part reasonably well and the second part not so well.
+Crucial issues in the paper were.
+the invalidity of the priority claim for EP2
+whether the date shown on a document is actually the date of public availability
+ensuring that the client continues to have rights to composition B+A after disposal of
+Sean Insulation
+and
+sufficiency of disclosure of EP-Gold and UK-Penny
+Candidates did not need to get all of these points to pass, although those who got fewer
+than two of these points were unlikely to pass.
+In more detail:
+The candidates were expected first to analyse the situation, including priority claims and
+ownership of the different patent rights, then to provide advice to obtain the best protection
+possible for the client Many candidates were able to analyse the situation correctly, but
+only some of them were also able to formulate useful and complete advice to solve the
+conflicts with the competitor
+In their analysis, some candidates failed to notice that there were prior art publications that
+could cause problems if priorities were lost. Some others failed to notice the invalidity of
+the priority claim of EP2. Some others failed to comment on the effects of the various co-
+pending applications upon each other. Some others simply did not doubt that the date
+shown on AJSS was actually the date of its public availability, although there was clearly
+no guarantee in this respect
+Most candidates determined that new application(s) were to be filed, but not all of them
+clearly indicated who should have been the applicant(s) for these applications, what
+content and what priority claims the application(s) should have had.
+Not many candidates gave advice that actually took into account the intention to sell
+company Sean Insulation.
+Many candidates showed difficulties in spotting the weak aspects of the patent position of
+competitor Goldfinger thoroughly, particularly the insufficient disclosure of EP-Gold Some
+of those candidates gave advice elaborating on entitlement proceedings, although the
+client explicitly excluded to follow that way; some others simply concluded that a cross
+licence might be a solution, without considering other much more favourable options.
+The opportunities offered by the patent application filed by the former employee, Ms.
+Moneypenny, were properly considered by most candidates
+Quite surprisingly, some candidates didn't realize that any patent validly claiming ALFA
+would have blocked the exploitation of BETA as well.

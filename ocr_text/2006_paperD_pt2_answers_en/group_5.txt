@@ -1,0 +1,27 @@
+The disclosure in JP does not disclose any panel having the features of claim 4
+(20 Ulm but 1 m long).
+EPB is prior art under A54(3) for the same reasons discussed above in relation
+to claim 3. EPB discloses a panel having 20 IJ/m and 4 m long, so falling within
+the scope of claim 4 claim 4 is not novel (A54(1))_ It will be possible to
+restore novelty by disclaiming this specific combination -5 such a disclaimer will
+not be regarded as added matter under A123(2) following GI/03_
+We should also consider the effects of Dl, which was published before the
+effective date of claim 4. All embodiments disclosed in Dl correspond to panels
+of 1 m of length, so none falls within the scope of our claim 4. However, claims
+in Dl are not limited to any specific length and disclose thus any panel having
+5-16 U/m_ The range claimed in claim 4 clearly overlaps with the range
+disclosed in Dl _
+5
+Claim 4
+16
+15
+30
+Claim 4 is not novel since it includes the explicitly mentioned end-point of the
+known range from Dl_ In order to restore novelty, it will not be sufficient to
+exclude the specific novelty destroying value. It is necessary to consider
+whether the skilled person would consider seriously to work in the range of
+overlap; if he would do so, no novelty (T 26/85).
+However, we have basis in the disclosure of IT, which according to what you
+told me has all been included in the PCTI, to narrow the claim so as to avoid
+overlap with the range disclosed in Dl .
+-5

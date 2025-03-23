@@ -1,0 +1,32 @@
+Presumably the chips have been incorporated into cameras by KKK. However,
+KKK have only to date sold cameras incorporating the chips in the US, where ZEUS
+do not have a patent. Thus the sale of these cameras does not constitute an
+infringement and ZEUS cannot do anything.
+On the other hand, KKK should not for the time being sell any cameras
+incorporating the chips in any of those EP states where ZEUS-EP could be validated.
+Such a sale could constitute a direct infringement by KKK and an indirect
+infringement by LEDA, since they have supplied the essential means for putting the
+invention into effect
+(g) Improving the situation
+A new application should be filed by LEDA directed to the chip modified to include
+the image enhancement circuit. This application should be patentable since a major
+improvement in performance is achieved. There does not appear to be any prior art
+describing use of such a circuit in a chip.
+This application should be filed on the same day or after the application of Electra
+directed to the circuit. This will then ensure that the chip incorporating the circuit is
+sufficient In fact a copy of the PCT application describing the circuit should be filed
+along with this new application.
+Once this application is filed, LEDA will be in a strong position to negotiate X-
+licence with ZEUS. LEDA has the rights to the original chip in the US, JP and
+Slovakia (and possibly others) as well as an application to the improved chip. On the
+other hand, ZEUS have the earliest application in some EP contracting states and
+possibly CZ (this should be established before the negotiations are begun).
+Thus I would suggest that LEDA seek a deal wherein LEDA and their licencees
+(LEDA can grant a licence to KKK) are permitted to make, use and sell the original
+chip in Europe (all CS) in retum for granting ZEUS a licence to use the new chip in
+for as few EPC CS as they will accept Ideally, this would not extend to the US and
+JP - then LEDA and KKK would have exclusivity in these jurisdictions.
+(h) What to tell KKK
+(i) f KKK buy chips form ZESU rather than LEDA, then they will be able to sell their
+cameras incorporating the chips freely in those EP states where EP-ZEUS has been
+validated and in force. This does not include Slovakia, Bulgaria or Estonia.

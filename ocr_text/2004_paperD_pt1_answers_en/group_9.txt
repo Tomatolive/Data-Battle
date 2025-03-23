@@ -1,0 +1,17 @@
+N3 — this assumes that the exhibition is one which falls within the terms of the
+convention in international exhibitions as set out in A 55(1) EPC If not, then the
+exhibition will count as part of the state of the art under A 54(2) EPC
+11) The R. 69(1) EPC communication dated 4/9/03 is deemed received on 14/9/03
+(R. 782 EPC). Thus the deadline for requesting fufther processing, paying the fee
+and completing the omitted act is 14/11/03 (A 121(2) EPC).
+A121(1) EPC, however, states that the legal consequence of deemed withdrawal
+following failure to reply to a time limit shall not ensure if the applicant requests
+further processing.
+According to R. 20(3) EPC, a transfer has effect vis a vis the EPO "only when" the
+request for transfer is filed and a document satisfying the EPO that the transfer has
+taken place have been produced. The wording "only when" in R. 22(3) EPC means
+that the earlier date mentioned in the assignment is irrelevant for the EPO
+Hence on the date on which the request for further processing was filed, as far as
+the EPO is concerned, company A is the applicant, not company B. Hence the
+request of company B for fulther processing is not valid as they are not the applicant
+as required by A 121(1) EPC

@@ -1,0 +1,35 @@
+Answer to question 6:
+According to Art. 87(1) EPC, the right of priority belongs to the applicant of the previous
+application or his successor in title.
+According to Guidelines part A-III, 6.1 or J19/87, a valid transfer of the priority right under
+national provisions on or before the filing date of the subsequent application is sufficient
+Proof of such transfer can be filed later.
+The transfer of EPI - hence the transfer of the priority right - took place in Nov 06 and was
+valid under the national Polish provisions. Therefore, company M is the successor in title
+for the purposes of Art 87 (1) EPC on the filing date of EP2
+The right of priority can be enjoyed for 12 months from the date of filing of EPI , i.e. until 22
+Dec 06.
+Therefore, the priority of EPI is validly claimed.
+Answer to question 7:
+a) Rule 25(1) EPC states that the parent application must still be pending. An application
+is pending in the sense of Rule 25 (1) EPC up to but not including the date of
+publication of the mention of the grant in the Bulletin, see Guidelines part A-IV, 1.1 1 or
+OJ 2/2002, P112, or notice of the EPO dated 09 Jan 2002. Hence, the divisional
+application may be filed until 01 May 2007.
+Although 01 May 2007 is a holiday, there is no extension to 02 May 2007 according to
+Rule 85(1) EPC, since the period for filing a divisional is not a time limit.
+b) The remedy of restitutio in integrum (Art 122 EPC) applies to time limits vis-ä-vis the
+EPO Since R. 25(1) EPC sets the condition that the earlier EP-application is pending,
+it does not impose such a time limit. Hence, Alt. 122 EPC is not applicable. This was
+subject of the decisions J24/03 or J18/04 and is further referred to in the Guidelines,
+pan A-IV, 1.1_1
+Answer to question 8:
+Generally, according to Art 104(1 )EPC or Guidelines, part E-IV 1.9, each party to
+opposition proceedings shall meet the costs he has incurred.
+Since Mr. A is a party to the opposition proceedings in the sense of Art 99(4) EPC, the
+taking of evidence was hearing of a party, Art 117(1 )(a) EPC Hence, Mr. A is not entitled
+to reimbursement
+Since Mr. X is a client of Mr. A, he is not a party to the proceedings. In his case, the taking
+of evidence was the heanng of a witness or an expert in the sense of Art. 117(1)(d) or (e)
+EPC
+-3

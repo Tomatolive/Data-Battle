@@ -1,0 +1,23 @@
+Question 1
+(2 points)
+An international application PCTI was filed with the EPO on 31 July 1998, and published on 02
+February 2000. International preliminary examination took place before the EPO, and the
+International Prelimnary Examination Report was completed on 12 December 2000. Since the
+Report was very unfavourable, the applicant decided not to enter the European phase.
+Consequently, none of the acts listed in Rule 107(1) EPC were pefformed.
+Will the EPO allow third parties access to the file of the international preliminary examination
+of PCTI?
+Question 2
+Will the EPO accept the following amendments:
+(7 points)
+a)
+Together with a letter of reply to the examiner's first communication during substantive
+examination, the applicant introduced new claims complying with Article 123(2) EPC
+and relating to unsearched subject-matter which does not combine with the originally
+claimed invention to form a single general inventive concept
+In opposition proceedings, the patentee replaced the granted claims, which were
+directed to originally disclosed "Substance A" and "Mixture B containing substance A",
+by amended claims directed to the "Use of substance A in mixture B" for a certain
+originally disclosed purpose.
+In appeal proceedings, an amended set of claims was transmitted, using the epoline
+online filing software.

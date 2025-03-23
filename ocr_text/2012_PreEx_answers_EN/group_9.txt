@@ -1,0 +1,15 @@
+why it would not be obvious to provide the claimed features. However, the statement 20.2
+is relevant as it demonstrates that D2 teaches a different solution to that claimed in
+Claim X. A valid argument is necessarily directed to the features recited in the independent
+clam. The argument set out in 20.3 is not directed to the characterising features of
+Claim X and is therefore not a valid argument in support of inventive step being provided
+by the claimed features. However, the argument set out in 20.4 is a valid argument in the
+light of the claimed features.
+20.1
+20.2
+20.3
+20.4
+- False
+- True
+- False
+- True

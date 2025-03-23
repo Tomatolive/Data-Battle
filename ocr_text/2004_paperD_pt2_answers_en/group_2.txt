@@ -1,0 +1,34 @@
+This would prejudice the allowability of any such application since the public
+conference would be prior art against the application for the purposes of both novelty
+and inventive step. Since the conference included disclosure of the software as well
+as its use in a camera, it would seem that any application having an invalid priority
+claim would lack novelty.
+On the other hand, the priority is a right of the applicant, therefore for an earlier
+application to invalidate the later priority claim based on a later application, the
+earlier and later applications must originate from the same applicant Thus any
+application filed by Oedipus would be entitled to the priority date for the software
+subject matter as well as the digital camera with the software. This affects the filing
+strategy which should be used.
+3) Considering now the other inventions, the "circuit" was first disclosed in Electra-
+Fl. However this is not in Oedipus-EP, therefore no valid priority claim to this subject
+matter can be made from Oedipus-EP.
+Similarly, the "improved software" was in Electra-EP but not in Oedipus-EP_ So
+priority for this subject matter cannot be claimed from Oedipus-EP.
+Neither of these subject matter have yet been disclosed and they remain secret,
+though it seems that the inventers will discuss this matter in the publication planned.
+In light of this forthcoming journal, which will constitute prior art, applications to this
+subject matter should be put on file before publication occurs.
+The other "invention" is the pocket digital camera. This has not been disclosed in
+any application filed thus far.
+4)
+In light of the above, I would suggest an application claimng priority from
+Oedipus-EP is filed by Oedipus-EP in respect of the software and the method of
+using the software in image enhancement This application needs to be filed by
+30/04/04.
+An application should also be filed by Electra claiming priority from Oedipus-EP_
+This application should describe and claim: (i) the digital camera with the basic and
+improved software and circuit, (ii) the improved software and (iii) the circuit The
+priority claim will be valid for the digital camera which will ensure that the disclosure
+at the conference does not prejudice patentability. The earlier filed Electra
+applications do not cause any problems, as there is no valid priority claim for the
+common subject matter

@@ -1,0 +1,38 @@
+Possible solution - Paper D 2011
+Answer to question 1
+- Part I
+Since the opposition period expired on 28 January 2011 a further opposition cannot be
+filed, Art 99(1) EPC_
+a) One option for Company A is to intervene in the opposition proceedings. To do so, they
+need to institute proceedings for a court ruling that they are not infringing,
+Art 105 EPC_
+Within 3 months from institution of the proceedings, Company A needs to
+• file a notice of intervention in a written reasoned statement based on the novelty
+destroying prior an, and
+• pay the opposition fee, Rule 89(1), (2) EPC
+b) Third party observations could be filed according to Art 115 EPC based on the novelty-
+destroying prior an. The observations must be filed in writing and the grounds on which
+they are based have to be stated, Rule 114(1) EPC_
+For completeness, it is noted that, by intervening, the assumed infringer will be treated as
+an opponent, Art 105(2) EPC, whereas by filing third party observations, the assumed
+infringer will not become a party to the proceedings.
+A less preferred option would be to make the opponent aware of the novelty-destroying
+prior art.
+Answer to question 2
+a) The time limit for replying to the first invitation is 2 months; Rule 62a(1) EPC_
+Thus: 09 April 2010 + 10 days (Rule 126(2)EPC) gives 19 April 2010 + 2 months, resulting
+in 19 June 2010, which was a Saturday. Therefore the time limit was extended to Monday,
+21 June 2010, according to Rule 134(1)EPC, and has expired.
+As a means of legal redress, fulther processing is excluded by Rule 135(2)EPC and,
+moreover, makes no sense since the search report had already been published, thus
+already established before that.
+Even though re-establishment of rights according to Art 122 EPC would be possible, it is
+not likely to be granted (lack of any hint in the question).
+The time limit for replying to the second invitation is 6 months after the mention of the
+publication of the European search repot Rule 70a(1) and Rule 70(1 )EPC, i.e.
+25 February 201 1, and thus has also already expired (today is 1 March 2011).
+However, further processing is possible for the second time limit, Rule 135(2) EPC
+Thus:
+• the European search opinion should be replied to, and further processing should be
+requested by payment of the corresponding fee, Rule Art. 2(1) No. 12 RFees
+• the examination fee and the respective further processing fee should be paid.

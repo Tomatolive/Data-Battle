@@ -1,0 +1,24 @@
+There can be no examination by the EPO of its own motion under Art 114 EPC as no
+proceedings are now pending.
+Therefore the client cannot restrict the patent before the EPO
+However if Dl really is highly relevant, the client could, and should, seek to amend the
+patent in post-grant proceedings before each national office of the designated
+contracting states which he has validly entered, in order to ensure that his patent is
+valid. The ability to do this and the procedure required will depend on national law.
+If he doesn't amend, there is danger of revocation (grounds for revocation under
+Art 138 EPC include the grounds of ArtlOO(a) EPC - Art 1 38(1 EPC).
+Question g
+According to Art 25 EPC, at the request of the competent national court trying a
+revocation action, the EPO is obliged to give a technical opinion concerning the
+European patent which is the subject of the patent, on payment of a fee (Rfees 2(20))_
+The opinion, drawn up by the responsible examining division is similar to those given
+during the examination process but does not expressly give an opinion as to whether the
+patent is valid (Guidelines EXII, 2). The opinion will be concerned with technical aspects,
+according to the specific request of the national court.
+So EPO will give a technical opinion but not make a specific statement about validity.
+Question 10
+a) According to Art 14(3) EPC, French is the official language of proceedings for this
+application, as the language of translation under Art 14(2) EPC
+There is no provision in the EPC to change the language of proceedings.
+Any amendment to the patent application filed during substantive examination must be
+filed in French (RI(2) EPC)_

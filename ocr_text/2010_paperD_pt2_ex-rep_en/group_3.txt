@@ -1,0 +1,40 @@
+Possible Solution - Paper D 2010 - Part II
+1. Stopping KM and everyone else from having a patent for the fishing method (14
+marks)
+EPI is the first filing for the signal attracting only adult fish. EPKM is the first filing for the
+fishing method using this signal.
+The public conference and the video presented there are state of the art against EPKM
+but since the characteristics of the signal were not disclosed in the video they do not
+constitute an enabling disclosure and cannot be considered as relevant prior an.
+EPKM discloses the use of the signal for a fishing method, but it does not disclose the
+characteristics of the signal necessary to carry out the fishing method since it makes only
+a reference to EPI_ For the fishing method claimed in EPKM to be sufficiently disclosed,
+EPI must be available at the EPO on the filing date of EPKM (which is the case) and EPI
+must be available to the public on or before the date of publication of EPKM
+EPI has not been published yet. If publication of EPI is avoided, then the fishing method
+of EPKM would be insufficiently disclosed and therefore not patentable. It is possible to
+withdraw EPI before publication. Publication of EPI will be in July 2010, so there are still
+about 2 months left before the termination of the technical preparations (5 weeks before
+publication). EPI should be withdrawn within this time frame so that it will be certain that it
+will not be published. In addition, no priority should be claimed from EPI for any further
+European patent application (eg EP2, EP3) because after publication of that further
+application, which would take place in July 2010 (18 months from priority), the priority
+document, i.e. EPI , would be also available to the public as part of the file.
+As referenced document EPI will not be available to the public, EPKM will suffer from
+insufficiency of disclosure regarding the fishing method which will not be patentable. There
+are alternative courses of action at this point: K.A could inform KM that their application
+would not be patentable as far as the fishing method is concerned in the hope that they will
+withdraw or abandon it or, in the case that EPKM is granted by the EPO, opposition can be
+filed against EPKM on the ground of lack of sufficiency of disclosure.
+Moreover, the publication of the content of EPKM at the KM website on the day after
+EPKM's filing or the publication of EPKM itself in combination with the publication of the
+structure and the characteristics of the signal in the report of KA at the end of January
+2010 will be enabling prior art against any future application related to the fishing method.
+2. Improving KA's patent situation in Europe (23 marks)
+EP2 is the first application disclosing the filter Fl and the circuit Cl but the disclosure of
+the circuit Cl is not enabling. EP3 is the first enabling disclosure of Cl and the inventive
+connection between C and Fl
+The public conference and the video on January 20, 2009 cannot be used as prior art
+against EP2 or EP3 because the characteristics of the signal or the circuits to produce it
+were not disclosed and no enabling disclosure of the signal took place
+-3

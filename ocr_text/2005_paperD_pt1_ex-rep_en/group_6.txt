@@ -1,0 +1,33 @@
+e)
+According to GI/93 (OJ EPO 94, p. 541), an added, not originally disclosed feature
+without any technical meaning can be removed from a claim without infringing
+Article 123(3) EPC
+Answer to question 3.
+a)
+b)
+Yes, the opposition is validly filed. One opposition fee suffices according to G3/99
+(OJ EPO 2002, p. 347).
+The common representative has to notify the EPO. The member of the family first
+mentioned in the notice of opposition is the common representative,
+Rule 100 (1) EPC, unless a common representative has been designated. If the
+common representative withdraws from the opposition proceedings, the first
+remaining family member will be the new common representative by application of
+Rule 100 (1) EPC (G 3/99, paragraph 20 of the reasons for the decision), unless
+a new common representative has been designated.
+Answer to question 4:
+Substantive examination will start despite the missing priority document, see
+Guidelines A-VII, 35 (or C-V,2_ 1). If the result of substantive examination is that
+the patentability requirements are not met the application can be refused without
+priority document. If the application is allowable, the applicant is informed that the
+decision to grant will not be taken as long as the priority document is missing.
+The EPO shall not request the applicant to furnish the priority document,
+Rule 17.2 (a) PCT (exception to Rule 111(2) EPC), since the requirements of
+Rule 17.1 (b) PCT (request timely, i.e. not later than 16 months and payment of the
+fee) are fulfilled.
+Answer to question 5.
+In order to have the WO-ISA reviewed, it is necessary to file a demand for
+International Prelimnary Examination at the EPO The demand has to be filed
+22 months from the date of priority, Rule 54bis_ I(a)(ii) PCT or three months from the
+transmission of the ISR and WO to the applicant, Rule 54bis_ 1 (a)(i) PCT,
+whichever is later.
+-2

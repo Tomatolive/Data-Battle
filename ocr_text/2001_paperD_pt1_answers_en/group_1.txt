@@ -1,0 +1,39 @@
+2.
+3.
+4,
+Candidate's Answer — DI
+EPI is filed in Italian, which is acceptable for an Italian applicant (A. 14(2) EPC).
+Translation was filed within 2 weeks, well within the deadline under R. 6(1).
+The authentic text of the application is the English translation (A. 70(1)). However this
+can be corrected under R. 88 with no danger Of adding matter (A. 123(2)) because under
+A. 70(2) the original (Italian) text constitutes the basis for detennining whether matter is
+added. So it is possible to correct for EPI .
+EP2 was filed in English. The application as filed is therefore this English text. It might be
+possible to correct the translation under R. 88 but only if the correction is obvious in the
+sense that it is immediately evident the English text that nothing else would have been
+intended than what is offered as the correction. The Italian priority document cannot be used
+to show what was intended (G 3/89).
+Ask for an apportionment of costs (A. 104(1 during oral proceedings. The apportionment
+will form part of the decision on the opposition (GLX D-lX, 1.2, R. 63(1 )). After the decision
+a request for the awarding of costs must be filed within a month in writing to the EPO
+(R. 63(3)) to get the amount — the month runs from the date of notification which will be
+deemed received 1 days after receipt (R. 78(2)).
+Costs incurred when the Other party withdraws just before oral proceedings will generally be
+apportioned (D-lX, I A).
+I would point Out that although both the document & abstract theoretically form part of the
+state of the art under A. 54(2), following T 77/87 an original and its abstract cannot disclose
+different subject matter as a matter of technical reality and when there is an inconsistency the
+original document must permit, so it must be presumed the skilled person would disregard
+the abstract which therefore does form part of the state of the art under A. 54. The prior
+published document must stand prima facie on its own & complete (T 77/87). However I
+would also attempt to provide evidence as to the incorrectness of the abstract (T 160/92).
+We can make an objection to the inclusion of the member ofthe opposition division.
+Unfortunately the EPC has no provisions for exclusion from a member of a department of
+ISt instance because of suspected partiality, but does have such provisions for members of
+Boards Of Appeal (A. 24(1)). However, the basic requirement Of impartiality does apply to
+departments Of I instance as well (G 5/91). so we can raise the objection. If it is refused,
+the decision to ignore the rejection cannot be appealed separately but may be challenged in
+a final appeal (A. 106(1)). It is also possible that the Opposition Division will decide on the
+objection by means of an appealable interlocutory decision (G 5/91).
+Any appeal fee may be refunded (R. 67) if the appeal is successful because partiality of
+a member Of the opposition division constitutes a substantial procedural violation (T 433/93).

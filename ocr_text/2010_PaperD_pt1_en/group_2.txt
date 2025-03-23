@@ -1,0 +1,25 @@
+QUESTION 1
+Page 1 of 5
+(4 points)
+Opponent O duly files an opposition to a European patent, the patent comprising an
+independent product claim 1 relating to product A and another independent process claim 2
+relating to process B.
+In the notice of opposition, O opposes the patent with respect to claim 1 only. The grounds
+and the reasoning relate to lack of inventive step.
+O does not make any further written submissions prior to the oral proceedings.
+At the beginning of the oral proceedings, O informs the opposition division that he had found
+by chance a highly pertinent prior an document Dn which destroys the novelty of both claims.
+Therefore, he argues that claims 1 and 2 are not novel and now requests the revocation of
+the patent in its entirety.
+What are the chances of success for the last request of the opponent?
+QUESTION 2
+(5 points)
+A European patent application EP-I was filed claiming a football made of 33 patches of a
+special plastics material, Pk According to the description, the provision of the 33 patches
+made of PX is essential for achieving the surprising technical effect of improved flight
+characteristics. Furthermore, a method of stitching the patches together is disclosed but not
+claimed. No relevant prior an is available. DIV-I, a divisional application of EP-I , was filed
+shortly before EP-I was withdrawm DIV-I discloses and claims only said football. DIV-2, a
+divisional application of DIV-I, was filed one week before DIV-I was withdrawn. At the
+moment, only DIV-2 is pending. DIV-2 has the same description and claims as EPI
+2010/Dl/EN/1

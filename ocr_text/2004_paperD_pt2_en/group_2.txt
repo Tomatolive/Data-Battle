@@ -1,0 +1,25 @@
+Your client is Electra Optic, a Finnish company making optical and electronic devices
+such as cameras. They write to you as follows:
+"We have just acquired a small company, Oedipus Electric (which shall continue to exist
+as a separate legal entity), a Greek company which has developed image enhancement
+software for digital cameras. We found that on April 2003 Oedipus Electric filed as a
+first filing a European patent application Oedipus-EP describing and claiming a method
+Of image enhancement using this software and a digital camera having the software
+stored on it. The inventor, Miss Myopia, remains with Oedipus Electric and is keen to
+develop this technology further.
+Their software is in fact identical to software invented by Dr. Panopticon (our employee)
+in 1997 (the "basic software"). At that time we filed a Finnish patent application Electra-
+Fl. Electra-Fl describes and claims not only the basic software but also a particularly
+effective circuit for performing the basic software. This circuit is not obvious from the
+basic software and is not disclosed in Oedipus-EP. In 1997 we filed a European patent
+application Electra-EP claiming priority from Electra-Fl. In Electra-EP we additionally
+describe and claim some further novel and inventive improvements to the basic software
+that in fact Oedipus Electric have not thought Of (the "improved software"). The size and
+cost of the electronics made use of the invention possible only on a desk top computer
+and this was the only embodiment disclosed in Electra-Fl and Electra-EP.
+In the absence of a market we withdrew both Electra-Fl and Electra-EP before
+publication. Our intention was to keep the idea secret until the economics were
+favourable. We are sure that Miss Myopia developed the basic software independently
+Of Dr. Panopticon. They agree on this and intend to publish a joint paper discussing the
+history of the software after Oedipus-EP is published.
+2004,'Dll/e/1

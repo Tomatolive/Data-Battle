@@ -1,0 +1,29 @@
+Thus, claim 1 would appear to lack novelty. However, on the basis of the
+published article, the only disclosure in 2002 was of the use of undulating
+walls to mechanicallv strengthen the panels. It may therefore be possible to
+reformulate claim 1 as a 'use' claim (C-lll, 4.9), directed towards the use of
+undulating walls to increase the thermal efficiencv of the panel. As this use
+was not disclosed in 2002, and as you are aware of no other disclosure, such
+an amendment should render claim 1 patentable, as there was no suggestion
+that this technical would be achieved (EPCa_54 & EPCa.56)_
+Claim 2
+Claim 2 is directed towards solar panels having undulating walls with 5-16
+undulations per metre. This subject matter was first disclosed in the utility
+model application Dl (filed on 1503.2004), from which PCTI validly clams
+priority (EPCa.87(1)) (utility models explicitly mentioned), G2/98). The
+effective filing date of this subject matter is therefore 1503.2004 (EPCa.89)_
+Again, the Tokyo disclosure of 2002 is comprised in the states of the art under
+EPCa.54(2). However, as there is no disclosure of panels having undulations
+of 5-16 per metre (the only example has 20 undulations per metre), this claim
+is novel (EPCa_54). There are no other possible disclosures before the
+1513.2004 date.
+Despite this, I am not confident that claim 2 would be considered inventive
+(EPCa_56). This is because the technical effect achieved by having 5-16
+undulation per metre is dependent on the size of the panel. Your Italian
+laboratory says that the panel must be less than 3 metres long for the "better
+results" to be seem As claim 2 is not limited to panels of this size, the
+advantage is not present across the entire scope of the claim, and it is
+therefore objectionable for lack of inventive step (EPCa_56) in light of the
+Tokyo 2002 disclosure (T 939/92 "Agrevo"). I therefore think that claim 2 is
+invalid.
+-2

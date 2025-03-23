@@ -1,0 +1,47 @@
+According to A4C(2) PC, the priority period, of 12 months (A4C(1) PC), starts
+from the date of filing of the first application
+EP-A is not the first application, as CN-A was filed earlier by the same applicant
+on 1/7/08.
+The priority period for this first application, CN-A, has thus long expired (on 1/7/08
++ 12m 1/7/09).
+Moreover, the narrow exception of A4C(4)PC does not apply EP-A cannot be
+considered the "first application because CN-A has been published and has also
+served as a basis for claiming priority.
+As such, CN-A as published on 10/1/10 will be prior art for novelty and inventive
+step against PCT-A (R33 la PCT) and will destroy its novelty.
+(NB there may be an exception as regards the US designation, since under US
+law disclosures by the inventor up to 1 year before the filing date are not novelty
+destroying — US grace period, PCT AG NP Summary USA)
+5.
+For application PCT-E, the EPO will not carry out a Supplementary European
+Search under A153(7) as it was the ISA (Dec. Adm. Council OJ 2007 642, A1).
+The EPO will therefore invite the Applicant to restrict PCT-E to the subject-matter
+searched in the ISR, R164(2) EPC, PCT-EI.
+In order to obtain protection for PCT-E2, a divisional application will need to be
+filed (while PCT-E is still pending, GL C-lll 7.11.4.
+The divisional application should be filed either with only the claims relating to
+PCT-E2 or at least with those claims listed first
+For application PCT-IJ, the situation depends on whether the 1 month period for
+responding to an invitation to amend the claims after entry into the European
+regional phase has expired, R 161 EPC
+If this period has QQ! expired, the Applicant should respond to the invitation by
+amending the claims so that PCT-U2 is the invention first mentioned in the
+clams.
+In this case, the EPO will draw up the Supplementary Search Report of A153(7)
+EPC based on this invention at least, R164(1) EPC.
+The Applicant should then be able to prosecute PCT-U2 directly in PCT-U.
+If the period has expired, the EPO will carry out the search of A153(7) based on
+the claims now on file If the EPO agrees that there is a lack of unity as set out by
+the US PTO in the international phase, the search will be limited to the firs
+invention, i.e. PCT-UI, R 164(1) and the Examining Division will invite the
+applicant to limit to these claims, RI 64(2)_
+Unless the Applicant can convince the Examining Division that the non-unity
+finding was wrong, it will then be necessary to file a divisional application to
+pursue PCT-U2, while PCT-U remains pending, R36(1)_
+6
+A70(1) EPC holds that the authentic text of the European paten is that in the
+language of the proceedings before the EPO
+A70(3) EPC however allows contracting states requiring a translation into one of
+their official languages to consider this translation to be regarded as authentic,
+except in revocation proceedings, if the translation is of narrower scope.
+_4_

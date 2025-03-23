@@ -1,0 +1,46 @@
+3)
+4)
+5.
+If no exam/designation fees are paid for NE:.EU2 it will be deemed withdrawn and cannot
+lead to problems, If they are paid, then NF-EU2 could issue with a general claim to
+"blottanes" which would indeed cause problems (although note there is problem with
+support, they might not get such a broad claim allowed).
+NF,EUL shares a priority date with B-EUI & B-EU2 Of — at least to some of its
+matter: In particular, claims to the use of blottanes as moisture-absorbent materials are
+entitled to priority and therefore not anticipated under Art. 54(3) by B-ELJ l. Such claims
+could therefore be allowed and would be likely to cause you problems. •Illey would also
+cause Pure Agrochemical problems in exploiting their compost as they would cover what
+they are doing.
+Note (and this applies to the patentability ofB-EU1 & EU2) — there is on
+patents being granted to different applicants when the two have the same priority date
+(GLX C-IV, 6.4). So material in NF-EUI that is entitled to priority cannot be cited
+against B-EUI or B-EU2, and B-PCT cannot be cited against the material in NF-EUI that
+is entitled to priority. So it is possible (if you can persuade the examiner to let you amend
+B-F,U I ) for both you and Niffy to get valid patents claiming the use of blottanes as a
+moisture absorbent material.
+If Niffy do not pay designation fees for NF-EU2, then B-EU2 could be granted in its
+present form and would form a valid patent. In order to enforce it, you need to file
+translations in the designated states into their national languages (Art. 65(1 within
+3 months. Once that is done then you can enforce the patents under national law where
+necessary, including the filing of injunctions etc.
+If Niffy do designation fees on NE-EtJ2, then you will need to amend the patent
+to ensure it has a valid claim, If this cannot be done before grant (eg because the EPO
+refuse amendments under R. 86(3), or even R. 86(4)), then you would end up with a
+granted but only partially valid patent. You can probably amend after grant in most
+countries, but this is an expensive procedure. If you try to sue Niffy within the next
+9 months they would almost certainly oppose the patent (Art. 99) centrally on the grounds
+that claim I is not new (Art. 54(3)) over NF-FU2. You would then get a chance during
+opposition proceedings to amend the patent to ensure it is valid.
+If you allowed to amend by the FPO, and they re-open examination, then you
+have provisional protection after publication under Art. 67 EPC — the PCT publication
+counts as a European publication (Art. 158(1) EPC). This does not allow you to open
+proceedings before grant, but you have the power after grant to sue for damages incurred
+between publication and grant, However you will need to file claims translations
+(Art. 67(3) in each country you are interested in to start the provisional protection
+running.
+Disposut'le nappies containing X
+A divisional cannot be filed having claims to disposable nappies containing X based on
+B-EU2. A divisional application cannot extend beyond the subject matter of its parent
+application (Art. 76(1) EPC). B-EU2 does not contain any disclosure Of product X or the
+use of blottanes in disposable nappies. So a divisional based on B-EU2 cannot include
+-3-

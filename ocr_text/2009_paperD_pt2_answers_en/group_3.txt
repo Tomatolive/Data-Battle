@@ -1,0 +1,35 @@
+Claim 2 does need to be so limited. Make claim 2 independent so it includes escargine,
+escargine + slugbanite or slugbanite applied in the specific location.
+Such a request will still be accepted since narrower than the original claim set
+If an opposition is filed the limitation procedure will be terminated and the fee refunded.
+The patent also needs to be validated in those countries of interest
+There is no time limit for filing the request for limitation. Might not want to wait to see
+whether PCT-BF enters national phase before requesting limitation since might not be
+necessary. Since EP3 has granted, need to validate within 3 months in most countries
+as described in relation to EPI
+The PCT application should have been filed within the convention period for GB2
+3rd Jan 2008 + 12m = 3rd Jan 2009 (Sat) closed day— 5 Jan 2009 (Mon).
+However, it is possible to file the application late with a request for restoration of the
+priority period if the request is filed within 2 months of the failed time limit. 5 Jan 2009 +
+2m = 5 March 2009 (Thurs)
+Need to pay fee for restoration and demonstrate that all due care required by the
+circumstances were takem As evidence, provide the application documents which will
+be dated 24/12/2008, the ordered payment documentation and declarations from Iris
+and Daphne. Need to explain your usual procedures and demonstrate that this really is
+a one-off mistake by an othenvise responsible, trustworthy employee. In light of the
+short deadline and no fulther documents being available, file application using GB2
+specification provided and request restoration (and pay fee) by fax to the EPO with an
+outline of reasons for missing the deadline and provide actual documentation later
+Important to demonstrate 'all due care' since this is the criteria that the EPO will use
+during the national phase as well as R.O. The USPTO does not accept requests for
+restoration so will consider the application to have its filing date only.
+If the request for restoration is successful, the resulting EP (and Albanian) patent will
+have an effective date of GB2 - 3 Jan 2008. Hence the publication of PCT-BF, and EPI
+EP2 and EP3 will not be prior art within the meaning of Article 54(2) EPC However,
+PCT-BF and EPI will be Article 54(3) prior
+PCT-BF does not describe slugbanite at all so is not relevant
+EPI describes Slugbanite and refers to slugbanite from The Hosta La Vista mine
+(slugbanite A). However, there is no explicit disclosure of slugbanite B in EPI since not
+mentioned and not even inherently disclosed by the examples. Therefore the subject
+matter of slugbanite B, optionally with escargines is novel.
+-3

@@ -1,0 +1,44 @@
+Possible Solution of Paper D, Part I
+According to Rule 68(2) EPC, last sentence, a party may not invoke the omission
+of the communication. The decision dated 06.12.2002 is deemed received on
+16.122002, Rule 78(2) EPC Hence, the 2 month time limit for filing the notice of
+appeal according to Article 108 EPC which ended on 16.0203, extended to
+Rule 85(1) EPC, has lapsed. Therefore, such an appeal would be
+deemed not filed because the appeal fee cannot be paid in time.
+2
+3
+4.
+(a)
+(b)
+(c)
+Yes, according to Rule 25(1) EPC, OJ EPO 2001 , 489, a divisional
+application can be filed on a pending application. Until one day before
+the publication of the mention of grant, EPI is still pending.
+According to Article 97(4) EPC (OJ EPO 2002, 112), EP2 is pending
+until 22.04_2003, which is one day before the mention of the grant
+Therefore, a divisional application can still be validly filed until that day,
+Rule 25(1) EPC
+No, since Rule 25 EPC refers to a pending European patent
+application, not to a European patent
+According to GI/94 (refer to Guidelines D-VII, 7), Article 105 EPC also applies to
+appeal proceedings. Intervention is only possible during pending proceedings.
+From the moment the first fax is received at 16.09 hours, the appeal is no longer
+pending, see T517/97 (OJ EPO 12/2000). An intervention was no longer possible
+on the same day at 20.12 hours.
+The g month opposition period according to Article 99(1) EPC expired on
+19.032003 Opposition can validly be filed by telefax according to Rule 36(5)
+EPC in combination with the decision of the president of the EPO dated
+26.05.1992 (OJ EPO 1992, 299) (refer also to the Guidelines D-lll, 32). The
+opponent is entitled to use Spanish, Article 14(4) EPC
+The time limit for filing the translation of the notice of opposition is 1 month from
+receipt of the telefax at the EPO according to Rule 6(2) EPC Hence, the
+translation of the notice of opposition must be filed by 1404.2003. The amount of
+488 Euros corresponds to the opposition fee reduced by 20%, according to Rule
+6(3) EPC and Article 12(1) RFees.
+The fee is considered to be validly paid if evidence is provided to the EPO that
+the order for the transfer was given to a bank before the expiry of the opposition
+period on 1003.2003, as set out in Alticle 8(3)(a)(ii) RFees_ A surcharge
+corresponding to 10% of the fee is to be paid within a time limit set by the EPO
+under Article 8(3)(b) RFees in combination with Article 8(4) RFees because the
+order was given only five days before expiry of the opposition period.
+-3

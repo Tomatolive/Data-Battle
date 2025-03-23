@@ -1,0 +1,25 @@
+Page 5 of 5
+QUESTION 7
+(4 marks)
+Patent proprietor P has a European patent EP with a claim A for the contracting states DE
+and FR and a claim B for the contracting states AT and BE. Claim A comprises all features
+of claim B and an additional feature X. Opponent O duly filed an opposition against the
+patent in its entirety on the grounds of lack of novelty. The patent was revoked because
+the subject matter of claim B was considered to be not novel. During appeal proceedings,
+appellant P requests the patent to be maintained with claim A for all the states DE, FR, AT
+and BE. Respondent O only notices now that feature X was not originally disclosed and
+raises a corresponding objection.
+Assuming that feature X was not originally disclosed, can the European patent including
+claim A be maintained in proceedings before the EPOQ
+QUESTION 8
+(7 marks)
+Your client filed for his invention INI a French patent application FRI on 01 _032010 and
+a European application EPI on 2210.2010. An article published on 12.032010 disclosed
+invention INI. Today 01.032011 your client informs you that he received a
+communication from the EPO dated 04019011 inviting him to file a missing drawing. This
+missing drawing relates to prior art which is not relevant for invention IN 1. He also informs
+you that for EPI, instead of claiming priority from FRI, he accidentally claimed priority
+from another French patent application FR2 filed on 2210.2009 and disclosing another
+invention IN2.
+The applicant does not want to file a new EP application and asks you for advice.
+2011/Dl/EN/5

@@ -1,0 +1,41 @@
+b) Since both EPI and DIV2 are withdrawn and hence are no longer pending as required
+by Rule 36(1) EPC, it is not possible to validly file further divisional applications of EPI or
+DIV2
+For DIVI , the 24 month time limit set by amended Rule 36(1 )(a) EPC has expired.
+Therefore, a divisional application cannot be filed unless the examining division issues a
+communication confirming the, or raising another, lack of unity objection, amended Rule
+EPC_
+Answer to question 3
+a) Yes, it is possible. Because the EPO was not ISA, the EPO is competent to carry out a
+supplementary international search, Article 3(4) of the Agreement between the EPO and
+WIPO (OJ 2010, 307) and Rule and (b) PCT
+b) A supplementary international search may be requested at any time prior to the
+expiration of 19 months from the priority date, Rule 45bis_ I(a). This period expires on 5
+May 2012, extended under Rule 80.5 PCT to 7 May 2012.
+The request for a supplementary international search must be filed directly with the 1B,
+Rule 45bis. I(b) PCT and should indicate that the EPO should act as SISA, Rule
+45bis_ PCT.
+The international application was filed in Spanish. Since Spanish is not a language
+accepted by the EPO according to the Agreement between the EPO and WIPO, a
+translation of the international application in DE, FR or EN has to be filed together with the
+request, Rule 45bis.1 (c)(i) PCT
+It should be indicated in the request that the second invention should be searched, Rule
+45bis_ I(d) PCT
+The handling fee and the search fee have to be paid to the 1B within 1 month from receipt
+of the request for the supplementary international search Rule 45bis_2 and Rule 45bis.3
+PCT.
+Answer to question 4
+a) No, it is not possible.
+Product A1 is not disclosed in EP-X as filed. Thus, the claim directed to product A1 in
+PCTI is not in respect of the "same invention" as EP-X, Article 87(1) EPC Therefore a
+claim directed to A1 is not entitled to the priority date of EP-X, but has as effective date the
+filing date of PCTT The document published in March 2010 is comprised in the state of
+the art within the meaning of Article 54(2) EPC_ The claim directed to A1 is not new in view
+of the disclosure of this document
+b) PCTI was filed within the priority period, which expired on Article 8 PCT
+and Alticle 4 Paris Convention. If the draft paper had disclosed A1 , then EP-X would have
+disclosed A1 and the priority claim would be valid Therefore, the publication of March
+2010 would not be comprised in the state of the an within the meaning of Article 54(2)
+EPC and would not be novelty destroying Thus patent protection could be obtained for the
+claim directed to product A1
+-5

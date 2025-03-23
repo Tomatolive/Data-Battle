@@ -1,0 +1,35 @@
+Possible Solution - Paper D- Part I
+Answer to question 1
+Yes. Both applicants have a place of business or residence in one of the contracting
+states. Therefore, no professional representative is needed (Art 133(1 EPC)_
+Thus, I can act before the EPO because I am an employee of the applicant
+(A133(3) EPC).
+Conditions to be fulfilled are that
+I am authorised by HYPERTOOLS to act before the EPO
+- and the authorisation or general authorisation has been filed with the EPO
+See Rule EPC, or Decision of President 19 July 91, OJ 91 p_489, or GL A-IX 1.5.
+Another condition to be fulfilled is that HYPER TOOLS is appointed as common
+representative. HYPER TOOLS can be made the common representative either by explicit
+statement in request for grant (R26(3) EPC), or as first named applicant (RI 00(1) EPC).
+I can also act before the EPO for International Applications filed with the EPO as
+Receiving Office by virtue of Article 49 PCT or Rule 90.1 (a) PCT and Article 133 (3) EPC
+HYPERTOOLS is a common representative either by explicit statement,
+Rule 90.2 (a) PCT, or as first named applicant, Rule 90.2 (b) PCT.
+Answer to question 2:
+i) Yes. A divisional application can only be filed in respect of a pending earlier European
+Patent Application R25(1) EPC As the decision to refuse the application is suspended on
+filing of the appeal, (Art 106(1) EPC), the application is considered to be pending.
+See Guidelines A-y, 1.1.1 or J28/03, OJ 12/2005, or Notice of the EPO OJ 2002, pg. 112
+ii) In this case the answer is no, because an appeal is deemed not to have been filed if the
+fee is not paid. See A108 EPC (second sentence).
+iii) Nc if an opposition against a patent has been filed, there is no pending application
+(as required by R25(1) EPC).
+Answer to question 3:
+1. Competent receiving offices:
+a. as US national he can file with the USPTO Rule PCT;
+b. as resident of Switzerland he can file with the Swiss patent office,
+Rule PCT;
+c. as resident of Switzerland he can file with the EPO, Rule 19. I(b) PCT,
+Art. 151 (1) EPC;
+d. he can file with the 1B, Rule 19. I(a)(iii) PCT.
+-2-

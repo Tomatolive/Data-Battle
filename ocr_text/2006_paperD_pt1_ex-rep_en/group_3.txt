@@ -1,0 +1,40 @@
+Text to be used:
+when filing with the USPTO, the EPO or the Swiss office he can use the English
+translation;
+when filing with the 1B, he can use the English translation or the Russian original text,
+Rule 12.1 (a) PCT and Applicant's Guide, Annex C.
+2. Competent International Searching Authorities (Rule 35 PCT):
+a. USPTO is ISA:
+- when USPTO was RO (and USPTO was chosen by applicant to be ISA);
+- when 1B was RO (and USPTO was chosen by applicant to be ISA).
+b. EPO is ISA:
+- when USPTO was RO (and EPO was chosen by applicant to be ISA);
+- when Switzerland was RO;
+- when EPO was RO;
+- when 1B was RO (and EPO was chosen by applicant to be ISA).
+Answer to question 4:
+1. Changes of person or name of applicant can be recorded by the 1B according to
+Rule 92bis_ 1 (a) (i) PCT, as long as the request for recording is received at the 1B before
+the expiration of 30 months from the priority date, Rule 92bis_ I(b) PCT.
+The request can be filed with the 1B or with the RO
+If the request is made shortly before the expiration of the time limit indicated above, it is
+recommended that it be sent directly to the 1B (Applicant's Guide, Vol. l, Phase Int 429).
+2. According to Article 31 (6) (a) PCT, the demand has to be filed with the IPEA, in this
+case the EPO
+According to Rule 551 PCT, the demand has to be filed in the language of the
+International Application, unless this language is not a publication language or unless a
+translation is required before the IPEA_ German is a publication language and can be used
+before the EPO Therefore, the demand has to be filed in German.
+Answer to question 5:
+EP2 is novelty destroying against EPI under Ait. 54(3) EPC for the contracting states
+designated in EP2 (which are identical to the contracting states designated in EPI) for
+which the designation fees have been paid, R 23a EPC_
+EP2 claimed a priority of March 2002 as indicated on the publication of the application.
+EP2 was published earlier than the date of filing of EPI
+Any loss of EP2's priority right occurring after publication by not filing the copy of the
+priority document does not affect the application of Article 54(3) EPC: see Guidelines C
+or C-V,3.4.
+Therefore, under Article 99 EPC an opposition against EPI based on Art. 100(a) EPC filed
+until 02 November 2006 (01 November extended according to Rule 85(1) EPC) will be
+successful.
+-3-

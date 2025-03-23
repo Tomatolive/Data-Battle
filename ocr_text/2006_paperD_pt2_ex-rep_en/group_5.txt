@@ -1,0 +1,35 @@
+There is an argument that selection of the length gives novelty in this range.
+However, this argument is likely to fail. In assessing prior art the entire technical
+content must be considered not just the examples (for example, T666/89).
+Dl states that a technical effect is achieved over a specified range of undulations per
+metre. In the region of overlap, claim 4 simply confirms this. There is no new technical
+information and therefore, no novelty over Dl
+Dl specifically teaches that in order to obtain better results, the number of undulations
+per metre has to be between 5 and 16. For panels having >16 — 30 undulations per
+metre and a length greater than 3 metres Claim 4 is therefore novel.
+Dl teaches that the improved efficiency is not achieved above 16 undulations per
+metre. Therefore, in the range >16-30 undulations per metre, it would appear inventive
+to go against this teaching of Dl .
+However, whether there is basis for claming the range >16-30 undulations per metre
+(or a sub-range) in the description of PCTI needs to be established. Whether the valid
+priority claim from ITI would be retained for such an amended range or sub-range is
+to be considered.
+With respect to claim 4, EPB in the European regional phase will form part of the state
+of the art under Article 54(3) EPC EPB will be considered for novelty purposes only
+for the commonly designated states. The 20 undulations per metre panel embodiment
+having a length of 4 metres disclosed in EPB will destroy the novelty of claim 4 for that
+combination.
+To overcome this problem, a disclamer of the specific combination of 20 undulations
+per metre and a length of 4 metres is possible (GI /03 or G2/03)_
+As a further improvement, a claim to the use of undulations to improve thermal
+efficiency would provide further protection.
+With respect to Mr. Bad's proposal to withdraw conflicting embodiments in application
+EPB for the three countries (DE, FRI IT) designated in Euro-PCTI , it is noted that
+such a withdrawal is not possible.
+Further, if Good NV can show that the invention was stolen, Article 55(1) EPC would
+then apply because EPB was published after the filing of PCTI_ Also, entitlement
+proceedings may be instigated under Alticle 61 EPC_
+If sufficient evidence can be collected and such entitlement proceedings are
+successful, Good NV should file a separate application directed to the stolen
+subject-matter.
+-5

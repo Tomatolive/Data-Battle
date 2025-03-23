@@ -1,0 +1,37 @@
+Possible Solution
+Question 1
+- Paper D 2007 - Part II
+EP-I is in the name of Caledonian and has earliest filing date for the new foaming
+process, for flexible thin sheets made from B+A, for foamed sheets of B alone and for
+scuba suits and costumes made from B+A or from B alone. EP-I is deemed withdrawn
+because no fee was paid and it cannot be revived. However, since it received a filing date,
+priority from EP-I can still be claimed.
+EP-2 is the first filing for compositions B+C, B+D and B+E and thin flexible foamed sheets
+of these compositions and scuba costumes/suits made of these sheets. There may be
+basis in EP-2 to claim a more general polymer composition of B+ class Z EP-2 claims
+priority of IJK-I but this claim is not valid because EP-2 is in the name of Caledonian and
+IJK-I is in the name of Sean Insulation. Therefore, the effective date for EP-2 is 19.0606
+(the filing date).
+The article in AJSS is dated 16.06_06 but may have been made available to the public
+earlier or later If AJSS was available to the public before 19.0606 (filing date of EP-2) it
+will be full prior art against EP-2_ It will thus destroy the novelty of B+A, B+C, B+D and
+possibly of thin sheets in general. Since polymer E belongs to the same polymer class with
+B, C, and D (class Z) and is similar to them, the combination B+E will most probably be not
+inventive over AJSS either Under these circumstances, no protection can be obtained for
+compositions B+C/D/E_ However, if AJSS was made available to the public on, or after
+1906.06 it will not be prior art against EP-2_
+The new process for producing thin sheets of EPO is not disclosed in AJSS and is
+therefore not anticipated in any event
+EP-3 is the first filing for the manufacturing process for fibers and yarns and for the textiles
+made thereof. EP-3 claims polymer compositions B+class Z, but EP-2, which discloses
+compositions of B+A/C/D/E will be prior art relevant only for novelty (under Art. 54(3) (4)
+EPC) against the clams to B+ class Z of EP-3_
+AJSS discloses B+A/C/D and, because of the difference in dates benveen that shown on
+AJSS and the filing date of EP-3, is almost certainly prior art against EP-3
+US-Spectre does not disclose any combination of polymers and is not relevant against any
+application.
+The press release was made in August 2006 which is later than any effective date of the
+three applications. It is thus irrelevant in respect to them.
+Thin sheets of foamed polymer B alone and suits made of these sheets were disclosed in
+EP-I, but are not disclosed or claimed by any of the presently pending applications. Thin
+sheets of B alone and suits made thereof are suggested in AJSS_

@@ -1,0 +1,52 @@
+step could be "characterised by removing the closure by pulling the pull-tab so that the
+sealing part provides evidence of tampering.
+17.1
+17.2
+17.3
+17.4
+- False
+- False
+- True
+- False
+Question 18
+In the context of the problem-solution approach, the objective technical problem means the
+aim and task of modifying or adapting the closest prior art to provide the technical effect
+that the invention provides over the closest prior art, see Guidelines, C-IV, 11.5_2, third
+paragraph. The distinguishing feature over D2 (the sealing part consists solely of the
+aluminium foil) provides the technical effect that the alumnium foil tears on removing the
+closure. In view of this, the only valid definition of the objective technical problem is to
+enable the detection of tampering. Statement 18.1 recites an effect of the distinguishing
+feature and is a part of the solution, but is not an objective technical problem with respect
+to D? Statements 182 and 184 are at best speculative aspects that are not derivable
+from the application as filed and are not related to the claimed distinguishing feature
+18.1
+18.2
+18.3
+18.4
+- False
+- False
+- True
+- False
+Question 19
+The closest prior art is the second embodiment of D2, where the pull tab is lightly attached
+to the sealing part The statement of 19.1, which is directed solely to the first embodiment
+of D2 and does not acknowledge the second embodiment of [32, is not helpful to define
+why it would not be obvious to provide the claimed features. However, the statement 19.2
+is relevant as it demonstrates that D2 teaches a different solution to that claimed in
+Claim A valid argument is necessarily directed to the features recited in the
+independent claim. The argument set out in 19.3 is therefore a valid argument in respect of
+Claim However, as Claim IX does not recite dots of adhesive, the argument set out in
+19.4 relating to dots of adhesive is irrelevant.
+19.1
+19.2
+19.3
+19.4
+- False
+- True
+- True
+- False
+Question 20
+The closest prior art is the second embodiment of D2, where the pull tab is lightly attached
+to the sealing part The statement of 20.1, which is directed solely to the first embodiment
+of D2 and does not acknowledge the second embodiment of D2, is not helpful to define
+-7

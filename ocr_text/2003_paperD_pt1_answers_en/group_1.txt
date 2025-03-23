@@ -1,0 +1,35 @@
+Candidate's Answer — Dl
+QI
+Decision was deemed received on 16.12.2002, Rule 78(2) EPC and Article 119 EPC
+Article 108 EPC sets period of 2M from date of notification of decision to file appeal in
+writing and payment of fee (R fees. 2, Item 11). So deadline for filing notice of appeal
+expired16.02.03 (Sunday), therefore extended to 17_02.03 (R 85(1) EPC). No further
+processing (A 121 EPC possible).
+A refusal of application by Examining Division is an appealable decision (Article 106(1)
+EPC).
+Applicant can make restitutio application (A 122 EPC) of 2M time limit but needs to file
+request in writing within 2M of removal of non-compliance and within IY of missed time
+limit; pay fee; show all due care (may be difficult here, representative should have
+known about appeal period?).
+Omission of reason for decision is substantial procedural error (R 67), but not sure about
+communication of possibility of appeal being anything more than a courtesy service
+which in view of J 1/89 cannot be relied on J 2/87 - refusal of patent is void if due to an
+erroneous EPO communication (good faith). Not clear from the question if this is
+erroneous communication - possibly in which case J 2/87 may apply.
+EPI
+27.1202
+02.01.03
+fees and translation
+Rule 51 (4)
+(a) R 25(1) EPC, applicant may file divisional application for any pending European
+patent application. Application is pending up to but not including date of mention of grant
+being published under A 97(4) EPC (OJ 2002, 112), C-VI 15.5.
+Combination of R 51 (4) + R 51(6) communications (OJ 2001, 488) intended to shorter
+period between despatch of R 51 (4) communication and grant to about 8 months.
+02.01.03 such a short time after R 51(4) acts completed that application will not yet have
+granted so can file divisional application.
+Q2(b)
+EP2 23.0403 published
+R 25(1 ) EPC - any pending application can be file up to but not including date of mention
+of grant being published under A 97(4) EPC (OJ 2002, 112), C-VI 15.5, ie 22.04_03 is
+last possible date. File divisional directly at EPO in Munich or The Hague (A 76(1) EPC).

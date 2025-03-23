@@ -1,0 +1,34 @@
+Examiners' Report - Part D II 2006
+This year the candidates were asked:
+• to assess the validity of a patent application having claims with different priority
+dates
+• to comment on some procedural issues
+• and to advise whether the client could stop or be stopped by his competitor.
+In assessing validity the first problem the candidates were expected to discuss was
+the effect of a document which was a written repoll of an oral disclosure at a
+Symposium.
+Most candidates correctly stated that the oral disclosure was prior art as it took place
+before the earliest claimed priority date.
+Many candidates also noted that the written report was deemed to represent the
+contents of the oral disclosure unless proven othemise.
+Too few candidates suggested investigation of the oral disclosure (e.g. by contacting
+attendees) to determne whether the written document was a correct representation of
+the oral disclosure. The effect of any disparity could be large [the client might possibly
+maintain their extremely broad claim 1 if the document discloses more than the oral
+disclosurel
+While candidates are generally expected to accept the facts presented to them, when
+those facts indicate the need for specific enquiries, they should say what those
+enquiries would be, and what they would hope to demonstrate from those enquiries.
+In assessing the effect of the different priority dates, most candidates were able to
+correctly attribute the different dates to the different claims. However too many
+candidates appeared unaware of G3/93 and attributed the priority of Dl to Claim 3.
+Some candidates even seemed to be of the erroneous view that a dependent claim
+always has the priority date of the independent claim it depends from.
+The majority of candidates appreciated that EPB was Art54(3) prior art against
+Claims 3 and 4. However, relatively few discussed the possibility of disclaiming the
+specific examples of EPB. Given the relatively recent publication of Decisions GI /03
+and G2/03 which set out the requirements for disclaimers, this was surprising.
+The most complex part of this question was the relationship between Dl and IT 1, and
+the effect this had on Claims 2-4.
+Many candidates realised that the disclosure of ITI cast doubt on the technical effect
+claimed in Dl , and hence on the inventive step of Claim 2 over the oral disclosure.

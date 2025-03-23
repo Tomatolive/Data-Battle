@@ -1,0 +1,28 @@
+Moreover the recent case law of the EPO shows that a computer program will be
+patentable (assuming it meets the other criteria of novelty, inventive step etc.) if it
+has technical character. This technical character may be derived from a technical
+effect which is produced by the program when it is run on the computer Hence the
+image enhancement which is provided will constitute such an effect (following T
+1173/97).
+7) With regard to the subject matter in the applications filed by Electra, I would note
+that it is not unforeseeable that a disvorcity objection would arise and that it is
+considered that the camera, the circuit and the software represent three inventers. If
+this occurs, this can be overcome by filing one or more divisional applications in the
+national phases. The PCT does not currently provide for filing of divisional
+applications.
+8) With regard to EP-Oedipus which is currently pending, I would suggest that this
+can be allowed to lapse. Art 47(B) PC provides that an application need not be active
+in order to claim priority from it, therefore this will not effect the validity of the priority
+claims.
+If it is maintained, rather than pursuing the EP designation of the PCT
+applications, then the term of protection is effectively reduced by 1 year. This is
+because the term is 20 years from the filing date (Art 3? EPC). In the case of EP-
+Oedipus, the filing date is 30/04/03, whereas in the PCT applications this is moved to
+April 2004.
+9) The final outstanding issue is the recordal of the transfer of EP-Oedipus_ I do not
+suggest this is done. The EP register entry for this case is not created till after
+publication, therefore it would not be able for anyone to see.
+Also, so long as appropriate assignments are in place to ensure the priority
+claims are valid as discussed in point (4) above, the right to claim priority is effective.
+Copies of these assignments can be provided to any national offices which require
+them. The International Bureau is unlikely to raise this issue.

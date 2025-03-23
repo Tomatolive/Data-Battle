@@ -1,0 +1,16 @@
+Examiners' Report Paper D
+Part II
+- 2001
+A high number of candidates failed to correctly analyse the priority situation for
+NE-EUI _
+For most of the subject-matter of NF-EUI, priority is not validly claimed from the
+application NF-IEI since this application is in fact not the first filing. In other words, for
+all subject-matter disclosed in NF-lE2, NF-IEI can not be used for a valid priority claim
+in NE-EUI
+Mistakes of this kind led to immediate loss of many points. Furthermore, later
+questions and answers also depend on a correct priority analysis.
+A surprising number of candidates failed to see that applications with same date of
+filing are not prior art against each other.
+Another central point where far too many candidates made fundamental mistakes was
+the analysis of what the various applications claim and what they merely disclose.
+Candidates having made this kind of nmstake also were unable to indicate the mutual

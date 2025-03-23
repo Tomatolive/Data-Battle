@@ -1,0 +1,34 @@
+According to Rule 74(2) EPC or Guidelines, part E-IV 1.10 or notice of the EPO in OJ
+1983, p. 100, witnesses and experts shall be entitled to appropriate reimbursement of
+expenses for travel and subsistence. Thus, Mr. X is entitled to reimbursement
+Answer to question 9:
+Rule 87 EPC allows different sets of claims for different contracting states in cases of
+conflicting prior art,
+either being prior art under Art. 54(3) EPC
+or earlier national prior rights according to Art 139(2) EPC
+Document Dl is prior right under Ait. 54(3) EPC because it has an earlier filing date than
+EP and because it was published only after the filing date of EP. Dl has prior art effect
+only for those states which were designated in both EP and Dl , Art 54(4) EPC and for
+which designation fees have been paid, Rule 23a EPC_ These states can be determined
+because the time limit for paying the designation fees for Dl has ended (in January 2004,
+Article 79(2) EPC, + possible grace period).
+Document D2 is a national prior right according to Article 139(2) EPC
+The following sets of claims should be filed in order to obtain the broadest scope of
+protection possible.
+A first set of claims for the overlapping states between EP and Dl_ The independent
+claim thereof has the combination of features A and B.
+A second set of claims for DE in order to overcome the conflict with D2. The
+independent claim thereof has the combination of features A, B, and C
+A third set of claims may remain without amendments for all other states.
+Answer to question 10:
+According to Art. 65 (1) EPC, the contracting states may prescribe that a translation has to
+be furnished in the national phase. According to the brochure "National Law relating to the
+EPC", table IV, the following steps are required in the respective contracting states.
+for validation in TR, the patent has to be translated into Turkish. The translation into
+Turkish should be filed within 3 months from the mention of the grant, hence until 28
+February 2007, but can still be filed within further 3 months by payment of a
+surcharge. In addition, an authorised professional representative in Turkey has to be
+appointed.
+for validation in FR, it is too late to file the translation into French However, restitutio
+according to national law in France can be tried.
+for validation in GB, no action has to be taken.

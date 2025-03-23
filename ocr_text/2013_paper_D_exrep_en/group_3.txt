@@ -1,0 +1,40 @@
+Examiners' Report Paper D 2013 - Part II
+The second pan of the D paper requires candidates to analyse a situation concerning
+various existing patent rights and suggest specific actions that are usually to be carried out
+within a time limit. Care should be taken to correctly calculate the time limits.
+This year the main aspects of the paper were:
+Question 1
+- the independent claim to a pan with 3D protrusions of EP-HEMI could not validly claim
+priority from DE-HEMI, since DE-HEMI was not the first application by Schnell-Koch for
+that subject-matter;
+- EP-3D was pending until the expiry of the appeal period against its refusal, DIVI-3D
+therefore was filed in time;
+- the disclosure of pans with cubic protrusions in DIVI-3D extended beyond the content of
+EP-3D, therefore no patent protection could be obtained for said subject-matter via DIVI
+3D; DIVI-3D could be "repaired" by deleting the passage relating to pans with cubic
+protrusions, and by filing an amended claim which overcame the clarity objection.
+Comments to question 1
+Surprisingly few candidates realised that the independent claim of EP-HEMI could not
+enjoy priority from DE-HEMI. Apart from that, the patent situation was discussed well by
+most candidates. However, many candidates did not properly indicate in which application
+a specific type of protrusion was disclosed for the first time.
+Most candidates realised that DIVI-3D was filed in time, i.e. within 24 months after the first
+communication and before the expiry of the appeal period. They also realised that the
+disclosure of a pan with cubic protrusions in DIVI-3D extended beyond the content of EP-
+3D_ However, a significant number of candidates wrongly concluded that DIVI-3D could
+lead to a patent for a pan with cubic protrusions on the incorrect basis that the subject-
+matter of cubic protrusions could be allocated its own date of filing.
+Question 2
+- a translation of the notice of opposition into an official language had to be filed with the
+EPO before the meeting with Mr Gusto in order to make sure that the notice of opposition
+was deemed to have been filed;
+- EP-3D belonged to the state of the aft under Article 54(3) EPC for the dependent claim of
+EP-HEMI, and therefore could not be used for attacking inventive step thereof.
+Comments to question 2
+Most candidates were familiar with Article 14(4) EPC and therefore correctly identified the
+need to file a translation of the notice of opposition into an official language of the EPO
+However, quite a few candidates wrongly calculated the time limit for filing the translation
+from the end of the opposition period
+Many candidates realised that EP-3D cannot be considered for assessing the inventive
+step of the dependent claim of EP-HEMI. However, a number of candidates did not come
+-3

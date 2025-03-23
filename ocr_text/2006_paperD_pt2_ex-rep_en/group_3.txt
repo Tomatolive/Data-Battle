@@ -1,0 +1,35 @@
+Possible Solution - Paper D II
+Are each of claims 1 to 5 valid in Euro-PCTI and if not. can we improve them?
+Each claim is dealt with in tum below-
+Claim 1
+Claim 1 validly claims priority from Fl and has a priority date of 1/10/2003
+The subject matter in PCTI entitled to a priority date of 1/10/2003:
+• a panel having undulating walls,
+• use of undulations to increase the thermal efficiency
+• and the extrusion process.
+The extrusion process is discussed under Claim 5.
+The Oral Disclosure at the Symposium in 2002 is before filing of Fl _ It may disclose
+the undulations in general and, in particular, 20 undulations per metre for a 1 metre
+panel.
+During the European regional phase, the EPO will assume the written disclosure
+matches the oral disclosure. The article will be considered as indirect evidence of
+what was disclosed. If the applicant wishes to overturn this assumption, he will have to
+demonstrate that the written disclosure does not correspond to the oral disclosure.
+It should therefore be investigated whether the article matches the oral disclosure.
+If the article discloses more than what was actually presented at the Symposium in
+2002 Claim 1 may be novel. The Proceedings were published only in 2004, which is
+after the priority date of claim 1 _
+It is further noted that the function of undulations as assumed to be disclosed at the
+Symposium is different from the function in PCTI _ Thus, the use of undulations to
+improve thermal efficiency may be patentable. Therefore, amendment to use claims or
+preferably addition of use claims is advisable
+It is noted that the oral disclosure is not considered part of the prior aft for the
+purposes of novelty and inventive step in the International phase.
+It will only be considered as a disclosure during the national/ regional phases
+Claim 2
+It is possible to claim priority from a German utility model, i.e. Dl, within one year.
+Claim 2 validly claims priority from Dl and has a priority date of 15/03/2004. The
+subject matter entitled to the priority date of 15/03/2004 is panels having 5-16
+undulations per metre.
+The subject-matter of claim 2 is novel over the Tokyo disclosure.
+-3

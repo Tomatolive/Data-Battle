@@ -1,0 +1,32 @@
+Possible Solution
+Answer to question 1
+• Paper D • Part I
+Rule 94.3 PCT entitles any elected office, after international publication, to allow
+access by third parties to any documents regarding an international application,
+including international prelimnary examination, contained in its files. As from
+01.02_2003, see the notice published in OJ EPO 7/2003, p.382, EPO as elected
+office affords access to the file of international preliminary examination for
+applications filed as from 1 July 1998 after publication of the intemational
+application and completion of the International Preliminary' Examination Report
+Since all these requirements are met by PCTI, access to the file of IPE will be
+afforded by the EPO_
+Answer to question 2.
+a)
+b)
+c)
+d)
+The amendment does not meet the requirements of Rule 86(4) EPC and is
+therefore not admissible.
+According to G2/88 (OJ EPO 1990, 93), a change of the claim category in
+opposition proceedings cannot be objected to under Article 123(3) EPC, when the
+scope of the claims as a whole is not extended, provided that the amendment is
+caused by a ground for opposition, as required by Rule 57a EPC_ Since the
+protection for substance A and the mixture B containing substance A is absolute, a
+claim directed to an originally disclosed special use of substance A in mixture B
+contains a limiting additional feature.
+According to the Notice from the European Patent Office dated 3 December 2003
+(OJ EPO 12/2003, p_609), the electronic filing of documents (in accordance
+with Rule 36(5) EPC) is not possible in appeal proceedings.
+According to GI/03 or G2/03 (OJ EPO 04, p. 413), introduction of an undisclosed
+disclaimer only for establishing novelty against state of the art under
+Article 54(3) EPC is considered as not contravening Article 123(2) EPC

@@ -1,0 +1,45 @@
+3.
+notification under R 85a(1) if didn't dispense with notification and within 2 M of
+missed date if did dispense with designation, R 85a(2) EPC). All these dates will
+likely have passed now (certainly R 85a(2) EPC deadline would have) and no
+further processing or restitutio possible on these time limits. So check paid - if not
+cant do anything with EP4 now so claims to S2 would have been deemed
+withdrawn. If these fees etc. were paid then EP4 still pending and make sure pay
+3rd year renewal fee due 3110.03 (can be paid up to 304.04 with additional fee,
+A 86(1) + (2) EPC)_
+If EP4 still pending, can't amend EP4 to put in claims to Sl (which would have
+saved having to enter PCT 1 in European regional phase) even though have
+description of SI in EP4's abstract as abstract may not be used for providing
+support for amendments (T 246/86). Consequently such an amendment would
+not be allowable since it would add matter over the application as originally filed
+(contrary to A 123(2) EPC). Also, a priority document (ie here ESI) can not be
+used as basis for an amendment (also G 3/89 relevant). Therefore, if want to
+protect Sl in Europe, will have to continue with PCT 1 (likewise, can't amend PCT
+1 by including clams to S2 since disclosure of S2 in PCT 1 is only in abstract). If
+EP4 is still pending (and designation fees paid) then it is also relevant as novelty
+only prior art against EP3 to the extent that designate same states and that
+designation fees have been paid and because EP4 has an effective date earlier
+than but was published later than effective date of EP3_
+However, although EP4 discloses Sl in the abstract, even such a disclosure was
+enabling, since EP4 is relevant to EP3 for novelty only, content of abstract cannot
+be taken into consideration (since A 54(3) EPC refers to content of application as
+filed and neither pror document nor abstract, in view of A 85 EPC, form part of
+content of application). Abstract only forms part of prior art once published.
+Therefore, EP4 would not affect novelty of subject matter claimed in EP3
+ESI - Spanish right now granted So, PP can stop anyone making, using etc.
+both Sl and S2 type shields in Spain.
+ESI is relevant to EP3 as a prior national right - could lead to revocation of EP3 if
+granted, with respect to Spaim (Check when published though - assuming not
+published by 15.301 filing date of EP3 - if did then ESI would be full prior art).
+But as prior national right, ESI can't affect EP3 until after grant as is not
+considered comprised in the state of the art for EP3_ Also, can't oppose EP3, if
+granted, before EPO in view of ESI itself as prior national right is not a ground of
+opposition.
+Negotiation position
+pp's position
+PP has granted US2 in US, so can prevent LBP from using, selling,
+making etc (and any other acts constituting infringement under US law)
+plugs with triangular or square-shaped contacts in the US, which is a
+relevant market for LBP. -4 ie bargaining point for PP. (Patents are
+negative rights).
+-10

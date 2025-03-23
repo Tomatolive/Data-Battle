@@ -1,0 +1,25 @@
+-3
+We have received the search report for EP-2 from the EPO The search report cited just
+one prior document:
+- US-Spectre published in May 2005 discloses polymer A and its use for making
+foamed sheets for scuba diving; these sheets are as thick as the traditional, known
+sheets.
+We recently found that the June 2006 issue of "American Journal of Surf and Scuba"
+(AJSS) contains a scientific article that discusses patent US-Spectre_ The article
+suggests using polymer B alone or in combination with A or other similar polymers such
+as polymers C and D, to reduce the thickness of foamed sheets for scuba-diving suits
+and surf costumes. The date printed on this publication is 16 June 2006
+We also developed a new extrusion process for transforming the polymer compositions
+of polymer B + polymers of class Z (such as A or C, D, E) into fibres and yarns with
+which textiles are produced. Before our new process, only foams could be obtained
+from the compositions B + polymers of class Z
+The textiles have the same thermal insulation properties as the foamed sheets obtained
+from the same polymer compositions B + polymers of class Z Woven textiles are very
+good for scuba-diving suits and for surf costumes, while non-woven are very good as
+insulating liners for rigid insulating panels.
+On 7 July 2006 we filed patent application EP-3 (no priority was claimed), that discloses
+and claims the extrusion process, the polymer compositions B + polymers of class Z
+and textiles obtainable therefrom, i.e. woven and non-woven textiles.
+Composition B + A, the extrusion process for producing yarns and fibres made of it and
+the textiles were disclosed at a press release in August 2006.
+2007,'Dll/e/3

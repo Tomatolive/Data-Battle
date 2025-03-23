@@ -1,0 +1,10 @@
+In contrast, Dl is not prior aft against EPI, since it does not have any commonly
+designated states [Art 54(3) & 54(4); Rule 23a EPC1973].
+Thus, while Dl was not relevant to EPI , it is relevant to the divisional
+As Dl anticipates the subject matter of all of the claims of EPI, it is to be expected that
+the divisional application will lack novelty over Dl (at least the claims as filed do), and
+will therefore not lead to grant of a patent. This is of course assuming that EPI had no
+subject matter in the description which could be novel over Dl _
+Note, as Dl is a 54(3) prior art document, it would be possible to establish novelty over
+Dl by using a disclaimer [GI /03].
+-6-

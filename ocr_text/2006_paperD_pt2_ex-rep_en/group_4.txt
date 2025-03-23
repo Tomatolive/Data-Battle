@@ -1,0 +1,37 @@
+At first sight it appears inventive because of technical effect over the claimed range.
+But ITI states that the technical effect is not achieved for some combinations of length
+and undulations. Therefore, the subject-matter of claim 2 appears not to be inventive
+for these combinations of length and undulations. Therefore the subject-matter of
+claim 2 may not be patentable.
+Limiting Claim 2 to a solar panel having a length of one metre, or adding such a
+limited claim, may improve patentability. Such a claim would retain the priority of Dl
+Please note, however, that claim 2 cannot be improved by using a disclaimer to
+disclaim the non-inventive combinations of length and undulations because this is
+relevant to inventive step and has a technical effect (GI /03 & G2/03)_
+Claim 3
+Claim 3 validly claims priority from ITI and has a priority date of 22/09/2004. The
+subject matter entitled to a priority date of 22/09/2004 is solar panels having 5-16
+undulations per metre and having a length of less than 3 metres. Claim 3 as it stands
+cannot benefit from the priority of Dl or Fl because it includes an additional technical
+feature ((33/93).
+Claim 3 is novel over Tokyo disclosure.
+EPB will be comprised in the state of the art in the European regional phase under
+Article 54(3) EPC against claim 3 The embodiment in EPB of a panel having 10
+undulations per metre and a length of 2 metres is novelty destroying against the
+subject-matter of claim 3. However, this particular embodiment could be disclaimed
+(GI/03 & (32/03).
+Dl forms part of the state of the aft since Dl was published before filing of ITI
+The subject-matter of claim 3 is not patentable over Dl because of the disclosure of
+1m test panels in Dl _
+Validity of Clam 3 may be improved by limiting to 1m panels if there is scope for such
+a generalisation from the examples, since for such a claim, the priority clam from Dl
+may be valid [this would be effectively the same as the amended Claim 2 mentioned
+above].
+Claim 4
+Claim 4 validly claims priority from ITI and has a priority date of 22/09/2004.
+The subject matter entitled to a priority date of 22/09/04 includes solar panels having
+15-30 undulations per metre and having a length of more than 3 metres.
+The subject-matter of claim 4 is novel over the Tokyo disclosure because of the
+claimed length.
+Dl claims 5-16 undulations over all length ranges and overlaps claim 4 in the region
+15-16 undulations per metre for panels having a length greater than 3m.

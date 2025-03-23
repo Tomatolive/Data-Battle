@@ -1,0 +1,16 @@
+Claim analysis
+Document D4
+[001] We manufacture liquid soap dispensing systems for wash basins. FIG. 1 shows a
+liquid soap dispensing system 400 which comprises a manually actuated pump 420
+which pumps liquid soap from a reservoir bottle 410. The pump 420 is positioned at the
+height of a wash basin 450 and the bottle 410 is placed below the pump 420 as shown
+in FIG. 1. A tube 430 connects the pump 420 with the bottle 410. As shown in FIG. 1 the
+tube 430 extends horizontally away from the pump and then veftically down into the
+bottle 410.
+450
+2014,'PE/EN
+420
+430
+410
+FIG. 1
+Page 19 of29

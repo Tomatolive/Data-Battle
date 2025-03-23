@@ -1,0 +1,38 @@
+Answer to question 7
+P requests the maintenance of the patent based on claim A as granted for DE and FR. As
+far as these states are concerned, the claim is not open to an objection under
+Art 123(2) EPC, since Alt. 100(c) EPC is not admissible as a ground for opposition
+unless the patent proprietor consents, G9/91 , GIO/91 or GI/95, G7/95
+The claim of the request with respect to AT and BE represents an amendment and is thus
+subject to a full examination as to its compatibility with the requirements of the EPC,
+including the provisions of Art 123(2) EPC A change to claim A for AT and BE would
+violate Art 123(2) EPC since X was not originally disclosed.
+Therefore, the patent cannot be maintained based on claim A for all of DE, FR, AT,
+and BE
+Answer to question 8
+The afficle was published after the filing date of FRI but before the filing date of EPI_ To
+prevent the article constituting novelty-destroying prior aft according to Article 54(2) EPC,
+the priority of FRI must be claimed.
+The priority can be corrected within 16 months from the earliest priority date claimed, or,
+where the correction would cause a change in the earliest priority date claimed, within
+16 months from the corrected earliest priority date, whichever 16-month period expires
+first, provided that such a notice may be submitted until the expiration of 4 months from the
+date of filing accorded to the European patent application, Rule 52(3), EPC The 16-month
+periods respectively expire on
+• 01 July 2011 for FRI and
+• 22 February 2011 for FR2
+Thus, the relevant 16-month period expired on 22 February 2011 _ The 4-month time limit
+from filing of EPI also expired on 22 February 2011
+To be able to correct the declaration of priority it is necessary to file the missing drawing,
+so that the 4-month time limit starts running from the new date of filing and can be
+observed.
+Missing drawings can be filed within h,vo months of the invitation, Rule 56(1 ) EPC, i.e.
+4 January 201 1 +10 days (Rule 126(2) EPC) + 2 months = 14 March 2011
+When the missing drawing is filed, the application will be re-datedi Rule 56(2) EPC. Since
+the twelve-month priority period for FRI expires today, Art. 87(1) EPC, the applicant has to
+file the missing drawng today (1 March 2011).
+The 4 month time limit for correction of the declaration of priority will then expire on
+1 July 2011. By that date, the applicant has to correct the declaration of priority.
+Altematively, the applicant may request correction of the priority declaration according to
+GL, A-V, 3 or the case law referred to therein.
+-6-

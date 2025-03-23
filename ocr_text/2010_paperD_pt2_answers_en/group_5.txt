@@ -1,0 +1,55 @@
+4/1/10 + 10 days 14/1/10 (R126(2) EPC)
+14/1/10 + 2 months 14/3/10, Sunday (RI 12(2) EPC)
+14/3/10 -4 Monday, 15/3/10 (RI 34(1) EPC)
+In principle, WA could get an assignment executed that transfers the rights in
+PCT-JU fully to KA before entering the European regional phase However, in
+practice such an assignment only takes effect at the EPO only on production of
+appropriate evidence and after paying a fee (R22 EPC)_
+Thus, in practice it will be much more convenient to deal with this after regional
+phase ento,' has been effected.
+As such, a professional representative (me) will be needed to complete the acts
+for late entry into the regional phase. This is because JU are currently named as
+an Applicant and, as a legal person not having a principal place of business in a
+Contracting State, they are required to be represented in proceedings before the
+EPO as designated office after the initial 31 month period for entry into the
+national phase (A133(2) EPC, A27(7) PCT, How to get a European Patent Euro
+PCT Part 2, S309)_
+I can take the necessary steps myself without a separate authorisatiom (R 152
+EPC; Dec Pres spec Ed 3 of OJ 2007, L 1).
+These steps are:
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+supplying a translation of the international application
+specifying the documents on which the European grant procedure is to be
+paying the filing fee
+paying the designation fee (assuming the ISR issued at least 6 months
+previously)
+paying the supplementary search fee
+filing a request for examination — including paying the examination fee
+(again assuming the ISR issued at least 6 months previously)
+paying the renewal fee for the 3rd year.
+For items (a), (c), (d), (e) and (f), the further processing fees must also be paid
+(for (f) for both requesting examination and paying the examination feey For (g)
+an additional fee (50%) is payable because the due date has been missed. As
+the 4th year renewal fee will be due soon (End of May 2010) it would also make
+sense to pay this now to avoid forgetting it later (we are within the 3-month
+allowable pre-payment period).
+Once entry into the EP regional phase has been completed, the EPO will publish
+the translation of the application and the European prior right effect will come into
+existence _
+Normally the publication takes about 6-12 weeks. Unlike for direct European
+applications there is no direct provision allowing for early publication, but I would
+recommend filing, when completing the acts for entry' into the regional phase, an
+informal request for prompt publication on the basis that it is relevant to an
+opposition on another European patent (see below). Clearly, a careful watch
+should be in place to ensure publication occurs in good time.
+Once PCT-JU's translation has been published by the EPO, an opposition can be
+filed against EPF based on lack of novelty over PCT.JU as a European prior right.
+Unlike EP4, PCT-JU does specifically disclose in its description nets made of the
+specific material M and it is therefore novelty-destroying for EPF. Note that the
+whole content of PCT-JU is relevant, not just the clams.
+-5

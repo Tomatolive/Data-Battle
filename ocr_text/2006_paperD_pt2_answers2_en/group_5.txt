@@ -1,0 +1,28 @@
+The disclosure of Dl on 15.092004 is also comprised in the state of the art
+under EPCa.54(2), but as this does not disclose panels greater than 1m in
+length (the example), the feature >3m in length should establish novelty (even
+if this was regarded as a "sub-range" of the unspecified size limits of Dl, I
+believe the invention would be regarded as a selection invention under
+T279/89 and C-IV, T7(ii) because the sub-range is narrow vis-ä-vis the
+undefined range in Dl, it is far removed from the example in Dl (1m) and
+there is a technical effect — improved thermal efficiency — associated with the
+new range).
+However, EPB would be comprised within the state of the art under
+EPCa.54(3) and (4) for all states in common, because it was filed earlier than
+the effective filing dated of claim 4 (April 2004 vs. and publish
+under EPCa.93 after (publication would have been around October 2005).
+The specific example of a solar panel of 4m and 20 undulations/metre would
+destroy the novelty of claim 4.
+It this happens (i.e. if the designation fees are paid such that there is a
+problem), then claim 4 could be easily amended to establish novelty. As EPB
+is a 54(3) document, the specific example could be disclaimed (GI/03 and
+G2/03). Alternatively, as EPB does not attach any explanation (i.e. purpose or
+effect) to the undulations, claim 4 could be converted into a "use" claim as
+discussed above. However, this should not be necessary.
+Claim 5
+Claim 5 is directed towards the extrusion process, as disclosed in Fl, filed on
+01.10_2003_ PCTI validly claims priority from this application
+so the effective filing date of this subject matter is 01.10.2003 (EPCa.89)_ The
+only earlier disclosure that we know about is the Symposium of 2002, as
+evidenced in the publication of 2004.
+-5

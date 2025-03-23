@@ -1,0 +1,39 @@
+If you decide to pursue a new application under Article 61 (l)(b) EPC (as discussed in 2b
+above) this new application can be allowed to lapse.
+ii) TO protect the BLOWSAW development a new application or series Of applications
+should be filed.
+If the new process has a worldwide interest a PCT application could be filed, designating
+the desired states, eg EP, US and JP. The application could be filed with the EPO as
+receiving Office
+Alternatively, national applications in the countries Of interest could be filed. A PCT
+application has the advantage that only a single set of fees need be paid now and the
+expense of filing nationally is delayed by 20 or 30 months (or 8 or 18 months if priority is
+claimed).
+A further option would be to file a single application such as a German application now
+and file a PCT application within one year claiming proirity from the earlier application.
+This has the advantage of providing one extra year of patent term.
+The new application should be filed before the MULTISAW applications are published
+(on or shortly after 29 May 2002) in order that these applications are citable for novelty
+only and not for inventive step.
+The new application should claim
+(i) the improved process using BLOWSAW
+(ii) a device incorporating BLOWSAW.
+The computer program itself cannot be claimed as it is excluded under Article 52(2)(c)
+EPC. Similar provisions apply in other States. However, the new process and device
+using BLOWSAW have a technical effect (compensation for deviations in the cutting
+line) and are therefore patentable.
+The new application should be filed in the name of SILWAFE AG with the student who
+developed the new process named as inventor. If a PCT application designating the US
+is filed, the student must also be named as an applicant. This means that his signature
+is required either on the PCT Request form or an authorisation (eg authorising me to
+represent him).
+However, if the student's signature cannot be obtained, we can still proceed with an
+application in the US if we provide a statement to the receiving office explaining why we
+cannot obtain his signature (Rule 4.15(b) PCT).
+Prior art:
+None Of the earlier applications discloses the BLOWSAW embodiment and none has yet
+been published. There are therefore no applications relevant under Article 54(2) or (3)
+EPC. As discussed above the meeting with Zähnli and the tests carried out are
+confidential and thus not part of the state of the art. The new application for BLOWSAW
+therefore appears to be novel and inventive over the art.
+-6-

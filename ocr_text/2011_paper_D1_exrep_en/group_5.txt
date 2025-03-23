@@ -1,0 +1,45 @@
+Answer to question 5
+The European patent application has to be filed no later than today. Othenvise the
+symposium will constitute prior art according to Art 54(2) EPC since it anticipates subject-
+matter Y Since the priority period of ISI has expired, no priority can be claimed,
+Art 87(1) EPC The EP application has to be filed by reference because you are not in
+possession of a copy of ISI Rule 40(1)(c) EPC To this end, you need to
+• indicate that a patent is sought, Rule 40(1)(a) EPC,
+• indicate the name or contact information of the applicant, Rule 40(1 )(b) EPC,
+• state the office, filing date and number of ISI, Rule 40(2) EPC.
+Since the exact filing date is unknown, you cannot fulfil the requirements of Rule 40 EPC
+immediately without further action. For instance, you nmght be able to obtain the filing date
+e.g. by contacting the Icelandic Patent Office, or you could indicate a probable filing date
+and subsequently request correction under Rule 139 EPC if necessary.
+Answer to question 6
+According to Rule 159(1) EPC the period for entering the European phase expires
+31 months after the priority date, i.e 3 July 2008 + 31m = 3 February 2011
+By then, the following requirements should have been fulfilled:
+•
+•
+•
+•
+•
+specify the application documents, Rule EPC
+file the request for examination (already included in Form 1200), Rule 159(1)(f) EPC
+and pay the examination fee
+pay the filing fee, Rule 159(1)(c) EPC
+pay the designation fee, Rule 159(1)(d) EPC
+pay the search fee for the supplementary European search, Rule 159(1)(e) EPC
+(which will be reduced since an international search report from the USPTO is
+available, OJ 03/2010, p.138)
+To fulfil the requirements of Rule 159(1)(b) EPC, the application documents have to be
+specified. Further, since none of the requirements of Rule 159(1)(c) - (f) EPC have been
+fulfilled, the application is deemed to be withdrawn according to Rule 160(1 ) EPC.
+Therefore, further processing according to Art. 121(1) and Rule 135(1) EPC should be
+requested with respect to each of these requirements at the latest h,vo months from a
+notification under Rule 112(1) EPC which has not yet been received. The applicant has to
+perform the omitted acts as required by Rule 135(1 ) EPC within the above time limit.
+Within this time limit, the following fees for further processing have to be paid according to
+Art 2(1) No. 12 RFees:
+• 50% of each of the fees for examination, designation, filing and search, and
+• the fee for the late submission of the request for examination (€225)
+Additionally, within the 31 -month time period, claims fees should have been paid for claims
+exceeding 15, in the present case 2 claims fees, Rule 162(1) EPC_ However, these fees
+can still be paid within one month from a communication under Rule 162(2) EPC (as in
+force until 30 April 2011).

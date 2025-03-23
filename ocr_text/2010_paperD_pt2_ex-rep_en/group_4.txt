@@ -1,0 +1,38 @@
+When/if EPKM is published it would be a prior art document relevant only for novelty (Alt.
+54(3) document) against EP2 and EP3, but not relevant because it does not disclose the
+nature of the signal or the circuit to produce it
+EP2 when/if published will be prior art document under 54(3) EPC relevant only for novelty
+against claims 1 and 2 of EP3
+EP2 can give KA protection for the filter Fl and the signal but not for the circuit Cl since it
+is not sufficiently disclosed. Hence, the only way KA can get protection for Cl is via EP3
+However, EP3 has had its filing date moved to 02.022010 after the submission of the
+missing parts. The report of KA with EP3 was made available to the public in the library,
+even if nobody consulted it, as of end of January 2010. The report will thus be novelty
+destroying for EP3 with the new date of filing. In order for KA to be able to get protection
+via EP3, it is necessary for EP3 to have a filing/priority date before the end of January
+2010.
+It is possible to recover the original filing date of EP3
+Your request for correction dated 02.022010 should be withdrawn to avod the change of
+the filing date. This can be done within 1 month after notification of the communication
+under R56 EPC, i.e. until 27.032010, extended to 29.032010. Then EP3 will have a filing
+date before the publication of the repoll and the repoll will not be prior art anymore.
+It is necessary to introduce the missing parts for sufficiency of disclosure of EP3. This is
+possible by claiming the priority of EP2 and requesting their introduction without changing
+the filing date.
+EP3 was filed within 12 months from the filing date of EP2 which ended on 01.03_2010_ A
+priority claim can be added until 16 months from the priority date, i.e. 01.072010
+(according to Rule 52 EPC).
+KA must request the addition of a claim to the priority of EP2 in EP3 and request
+correction (according to Rule 56(3) EPC) in order to introduce the missing pages 6 - 9.
+Request for correction is still possible until 12.032010 (i.e. 2 months from filing of EP3).
+Therefore, the withdrawal of the missing parts according to your request for correction
+dated 02.022010 has to be made before 12.032010, you can not wait until 29.032010.
+Neither can you wait for 01.072010 to add priority claim.
+Clams to an undenvater camera comprising the circuit Cl and the inventive connection
+between Fl and C could be added in EP3 or in a possible divisional patent application.
+3. Helping Norwayfish (NF) in their conflict with Swedishfish (SF) (19 marks)
+EPF validly claims priority from Sl , therefore the effective date of EPF is in October 2007.
+EP4 is prior art document under Art. 54(3) EPC against EPF_ Since EP4 does not disclose
+material M but only the general class G, EPF is new over EP4.
+The only document which discloses material M is PCTJLJ. If PCTJU validly enters the
+European regional (EP) phase, it would be prior art document under Art 54(3) EPC

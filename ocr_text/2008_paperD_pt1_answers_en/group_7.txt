@@ -1,0 +1,17 @@
+Question 5
+NL BE
+pending
+Filing of a divisional application: Art. 76, R_36 EPC.
+The divisional cannot extend the content of the patent application as filed A. 70.
+The parent application is still pending, R.36(1 ) 0K
+To be filed directly with EPO
+Designated contracting state. NL was designated in the parent application when
+divisional filed, Art76(2) fulfilled.
+But the parent application is filed by multiple applicants (A_59) designating different
+contracting states. A. 118 they are regarded as joint applicants so can act only
+commonly.
+Where the parent application is filed by multiple applicants the divisional should also
+be filed by the same multiple applicants.
+So the application will not be accepted as a divisional. It is suggested to file the
+divisional by both A and B and B should subsequently notify the EPO under R22 and
+withdraw as applicant (J2/01

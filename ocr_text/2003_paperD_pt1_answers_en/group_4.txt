@@ -1,0 +1,31 @@
+A 135(1)(b) EPC allows the national office of a Contracting State to apply procedure for
+grant of a national patent at the request of the applicant/proprietor in certain
+circumstances, where provided by national law.
+For Portugal, (see Nat Law Table VII, cols. 1 and 5 (pg 103)) European patent applicant
+cant be converted into a Portuguese patent application for the reason of refusal by EPO
+(only for deemed withdrawal, A 77(5) EPC; deemed withdrawal due to A 90(3) EPC
+because translation in language of proceedings under A 14(2) not filed in time). But can
+convert EP application that has been refused into a Portuguese application for a utility
+model (see col. 5) - could well be worthwhile doing that here.
+Conversion to national utility model also has lower inventive step requirements, so might
+be allowable - needs checking.
+Take steps of requesting conversion within 3 M of refusal of application (A 135(2) EPC)
+and then take steps referred to in cols. 2 + 3 on pg 103 Nat Law Table VII - will not need
+to appoint authorised representative if applicant has place of business/residence in
+Portugal.
+must apply for new appln within 3 months of decision becoming final (A 61(1 ) EPC) ie by
+(b)
+(i) Can file new EP patent application (A 61 (1 )(b) EPC). Rule 15 EPC sets out
+rules for filing new application, and A 61(2) EPC provides that provisions of A
+76(1) EPC also apply to the new application A 76(1) EPC does not allow subject
+matter of new application to extend beyond the content of the earlier application
+as filed (and A- IV, 1.33 and A - VIII, are relevant). So client would not be
+allowed to include further embodiments as this would extend beyond application
+as filed contrary to A 61(2) EPC in conjunction with A 76(1) EPC.
+(ii) No in view of R 37(4) EPC (which expressly refers to Article 61(1 )(b) EPC
+and says no fees due in respect of year in which new application is filed and any
+preceding year.
+Yes still entitled to file new European patent application even if original
+application A is not pending at time new application is filed (G 3/92). in fact
+the only thing client can do in these circumstances is to file a new application (G
+3/92) ie can't do either A 61 (l)(a) or (c) alternatives.

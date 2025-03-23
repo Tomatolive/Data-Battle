@@ -1,0 +1,29 @@
+3 Dimples and knobs
+[3=1] Dimples - EP3
+Client filed patent application on the day of the wedding, when the prototype was
+displayed. This appears to be the first public disclosure of the dimples. Whether or not
+the disclosure was enabling for the invention (that it is surprisingly noise reducing) is
+irrelevant as the state of the art under Art 54(2) EPC only comprises disclosures made
+before the date of filing. So showing the wing at the wedding does not constitute prior
+art (NE fax filing is sufficient to accord a filing date under Art 80 EPC; the EPO does not
+have to be open to receive the fax — the filing date is accorded provided all of the
+application is received before midnight).
+so EP3 has a filing date of 4/7/02.
+No prior an was found in the search so EP3 is novel.
+The surprising effect gives inventive step. Therefore EP3 is valid.
+[32] Dimples - EP4
+Provided all of application was faxed through to the EPO before midnight on 4/7/02, EP4
+will share the same filing date as EP3_ In this situation EP3 and EP4 are not prior art
+against each other and both would go to grant (Denmark and Germany are in the same
+time zone). There is no precedent for taking into consideration the actual time that the
+EPO received the application when two applications are received on the same day, so
+time difference of faxes = irrelevant
+However Mr Cervantes stole the dimples invention after the discussion at the wedding.
+The discussion took place after EP3 was filed and so cannot affect the validity of that
+application. MOWE is entitled to this invention and could start entitlement proceedings
+(in Denmark) for ownership of EP4, simultaneously requesting suspension of
+proceedings. Once ownership was obtained, either EP3 or EP4 could be allowed to
+lapse in order to prevent double patenting; alternatively MOWE could request refusal of
+EP4 directly (Art 61 (l)(c) EPC) (for at least the dimples technology).
+This should be raised in discussion with Mr Cervantes on 16/4/05.
+-5

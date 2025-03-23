@@ -1,0 +1,36 @@
+Answer to Question 7
+The 12 month term of Art. 87 EPC ends on 18/02/2002, since 16/02/2002 is a Saturday,
+Rule 85(1) EPC.
+a)
+b)
+c)
+Priority claim is valid in accordance with Article 87(3) EPC, because it is only
+necessary to have a valid filing date and the outcome Of the earlier application has
+no consequence.
+Priority claim is not valid. According to Rule 38(2) EPC the date and the state Of
+the previous filing must be stated on filing the European patent application.
+However, correction according to Rule 88 EPC seems allowable according to
+J9/91. Therefore, file request immediately.
+Priority claim may be corrected under Rule 88 EPC. File the request for correction
+sufficiently early for the correction or a warning to be included in the application to
+be published (Guidelines A-III 6.5).
+Answer to Question 8
+4 October 2001 is more than 5 days before the expiry of the time limit for priority (Art.
+87(1) EPC), which is 10 October 2001. 31 October 2001 is less than three months after
+the same time limit.
+The EPO may ask MS Sumo to file a confirmation of receipt by the delivery service
+(Article 1 Of the Decision Of the President Of the EPO dated 1 1 December 1998 (OJ EPO
+1999, 45)).
+The time limit under Article 87(1 ) EPC is thus deemed to be met according to Rule 811 a
+EPC provided that:
+i) the delivery service used by Ms Sumo belongs to those recognised by the EPO
+(Article 2 Of the before-mentioned decision)
+ii) the method of despatch of the request for grant documents complies with Article 3
+Of the before-mentioned decision.
+The further requirements which have to be fulfilled so far are complied with
+(Article 87(1), 88(1) and Rule 38(1) EPC).
+The EPO includes free of charge a copy Of the earlier application in the file Of the
+European patent application see Decision of the President of the EPO dated
+22 December 1998 (OJ EPO 1999, 80).
+A translation of the priority application is to be filed within the time limit of Rule 51 (6)
+EPC (Rule 38(5) EPC). A declaration under Rule 38(5) EPC would be sufficient.

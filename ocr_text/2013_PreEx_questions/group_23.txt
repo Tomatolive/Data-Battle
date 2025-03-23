@@ -1,0 +1,25 @@
+Claim analysis
+QUESTION 14
+For question 14, assume that claim IV is a single independent claim filed with the client's
+patent application and assume that a European search repoll cites Dl and fulther
+documents D2 and D3 whereby all documents are published prior to the filing date of the
+client's patent application.
+IV A bottle with a stopper (10, 20, 30) closing the bottle, whereby:
+- the stopper (10, 20, 30) has a body (2) comprising a liquid-impermeable and air-
+impermeable rubber,
+- the body (2) has an air channel (3) extending through the body (2),
+the body (2) is configured so that air inside the bottle can pass to the outside of
+the bottle via the air channel (3).
+For each of the statements 14.1 — 144, indicate on the answer sheet whether the
+statement is true or false.
+14.1
+14.2
+14.3
+14.4
+Claim IV is novel with respect to Dl _
+Claim IV is novel with respect to D2_
+Claim IV is novel with respect to D3_
+D3 discloses a stopper comprising a body and an air channel extending through
+the body.
+2013,'PE/EN
+Page 22 of 33

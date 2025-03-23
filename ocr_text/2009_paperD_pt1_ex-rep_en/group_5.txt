@@ -1,0 +1,36 @@
+Answer to question 7:
+Yes, although after his withdrawal your client is no longer a party to the opposition
+proceedings, it is possible to file this document as third party observations under Article
+115, Rule 114 EPC However, observations can only be taken into account until
+proceedings have been terminated, (Guidelines E-Vl,
+The EPO can continue the proceedings of its own motion if the opposition is withdrawn,
+Rule 84(2) EPC_ Although novelty is a ground for opposition which was not raised during
+the opposition period, new grounds may still be considered by the opposition division
+under Article 114(1 ) EPC if the document supporting these grounds is prima facie relevant,
+Rule 81 (1) EPC (see also G9/91 and/or GIO/91).
+Answer to question 8:
+Filing and search fee according to Article 78(2) EPC are due. They may be paid up to one
+month from filing, Rule 36(3) EPC, i.e. 3 April 2009. The search fee is reimbursed, Article
+9(2) RFees_
+Claims fees for 5 claims are due, Rule 45(1) EPC They may be paid up to one month from
+filing of the claims or within one month of a communication concerning the failure to
+observe the time limit of Rule 45(2) EPC
+Examination fee, Article 94(1) EPC, is due on the date of filing because of the request for
+examination in form 1001, see Article 4(1) RFees or Guidelines A-XI, 5.22 It may be paid
+up to six months from the date, on which the European Patent Bulletin mentions the
+publication of the search report, Rule 70(1) EPC.
+Designation fees, Article 79(2) EPC, are due on filing, Guidelines, A-Xl, 5.21. They may
+be paid up to six months from the date, on which the European Patent Bulletin mentions
+the publication of the search repot Rule 36(4) EPC
+The amounts of the fees are defined in Art 2 RFees_
+Answer to question 9:
+Although according to Article 76(1 ) EPC the divisional is deemed to have been filed on the
+date of filing of the earlier application, the date of receipt of the divisional application
+determines the applicability of the EPC2000, Notice from the EPO, 20 September 2007,
+OJ 10/2007 page 504 or Alticle 7(1) Revision Act or Article 1(1) Transitional Provisions.
+Therefore, Alticle 54(3) EPC2000 applies. The divisional application was made pending
+only after entry into force of EPC2000.
+Consequently, Dl is novelty destroying under Article 54(1) and (3) EPC2000 for the
+subject-matter of all claims of the divisional application for all contracting states D2 is still
+novelty destroying according to Alticle 54(2) EPC2000 for the subject-matter of claim 1
+-3

@@ -1,0 +1,47 @@
+(ii) the aluminium foil is not, as such, indispensable as the invention will work using a
+metal foil, as is also confirmed by D2 (D2 provides evidence that the skilled person would
+realise that the invention will work with a metal foil); and
+(iii) the replacement of an aluminium foil by a metal foil does not require modification of
+any other feature of the closure (see also Guidelines, C-VI, 5.3.10).
+Whether the amended claim relates to searched subject-matter may be relevant in view of
+the requirements of Rule 137(5) EPC But it is irrelevant for deciding whether the
+amendment adds subject-matter under Article 123(2) EPC
+15.1 - True
+15.2
+15.3
+15.4
+- True
+- True
+- False
+Question 16
+The subject-matter of Claim VI does not extend beyond the content of the application as
+filed, as it is based on paragraph [008] of the description, first two sentences
+The subject-matter of Claim VI reads on to a closure as shown in Figures 1-3. The
+thermoweldable material (26) is on a first sulface of the sealing part (20) and the sealing
+part may contain the polyester layer (22).
+The two-part form is incorrectly set with respect to Dl , as the preamble of Claim VI
+contains features not disclosed in Dl , such as the tab part (12) comprising a polyester film.
+The subject-matter of Claim VI is not novel over D? D2 also discloses: a
+tab part comprising a polyester film (6); a first portion of the polyester film being attached
+to a second surface of the sealing part (2) by a layer of adhesive covering up to half of the
+area of the sealing part; a second portion of the polyester film serving as a pull-tab The
+second portion of the polyester film is attached to the second surface of the sealing pan by
+a layer of adhesive that can be regarded as incomplete, as it does not cover the entire
+second surface.
+16.1
+16.2
+16.3
+16.4
+- False
+- True
+- False
+- False
+Question 17
+The subject-matter of Claim VII does not extend beyond the content of the application as
+field, as it is based on paragraph [012] of the description, first sentence.
+The subject-matter of Claim VII does not read on to a closure as shown in Figures 1-3:
+only the embodiment shown in Figure 4 without the polyester film 22 is configured to
+provide evidence of tampering.
+Claim VII lacks clarity as the characterising poftion is defined as a result to be achieved: it
+claims the underlying technical problem rather than the features that are essential far
+solving the problem. However, it is not worded as a method step (an example of a method

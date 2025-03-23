@@ -1,0 +1,27 @@
+Claim analysis
+Document D4 (Published March 2002)
+[001] This document describes a stopper for closing a wine bottle. Exchange of gasses
+between the interior and exterior of a wine bottle is necessary for wine to mature. Red
+wine requires more gas to be exchanged than white wine.
+[002] The stopper comprises a body made of synthetic rubber. Synthetic rubber is a
+material which is impermeable to liquids and to gasses such as air. However, when
+synthetic rubber is produced as a foam, the synthetic rubber foam becomes gas
+permeable via a randomly distributed, continuous network of interconnected air channels
+running through the synthetic rubber foam. The rate at which gasses can flow through
+the synthetic rubber foam cannot be predicted due to the random distribution of the air
+channels.
+[003] FIG. 1 shows a stopper 400 with part cut away. It comprises a body 402 made of
+synthetic rubber foam and a filter plate 404. The filter plate 404 is glued onto a first
+planar surface of the body 402 The filter plate 404 is made of an aluminium foil with
+perforations forming micro air channels. The filter plate 404 prevents wine from coming
+into contact with the synthetic rubber foam.
+[004] When the stopper closes the neck of a bottle, the filter plate 404 is located inside
+the bottle. Gasses can flow between the inside and the outside of the bottle via the micro
+air channels in the filter plate 404 and the air channels in the body 402
+[005] The stopper 400 comprises a blind hole 405 formed when producing the synthetic
+rubber foam. The blind hole 405 has an opening on a second planar sulface of the
+stopper. The second planar surface is on the outside of the bottle when the stopper is
+inserted in a bottle. The hole 405 acts as a guide for inserting a corkscrew 406 into the
+stopper 400.
+2013,'PE/EN
+Page 23 of 33

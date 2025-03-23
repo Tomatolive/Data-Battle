@@ -1,0 +1,22 @@
+Legal questions
+QUESTION 5
+On 1 February 2010 Document USI was published. USI discloses inventive feature A
+but not feature B. On 1 June 2010 your client filed European patent application EPI
+disclosing inventive feature B but not feature A. On 1 June 2011 your client filed
+European patent application EP2 claiming priority from EPI EP2 has the following
+claims: Claim 1 is directed to feature B; claim 2 is directed to the combination of
+features B and A EPI was published in December 2011. The combination of
+features B and A would be obvious if the skilled person were aware of the disclosures of
+EPI and USI
+For each of the statements 5.1 — 54, indicate on the answer sheet whether the
+statement is true or false.
+51
+52
+53
+The subject-matter of claim 2 of EP2 lacks inventive step.
+If EP2 had not claimed priority from EPI , the patentability of claim 1 of EP2 would
+not change.
+A valid novelty objection can be made using EPI against claim 1 of EP2.
+The subject-matter of claim 2 of EP2 is novel.
+2012,'PE/EN
+Page 6 of 36

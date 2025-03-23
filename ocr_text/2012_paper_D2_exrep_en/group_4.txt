@@ -1,0 +1,36 @@
+Possible solution - Paper D 2012 - Part II
+Answer to question 1
+EP-I was validly filed as no claims are needed for accordance of a filing date.
+EP-I is the first filing for a membrane module comprising the special nozzle N
+and the combination of ceramic membranes C and the nozzle made of
+stainless steel.
+EP-2 was filed within the priority period, 31.7_2010 extended to 2.089010
+Priority can be claimed from EP-I as the subsequent fate of the application is
+irrelevant. The priority is not valid for claim 1 in EP-2 as it is directed to a
+generalisation not derivable from EP-I, i.e. not to the same invention. The
+handbook is prior art under Art 54(2) EPC for claim 1 of EP-2_ The website
+posting is prior aft under Art. 54(2) EPC for claim 1 of EP-2. The disclosure on
+the website destroys novelty of the subject-matter of claim 1 of EP-2
+The priority is valid for claim 2 of EP-2 as it is directed to the specific
+combination of ceramic membranes and the nozzle made of stainless steel
+disclosed in EP-I _ Claim 2 of EP-2 is novel and inventive.
+PCT-I validly claims priority from EP-I as it was filed within the priority period
+and the claim of PCT-I is unambiguously and directly derivable from the
+general part of EP-I. The subject-matter of the sole claim of PCT-I is novel
+and inventive
+US-WG is the first filing for a module with nozzle N and a bundle of fibres
+made of polymer P and there is no relevant prior art EP-WG validly claims
+priority as it was filed within the priority period, i.e. 30.42011 extended to
+252011, and directed to the same subject-matter as US-WG due to filing by
+reference. As EP-WG was published and its priority is valid, EP-WG is 54(3)
+EPC prior art for claim 1 of EP-2_ The subject-matter of claim 2 of EP-2 is
+54(3) EPC prior art against the subject-matter of claim 1 of EP-WG because
+claim 2 of EP-2 validly claims priority from EP-I. The subject-matter of claim 1
+of EP-WG is not novel in view of claim 2 of EP-2_
+The demand for PCT-I was validly filed as the time limit is the transmittal of
+ISR plus 3 months.
+There is sufficient evidence before the examiner that a module also works
+with other materials than ceramic fibres; the objection as to the missing
+essential feature is likely to be dropped resulting in a positive IPER
+The time limit of 30 months for entering the US national phase with PCT-I has
+lapsed.

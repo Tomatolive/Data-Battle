@@ -1,0 +1,41 @@
+Question 8
+Most candidates did mention the possibility Of filing the observations under
+Art. 115(1) EPC for introducing the article into the proceedings. Not all Of them clearly
+stated that the examining division actually will check whether the priority claimed is valid,
+because the article has been published in the priority interval, and the application
+contains more text than the priority application (Guidelines C-V, 2.1), and thus will set
+a time limit for filing the translation of the priority application. — Very few suggested
+searching for corresponding national applications, Or instructing a JP patent attorney
+to compare application and article.
+Question 9
+Almost all of the candidates acknowledged that the requirements of Art. 123(2) EPC had
+been contravened and that the ground of opposition under Att. IOO(c) EPC was justified.
+Many mentioned the impossibility Of deleting the restriction without extending the scope
+Of protection under Art. 123(3) EPC. Very few have correctly discussed G 1/93, as to
+whether and when the criteria for maintaining or replacing the added restriction are
+fulfilled. The majority however concluded that the patent will be revoked. Actually this
+conclusion is not strictly correct. The fact that the proprietor cannot maintain the patent
+as granted, in particular claim 1 , does not amount to the patent being revoked (in its
+entirety). Actually, the proprietor might be able to fall back to an allowable claim without
+the non-admissible restriction. Very few answered the question fully and correctly.
+Question 10
+Before commenting on the answers, it is worth stressing that the question was Whether
+the error (missing claim in the French translation) could be corrected before the EPO
+(not before any national instance) in the situation as delineated. Actually, not many
+acknowledged that and explained why the error cannot be corrected before the EPO.
+First Of all, the error did not result from the publication Of the specification Of the patent by
+the EPO (ie no printing error). The error was already present when the French translation
+of the claims was filed by the applicant.
+A high number of candidates Were not aware that the translation Of the claims in the two
+other languages actually is not part Of the decision to grant.
+Although the question did mention that no opposition had been filed (and the day Of the
+examination was well after the nine month period of AN. 99 EPC), hence neither opposi-
+tion, nor opposition-appeal proceedings were running, many nevertheless suggested
+correction under Rule 88 EPC, first or second sentence. They were actually not aware
+that for Rule 88 EPC to be applicable (implementation of Art. 123(2) EPC) proceedings
+before the EPO must be running (Guidelines, C-VI, 5.9).
+Several wrongly relied on legal certainty for the public (missing claim) to justify the
+correction of the error by a new publication of the specification by the EPO.
+Some candidates correctly acknowledged that the text in the language Of the proceed-
+ings is the authentic text (see Art. 70(1) EPC), and this text was complete and correct.
+Many Of these did not use the information correctly.

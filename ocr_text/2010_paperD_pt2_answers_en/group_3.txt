@@ -1,0 +1,44 @@
+A priority claim to EP2 should be added (deadline for taking this
+action is 1/3/09 + 16 months = Sat 1/7/10, R52(2), extended to
+Monday 3/7/10, R134(1); however, it must be done at the latest at
+the same time as taking step (2) below); and
+A new request to incorporate pages 6 to g into EP3 bv reference
+to EP2 should be made (deadline is 12/1/10 + 2 months = 12/3/10,
+R56(3) EPC This request will involve filing a copy of EP2
+(probably not strictly needed as EPO has a copy of EP2 already,
+but advised in view of close deadline), and indicating where the
+missing pages are found in EP2 (in this case, they correspond
+directly to pages 6 to g of EP2Y
+In view of the close deadline of 12/3/10, it is recommended to withdraw the
+current pages 6 to g and to carry out steps (1) and (2) in a single letter.
+Once priority has been validly claimed from EP2 and the missing pages duly
+incorporated, EP3 will retain its original filing date, i.e. 12/1/10.
+Accordingly, KA's subject-matter will be divided and in Europe as follows-
+Electromagnetic Siqnal
+Covered in EP2. This claim appears novel and inventive over the
+20/1/09 conference and the EPKM Internet disclosure as these do not
+have an enablinq disclosure of the actual signal structure. A similar point
+applies in relation to novelty over EPKM itself as a prior right.
+There is also no evident intervening disclosure of the signal before the
+filing date of EP3_ EP3 also discloses the signal but priority cannot be
+clamed back to EP2 for this subject-matter because the first application
+was EPI and this was still pending when EP2 was filed. Nonetheless, to
+save costs, KA could consider withdrawing EP2 before publication if the
+risk of an intervening disclosure of the signal between 1/3/09 and 12/1/10
+is considered to be very small.
+If EP2 is not withdrawn before publication, it will destroy the novelty of
+any claim in EP3 to the signal as a European prior right
+Note that addition of a priority claim in EP3 to EPI, to establish an
+effective date of 12/1/09, for the signal claim, is QQ! recommended in
+view of the need to render EPKM insufficient — see Section 1 above for
+more details.
+Fl
+First disclosed, and claimed, in EP2. It appears possible to prosecute
+this subject-matter to grant in EP2 and also in EP3 since EP3 validly
+clams priority of EP2. In this situation, there may be double patenting
+issues at a national level post-grant. Alternatively, Fl could be deleted
+from EP2 or EP3 (and clearly the situation is moot if EP2 is withdrawn as
+proposed above).
+First enabling disclosure is in EP3_ There is no indication that this claim
+will not be allowable (EP2 even if maintained will not destroy novelty as a
+-3

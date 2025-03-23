@@ -1,0 +1,40 @@
+R 84a EPC does not apply to filing date itself as was no "due date" missed.
+So, effective date for A and contacts subject matter is 08.11.02.
+EP2 claims priority from FRI FRI discloses plugs with triangular contacts only.
+EP2 validly claims priority from FRI since they have same applicants (LBP) and
+EP2 was filed within 12 months of FRI's filing date, but only in respect to the
+same subject matter. Therefore subject matter in EP2 relating to plugs with
+triangle contacts has valid claim to priority of 6.6.01 _ But subject matter in EP2
+relating to plugs with square contacts is entitled only to the filing date of EP2, ie
+This means for:
+(i) square contact subject matter in EPII which has effective date of 1.11.02, EP2
+is not prior art since the square contact subject matter in EP2 has an effective
+date of 14.11.01 _ In fact, EPI is prior art for novelty only (under A 54(3) and (4)
+EPC) - not inventive step - against the square contact subject matter in EP2 as
+EPI has an earlier effective date than EP2 but will be published after the filing
+date of EP2, in respect of the states that are designated in both applications and
+only if EPI publishes as a regularly published application under A 93 EPC and
+the designation fees for EPI are paid (R 23a EPC).
+EPI is not due to be published until after 18 months from priority date, so 18
+months from 111.01 , ie due to be published soon after 1_5.03_ Designation fees
+are due (and examination fee and request for examination) within 6 months of
+publication of search report (and R 85a grace periods apply), which will either be
+published at same time as application or later. So PP need to make sure this is
+done in order that EPI is A 54(3) EPC prior art against EP2 for square subject
+matter.
+(ii) for triangular subject matter in EPI , effective date is 8.11.02 (actual filing date)
+so EP2, which has then published, is full prior an for novelty and inventive step (A
+54(2) EPC) against this application. A subject matter of EPI looks like it lacks
+novelty over EP2
+(iii) for pentagon subject matter in EPII effective date is & 11.02, ie actual filing
+date. EP2 is full prior art as explained above. EP2 does not disclose plugs with
+pentagon contacts so EP2 does not give rise to lack of novelty of subject matter
+of EPI_ Issue is inventive step: Is a pentagon-shaped contact obvious in view of a
+triangular or square shaped contact, as disclosed in EP2. From client letter
+seems that pentagon shape is equivalent solution to triangle and square shape
+so may be difficult to argue that this subject matter has an inventive step over
+EP2.
+Also be to checked, is there a US patent application publication? there should be
+as USI and US2 were filed after the 2011.00 date at which publication of US
+applications took effect. USI was withdrawn so wouldn't have published IJS2
+would have published - but not sure if date is 18 M from filing date of IJS2 or 18 M

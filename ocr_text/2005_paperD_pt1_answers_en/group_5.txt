@@ -1,0 +1,31 @@
+Both fees should be paid to the EPO as PEA
+According to Art 34(2)(c) PCT the applicant will get at least 1 written opinion from the
+IPEA unless the application complies with all requirements, however the written opinion
+of the search authority will be considered to be the written opinion of the exam authority
+(R66_ 1 bis(a) PCT), so if no amendments are filed in response to this written opinion, the
+International exam report will be the same as the written opinion.
+Therefore the applicant should file reasoned arguments and amendments under
+Art 34 PCT if appropriate, in response to the objections raised in the written opinion,
+directly to the EPO, at the same time as filing the demand, indicating that the response
+is for the purpose of the Chapter II examination procedure.
+Question 6
+No. Under Art 59 EPC it is possible to have different proprietors for different states.
+Under R52 EPC, patent is granted to each applicant accordingly. According to
+Art 118 EPC, where the proprietors are not the same for all designated states, they shall
+be regarded as joint proprietors for all proceedings before the EPO, and the text of the
+patent shall be uniform for all states, unless othemise provided for in the EPC
+This also applies in opposition proceedings (T272/95)_
+The only exceptions to this unity requirement are where there are different European or
+national prior rights for different states, where a 3rd palty is judged to be partially entitled
+to the application under Art 61EPC, or where states have reservations (no longer
+applicable). None of these exceptions apply in this case so far as we know:
+Different European prior rights for different states under Art 54(3), (4) and R23a may be
+raised in opposition under Art 100(a) EPC but this could only give different claims for
+Austria only if the prior European rights applied only to
+Austria, or to all states except Austria Prior national rights are not a ground
+under Art 100 EPC
+A and B agreed to share the application, so the entitlement exception also
+does not apply.
+Therefore cannot pursue different sets of claims (unless European prior rights
+makes Austria an exception as discussed).
+-5

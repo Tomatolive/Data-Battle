@@ -1,0 +1,37 @@
+Possible Solution
+- Paper D 2009 - Part I
+Answer to question 1:
+a) Yes, according to Article 14(2) EPC, European patent applications may be filed in any
+language, thus in Italian by a GB national living in UK Translation of EP-I in an official
+EPO language is required.
+b) No, amendments for EP-2 must be filed in the language of the proceedings, Rule 3(2)
+EPC. The language of the proceedings is the one in which the application was filed, Article
+14(3) EPC. Here, this is French.
+c) No, a GB national living in the UK does not enjoy the language privilege under Article
+14(4) EPC and should have filed the opposition in DE, EN or FR, Rule 3(1) EPC_ Thus, the
+opposition to EP-3 is deemed not to have been filed, Article 14(4) EPC_
+Answer to question 2:
+Filing the opposition in the name of A alone: Even though it is possible to file the
+opposition in the name of company A alone, this is not advisable because it is not possible
+to transfer an opposition filed in the name of company A to another company, G2/04_
+Filing the opposition in the name of B alone: Not being an employee of company B, you
+cannot validly file an opposition in the name of company B alone, Article 133(3) EPC
+Filing a joint opposition: Joint opposition is possible according to G3/99. It is the advisable
+approach in this situatiom By this procedure, company B is joint opponent and will remain
+so even after being sold to company C. In the case of a joint opposition of A and B, no
+professional representative is needed since both companies have their place of business
+in one of the contracting states, Alticle 133 EPC, and company B remains joint opponent
+after sale to company C. In the case of joint opposition you, i.e. as an employee of A, can
+be the representative provided that A is common representative either by explicit
+statement in the notice of opposition or the first named opponent, Rule 151(1) EPC, G
+3/99. Signatures of A and B are required but can be submitted later.
+Answer to question 3:
+Since the separate invention is not unitary with the claims of EPI , the applicant A has to
+file a divisional application claming the separate invention, Alticle 76(1) EPC, Guidelines
+C-VI g. 12 or C-lll TIO, last paragraph. For the divisional application to designate Ireland,
+IE has to be designated in EPI according to Article 76(2) EPC
+According to Rule 39(1) EPC, the time limit for the payment of designation fees is six
+months from the publication of the search report of EPI, which expires on 13 February
+2009 (Friday). On 3 March 2009, it is too late to pay the designation fees for IE for EPI
+according to Article 79(2) EPC_ Therefore, the designation for IE is deemed to be
+withdrawn according to Rule 39(2) EPC

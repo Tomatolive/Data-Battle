@@ -1,0 +1,23 @@
+Question 7
+Yes.
+10:54 11.03
+Although a proprietor cannot terminate opposition proceedings by surrender of
+the patent (T73/84), he can get the patent revoke by stating that he no longer
+approves the granted text (i.e. the text as unamended) and not providing an
+amended text Such a statement is regarded as an amendment to be taken
+into account under EPCa.102(3) (see Legal Advice Ll 1/82, paragraph 2),
+which means that if no alternative text is provided by the applicant, the patent
+cannot be maintained, even in its form as granted (EPCa 113(2)). This was
+confirmed in T73/84 and T186/84_
+=> Even though the Opposition Division believes the patent to be valid, a
+request for revocation by the proprietor (which is regarded as disapproval of
+the text as granted T 186/84) will result in the patent being revoked, although
+not under EPCa 100(1), (4) or (5) (see L 11/82, third paragraph).
+Question 8
+No.
+11.05 11.23
+EP-B
+27.042005
+Mention of grant was published on 27.04_2005 => the 9 month period for filing
+a notice of opposition under EPCa.99(1) expired on 27.012006 (Friday =>
+EPO open).

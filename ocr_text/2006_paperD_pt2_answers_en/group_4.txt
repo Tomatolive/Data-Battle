@@ -1,0 +1,27 @@
+EPB has an earlier filing date (Apri104) and was published later (we
+know it is published because the 18-M period for publication expired
+October'05 and moreover you have detected said publication). Assuming
+designation fees are paid for EPB, this will be prior art under 54(3) for the
+assessment of novelty (A54(3)(4), R23a). By the way, this is irrespective
+of the fact that eventually the common designations may be withdrawn in
+EPB. Changes taking effect after the valid publication of the application
+do not affect its status as prior art under A54(3) (see C-lV-6_ la).
+EPB discloses a panel having 10 Ulm x 2 m long, i.e. a panel which falls
+within the scope of our claim 3 *claim 3 is not novel over EPB_
+According to GI/03, it would be possible to introduce a disclaimer to
+restore novelty against this A54(3) disclosure (from what you have told
+me I have understood that the structure of the panels in EPB is new and
+different to yours but that there are 2 embodiments of panels such as
+yours disclosed in EPB).
+However, in addition to EPB, also Dl is prior art. Dl was published on
+1509.04 and thus is full prior art under A54(2)_ Since Dl discloses
+panels having 5-16 Ulm albeit of any length — but all examples disclosed
+fall within the scope of claim 3 (all have 1 m of length), claim 3 is not
+novel over the publication of Dl_ Moreover, Dl is also prior art relevant
+for the assessment of inventive step. Claim 3 thus does not seem to be
+valid.
+CLAIM 4 — Solar panels having undulating walls with 15-30 Ulm and > 3 m
+length
+Such a combination of features is only disclosed for the first time in ITI and thus
+according to G2/98, it is only entitled to that priority date (cannot be regarded as
+the same invention disclosed in Fl or Dl)_

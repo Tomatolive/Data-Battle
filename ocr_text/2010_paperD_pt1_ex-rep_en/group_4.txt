@@ -1,0 +1,40 @@
+Answer to question 4:
+a) The filing date according to Article 80 EPC is the date on which the filed documents
+contain, according to Rule 40(1) EPC: an indication that a European patent is sought;
+information identifying the applicant or allowing the applicant to be contacted
+(letterhead); and a reference to a previously filed application. According to Rule 40(2)
+EPC the reference has to include the filing date and number. Further, the applicant must
+have provided a certified copy to the EPO, Rule 40(3) EPC, Rule 55 EPC.
+b) The exceptional situation according to Article 4.C Paris Convention does not apply for
+any of the following reasons: CN-A was not filed in or for the same state; CN-A was not
+withdrawn before filing EP-A; or CN-A was published. The international application
+cannot validly claim priority from EP-A because it is not the first application in the sense
+of Article 4 Paris Convention, Article 8(2)(a) PCT. The effective date of PCT-A would
+therefore be its filing date. CN-A would be pre-published prior art and would be novelty
+destroying for PCT-A_
+Answer to question 5:
+For PCT-U, the EPO will draw up a supplementary European search report since the
+USPTO was the International Searching Authority (ISA), Article 153(7) EPC, on the
+invention first mentioned in the claims, i.e presently PCT-UI Rule 164(1) EPC. To
+continue with the second invention PCT-lJ2i upon recept of the communication according
+to Rule 161 EPC, the application should be amended to make PCT-U2 the invention first
+mentioned in the claims. Alternatively, claims relating to PCT-UI should be deleted. Thus,
+the EPO will draw up the supplementary European search report based on PCT-U2.
+For PCT-E, there will be no supplementary European search report since the EPO was the
+ISA Decision of the Administrative Council dated 25 October 2007 or OJ 2007 page 642
+Hence, USCO can only proceed with the searched invention, i.e. PCT-EI, Rule 164(2)
+EPC, even if PCT-E is amended to make PCT-E2 the invention first mentioned in the
+claims. A divisional application will have to be filed directed to PCT-E2
+Answer to question 6:
+Italy requires translation of the patent specification within three months from mention of the
+grant in the Bulletin according to Alticle 65(1) EPC and National law relating to the EPC,
+Table IV or OJ 2008 page 123 The three months period ended 9 February 2010, hence
+the translation was duly filed.
+Italy has adopted the provision pursuant to Alticle 70(3) EPC, see National law relating to
+the EPC, Table V. Because the translated claim is narrower than the claim in the language
+of the proceedings, the translation is regarded as authentic in Italy.
+According to Article 70(4)(a) EPC, X may file a corrected translation. Neveltheless, Y is
+allowed to continue to produce and sell even after the corrected translation was made
+available because Italy has made provision pursuant to Alticle 70(4)(b) EPC, see National
+law relating to the EPC, Table V. Thus, X cannot stop Y _ However, if Y did not act in good
+faith according to Article 70(4)(b) EPC, X can stop Y _

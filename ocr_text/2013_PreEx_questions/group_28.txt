@@ -1,0 +1,23 @@
+Claim analysis
+QUESTION 17
+For this question consider only claim V_3 of claim set V and assume that:
+a) the EPO examiner considers D4 to be the closest prior art;
+b) the EPO examiner identifies as a distinguishing feature with respect to D4 the fact
+that the air channel is a through-hole extending from the first planar surface to the
+second planar surface and that the filter unit is attached to cover an end of the
+through-hole.
+For each of the statements ITI — 174, indicate on the answer sheet whether the
+statement is true or false.
+Given a) and b), a valid formulation of the objective technical problem for analysing
+claim V.3 using the problem-solution approach is
+17.1
+17.2
+17.3
+174
+how to make a stopper for a bottle having a predictable gas permeability.
+how to make a stopper for a bottle comprising a straight air channel.
+how to make an air permeable stopper without using cork
+how to make a stopper for a bottle that allows to better predict the maturation
+of the wine.
+2013,'PE/EN
+Page 27 of 33

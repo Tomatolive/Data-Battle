@@ -1,0 +1,22 @@
+As EPB discloses an example solar panel of 2 metres with undulations of 10
+U/m, this will also be novelty destroying for claim 3, provided the designation
+fees are paid.
+There does not appear to be much scope for amending claim 3 to render it
+allowable. We are not told what basis there may be in the application as filed
+(EPCa_ 123(2)) to get around the publication of Dl_ Given that Dl is directed
+towards the same technical effect, and discloses a panel size in the less than
+3m range, it is hard to see how any amendment to sub-ranges of panel size
+would be inventive anyway (EPCa_56). Claim 3 therefore appears invalid, and
+should be deleted.
+CLAIM 4
+Claim 4 is directed to solar panels having undulating walls with 15-30
+undulations per metre (U/m) and being more than 3m in length. This subject
+matter was first disclosed in the Italian patent application ITI (filed
+22.092004), from which PCTI validly claims priority (EPCa.87(1), G 2/98).
+The effective filing dare of this subject matter is therefore 22.002004.
+Once again, the two Tokyo disclosures of 2002 and 2004 are part of the state
+of the art under EPCa.54(2)_ However, as they do not disclose a solar panel
+of greater than 3m in length (the example is 1m), they will not be novelty
+destroying. Moreover, the subject matter of claim 4 would be inventive over
+these disclosures (EPCa56), because they relate to mechanical strenqth, and
+are nothing to do with improved thermal efficiency.

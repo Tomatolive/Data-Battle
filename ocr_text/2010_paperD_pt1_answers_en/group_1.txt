@@ -1,0 +1,44 @@
+Candidate's answer
+The last request mav be accepted.
+The extent of the opposition is defined by the notice of notice of opposition filed
+under Agg EPC/R76(2) EPC - specifically R76(2) EPC
+The notice of opposition must be filed within 9 months of publication of the
+mention of grant A99(1 ) EPC_
+Subject-matter not covered by the extent of opposition is QQ! subject to any
+opposition in the sense of AIOI and nor are there any proceedings in the sense
+of A114 and A115, (39/91 _
+Thus, the attempt to extend the opposition to claim 2 will be rejected.
+However, there may still be a chance of succeeding in getting the patent revoked.
+In particular, it is only necessary for a single claim in the set of claims on file to be
+found unallowable in order for that set of claims to be rejected in its entirety
+(T926/93).
+Thus, if claim 1 is found to lack novelty and/or inventive step then the patent will
+be revoked (unless the patentee files auxiliary requests directed to a more limited
+set of claims not sharing this deficiency).
+In principle, the objection of lack of novelty against claim 1 should have been
+made in the notice of opposition, GIO/91
+However, the Opposition Division must nonetheless consider every ground
+raised, including those raised only during the opposition proceedings, GIO/91
+such new grounds are only to be admitted if they appear prima facie relevant,
+GIO,'91_
+Thus, the Opposition Division is required at least to consider the relevant of the
+new ground of lack of novelty in relation to claim 1 _ if it is prima facie relevant and
+on further examination correct, then the claims as granted will be rejected as a
+whole (T926/93) on the basis of lack of novelty of claim 1
+Alternatively, should the Opposition division either not admit the lack of novelty
+attack as not bang prima facie relevant QL not being found correct, then the
+clams as granted could still be rejected as a whole on the basis of the lack of
+inventive step attack put fonvard in the original notice of opposition.
+2
+Protection can be obtained only for the football made of 33 patches of PX_
+A divisional application can only be filed in respect of subject-matter that does not
+extend beyond the content of the earlier applications as filed (A76(1 )EPC) and
+while the earlier application is pending (R36(1))_
+DIV-I was thus validly filed as its subject-matter was completely contained in EP-
+1 and it was filed before EP-I was withdrawn, i.e. while EP-I was pending.
+DIV-2 however currently does not fulfil the requirements of A76(1) EPC, because
+it discloses the stitching method whereas the earlier application, DIV-I , does not.
+Note that the requirements of A76(1) must be assessed in relation to the
+disclosure of DIV-I not EP-I as DIV-2 is a divisional of DIV-I (GI /05). It would in
+fact not have been possible to file DIV-2 as a divisional of EP-I since EP-I was
+already withdrawn (i.e. fails the R36(1) requirement).

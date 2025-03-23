@@ -1,0 +1,17 @@
+Question 1 1
+Can't file declaration that texts correspond because don't (R38(5).
+R51(4) communication deemed received (notified) 10d after date of communication
+(R78(2) EPC) = 25/11/04
+Therefore 4 months to respond expires 25/3/05 (R83(4) EPC) Friday but = Easter
+holiday
+Therefore time limit extended to Tuesday 29/3/05.
+Translation only available some time this week - or on 28/3/05?
+Option 1
+As R51(4) communication was issued before 1/4/05, it will be possible to extend the time
+limit for response by 2 months under R84 EPC, so deadline for filing translation will be
+25/5/05 (Wednesday), so request extension before 29/3/05 and file translation when
+available.
+Option 2
+Clarify with translation service that "ready only in week after 28/3/05" means available
+from 28/3/05 — in which case, can fax-file it to the EPO on 29/3/05 and will be within the
+time limit (as shown above).

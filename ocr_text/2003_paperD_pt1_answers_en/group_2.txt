@@ -1,0 +1,37 @@
+Q2(c)
+No - there is no pending application as required by R 25(1) EPC on which divisional may
+be based.
+Opposition proceedings only relate to granted patents (A 99(1) EPC).
+R 60(2) EPC/A 114 EPC is not applicable to appeal proceedings in opposition because
+of the different legal nature of the proceedings (G 7/91). So withdrawal of appeal by
+opponent as sole appellant terminates appeal proceedings (G 7/91 Termination of
+appeal occurs irrespective of whether patent satisfies requirements of EPC (G 8/93).
+Intervention under A 105 EPC is admissible if filed during pending appeal proceedings
+(G 1/94). But if filing of intervention and filing of sole appellants notice of withdrawal of
+appeal take place on same day then their chronological order must be taken into
+account (T 517/97Y Withdrawal of an appeal has immediate effect and is not postponed
+to midnight on date of filing (T 51 7/97) - T 517/97 also related to filing by fax and in view
+of this, in Q3 A 105 EPC intervention wouldn't be admissible (fees for opposition and
+appeal would be refunded). [Doesn't matter when confirmation of fax was received].
+Notice of opposition needed to be filed within 9M of publication of grant of patent
+(A 99(1) EPC) ie by 100303 (Wednesday). Fee for opposition (RFee 2, item 10 = 610
+Euro) was also due that day
+Notice of opposition was sent in time (14.03.03)_ Fax filing allowed (OJ 1992, 299) and R
+36(5) EPC EPO may request written confirmation of fax and probably good idea to send
+this anyway. Fee arrived late (20.0303) by 1 day and was insufficient amount
+(122 Euros too little) but this is 0K because of RFees 12(1) - 20% reduction in
+opposition fee ie 20% of required amount, R 6(3) EPC for A 14(2) EPC situation.
+RFees 8(3) provides that will be considered filed in time if an order was given to a
+banking establishment within the period set (ie before 1003.03, which it was) and a 10%
+surcharge was paid (or is within 10 days of expiry of period for paymenty Didn't pay
+surcharge - so under Rule 8 fees 8(4) EPO will ask for surcharge and evidence of
+transfer to bank establishment in time pay this:
+Lanquaqe
+Spanish opponent (by nationality) so A 14(4) EPC applies (as opposition must be filed
+by time limit) - opposition can be filed in Spanish so is 0K. But must file translation
+within 1M of filing document (R 6(2) EPC, A - VIII, 2.1) or else is deemed not received
+(A 14(5) EPC). So have until 14.04.03 to file translation into English, French or German
+under R 6(2) EPC As opposition was filed by fax, subsequent copy must be sent in
+same language as fax and then copy is deemed received on date of filing fax
+(A - 1k', 2.5).
+-2

@@ -1,0 +1,46 @@
+The closure of Claim II is attachable to a bottle as opposed to being attached. Therefore,
+Claim II protects a closure independently of a bottle.
+12.1 - True
+12.4 - True
+c-lll, 4 13
+14.1 - True
+14.2 - True
+14.3 - False
+14.4 - True
+12.2
+12.3
+- True
+- True
+Question 13
+The subject-matter of Claim Ill reads on to a closure as shown in Figure 4 but not to a
+closure as shown in Figures 1-3. The thermoweldable material is on a first surface of the
+metal foil (24). On the second surface of the metal foil (24) the tab-pan (12) is attached.
+The polyester film (22) is excluded by the wording of Claim Ill.
+The subject-matter of Claim Ill is novel over Dl . Dl does not disclose a tab-part attached
+to the second surface of the metal foil.
+The closure of Claim Ill is (suitable) for a bottle; the bottle is not claimed as such.
+Therefore, Claim Ill protects a closure independently of a bottle, see also Guidelines,
+13.1
+13.2
+13.3
+13.4
+- False
+- True
+- True
+- True
+Question 14
+The subject-matter of Claim IV reads on to a closure as shown in Figures 1-3 and in Figure
+4. The thermoweldable material is on a first sulface of the sealing part (20). It is not
+specified whether or not the sealing part includes the polyester film (22); both options are
+possible _
+The subject-matter of Claim IV is novel over Dl. Dl does not disclose a tab part (12)
+comprising a polyester film.
+The subject-matter of Claim IV is not novel over D2_ D2 discloses all features of Claim IV
+including a tab part (6) comprising a polyester film, a first poftion of the polyester film being
+attached to a second surface of the sealing pan (2) and a second portion of the
+polyester film serving as a pull-tab (9).
+Question 15
+Statements that form at least part of an argument in support of the modification by
+replacement in Claim V being allowable under Article 123(2) EPC are that
+(i) the use of aluminium for the metal foil was not explained as essential in the application;
+-5

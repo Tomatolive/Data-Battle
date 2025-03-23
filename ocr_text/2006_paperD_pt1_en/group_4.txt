@@ -1,0 +1,18 @@
+-3
+Question 5
+(5 points)
+A European patent application EPI designating all contracting states was filed in January 2004
+and validly claims the priority of a patent application filed in January 2003. The mention of the
+grant of the European patent based on EPI has been published on 1 February 2006
+A client wishing to oppose EPI provides you with a European patent application EP2
+designating all contracting states EP2 discloses the same invention as EPI and has been
+published in September 2003. The publication of EP2 mentions a filing date of February 2003
+and a priority date of a Portuguese national patent application filed in March 2002. The
+Portuguese national patent application has been published in September 2003 and discloses
+the same invention as EP2_
+According to a file inspection, no copy of the priority document for EP2 has been filed. Fulther,
+the applicant for EP2 failed to respond to a communication pursuant to Rule 41 (1) EPC dated
+July 2003 objecting to the missing copy of the priority document and setting a period of
+4 months to remedy the deficiency.
+Can patent EPI be revoked on the basis of EP2?
+2006/Dl/e,'3

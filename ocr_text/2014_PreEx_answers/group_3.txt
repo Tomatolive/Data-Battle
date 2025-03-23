@@ -1,0 +1,33 @@
+processing for paying a renewal fee is excluded by the provisions of Article 121 (4) EPC
+and Rule 135(2) EPC_
+5.1 - False
+5.2 - False
+5.3 - True
+5.4 - False
+Question 6
+The time limit for filing the requested adapted description expired on 20 February 2014
+[10 December + 10 days (= 20 December 2013) + 2 months (= 20 February 2014),
+Rule 126(2) EPC, Article 94(3) EPC and Rule 131 (4) If the applicant fails to reply in
+due time, in this case on 20 February 2014, the application is deemed to be withdrawn,
+Article 94(4) EPC An extension may be requested before the expiry of the period only,
+Rule 132(2) EPC, second sentence, see also Guidelines, E-Vll 1 Further processing
+may be requested within two months of the notice of loss of rights, Rule 135(1) EPC This
+notice not having been received yet, the period cannot be calculated. As it cannot be less
+than 2 months from today, 24 February 2014 the last date for validly requesting further
+processing must be after 22 April 2014.
+6.1 - True
+6.2 - False
+6.3 - False
+6.4 - False
+Question 7
+The requirements for obtaining a date of filing are set forth in Rule 40 EPC: in particular
+there is no obligation to pay any fee or to file at least one claim. Everything made available
+to the public (e.g. by oral description) before the date of filing of EP-X is prior art A
+disclosure made on the same date as the date of filing of EP-X is not prior art for EP-X,
+Article 54(2) EPC If a date of filing is accorded to EP-X, right to priority under the
+Paris Convention for the protection of industrial property (Article 4 A) can be derived from
+EP-X, for instance for filing an international application.
+7.1 - False
+7.2 - False
+7.3 - False
+7.4 - True

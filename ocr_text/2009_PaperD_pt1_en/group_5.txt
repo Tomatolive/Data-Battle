@@ -1,0 +1,26 @@
+QUESTION 7
+(4 points)
+In opposition proceedings before the EPO you represent an opponent who filed an
+admissible opposition within the opposition period which has now expired. No further
+opposition was filed. The opposition is based only on the ground that the subject-matter
+of the sole independent claim of the patent as granted extends beyond the content of the
+application as filed. On your client's instructions you withdrew the opposition.
+Today, your client becomes aware of a clearly novelty destroying prior art document
+against the independent claim and wants to draw the attention of the opposition division to
+this document From file inspection you find out that the withdrawal letter is already on file.
+The opposition division has not yet terminated the opposition proceedings.
+Is there a possibility that the opposition division still considers the document?
+QUESTION 8
+(5 points)
+A European patent application API was duly filed on 23 February 2008 claiming priority
+from earlier application PRI filed on 24 March 2007 _ Application API , as originally filed,
+contained 30 claims. At the search stage a non-unity objection was raised. The applicant
+paid one fulther search fee. The subject-matter of all claims was searched Application
+API is still pending.
+Today, 3 March 2009, the applicant files a divisional application using form 1001. The
+divisional application contains a set of claims 1 to 20, which correspond to claims 11 to 30
+originally filed in API Claims 1 to 20 of the divisional application relate to the second
+invention already searched in API _
+What fees are due on filing and until when can these fees be paid? What is the legal basis
+for the amounts of these fees?
+2009/Dl/e/4

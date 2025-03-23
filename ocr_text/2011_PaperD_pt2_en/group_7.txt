@@ -1,0 +1,27 @@
+Page 6 of7
+The first claim of the granted patent was to the special brake lever, and there was also a
+claim to a bicycle brake system including at least one brake lever according to the first
+claim. The description of EP-Ax merely indicates that the brake lever is for use in a
+bicycle brake system of the type having at least one disc brake. However, there is no
+description or picture of any bicycle, nor is there any mention of rim brakes.
+Pankutaya opposed EP-Ax on grounds of lack of novelty on the basis of their earlier
+European patent application, EP-PAN2, which is state of the art under Art 54 (3) EPC It
+discloses and claims a bicycle with the same brake lever as ours and with hydraulic rim
+brakes. It includes a very detailed drawing of the brake lever. Therefore, in addition to
+our main request to reject the opposition, we filed an auxiliary request limiting the
+independent claim of EP-Ax to a bicycle brake system with the special brake lever, and
+with a disclaimer to disclaim bicycle brake systems in which the brake lever is used to
+actuate hydraulic brakes. EP-Ax was maintained by the Opposition Division in amended
+form in accordance with our auxiliary request.
+As a matter of fact, the bicycle described in EP-PAN2 was never put on the market The
+reason for this is that it is impossible to make a functioning brake system with hydraulic
+rim brakes and the brake lever.
+We have not yet appealed the interlocutory decision of the Opposition Division, but the
+period for appeal has not yet expired. Pankutaya immediately appealed and also filed
+their statement of grounds of appeal. In the statement they only argue that the subject-
+matter of the claim of EP-Ax is insufficiently disclosed because a functioning bicycle
+brake system fitted with the brake lever in combination with a hydraulic rim brake cannot
+be made. We accept that this is true. We have done our own tests and found that this
+problem does not affect brake systems using our brake lever in combination with
+mechanical rim or disk brakes or hydraulic disk brakes.
+201 IIDll/EN/6

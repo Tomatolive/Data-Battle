@@ -1,0 +1,22 @@
+Page 3 of 6
+Then on 1 March 2009 we filed a new European patent application EP2 without claiming
+priority. The description of EP2 includes the complete description of EPI as pages 1 to 5
+and adds pages 6 to 10, which disclose the new electronic filter Fl on pages 6 to 9 and
+the new circuit Cl on page 10. We mentioned in the description that the final new
+circuit Cl is so compact that it can be included in an underwater camera
+EP2 includes the following claims: the structure of the signal as clam 1 (same claim 1 as
+in EPI), the filter Fl as claim 2 and the circuit Cl as claim 3
+In September 2009, we received the European search report with one document cited
+as "A" and a positive European Search Opinion for EPI , which is apparently ready for
+grant
+Also in September 2009, KM received the European search report for EPKM, with the
+same document cited as "R and a positive European Search Opinion. The search report
+and the accompanying opinion are available on KM'S public Internet site.
+EPKM also appears to be ready for grant.
+In November 2009, we received the European search report for EP2. The same
+"R document was cited but the accompanying opinion was partly negative because the
+EPO examner stated - and, according to our technical department, he was right - that
+the disclosed circuit Cl could not produce any signal. In fact we had failed to describe
+an essential and inventive electrical connection in circuit Cl between filter Fl and
+standard circuit C. According to the examiner, claim 1 and claim 2 are allowable.
+2010/Dll/EW3

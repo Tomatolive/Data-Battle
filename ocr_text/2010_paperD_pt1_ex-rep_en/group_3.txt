@@ -1,0 +1,39 @@
+Possible Solution
+- Paper D 2010 - Part I
+Answer to question 1 :
+The extent of the opposition is determined by the notice of opposition, Rule 76(2)(c) EPC_
+The process claim 2 was not attacked in the notice of opposition As a consequence, the
+opposition is limited to the subject-matter of the product claim 1, G9/91 or GIO/91. The
+request will be rejected with respect to claim 2.
+With respect to the product claim 1, novelty is a fresh ground of opposition, G7/95
+Document Dn is late filed and therefore may be disregarded, Article 114(2) EPC or Rule
+116(1) EPC _ However, the opposition division will assess prima facie the relevance of the
+new document Dn and the fresh ground of opposition, and based on the relevance
+continue of its own motion, Rule 81(1) EPC, second sentence or GIO/91
+Answer to question 2:
+A divisional application can serve as an earlier application in the sense of Article 76(1)
+EPC, i.e parent application, GI /05 or GI/06_ Hence, DIV-2 is a valid divisional application
+of DIV-I However, DIV-2 does not fulfil Article 76(1) EPC since the method is not
+disclosed in DIV-I . DIV2 can however be amended with respect to Article 76(1 ) EPC even
+when the earlier application is no longer pending (GI/05 or GI /06). Thus, amend DIV-2 by
+deleting all contents referring to the method.
+A claim directed to a football with a variable number of patches is not possible as it would
+extend beyond the content of the application as originally filed because the 33 patches are
+disclosed as being essential for achieving the technical effect, Article 123(2) EPC
+Since the football with 33 patches made of PX is disclosed in both EP-I and DIV-I you
+can keep it in DIV-2 (GI/05 or GI/06)_
+Answer to question 3:
+a) No, the priority has not been validly claimed. The time limit for claiming priority
+according to Article 4.C(1) of the Paris Convention, to which Article 8(2)(a) PCT makes
+reference, expired on 27 February 2010. This is a Saturday and is thus carried on to
+Monday, 1 March 2010 according to Rule 2.4 PCT and Rule 805 PCT. As a
+consequence the letter with PCT-X is received late, after the end of the priority year.
+b) Restoration of the right of priority by the Receiving Office is possible according to Rule
+26bis_3(a) PCT since the failure to file the international application within the priority
+period occurred in spite of due care. According to Rule and (e) PCT the
+request for re-establishment must be filed within two months of the expiry of the priority
+period, i.e. at the latest on 3 May 2010 (Monday). The request for re-establishment
+should contain all the relevant facts and circumstances, Rule 26bis_3(b)(ii)PCT_ The
+prescribed fee, according to Rule PCT, must be paid within two months, Rule
+26bis_3(e) PCT. The fee is 550 Euros according to RFees Article 2.13.
+-3

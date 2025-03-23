@@ -1,0 +1,46 @@
+2
+from filing date of USI which was basis for the IP - does not appear to affect
+situation With respect to EPI or EP2 though.
+Also relevant to patent situation for EPI , EPC does not consider aesthetic
+creations as such to be patentable (A 52(2)(b) and (3) EPC). Shape of contact
+aesthetic creation? Appears not as has technical effect, therefore at least the
+square contact subject matter of EPI appears patentable.
+For pentagon-shaped contact, if changing shape from square (as disclosed in
+EP2) to pentagon only provides equivalent effect, then the issue of is this merely
+an aesthetic creation may also be relevant as the change in shape does not
+provide a technical effect, therefore pentagon subject matter may be
+unpatentable
+On unity point, in absence of EP2 from consideration, the three embodiments
+have corresponding special technical features which are alternatives having the
+same technical effect and so are unified, C-lll, 7.2, R 30(1) EPC Further problem
+perhaps is presence of multiple independent clams to the plug with each type of
+contact shape in view of new R 29(2) EPC which sets out specific exclusions to
+general requirement that there may be only one claim type (ie product or process)
+in each European patent application. R EPC exclusion is that the claims
+are alternative solutions to a panicular problem, where it is not appropriate to
+cover these alternatives by a single claim. That is the case here - the 3 shapes
+are alternative solutions to the problem of prolonging life of the HVHF plugs. So,
+feel could argue in theory' for the presence of such independent claims in EPI (if
+not then could file divisional applications at any time while patent still pending).
+However, due to EP2 making triangular contact shape subject matter lacking in
+novelty, at least that independent claim may have to be removed from EPI
+Note that EP2 had mention of grant published on 6.11.02, so still in opposition
+period. Could file an opposition against EP2 up to g months from 6.11.02, ie up to
+6.803 (and pay fee). Presence of EPI as A 54(3) novelty only citation could be
+used as ground of opposition, A 100(a) EPC against square-contact subject
+matter.
+May be worth requesting accelerated prosecution of EPI
+Shieldinq svstems
+pp has
+and
+LBP has
+ESI
+PCTI
+EP4
+EP3
+EP3 has no priority claim. Publication of search report mentioned 248.02.
+Therefore, designation fees, due 6 M from 24.9.02, ie 24.3_03 (Monday). This fee
+is still payable with surcharge in the grace period of R 85a EPC But check
+whether these have been paid, if not paid by end of grace period application will
+be deemed withdrawn (A 91(4) EPC).
+-8

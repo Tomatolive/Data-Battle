@@ -1,0 +1,31 @@
+We need to:
+request re-establishment in writing A122(1 ) EPC (RI 36(1 ) EPC
+pay a re-establishment fee (RI 36(1) EPC R fees 2(1 ).13)
+file DIVI R136(2) EPC
+State facts and grounds for why it wasn't sent (RI 36(2) EPC) prove all due case
+(A122(1) e.g. isolated mistake J5/80.
+B.) Yes
+Under R36(1)(6) EPC the 24 month term expires 28.11 _ 13 (as calculated above) so
+today we are still able to validly file DIV2 as the EP2 is pending and the 24 month
+term of R36(1 )(6) EPC has not yet expired.
+March 08
+The official languages of the EPO are English, French, German - A14(1) EPC
+If the patent can be maintained on the basis of a text submitted or approved by the
+proprietor and the opponent has had sufficient opportunity to comment on that text
+the EPO will issue an interlocutory decision (GI/88 - OJ 1989, 393).
+Within three months of the decision becomng final (GL D-VI 7.23) the proprietor
+needs to file a translation of the claims into English and German (R82(2) EPC
+second sentence).
+Also a fee for printing, publishing a new specification needs to be paid within three
+months from the decision becoming final (R82(2) EPC second sentence, R fees 2(1)
+Item 8). The publication fee is 70 Euros (R fees (2) Item 8Y The application was
+filed before 1 April 2009 therefore there may be an additional fee for the additional
+pages?
+If the translations or publication fee are not filed/paid in time there is a 'grace period'
+of two months of notification panting out the failure to observe the time limit (R82(3)
+EPC) providing a surcharge of 114 EUR (R fees 2(1) Item 9) is paid R83(3) EPC,
+first sentence. Othenwse the patent will be revoked R83(3) EPC, second sentence.
+b) A contracting state may require a translation of the patent as amended to be
+supplied in one of its official languages to the central industrial property office A65(1)
+EPC, first sentence.
+-3

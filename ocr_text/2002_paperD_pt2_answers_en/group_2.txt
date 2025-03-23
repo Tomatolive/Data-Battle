@@ -1,0 +1,41 @@
+It is noted that CLEAN-PCT relates to the use of the compositions in celaning but does
+not disclose their use in cooling. Therefore a claim could be added to COOLMIX-EP
+(and possibly also to COOLMIX-US and —JP, dependent on national law), relating to the
+use of the compositions in cooling. This would not add matter as long as the intended
+use of the composition were described in COOLMIX-EP (Article 123(2) EPC). The new
+claim would be novel even if CLEAN-PCT is citable since the new use is not disclosed in
+CLEAN-PCT (See G 2/88).
+No amendment can be made, however until after receipt Of the search report. I would
+not recommend limiting the claims in any way yet in the light of CLEAN-PCT. We should
+instead wait until it is clear whether CLEAN-PCT has entered the EP regional phase.
+JP: A similar situation applies here in that CLEAN-PCT will be relevant to the novelty of
+COOL-MIX JP. For more details and for possible amendments we should seek local
+advice from Japanese attorneys.
+US: The entitlement to an invention in the US depends on who was the first to invent
+rather than the first to file. If both applications continue to the US national phase, an
+interference will be declared to determine who is entitled to the overlapping subject
+matter. Since interference proceedings are very expensive, I would recommend either
+negotiating with NIPPON SAWS KK to reach some agreement on who can claim the
+composition, or simply deleting the composition in question from the claims, eg by
+disclaimer as discussed above.
+lc. Summary — status Of COOLMIX applications
+- all cases are pending
+- COOL-MIX DE can be allowed to lapse
+- certified copy of COOLMIX-DE should be filed with EPO by 2 April 2002
+- as far as we know, the claims are patentable except that a disclaimer to the
+composition disclosed in CLEAN-PCT may be needed
+- addition Of a use claim, at least to COOLMIX-EP, would be useful.
+I would also recommend that we initiate a watch on CLEAN-PCT to determine whether it
+enters the EP, JP and US regional Inational phases
+I would also recommend that you write to the EPO to appoint me as the new
+representative for COOLMIX-EP. We also need to file an authorisation since
+representation has changed. This should be done immediately.
+ld. Status of MULTISAW applications:
+Applications are currently pending in DE, EP, US and JP. Priority was validly claimed
+from MULTISAW-DE for the US and JP applications.
+The error in filing the incorrect specification for MULTISAW-EP cannot be corrected
+under Rule 88 EPC since it is not allowable to replace an entire specification (G 2/95).
+Further, the content of a priority document cannot be used to show the intended content
+Of an application (G 3/89). Since the specification filed does not refer to the MULTISAW
+process, it will not be possible to amend the specification or add claims including this as
+-2-

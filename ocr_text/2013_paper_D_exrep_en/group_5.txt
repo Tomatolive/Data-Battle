@@ -1,0 +1,44 @@
+Possible solution - Paper D 2013 - Part I
+Answer to question 1
+For a compound to be enabled, the process for making the compound has to be disclosed.
+EPI comprises a reference to the relevant specific passage of USI in which the process is
+disclosed
+Since the applicant submitted USI together with EPI, a copy of USI was available to the
+EPO on the date of filing of EPI , and USI is pan of the file of EPI _ According to Article
+128(4) EPC, after publication of EPI the file relating to EPI may be inspected by the
+public on request. Therefore, USI was made available to the public on the date of
+publication of EPI _
+Thus, in accordance with the Guidelines H-IV, 2.31 or H-IV 2.5 or F-III 8 or decision T
+737/90 the disclosure of the process in USI forms part of the content of EPI _ Hence, the
+European patent discloses the invention in a manner sufficiently clear and complete for it
+to be carried out by a person skilled in the art and the Opposition Division will not revoke
+the patent
+Answer to question 2
+According to Rule 36(1) EPC, the applicant may file a divisional application relating to any
+pending European patent application subject to the time limits set out in (a) and (b). Both
+EPI and EP2 are pending.
+a)
+b)
+Pursuant to Rule 36(1)(a) EPC, any divisional to EPI must be filed before the expiry
+of twenty-four months from the Examining Division's first communication in respect of
+the earliest application (here EPI)_ The Examining Division has not issued a
+communication raising an objection that EPI does not meet the requirements of
+Article 82 EPC (Rule 36(1 )(b) EPCY The first communication was deemed notified on
+11 February 2011 (1 February 2011 + 10 days, Rule 126(2) EPC). Thus, a divisional
+to EPI could have been filed up to 11 February 2013 Today the time limit has
+expired but it was still running when the applicant attempted to file DIVI _ According to
+Rule 135(2) EPC, further processing is ruled out in respect of the period under Rule
+36(1)(a) EPC_ It follows from Rule 136(3) EPC, that re-establishment of rights under
+Article 122 EPC is available. The request for re-establishment of rights and DIVI
+have to be filed within two months of 20 February 2013 (Rule 136(1) EPC), i.e. the
+request and DIVI can be filed up to 20 April 2013 This period is extended under
+Rule 134(1) EPC to Monday 22 April 2013
+Pursuant to Rule 36(1)(b) EPC a divisional application can be filed before the expiry
+of a time limit of twenty-four months from the communication in which the Examning
+Division raised a specific objection under Article 82 EPC for the first time. According
+to the Guidelines A-IV, 1.1.1 _3(iv), the time limit is to be calculated from the
+notification of the minutes of the telephone call. The minutes are deemed notified on
+28 November 2011 (18 November 2011 + 10 days, Rule 126(2) EPC)_ Thus, the time
+limit expires on 28 November 2013, and a divisional DIV2 to EP2 can still be validly
+filed _
+-5

@@ -1,0 +1,45 @@
+Candidate's Answer — Dll
+pp has:
+LBP has.
+IJS2
+- granted in US (related to US 1)
+EPI
+- pending before EPO A + + for all states
+FRI
+- A France - still pending?
+EP2 - granted for DE, ES, FR, GBA+
+PP has granted US patent IJS2 which provides PP with patent protection for
+HVHF plugs with triangular and square cross-sections in the US
+EPI was sent by registered letter on 2010.02. In order to claim priority validly
+from IJS2, EPI had to be filed during a period of twelve months from the date of
+filing the first application, ie by 1 _ 1 1.02 (Friday), 1.11.02 was holiday in Munich
+branch of EPO so under R 85(1) EPC, due date for claiming priority was
+extended to Monday 411.02. EP 1 was not received at EPO until & 11.02, ie after
+the due date. But R 48a EPC provides that where a document is received late at
+the EPO it is deemed to have been received in time if it was posted in due time
+before the expiry of the time limit Dec. of Pres. OJ 1999, 45 and E - VIII, 1.7 sets
+out that document must be posted at least 5 days before due date and it can be
+sent by registered letter or recognised delivery service and if from outside Europe
+by air mail. Here, EPI was posted 6 days prior to due date by registered letter
+and from inside Europe Therefore, EP 1 is deemed received in due time to claim
+priority from IJS2_ However EP 1 may only claim priority in respect of the same
+invention as in US2, which is the first application and in the preceding 12 months.
+"Same invention" (G 2/98) means that the specific combination of features in the
+claims of EPI must be disclosed in the first application as a whole either explicitly
+or implicitly. For the clams to the plug with square contacts, EPI can validly claim
+priority from IJS2, since the first application by the same applicant in which this
+subject matter was disclosed was US2_ However, for claims of EPI relating to A
+contacts, IJS2 was not the first application in the sense of A 87(1) EPC The
+subject matter of the triangular contacts was disclosed in a still earlier application
+(USI) originating from PPI so the priority right for the plugs with triangular
+contacts is invalid in so far as this was already described in USI since the A 87(4)
+EPC exception doesn't apply in this case (cascading priority problem here), ie
+although the previous (USI ) and subsequent (US2) applications were filed in the
+same state (USA), at the filing date of IJS2, USI had not been withdrawn,
+abandoned or refused (as it was withdrawn after IJS2 filing date) and it had left
+rights outstanding (in that US2 is a C-I-P of USI)_ Therefore, the 3 areas of
+subject matter of EPI do not have the same effective date (A 89 EPC).
+Square contacts - entitled to priority date (ie filing date of US2) of 1.11.01
+Triangular contacts and new pentagon contacts entitled to filing date only.
+The date on which all the requirements for a filing date were met (A 80 EPC) was
+-6

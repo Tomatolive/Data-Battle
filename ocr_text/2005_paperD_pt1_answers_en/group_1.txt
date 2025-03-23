@@ -1,0 +1,26 @@
+Candidate's Answer - Dl
+Question 1
+Deadline for entering European Regional Phase = 31 m from filing date or priority date if
+priority is claimed (Art PCT, R107 EPC).
+No priority claim in this case (published 18 m after filing date).
+- deadline for regional phase = 31 month from 31/7/98 = 28 February 2001
+Under Art 38(1) PCT neither the 1B or the IPEA may allow third parties access to the
+International Preliminary Examination (IPE) file unless requested or authorised by the
+applicant
+However under R94.2 PCT an elected office has access to the IPE file after the
+preliminary exam report has been established, and under R94.3 PCT an elected office
+may allow 3rd party access to any documents in its file, including those related to IPE, to
+the same extent as provided for by national law for access to files of national
+applications.
+The EPO as elected office will therefore allow inspection of files including relating to IPE,
+however this applies only to applications filed on or after 1/7/98 (which applies in this
+case) provided international publication has taken place (which it has in this case)
+and either
+a) at least one act under R107(1) has taken place (which haven't) or
+b) International Preliminary Exam Report was drawn up on or after 1/2/03 (OJ 2003, 382
+and 0J1ggg, 529; Guidelines EIX 6.5)
+As neither a) nor b) applies: no, EPO will not allow access to the file.
+Question 2
+a) No because:
+Although amendments in response to a first communication from the examiner under Art
+96(2) EPC are permitted under R51(2) EPC, according to

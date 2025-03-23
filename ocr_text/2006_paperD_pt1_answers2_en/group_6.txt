@@ -1,0 +1,23 @@
+The demand must be filed in the language of the international application or, if
+filed in a language that is not a language of publication, in the language of
+publication (PCTr_55_ 1). As German is a language of publication (AGI,
+paragraph 54), this exception does not apply. The language of the application
+is German.
+File the demand in German.
+Question 5
+Yes.
+For the purposes of EPCa54(3) and (4), the effective filing date of EP2 is the
+filing date of the Portuguese priority application (EPCa_ 89), i.e. March 2002.
+Although the applicant did not file a copy of the priority document within the 4
+month period set under EPCa 91(2) and EPCr41(1), the priority right would
+have been lost under EPCa_ 91 (3) at the of this period (i.e. November
+2003). As this was after the publication date of EP2 (Sept 2003), the loss of
+priority right does not effect the application of EPCa. 54(3) and (4) (see C-IV,
+6_1a).
+Accordingly, EP2 is pan of the state of the art under EPCa_ 54(3) and (4)
+because it has an earlier effective filing date under EPCa_89 (March 2002 vs.
+January 2003 for EPI) and was published after this date (in September 2003).
+We are told that it designated the same states and described the same
+invention => it is novelty destroying for all designated states (EPCa 54(3) &
+EPCL23d)_
+-6

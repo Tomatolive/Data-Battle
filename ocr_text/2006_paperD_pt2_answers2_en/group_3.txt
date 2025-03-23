@@ -1,0 +1,27 @@
+The only possible amendment to overcome this would be to incorporate the
+limitation that the panel must be less than 3m. However, as this would arrive
+at claim 3 anyway, there is no need to do this. Perhaps restrict to the
+exemplified (1m) panels in this range, if there is basis (EPCa.123(2)).
+Claim 3
+Claim 3 is directed to solar panels having undulating walls with 5-16
+undulations per metre (U/m) and being less than 3 metres in length). This
+subject matter was first disclosed in the Italian patent application ITI (filed
+22.092004), from which PCTI validly claims priority (EPCa.87(1), G 2/98).
+The effective filing date of this subject matter is therefore 2209.2004
+In this regard, I am not concerned that Dl would be regarded as the "first
+application" for this subject matter (which would invalidate the priority claim to
+ITI (EPCa_87(1) + EPCa87(4)) merely because of the Example in that
+document falling within the scope of claim 3, because the test for priority
+entitlement is not the same as the test for novelty in this situation (G 2/98).
+The disclosures that pre-date the effective filing date of claim 3 (2209.2004)
+are the Tokyo Symposium Disclosure of 2002 and the corresponding
+publication of May 2004 (EPCa.54(2)). However, these would not be novelty-
+destroying as the 5-16 IJ/m feature is not disclosed (the example has 20 U/m).
+Dl was also made available to the public before (on 1509.2004)
+and is therefore also comprised in the state of the art under EPCa.54(2).
+Unfortunately, Dl discloses embodiments wherein the panel of 1m having
+undulating walls with the 5-16 U/m range. This falls within the scope of claim
+3, such that it lacks novelty (EPCa.54(2)). This claim is therefore invalid.
+EPB will be comprised in the state if the art for claim 3 under EPCa54(3) and
+(4) for all designated states for which fees are paid (EPCr_23d).
+-3

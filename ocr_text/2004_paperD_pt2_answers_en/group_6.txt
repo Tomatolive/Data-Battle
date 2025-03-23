@@ -1,0 +1,34 @@
+In the EP designation, ZEUS-EP will be novelty only prior art under A 54(3) EPC in
+those states which are commonly designated and in respect of which the designation
+fees have been paid (C 23a EPC). In this case this cannot include Czech Republic,
+Slovakia, Estonia or Bulgaria (and possibly more). This is because ZEUS-EP was
+filed in November 2001, which is before any of these states joined the EPC_ Hence it
+would have been impossible for these states to have been designated in ZEUS-EP
+That this was the case is confirmed by J 14/90.
+Possible CZ-ZEUS
+If such an application exists this will not be citable prior act against the EP
+designation of LEDA-PCT under A 54(3). This is because A 54(3) specifically relates
+to earlier filed "european applications", and not to earlier national applications.
+Effects of Prior Art in EP application
+Situation 1 - There is no CZ-ZEUS.
+In those states which are not designated in ZEUS-EP (and for which designation
+fees were not paid) claims to the chip can be maintained. This will at least included
+those states mentioned above which joined the EPC in 2002 and most significally it
+will include Slovakia and Czech Republic.
+In other states for which designation fees were paid in ZEUS-EP, an amendment
+will probably need to be made to the claims to ensure that they are novel over ZEUS-
+EP. If an amendment can be made, then it is possible to have two different claim
+sets comprising the application for different states (if such an amendment is
+necessary and is not possible, then it will not be possible to obtain a patent for the
+chip in these states).
+Situation 2 - A CZ-ZEUS exists.
+In this case the situation for Slovakia is the same. Also the situation in any other
+state, other than the Czech Republic is the same.
+However if a ZEUS-CZ exists it may be that it is not possible to secure a patent in
+the Czech Republic. This is because although earlier national applications are not
+citeable under A 54(3) EPC, they are earlier prior rights against European Patents (A
+139(2) EPC)_ This means that such an application could be used to a revoke a CZ
+patent deriving from LEDA-PCT. There is a facility provided by R. 87 EPC for
+bringing such prior national rights to the attention of the EPO during examination,
+and it will be allowable in this case to file an amended claim set in respect of CZ if
+such an amendment is available to make.

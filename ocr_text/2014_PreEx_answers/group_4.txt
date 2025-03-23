@@ -1,0 +1,39 @@
+Question 8
+Ms De Jong is a national of a contracting state not having English, French or German as
+an official language, Article 14(4) EPC She may file documents in Dutch, but has to
+provide translations into one of the official languages of the EPO The required translation
+of the notice of opposition shall be filed within one month of filing the notice of opposition.
+But it can be filed within the period for filing the notice of opposition, if that period expires
+later, Rule 6(2) EPC This is the case, as the period for filing the notice of opposition
+expires on 26 March 2014 (26 June 2013 + 9 months, Article 99(1) EPC and Rule 131(4)
+EPC)_ The required translation of EP-Z shall be filed within two months of filing EP-Z,
+Article 14(2) EPC, Rule 6(1) EPC As a Dutch citizen, Ms De Jong is entitled to a reduction
+of both the filing and the opposition fees, Rule 6(3) EPC_
+8.1 - False
+8.2 - True
+8.3 - True
+8.4 - True
+Question 9
+The state of the art comprises anything made available to the public by means of a written
+or oral disclosure, by use, or in any other way, before the date of filing of EP-N,
+Article 54(2) EPC Such a disclosure can be: a blog entry (see also Guidelines, G-IV
+7.5_33 and T5.4 (c)); comparative tests that are made available to the public with the
+publication of EP-L, since the files relating to EP-L are open to inspection, Alticle 128(4)
+EPC; and statements made during oral proceedings in opposition proceedings, since
+these proceedings are public, Article 1 16(4) EPC.
+Due to the confidential nature of the international preliminary examination (Chapter II), no
+access to the file of the international preliminary examination is given to the public before
+the international preliminary examination repoll is established, Alticle 38(1 ) PCT.
+9.1 - True
+9.2 - True
+9.3 - False
+9.4 - True
+Question 10
+The European patent application must disclose the invention in a manner sufficiently clear
+and complete for it to be carried out by a person skilled in the aft, Article 83 EPC A lack of
+sufficiency of disclosure cannot be cured by filing additional technical information, since
+this would offend the requirements of Article 123(2) EPC (see Guidelines, F-lll 2). A
+correction under Rule 139 EPC is not possible either: if it is obvious how the correction
+reads, then there cannot be any issue of lack of sufficiency of disclosure. A valid ground
+for opposition is lack of sufficiency of disclosure, Alticle 100(b) EPC EP-T will be
+published as filed, with embodiment Rule 68(1) EPC

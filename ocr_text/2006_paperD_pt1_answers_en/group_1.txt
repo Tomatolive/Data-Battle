@@ -1,0 +1,23 @@
+Candidate's answer
+Paper Dl
+Question 1
+Yes, you can act before the EPO representing both companies. Under A133(1)
+and subject to A1 33(2), no person is obliged to be represented. Both companies
+being from EPC states, none is obliged to be represented. Under A133(3),
+natural or legal persons having their residence in an EPC contracting state may
+be represented by an employee, who need not be a professional representative.
+So an employee can definitely act on behalf of Hypertools_ He will require to be
+authorised (A133(3), OJ 1991, 489).
+Under A133(4), parties acting in common required common representatiom If
+common representative not appointed in request for grant (R26(3)), the election
+of who is the deemed common representative will be ruled by R 100(1).
+So, in order for an employee of Hypertool to be the common representative of
+both applicants, it would be necessary to name him as common representative
+in Request for Grant to be signed by both applicants (A-IX-I .3)_
+Question 2
+i)
+Yes. A divisional can be filed relating to any pending earlier European
+patent application (R25(1))_ Since under A106(1) an appeal has
+suspensive effects, the decision to refuse the application is 'frozen"
+and one can file a divisional as long as the appeal is pending (see
+also A-IV-I.I_I)

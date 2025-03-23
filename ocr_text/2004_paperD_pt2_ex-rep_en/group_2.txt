@@ -1,0 +1,40 @@
+Possible Solution
+The inventions of Miss Myopia and Dr. Panopticon
+Despite the provisions of Art 52(2)(c) EPC , which provides that software "as such"
+is not patentable, software may be patentable if technical in nature.
+Image enhancement software for digital cameras seems sufficiently technical to merit
+protection as image enhancement is a technical effect.
+The inventions were derived separately by Dr_ Panopticon and Miss Myopia, and
+applications were filed at different times and so each invention needs to be
+considered separately.
+Basic software
+The basic software was first disclosed in Electra-Fl, and later Electra-EP, however,
+Electra-Fl and Electra-EP are not prior art to Oedipus-EP since both were withdrawn
+before publication
+The basic software was disclosed at the conference, but as this was after the filing of
+Oedipus-EP, the conference does not constitute prior an against Oedipus-EP, but will
+be prior art for later applications for any matter that cannot claim priority of Oedipus-
+To maximise the patent term it would be desirable to file fresh applications, as the
+term of a patent runs from the filing date, not the priority date, and to avoid the prior
+art effect of the conference disclosure, such applications should claim priority of
+Oedipus-EP_
+National applications can be filed covering the EPO, Japan, South Korea and US (or
+as a PCT application) covering the basic softv,'are, its use in a camera and the
+resulting camera, and claiming priority of Oedipus-EP_ The Czech Republic is an
+EPC Member State and so will be covered by the EP application or the EP
+designation in the PCT application Miss Myopia should be named as inventor, and
+should be the inventor-applicant for USA and an assignment of US rights will be
+required.
+For Taiwan, a PCT application is not possible since Taiwan is not a PCT member.
+Taiwan is not a Paris Convention country but recently became a member of
+and so whether priority may be claimed in Taiwan needs to be investigated. If priority
+cannot be claimed then the disclosure at conference may invalidate claims to the
+basic software in Taiwan.
+However, if during EPO or national proceedings attention is drawn to Electra-Fl and
+Electra-EP, the validity of the priority claim can be challenged if Oedipus-EP is
+transferred to Electra prior to filing the further applications.
+The right to priority belongs to a person who has filed an earlier application or their
+successor in title (Art 87(1) EPC). Under the Paris Convention (Article 4PC) and
+the EPC (Art87(4)) a later application in or in respect of a given state can be
+considered the first application if any earlier application in or in respect of that state
+has been withdrawn without publication, without leaving any rights outstanding and

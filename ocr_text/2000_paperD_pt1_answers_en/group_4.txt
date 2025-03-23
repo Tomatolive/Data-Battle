@@ -1,0 +1,36 @@
+Also, the suggested approach would mean showing the prior art to the applicant
+(A. 115(2) EPC). Client may prefer to keep it "up his Sleeve" until relevance could
+be assessed,
+However, if prior art is relevant, but examining division did not take notice Of it
+(client would not be party to proceeding though filing observation) an opposition
+could subsequently be filed.
+Since prior art is, in any event, in the public domain there does not seem to be any
+harm in submitting it to the EPO. Observations under A. 115 EPC can be made
+anonymously.
+9. A. IOO(c) EPC provides that an opposition may be filed on the grounds that the subject
+matter of the European patent extends beyond the content of the application as filed.
+Also see Guidelines D V 5.1.
+If the parameter range was not disclosed either explicitly or implicitly in the application
+as filed then it would appear to be added subject matter in the sense Of A. 123(2) EPC
+and A. IOO(c) EPC. As such, it would seem that the opposition will be likely to be
+successful, at least in relation to Claim 1 as granted.
+Client should be aware, however, that if the range is not necessary to distinguish over
+the prior an the competitor may be able to amend his patent to overcome the
+opposition.
+However, removal Of the range from claim 1 would probably be inadmissible in view Of
+A. 123(3) EPC. Competitor could therefore be in a trap where he could not amend to
+remove the added matter, see G 1/93 and Guidelines D - V 6.1.
+In this case prospects for Successful opposition 100k good.
+10. Obvious errors in application documents filed at the EPO can be corrected under
+R. 88 EPC.
+However, according to Guideline C VI 5.9 requests for correction under R. 88 EPC
+can only be considered until the decision to grant has been handed over to the EPOS
+internal postal service, also see G 12/91.
+Nor can the patent be amended under R. 86 EPC or A. 123(1) EPC at this stage.
+G 7/93 permits minor amendments after issue Of the R. 51 (6) communication in
+exceptional circumstances. However, Since amendment is minor and obvious patentee
+does not seem to be disadvantaged. Also, patent has been published EPO are
+unlikely to republish now. Further, since expiry of the opposition term the EPO no
+longer has responsibility for the case, patent(s) are now govemed by national law.
+Applicant should try to correct error before national offices where the patent has been
+entered into force.

@@ -1,0 +1,31 @@
+copy on request, the claim to priority will be lost (A91(3) EPC via A150(3)EPC)_ Although
+this provision is intended to be used where non-supply of the priority document in the
+International Phase is due to the applicant, rather than the situation here, it would seem
+to apply here too because the International Phase has now terminated so the 1B will
+have no further involvement
+Therefore, to maintain a priority claim, the applicant should provide the EPO with a
+certified copy obtained from the USPTO_ If the priority claim is actually not particularly
+important because there is no relevant prior art between the filing and priority dates,
+then the lack of a priority document may have no significance in substantive
+examination.
+When the EPO communicates with the applicant under RI 11(2) requesting the priority
+document, a time limit for reply will be given. If the applicant doesn't manage to achieve
+this, may be able to extend the time limit under R84 EPC and restitutio would be
+possible (Art 122 EPC) (if for example, lack of response is due to difficulty obtaining a
+copy from the USPTO)_
+Question 5
+In order to have the written opinion re-examined in the International Phase, a demand
+for International Preliminary Examination (AN 31 (1) PCT) must be filed.
+The time limit to file the demand = any time prior to the latest of
+1) 3m from date of transmittal of search report and written opinion
+= 9/1/05 (Sunday) extended to 10/1/05 (R80.5 PCT)
+and
+2) 22m from priority date = 8/3/05 (Tuesday)
+(Rule 54bis_ I(a) PCT)
+- Therefore demand must be filed by 8/3/05
+- Should be filed with the EPO as competent PEA (Art 31.6(a), (b) PCT)
+- Fees need to be paid:
+- handling fee (R5T1 PCT) which is due within 1 month of date of submitting demand
+or 22m from priority date, whichever is later (R57 _3a PCT); and
+preliminary examination fee (R58.1a PCT) which is due in the same time limit as the
+handling fee (R58.1b PCT).

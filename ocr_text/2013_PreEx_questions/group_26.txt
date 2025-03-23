@@ -1,0 +1,33 @@
+Claim analysis
+QUESTION 15
+For questions 15 to 18, assume that claim set V, which comprises claims V. 1 to V_3, was
+filed with the clients patent application and assume that a European search report cites
+Dl to D4 as documents published prior to the filing date of the client's patent application.
+Stopper (10, 20, 30) for inserting into the neck of a bottle to close the bottle,
+whereby:
+- the stopper (10, 20, 30) comprises a body (2) made of liquid-impermeable and
+air-impermeable material,
+the body (2) has a first planar surface and a second planar surface,
+the body (2) has an air channel (3) opening at least on the first planar surface,
+a filtering unit (4) is attached on the first planar surface,
+- the stopper (10, 20, 30) is arranged so that air can pass through the
+stopper (10, 20, 30) via the filtering unit (4) and the air channel (3),
+the first planar surface is inside the bottle and the second planar surface is
+outside the bottle when the stopper (10, 20, 30) closes the bottle.
+Stopper (10, 20, 30) according to claim V.I whereby the air channel is a straight
+channel extending from the first planar sulface to the second planar surface.
+Stopper (20) according to claim VI whereby the air channel (3) is a through-hole
+extending from the first planar surface to the second planar surface and the
+filtering unit (4) is attached to cover an end of the through-hole.
+For each of the statements 15.1 — 154, indicate on the answer sheet whether the
+statement is true or false.
+15.1
+15.2
+15.3
+15.4
+Claim V. 1 is novel with respect to Dl _
+Claim V. 1 is novel with respect to D2_
+Claim V. 1 is novel with respect to D3_
+The stopper of D4 has a filtering unit
+2013,'PE/EN
+Page 25 of 33

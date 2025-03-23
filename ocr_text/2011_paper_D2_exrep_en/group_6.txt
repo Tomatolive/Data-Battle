@@ -1,0 +1,24 @@
+disclaimer, because that would broaden the scope of protection, i.e. contravene the
+principle of no Reformatio in Peius (G 4/93). It follows that Axbruch must appeal.
+Since the appeal has suspensive effect, the opposition proceedings are still pending. For
+completeness, it is noted that Axbruch cannot initiate limitation proceedings to limit the
+granted patent by an amendment that does not include the disclamer_ They cannot wait
+until the appeal is disposed of either, because then the patent they would apply to limit
+would include the disclamer, and its removal would not be a limitation, but an extension.
+Answer to question 4:
+Discuss what subject-matter we could validly claim to obtain the broadest scope of
+protection possible.
+If Axbruch appeal, they cannot revert to the independent claim of the patent as granted,
+which was directed to the brake lever. This claim lacks novelty, because there is sufficient
+information in EP-PAN2 to make the brake lever EP-PAN2 merely does not provide
+sufficient information to make a functioning bicycle brake system.
+A claim to a bicycle brake system comprising the brake lever would encompass a limited
+number of alternative brake systems (four) of which one is not enabled, namely the bicycle
+brake system with the newly developed brake lever and a hydraulic rim brake. It is
+therefore arguable that a claim to a bicycle brake system comprising the brake lever would
+not be enabled.
+The broadest protection Axbruch could certainly get would be in the form of an
+independent clam to a bicycle brake system wth the brake lever and disc brakes. Also
+possible in principle would be a claim to a set of parts for use in assembling a bicycle
+brake system, comprising the brake lever and disc brakes.
+-6-

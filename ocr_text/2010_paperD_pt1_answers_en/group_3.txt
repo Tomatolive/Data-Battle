@@ -1,0 +1,47 @@
+The request for restoration could be filed at the EPO as Receiving Office under
+R26bis3 PCT
+Such a request would need to be filed within 2 months from the expiry of the
+priority period i.e. by 1/3/10 + 2 m = Saturday 1/5/10, extended
+to Monday 3/5/10 under R80_5 PCT.
+It would also need to state the reasons for failure to file in the priority period,
+satisfying the requirements of "all due caret and include the fee for applying for
+restoration PCT; PCT App. Guide Annex C - EPO - fee is €550).
+Alternatively, the Applicant could pursue separate restorca6tion requests at the
+designated offices for entering the respective national phases, R49ter PCT.
+It may well be best to pursue the restoration at the EPO as Receivinq Office
+because subject to narrow exceptions designated offices allowing restoration
+would be required to accept a positive finding by the EPO under the "due care"
+criterion, thus saving money compared to multiple separate requests in the
+national phase.
+Not al states will accept the restoration of priority under any circumstances, eg JP
+(see reservations to R26bis3 PCT. R49ter1g PCT and R49ter2h PCT)_
+4.
+a)
+EP-A must have met the requirements of R40 EPC, i.e
+An indication that a European patent is sought,
+Information identifying the applicant or allowing the applicant to be
+contacted, R40(1 )(b) (the fax number would be sufficient — GL A-II 4.12),
+A description or reference to a preceding filed application, R40(1 )(c) (here,
+the reference),
+The filing date and number of the referenced application, the office (CN)
+with which it was filed, and an indication that it replaces (at least) the
+description and any drawings, R40(2),
+A certified copy of the previous application, R40(3) (NB this can be filed
+within 2 months of filing the application according to R40(3) or within
+2 months of a communication under R55 EPC, in which case the date of
+filing is retained, GL A-II 4.1_5).
+The PCT application must contain a request, a description, one or more claims
+and an abstract (A3(2)PCT)_
+There is no provision in the PCT for filing an application by reference. However,
+since it will have been necessary for applicant A to have filed an certified copy of
+CN-A to obtain a filing date for EP-A, this implies he will be able to use this
+document as the basis for at least the description.
+Claims may or may not have been filed on EP-A (not a requirement to obtain a
+file date — see above). If not, claims should be added.
+The abstract can be added later, if necessary (A11.1 PCT does not require an
+abstract to acquire a filing date; it can be added later in accordance with A14
+PCT).
+However, the priority claim to EP-A will not be valid
+The PCT apples A4 of the Paris Convention to determne the conditions for
+claiming priority, A8(2)(a) PCT.
+-3-

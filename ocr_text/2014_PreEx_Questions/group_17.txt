@@ -1,0 +1,19 @@
+Claim analysis
+Document Dl
+[001] It is convenient to wash hands with liquid soap. FIG. 1 shows a cross section of
+our liquid soap dispenser 100 containing liquid soap. It comprises a bottle 110 with a
+threaded neck and a hand pump 120 which screws onto the opening of the bottle 110.
+The hand pump 120 has a dispensing nozzle 130 and a tube 140 which extends towards
+the base of the bottle 110. In order to prevent the tube 140 from being obstructed by the
+base of the bottle 110, the length of the tube 140 is chosen so that it does not contact
+the base of the bottle 110.
+[002] As liquid soap we use an aqueous suspension comprising water, detergent and
+suspended abrasive particles.
+130
+1
+FIG. I
+2014,'PE/EN
+120
+140
+110
+Page 16 of 29

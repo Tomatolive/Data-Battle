@@ -1,0 +1,33 @@
+Candidate's answer
+QI
+withdrawn
+pre-pub
+USI
+copy of
+USI
+The patent needs to disclose the invention in a manner sufficiently clear and
+complete for it to be carried out (A83 EPC)_
+Therefore EPI needs to describe how compound X is obtained for it to be sufficient
+References in the patent may relate to part of the disclosure of invention (GL-F1118).
+What is in the reference document USI is essential for carrying out the invention
+(A83 EPC). Reference documents are not part of the text translated pursuant to A65
+and so any essential disclosure should be in the patent itself
+The USI was filed at the time of filing EPI and therefore was available to the EPO at
+the time of filing and would have been published in the file of EPI (A128(1) EPC)
+when EPI was published (A93(1) EPC)_
+A feature only described in a reference document is prima facie not pan of the
+description T689/90. However a feature only described in a reference document is
+part of the content of the application as filed if no doubt to the skilled reader that
+such features:
+a) are/might want to be protected
+b) contrbute to achieving the technical aim of the invention
+c) implicitly clearly belong to the description of the invention
+d) are precisely defined and are identifiable in the total technical information
+within the reference document (T689/90).
+Thus the reference to USI will be considered part of EPI as filed and thus
+amendments to incorporate the text of the specific referenced passage of USI into
+the description of EPI Will not contravene A123(2) EPC Amendments may be made
+if they are to overcome a ground of opposition A80 EPC Thus you will be able to
+amend the description of EPI based on the specific referenced passage of USI to
+overcome the deficiency.
+Thus it should be possible to maintain EPI with an amended description.

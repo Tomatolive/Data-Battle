@@ -1,0 +1,32 @@
+8)
+a) No, it is only possible to have the finding of the ISA as it the number of inventions
+reviewed if the applicant pays additional search fees.
+Under A 17.3 a) PCT. the ISA issues an invite to the Applicant to pay additional
+search fees if it considers that more than one invention is claimed. R. 40 PCT sets
+out the procedure for doing this and includes a protest procedure (R 402 c)- e)
+PCT). This procedure provides for the lack of unity opinion held by the ISA to be
+reviewed by a three membered Board.
+However, R. 40.2 c) PCT specifically states that the additional fees may be paid
+under protest Thus it does not allow for protest in the absence of payment of such
+additional fees.
+b) Under A 17.3 a) PCT, the non-payment of fees means that the international
+search report will be established on those pans of the application which relate to the
+invention first mentioned in the claims. The other subject-matter will remain
+unsearched.
+This means that the international preliminary examination will be restricted to
+those pans of the application which have been searched. The international
+preliminary examination report will state that this is the case (R. 70(0) PCT)_
+It is important to note, however, that the non-payment of the additional search
+fees does not meant hat the ISA or IPEA (or any of the designated offices) can
+assume that the non-searched subject matter has been abandoned.
+9)
+a) Under A 33(2) and (3) PCT, an invention claimed is considered novel and
+inventive if it is not anticipated by the prior an as defined by the rules.
+Rule 64 PCT defines for the purposes of A 33(2) and (3) PCT, what constitutes
+prior art
+Specifically, R. 641 b) PCT provides that where the making available to the
+public occurred by an oral disclosure before the filing date of the application and the
+date of the oral disclosure is indicated on a written document (in this case the
+compendium) on a date later than the filing date, the non-written disclosure shall not
+be considered as part of the state of the art for A 33(2) and (3). This applies in this
+case since the oral disclosure making the claimed invention publically available

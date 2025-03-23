@@ -1,0 +1,32 @@
+(f)
+In the US, I would check with my associates as to whether ZEUS-EP is available
+as prior art, but I do not think it is. As far as I am aware, only applications which are
+filed before (but are published after the relevant date) in the US or for the US (i.e.
+PCT (US) and then only if they publish in English) count as prior art.
+Similarly in JP, I would check with my associates as to whether Zeus-EP is prior
+art, but again I do not think that it is. As far as I am aware, only later published,
+earlier filed Japanese applications count as prior art.
+This means that in the US and JPI claims to the chip should be patentable without
+amendment (assuming no further prior act is found).
+Freedom to use LEDA's chip.
+As ZEUS does not have either a JP or a US patent, LEDA (and KKK) are free to
+make and use chips in these countries.
+Similarly in Slovakia, Estonia, and Bulgaria, LEDA (and KKK) are free to make
+and use the chips This is because ZEUS-EP cannot designate these countries and
+you have found no national equivalent applications in respect to these countries.
+The situation in the Czech Republic depends on whether CZ-ZEUS is in force or
+not If not, then LEDA (and KKK) are free to use and make the chips there. If it is in
+force, making and selling and using the chips there would constitute an infringement
+of ZEUS-CZ patent
+In other EP states - This depends on whether EP-ZEUS has been validated and
+brought into force. In most countries this will have required a translation to be filed as
+well as paying various fees. I can check with local associates to find out if any
+applications are in force yet The deadline for completing these acts is in most
+countries 3-months from grant and so will fall in April 2004. Validation can therefore
+be monitored.
+Chips Already Sold
+As the only sale of chips which has occurred was in the US and ZEUS do not
+have a patent there, ZEUS cannot do anything about this sale.
+Moreover ZEUS are based in Slovakia, thus I would presume that the chips were
+made there. As explained above ZEUS also cannot have a patent there, hence there
+is nothing ZEUS can do about the manufacture of the chips.

@@ -1,0 +1,45 @@
+10.1 - False
+10.2 - False
+10.3 - False
+Please see D 0002/14, D 0003/14, D0004/14, D 0005/14 and D0006/14
+Question 11
+The subject matter of claim I reads on a bottle having a base. The wording of claim I is
+neither limited to comprise a liquid soap dispenser nor to comprise a tube. Hence, even
+the bottle of Fig. 5 shown without a tube is covered by the scope of claim I.
+11.1
+11.2
+11.3
+11.4
+- True
+- True
+- True
+- True
+Question 12
+The bottle in accordance with claim I covers just a bottle with a base (see Question 11).
+Such bottles are disclosed in each of documents Dl to D4_ Any base of a bottle is suitable
+for touching a tube, but claim I is not limited to comprise a tube. Hence, it is irrelevant if the
+tubes described in Dl to D4 do touch the base or not.
+12.1
+12.2
+12.3
+12.4
+- False
+- False
+- False
+- False
+Question 13
+The subject matter of claim II reads on a liquid soap dispenser with a portion of the tube
+touching the base of the bottle as in the first embodiment (statement 131) and as in D2
+(statement 13.3).
+The bottle is defined to contain a liquid such as liquid soap, hence the subject matter of
+claim II is limited to contain a liquid in general.
+The tube 430 of D4 is parallel to the base of the bottle, but does not extend along the base
+of the bottle
+13.1
+13.2
+13.3
+13.4
+- True
+- True
+- False
+- True

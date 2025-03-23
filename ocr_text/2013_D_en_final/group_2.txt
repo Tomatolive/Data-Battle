@@ -1,0 +1,15 @@
+Page 1 of 10
+Part I : Legal Questions
+QUESTION 1
+(5 MARKS)
+Applicant A filed a US patent application USI disclosing a new and inventive compound
+X and the only possible process to obtain X. The process to obtain X is not obvious in
+view of the prior art USI was withdrawn before publication. Within the priority period of
+USI, a European patent application EPI claiming priority of USI was filed together with
+a celtified copy of USI_ EPI claims and discloses the compound X. However, for the
+process, the description of EPI only contains a reference to a specific passage of USI
+disclosing the process in detail. EPI was granted as filed.
+Competitor B filed an admissible notice of opposition based solely on the ground that the
+invention in EPI is insufficiently disclosed (Art. 100(b) EPC) because EPI fails to
+disclose any process to produce k
+Applicant A asks you whether the patent will be revoked on this ground.

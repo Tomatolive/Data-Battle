@@ -1,0 +1,32 @@
+occurred 1 week before filing, but the compendium in writing was not available until
+after filing Hence the professor's oral disclosure does not count as prior art
+according to R. 64.2 PCT. Nevertheless the IPER shall call attention to the lecture.
+b) Yes, under A 54(2) EPC, it is stated that the state of the art comprises eveMhing
+made available to the public by means of written or oral description before the date
+of filing of the application.
+As the date of filing is the international filing date and the public lecture took place
+before this date, it will be prior art for both novelty and inventive step under A 54(2)
+and A 56 EPC_
+10) No, I would not advise my client to file a Swiss national application and then try to
+claim priority from it in a later EP application. I advise my client to file a European
+application todayl
+Under A 55(1) EPC, a disclosure of an invention shall not be taken into
+consideration if it occurred no earlier than 6 months preceding the filing of the
+European application if it has been displayed at an officially recognised international
+exhibition.
+93/98 confirmed that the calculation of the 6-month period is to the actual date of
+filing of the European application, and the date of priority is not taken into account
+when calculating this period.
+Hence as the invention was first disclosed at the exhibition on 24/9/03, the 6
+month deadline for filing the EP is today, 24/3/041 The application can be filed by fax
+if necessary, R. 24 EPC
+In order for the disclosure to be discounted it must be stated at the time of filing
+the application that the invention has been so displayed so this should be done.
+There is no remedy for not filing this statement
+Moreover it will be necessary to file a supporting certificate within 4 months of the
+filing of the application i.e. by 23/7/04 (Friday). This must be the certificate which was
+issued at the exhibition by the authority responsible and state that the invention was
+displayed there. The certificate must also state the opening date of the exhibition,
+and as the opening date did not coincide with the first disclosure, the first date of
+disclosure (i.e. 23/9/03). The certificate should also be accompanied by an
+identification of the invention, duly authenticated.

@@ -1,0 +1,25 @@
+Candidates' answer
+Question 1
+Yes.
+Under EPCa_59, a European application may be filed by joint applicants, here
+HYPER TOOLS + CYBERFIT_ However, joint applicants are forced to act in
+common — there must be a single address for service (EPCL 100).
+Therefore, applications filed in the joint name of HYPERTOOLS + CYBERFIT
+should contain the appointment of one applicant as common representative
+(EPCr.26(3)_ Therefore, here applications should be filed with the Request for
+Grant Form 1001 indicating HYPER TOOLS as the common representative. If
+not, the EPO will appoint a common representative in accordance with
+EPCL 100(1) (so as an alternative, I could name HYPERTOOLS first on the
+Request for Grant).
+Once Hypertools is appointed as common representative in this way, as an
+Irish company (and therefore a legal person having its principal place of
+business within a Contracting State in the sense of EPCa 133(3)), it may be
+represented by an employee of that entity (i.e me), even though I am not a
+professional representative (EPCa.133 (3)).
+However, in order to act as representative, I must be authorised
+(EPCa_ 133(3)), in accordance with EPCr. 101. Where there are two or more
+applicants, only the common representative (which is HYPER TOOLS), as
+noted above, must file the authorisation.
+=> File a signed authorisation (signed in name of Hypertools) with each
+application filed, or else wait for the EPO the invite me to file an authorisation
+for each application under EPCr.101(1 ) (A-IX, 17).

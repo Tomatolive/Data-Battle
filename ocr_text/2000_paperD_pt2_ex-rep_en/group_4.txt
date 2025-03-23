@@ -1,0 +1,38 @@
+For non-PCT countries national applications should be filed.
+There could also be filed a second PCT application later on, claiming priority Of the
+first PCT-application, so as to prolong the patent term for the Oil mixture feature.
+03: Regarding the possible patent protection for the isolation process in general
+and for SAD-PROT in all EP-countries:
+First Of all, we have to check Whether we can keep the application PROT-EUI alive:
+The communication Of the examining division dated 4/9/99 is deemed to have been
+received the 14/9/99. The four months time limit and the two months prolongation are
+aggregate time limits, therefore the time limit for the response expired 14/3/2000. NO
+response was sent by this date, and, as a result, the application is deemed to be
+withdrawn under Article 96(3) EPC. As the time limit for answering the Communication
+is set by the Examining Division, further processing under Article 121 EPC is possible.
+Gobbleup should therefore request further processing, pay the fee, file a response to
+the official communication and also include a claim to SAD-PROT and to the process Of
+purifying proteins from brewer's yeast. Gobbleup can do this immediately, we do not have
+to wait for the official letter that the application is deemed to be withdrawn.
+As a further point, in order to keep the application alive, we should check Whether the
+fourth year renewal fee has been paid (due end January 2000) and if not, pay it With
+surcharge.
+Thus, the formal requirements to keep the application alive, should be fulfilled. As to
+the subject-matter Gobbleup would like to get patented, the following points should be
+discussed at the meeting:
+Though the isolation process per se does not seem patentable in the light Of the
+documents cited in the Search Report, the process for purifying proteins from brewer's
+yeast might be patentable. If such claims were included they would also give protection
+for the products directly obtained by the claimed process (Art. 64(2) EPC), hence also
+for SAD-PROT.
+However, a claim directed directly to SAD-PROT would be commercially more interest-
+ing. SAD-PROT can be used as a fermentation promoter and should, therefore, be
+patentable as a product per se.
+SAD-PROT was disclosed in PROT-EUI, therefore a claim to SAD-PROT can be
+included under Art. 123(2) EPC. As the original claims were only directed to the isolation
+process in general, most probably, SAD-PROT has not been searched. Hence, the
+introduction of a claim directed to SAD-PROT may not be allowable under Rule 86(4)
+EPC (as it concerns unsearched subject-matter which does not form a single inventive
+concept with the originally claimed invention). In this case a divisional application should
+be filed while the parent application PROT-EUI is still pending. The divisional application
+could be continued, even if the parent application is abandoned.

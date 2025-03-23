@@ -1,0 +1,45 @@
+It is allowable to remove the unallowable subject-matter (the stitching method)
+from DIV-2 and still to retain divisional status, GI/05_ it is not relevant that DIV-I
+is no longer pending, GI /05_
+The disclosure relating to the stitching method will thus need to be deleted from
+DIV-2 by amendment under A123/R137(2) after receipt of the European Search
+Repon
+It does not appear possible to claim a football having a number of patches other
+than 33.
+The claim includes the number 33 as a technical feature and in order to delete
+this feature direct and unambiguous basis for the amendment is needed
+(A123(2), GI/93, GL c-VI 5.31).
+In the case of deletion of a feature from a claim, it would be necessary to show
+that:
+(a) the feature was not explained as essential in the disclosure,
+(b) it is not, as such, indispensable for the functions of the invention in the light of
+the technical problem it serves to solve, and
+(c) the removal requires no real modification of other features to compensate for
+the change.
+(GL c-VI 5_3_ 10; T331/87)_
+In this case, removal of the "33 patches" feature appears to contravene at least
+the above requirements (a) and (b) and as such it would be unallowable under
+A123(2)_
+It may be possible to file a new application directed to footballs having other than
+33 patches. This would of course depend on factors such as whether priority
+could still be claimed from any of EP-I, DIV-I, DIV-2, whether any of these
+applicants have been published, whether an inventive step exists in relation to
+other numbers of patches, and so on.
+3
+a) No.
+The conditions for an effect of a priority claim under the PCT are subject to A4 of
+the Paris Convention (A8(2)(a) PCT)_
+The priority period is fixed at 12 months for patents (and utility models),
+A4C(1) PC.
+The priority period therefore ran to 27/2/09 +12 m = Saturday 27/2/10, which is
+extended to Monday, 1/3/10 under R80_5 PCT.
+The filing date of 2/3/10 is therefore outside the priority period, and the priority
+clam is invalid.
+Under A48(1) PCT and R82(1)(a) PCT it may be possible to excuse missed time
+limits due to mail irregularities, provided the relevant document or letter was
+mailed at least 5 days prior to the expiration of the period, R82(1 )(a) PCT.
+In this case, the mailing date of 25/2/10 is only 4 days prior to the expiry of the
+period (1/3/10): hence A48(1 )/R82 PCT does not apply.
+The applicant could seek to make use of the PCT provisions on restoration of
+priority for PCT-X, R26bis3 PCT, R49ter PCT
+-2-

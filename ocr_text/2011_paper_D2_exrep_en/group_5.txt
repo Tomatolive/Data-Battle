@@ -1,0 +1,37 @@
+of EP-PANI is valid. Therefore, there is no benefit in filing JPIJ-PAN2 as third party
+observations.
+Pankutaya can obtain a valid European patent to an axle unit with a seal corresponding to
+the seal S. Such a patent would cover the axle unit that Axbruch GmbH intends to
+manufacture, so that they would infringe. Axbruch GmbH will need to take a licence from
+Pankutaya
+The European patent directed to the subject-matter of claim 4 of PCT-Ax that Axbruch
+GmbH could obtain would be a dependent patent relative to EP-PANI. Axbruch's patent
+is very likely to become essential to the new standard, so that Pankutaya would be
+interested in negotiating a cross-licence agreement
+EP-PANI is a pending European patent application. It is not a divisional of an earlier
+European patent application. There are no indications that examination has been
+requested, let alone that a first communication from the Examination Division been issued.
+Therefore, Pankutaya could still file a European divisional patent application based on
+Answer to question 3:
+Should we appeal?
+Axbruch GmbH is entitled to appeal, because it is adversely affected by the decision of the
+Opposition Division (i.e. the decision not to allow the main request).
+The ground of insufficiency introduced by Pankutaya is a fresh ground of opposition. It will
+not be considered if Axbruch were to object to its introduction. Since the statement of
+grounds of appeal must contain a party's complete case, dismissal of the only ground of
+appeal might well be the end of the appeal. However, this would not be in Axbruch's
+interests.
+EP-Ax only discloses disc brakes. It does not make a distinction between mechanical and
+hydraulic brakes. Therefore, the disclaimer added in the opposition proceedings was an
+undisclosed disclaimer in the sense of G 1/03
+The disclaimer is invalid for any one of the following reasons:
+1) It arguably disclaims more than is necessary to restore novelty over EP-PAN2,
+because It disclaims also all bicycle brake systems with hydraulic disc brakes, but such a
+bicycle brake system is not disclosed in EP-PAN2_
+2) It is not necessary to restore novelty, because the disclosure of EP-PAN2 is not an
+enabling disclosure.
+3) It has become relevant to the issue of sufficiency of disclosure, because it disclams a
+bicycle brake system that does not work.
+To obtain a valid patent, the disclaimer should be removed.
+If Axbruch do not file an appeal, then they would have to defend the patent as maintained
+in opposition proceedings. As a party as of right, they could then not remove the

@@ -1,0 +1,36 @@
+Answer to Question 8
+a) The article might be introduced into the examining procedure by filing observations
+in accordance with Article 115 (1) EPC.
+Since the article was published between the priority date and the filing date, the
+examining division will check whether the priority claim is valid (C-V, 2.1), and will
+set a time limit in accordance with Rule 38 (4) EPC within which the translation Of
+the previous application must be filed.
+A declaration stating identity of the texts of the EP and the JP application cannot
+be accepted since the EP application contains more text than the JP application.
+Under these circumstances, the translation will be available by inspection Of the files,
+Art. 128 (4) EPC, at a date which is earlier than the normal time limit under
+Rule 51 (6) EPC.
+b) This is not the best solution from a tactical point of view since the applicant is warned
+to file the translation of the priority document and then to amend the claims in such a
+way that the priority claim becomes valid. Hence, it is more recommendable to wait,
+or to instruct a JP patent attorney to compare the JP application to the article, Or
+Other acceptable alternatives like no action at all, national procedure, opposition
+procedure, family search.
+Answer to Question 9
+The patent will not be maintained as granted.
+Claim 1 as granted extends beyond the content Of the application as filed in the sense
+Of Article 123 (2) EPC, and therefore, the ground for opposition under Article 100 c) EPC
+prejudices maintenance Of the patent.
+Removal Of the added feature is not possible since extendÉ1g the protection conferred,
+thus offending against Article 123 (3) EPC.
+Hence the patentee is caught in a trap between Article 123 (2) and Article 123 (3) EPC.
+The conditions outlined in G 1/93 under which he could maintain or replace the added
+feature do not apply in the present case.
+Answer to Question 10
+The error cannot be corrected before the EPO.
+Art. 70 (1) EPC states that the text Of a European patent in the language Of the proceed-
+ings, i.e. English in the present case, shall be the authentic text.
+The translations are not part Of the decision to grant (Art. 97 (2) EPC), nor are they
+examined (Guidelines C-VI, 15.2.1). Hence Rule 89 EPC being applicable to decisions
+of the EPO cannot be applied to the translations of the claims.
+Rule 88 EPC does not apply after publication Of the grant in the Patent Bulletin.

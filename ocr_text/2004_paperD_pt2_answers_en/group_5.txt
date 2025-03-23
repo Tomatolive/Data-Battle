@@ -1,0 +1,25 @@
+ZEUS/LEDA
+STATUS OF LEDA-PCT
+(a) This application has a filing date of >0012/03 and a valid priority to an application
+dated xx/ 12/02 This means that the effective date of all of the subject matter in
+LEDA-PCT is the priority date i.e. m 12/02.
+(b) The application designates EP, JP and US. The application was filed in
+December 2002 which means that the EP designation includes all of those states for
+which the EPC entered into force during 2002 (as well as all the earlier contracting
+states of course'). Those dates for which the EP entered into force under A 169 EPC
+during 2002 include: Bulgaria, Czech Republic, Estonia and Slovakia That the EPO
+can act as designated office for an international application filed on or after the date
+on which the EPC came into force is clear from J 30/90.
+(c) Possible prior art against LEDA-PCT.
+(i) The sales to KKK.
+These sales occurred in April 2002, which is after the priority date, but before the
+filing date of LEDA-PCT. The priority clam is, however, valid (see ie char (a))
+therefore these sales will not be effective prior art against any of the subject
+matter in LEDA-PCT.
+ZEUS-EP
+This application published in May 2002, which is after the priority date, but before the
+filing date of LEDA-PCT. This means that ZEUS-EP cannot be full prior art citable for
+novelty and inventive step, as the publication did not occur until after the effective
+date of the claims (ie the priority claim is valid).
+However, ZEUS-EP may be citable for novelty only, though the position in this
+regard is likely to be different in the different states designated in LEDA-PCT

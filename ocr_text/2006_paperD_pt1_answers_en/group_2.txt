@@ -1,0 +1,26 @@
+i ii)
+If appeal fee is not paid in due time, the notice of appeal is deemed
+not filed (A108)_ In such a case, any divisional filed after decision to
+refuse will be invalid since it will not relate to a pending application as
+required under R25(1).
+No, since according to R25(1) divisionals can be filed relating to
+earlier pendinq EP applications. Opposition proceedings (A99) relate
+to granted European patents, and so the subsequent appeal related
+to said opposition proceedings. Since patent is already granted, no
+possibility to file divisionals anymore.
+Question 3
+The international application (IA) shall be filed with the prescribed receiving
+office (RO) (AIO PCT). According to R 19 PCT. the competent RO is at the
+option of the applicant.
+i)
+the national office of or acting for the State of which he is resident
+(RIC li)) *here CH patent office or EPO (see also Applicants Guide,
+vol l, Annex C). EPO acts under A151(1) EPC
+the office of the State of which he is a national
+here
+the International Bureau (1B) (RIC liii PCT)
+So, he can file at the patent offices of CH. US, EPO or 1B. Since he is claiming
+priority, no problem with national security provisions.
+Under A 3.4 (i) PCT, the IA must be in a prescribed language. Under R12_1 (a)
+PCT. the IA must be filed in a language which the RO accepts for that purpose.
+-2

@@ -1,0 +1,41 @@
+3a. Further steps to take regarding COOLMIX applications
+In addition to the recommendations set out in la-c above, further action is needed to
+protect the compositions containing surfactants, in the EP states.
+Since COOLMIX-EP does not disclose compositions containing a surfactant in general,
+but rather mentions only specific surfactants, it is not possible to add a broad claim to
+COOLMIX-EP relating to a composition containing any surfactant (Article 123(2) EPC).
+I therefore recommend filing an additional EP application, designating all desired states,
+and claiming priority from COOLMIX-P_ The application should be filed as soon as
+possible in order to gain the earliest possible date for aspects not entitled to priority (ie
+for compositions Other than those mentioned in COOLMIX EP).
+The priority claim is valid under Article 87(1) EPC since the first application disclosing
+the use of surfactants was COOLMIX-EP which was filed less than 12 months ago.
+SILWAFE AG are entitled to a patent to any novel and inventive claim since they
+themselves realised that all surfactants were useful in cooling and cleaning, ie the
+invention is not NIPPON SAWS which has be "stolen".
+The new application should claim:
+(i) — compositions containing a surfactant (any surfactant)
+(ii) — use Of these compositoins as a cleaning agent; and
+(iii) — use of these compositions as a cooling agent.
+The only prior art we are aware Of is CLEAN-PCT. If CLEAN-PCT is brought into the EP
+regional phase, it will be necessary to limit claims (i) and (ii) above by disclaiming the
+composition disclosed in CLEAN-PCT, as discussed at (1b) above. In order that CLEAN-
+PCT is not Article 54(2) EPC prior art which would also be suitable for inventive step, the
+new case should be filed before 2 April 2002 when CLEAN-PCT is due to be published.
+3b. Further steps to take with regard to MULTISAW applications
+(i) To protect the MULTISAW process and device a new EP application should be filed
+now, designating all states except DE (since a separate application exists in DE). The
+new application should claim the MULTISAW device and process).
+The effect Of CUT-PCT as prior art against this new application was discussed in 2
+above.
+There does not appear to be any further relevant prior art since none of the MULTISAW
+applications has yet been published and none is citable under Article 54(3) EPC. The
+meeting between Listig and Klug was, it appears confidential. All papers handed over
+were marked "confidential" and the meeting related to a possible contract for work. Such
+meetings are usually considered to be confidential even if an explicit confidentiality
+agreement is not in place (T 830/90). Similarly, all testing carried out since January this
+year was under contract and was confidential. Further possible prior art might be the
+disclosure by Dr Bissig last week at the SEMITEC 2002 conference. However, Dr Bissig
+indicated that the process was still a trade secret, so this disclosure is also implicitly
+confidential and not part Of the state Of the art.
+-5-

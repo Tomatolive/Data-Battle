@@ -1,0 +1,23 @@
+Question 8
+(4 points)
+In opposition proceedings against European patent EP-B, opponent Mr. A argued that a
+public prior use had occurred. The opposition division held oral proceedings and took
+evidence by hearing Mr A and Mr. X, a client of Mr. A
+Are Mr. A and Mr. X entitled to reimbursement of their expenses for travel and
+subsistence?
+Question 9
+(5 points)
+Company A filed a European patent application EP on 13 March 2003. EP contains the
+following claims:
+Independent claim 1: Feature A
+Dependent claim 2: Combination of features A and B
+Dependent claim 3: Combination of features A, B and C.
+The European search report of EP mentions European patent application Dl _ In addition,
+a German national patent application D2 has been brought to the attention of the EPO by
+third party observations under Article 115(1) EPC. Dl was filed on 12 Janua1Y 2002 and
+published on 16 July 2003 together with the search report D2 was filed on
+28 Janua1Y 2002 and published on 31 July 2003. Dl discloses feature A. D2 discloses
+the combination of features A and B.
+How can the applicant obtain a European patent giving the broadest possible protection
+which cannot be invalidated by the cited documents in any of the contracting states?
+2007/Dl/e,'4

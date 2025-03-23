@@ -1,0 +1,29 @@
+May also need to consider the issue of representation. Need a representative
+who can act before the Spanish patent office who would be competent RO.
+5)
+a) Under A 75(1) b) EPC a European application may be filed at the central
+industrial propeny office of a contracting state. Nat Law Book, table II confirms that
+applications may be filed at INPI and that the application may be filed in any
+language allowed under A 14(1) or (2) EPC
+Under A 14(2) EPC a national of state which has a language other than English,
+French or German may file the European application in an official language of that
+state, even when they are resident abroad. Thus the Greek applicant living in Paris is
+entitled to file the application in Greek, since Greek is the official language of
+Greece.
+However, A 14(2) EPC who provides that when an application has been filed in
+such a language, a translation into one of the official languages must be provided A
+14(1) EPC states that French, English and German are the official languages.
+R. 6(1) EPC provides that the deadline for filing this translation is no later than 13
+months after the date of priority. In this case this is by 13 March 2004, extended to
+15 March 2004 under rule 85(1) EPC This deadline has passed. Thus the
+application will be deemed withdrawn under A 90(3) EPC_
+(i) The application can be re-flled, although it will not be possible to validly claim priority
+from the earlier application of 13/2/03 as more that 12 months have now passed.
+This will, however, only matter if there has been any relevant art published in the
+intervening time.
+(ii) He can use this application to claim priority from in a re-filed application if any new
+subject matter was added in over the original priority application.
+(iii) Apply for restitutio (A 122) of the deadline for filing the translation within 2 months of
+removal of the cause for non-compliance (which in this case is likely to be a
+notification under R. 69(1)), by requesting restitutio, paying the fee, filing the
+translation, and setting out why despite all due care the deadline was missed.

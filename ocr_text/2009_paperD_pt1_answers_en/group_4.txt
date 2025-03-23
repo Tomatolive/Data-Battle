@@ -1,0 +1,43 @@
+More generally, any party may use English in written proceedings before the EPO [Rule
+3(1)]_ However, ROCOM must file amendments (or translations of any amendments) to
+the application in French, as this is the language of the proceedings [Rule 3(2)]_
+The question of whether ROCOM could change the language of the proceedings by
+filing a translation under Rule EPC has been referred to the Enlarged Board of
+Appeal [G4/08]_
+6L a/_ A European patent application may be licensed in whole or in part for the whole
+or part of a contracting state [Art 73].
+According to Art. 74 EPC, the provisions of the EPC prevail over national law for the
+registration of the license.
+The licensee may be recorded on the European Patent Register at the request of the
+licensee, upon production of the relevant documentation an payment of the necessary
+fee [Rule 23(1) referring to Rules 22(1) and 22(2)1 A should therefore send the license
+documentation to the EPO and request its recordal.
+bL According to Rule 24(a), a request to record an exclusive license can only be
+possible with the agreement of the exclusive licensee and the applicant In this event, A
+will need to seek B's consent to record the license on the Register. The same steps as
+outlines in a/_ above are required, only that B's consent is now required.
+Absent B's consent, the license may only be recorded as a non-exclusive license, or
+possibly not recorded at all [no case law on this].
+7L Added-matter is a ground for opposition [Art 100(c)]_ Therefore the opposition
+was based on valid grounds.
+The withdrawal has been published and therefore is irrevocable. As the opposition
+period has passed, it is not possible to file a new opposition.
+According to (39/91, the opposition is limited to the parts of the patent opposed. In this
+case, as there is only one claim, it is opposed in its entirety.
+According to GIO/91, the Opposition Division is not obliged to consider grounds that
+have not been raised in the notice of opposition. Novelty is a new ground, so the OD is
+not obliged to consider it
+However, the OD will continue with the opposition of its own motion in accordance with
+Art 114(1
+Under Ait 114(1), the OD will, in principle, examine other grounds if they are prima facie
+prejudicial to the maintenance of the patent
+We could file the novelty destroying prior art document together with comments on how
+this document prejudices novelty under Art 115 (which refers to Art 54). These
+observations would be forvvarded to the patentee and may be taken into account by the
+opposition division in its examination under Art 1 However, we would not
+be party to the proceedings [Art 1 15, last sentence].
+According to T 1002/92, late filed documents that go beyond the statement of grounds
+would exceptionally be admitted if there are prima facie grounds to suspect that the
+material will prejudice maintenance of the patent On this basis, they may be admitted
+and considered by the Opposition Division.
+_4_

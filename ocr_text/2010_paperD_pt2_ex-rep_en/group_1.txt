@@ -1,0 +1,44 @@
+Examiners' Report Paper D 2010 Part II
+In this year's paper there were not so many applications or inventions. Hence, the analysis
+phase was relatively straightfonnard, but the candidates had to define important strategies
+and actions in order to accommodate the client's needs.
+The analysis of the existing situation and the application of legal provisions (for example
+the steps to request further processing) was generally answered well. However, to achieve
+good marks it was also necessary to recognise and propose actions that correspond best
+to the client's requirements.
+The main points in this years paper were the following:
+2.
+3.
+In the first part it had to be recognised that EPKM does not disclose the structure of
+the signal necessary for carrying out the fishing method because it only refers to EPI
+Therefore, K.A could render EPKM unpatentable due to a lack of sufficient disclosure
+by withdrawing EPI before publication. It had also to be realised that priority from
+EPI should not be claimed because then EPI would be made publicly available with
+the publication of EP3 (as the priority document in the file of EP3) with the
+consequence that the fishing method in EPKM would then be sufficiently disclosed.
+Additionally, it was imponant to spot that the disclosure of the fishing method at the
+website of KM would, in combination with the structure of the signal as disclosed in
+EP3, stop any future patenting of the method.
+In improving KA's patent situation in Europe, patent rights from EP3 were necessary.
+The repoll of KA became prior art when the filing date of EP3 was changed, so it was
+vital to restore the original filing date of EP3 and claim priority from EP2 Most of the
+candidates recognised this and proposed the correct procedure to achieve it, [e.
+adding a claim to priority from EP2 in EP3 and using the priority document to file the
+missing parts (under Rule 56(3) EPC) so that the filing date would not be changed.
+However, the first step to take was to withdraw the already submitted missing parts
+as an answer to the communication of the EPO
+In helping Nonvayfish against Swedishfishi most of the candidates recognised that
+the disclosure of EP4 was too general to be novelty destroying against EPF and that
+PCTJIJ could be used for a novelty objection in an opposition against EPR Most of
+the candidates also recognised that it was still possible to enter the European
+regional phase of PCTJU through further processing and the majority proposed the
+correct series of steps to take. In order to answer the question correctly it was
+necessary to realise that due to the fact that the EPC entered into force in Norway
+only on 01.019008, Nonnay was designated in EPF but not in EP4, nor was it
+included in the EP designation of PCTJU (EP-PCT JIU). However, under EPC2000,
+EP- PCTJU would be prior art for all contracting states (EPF filed after 12/2007, EPC
+2000 applies for examination and opposition procedures concerning EPF)_
+It is noted that candidates who proposed on the basis of Art 153 (4) EPC and Rule
+165 EPC that it was only necessary to request further processing for payment of the
+EP filing fee and for filing a translation for PCT.JU in order to make it prior art under
+Art 54(3) EPC did not lose marks.

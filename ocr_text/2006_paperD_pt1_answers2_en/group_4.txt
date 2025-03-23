@@ -1,0 +1,23 @@
+Choices are USPTO
+Swiss PO
+EPO
+Lanquaqes:
+must be in prescribed language.
+language accepted by the Receiving Office (rO)_
+file in any
+The USPTO will accept applications in English only (AGI, Annex C-US)
+must file in English if using USPTO as ro.
+The EPO will accept PCT applications in English, French or German only
+(PCT AGI, AnnexC EP) must file in English if using EPO
+The 1B will accept PCT applications in anv language (AGI, Annex C
+File in English QL Russian.
+Swiss PO accepts English, French or German as ro (PCT AGI, Annex C
+CH) => must file in English is using this office.
+Component International Searching Authoritv (ISA)
+Where EPO is receiving Office: ISA must be the EPO (AGI, Annex C
+Where USPTO is the receiving Office : ISA may be:
+i)
+ii)
+EPO (OJ, 192, 323 & OJ 1990, 443).
+Korean Intellectual Property Office (AGI, Annex C
+USPTO

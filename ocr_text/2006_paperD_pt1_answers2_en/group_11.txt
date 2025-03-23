@@ -1,0 +1,27 @@
+Question g
+CZ-A
+11.23—11.40
+03.032005
+EP-A
+0303.2006
+LECTURE (AT)
+PUBIJL_
+European applications may not be filed at the sub-office in Vienna, as it is not
+an EPO filing office under (A-II, 1 1, OJ 1992, 183 & OJ 2005,
+44).
+The Vienna sub-office forwarded the application to the EPO as a courtesy
+service. However, the date of filing is the actual date of receipt of the
+application documents by a permitted office (J18/86 & OJ 2005, 44, para 7).
+Therefore, Prof. Piro's application will having a filing date of 6th March 2006.
+This is outside the 12 month period for claiming priority from CZ-A, which
+expired on 3rd March 2006 (EPCa_87(1); no extension under EPCr.85(1) as
+EPO open on 03.03.2006)_ Therefore, EP-A is not entitled to its priority date
+and has an effective filing date of 6th March 2005 (EPCa_89).
+The public disclosure on 3rd March 2006 is therefore comprised in the state of
+the art under EPCa 54(2) (which includes oral disclosures) because it took
+place before the effective filing date, and EP-A will lack novelty (assuming the
+lecture was enabling (C-IV, T3a)) in light of the lecture.
+EP-A should therefore be abandoned (which will mean a refund of the search
+fee, if paid (Rfees 10(1)). However, the Czech application is unaffected by
+this disclosure and could be pursued if he wants protection there.
+-11

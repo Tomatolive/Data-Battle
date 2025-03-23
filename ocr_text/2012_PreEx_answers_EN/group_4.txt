@@ -1,0 +1,36 @@
+Question 7
+The European patent application contains (including the abstract page) 38 pages and
+19 claims. Claims fees are due in respect of the sixteenth and each subsequent claim, i.e.
+for 4 claims, Rule 45(1) EPC_ Irrespective of how the application was filed, an additional
+fee for three pages has to be paid, Rule 38(2) EPC and Article 2(1), No. la Rfees, see also
+Guidelines, A-III, 13.2. If a claims fee is not paid in due time, the claim concerned is
+deemed to be abandoned, Rule 45(3) EPC
+7.1 - False
+7.2 - False
+7.3 - True
+7.4 - False
+Question 8
+A notice of opposition must be filed within nine months of the publication of the mention of
+the grant, i.e. by 22 March 2012, Article 99(1) EPC and Rule 131(4) EPC The notice of
+opposition shall, in particular, contain: a statement of the extent to which the European
+patent is opposed; and a statement of the grounds of opposition together with supportive
+facts and evidence, Rule 76(2)(c) EPC After expi1Y of the opposition period, it is not
+possible to extend the opposition to independent claims that had not been attacked in the
+notice of opposition, Gg/91 , see also Guidelines, D-V, 2.1 _ Lack of unity is not a valid
+ground for opposition, Article 100 EPC and GI /91
+8.1 - True
+8.2 - False
+8.3 - False
+8.4 - False
+Question 9
+As PCTI was filed in French it is not possible to change the language of proceedings to
+English upon entry into the European phase, G4/08. On 5 March 2012 it was possible to
+file a European application EP-FR validly claiming priority from FR2, as the period of
+twelve months for claiming priority had not yet expired, Article 87(1) EPC The language of
+the priority document does not matter. If EP-FR is filed in French, its European divisional
+application can only be filed in the language of the proceedings of the earlier application,
+i.e. in French, Rule 36(2) EPC
+9.1 - False
+9.2 - True
+9.3 - False
+9.4 - False

@@ -1,0 +1,38 @@
+6b) Assuming all renewal fees are paid, both EPI and EP2 expire 20 years from filing
+(Art. 63(1) EPC), on 12 December 2017. Article 76(1) EPC provides that the date of
+filing of EP2 is the date of filing of EPI since no subject matter was added to EP2 on
+filing (it contains the same description as Epl
+7a) Priority date is valid.
+Art. 87(1) EPC — can claim priority within 12 months of earlier filing. 12 m expires on
+16 Feb 2002, but is extended to 18 Feb 2002 (Rule 85(1) EPC). The claim is filed in time.
+The claim was correctly in the request for grant (Rule 26(2)(g) EPC).
+That the Dutch application was subsequently deemed withdrawn does not matter — Art.
+87(3) EPC.
+b) The priority claim is not valid, and probably cannot be corrected. The declaration was
+not filed in time as the 19 March 2002 letter will not have been received within the 12
+month period of Art. 87(1) EPC.
+A correction under Rule 88 EPC to add the prority claim is unlikely to succeed, but may
+be allowable following J 9/91 (Omission of a priority claim is almost always an error).
+J 6/91 — the burden of proving the facts is heavy. A correction should be requested
+beforepublication and in time for the priority claim to be included in the publication — J 14/82.
+7c) The priority claim is not valid but can be corrected
+The declaration was made in time under Art. 87(1 ) EPC (see(a)) and was correctly in the
+request for grant under Rule 26(2)(g) EPC, but the declaration does not correctly
+indicate the date or state of the earlier application.
+The date and state can be corrected under Rule 88 EPC but this must be done in time to
+publish the corrected priority claim, J 14/82, J 6/91. 18 Feb 2001 is a Sunday which may
+help to show that the original declaration was erroneous.
+8. Yes, if the request was sent by airmail and using one Of the recognised delivery
+services (Guidelines E-Vlll, 1.7), and OJ EPO 1999, 45 — Decision of the President.
+Rule 84a applies. The request will be deemed received in time as it was delivered to
+delivery service 6 days before the deadline (deadline for claiming priority is 10 October
+2001 — Article 87(1 ) EPC)_ It was received within 3 months of the deadline. The priority
+declaration was therefore deemed to be made within 12 months (Article 87(1 ) EPC) from
+the priority date.
+A certified copy of the priority application need not be filed since it is available to the
+EPO under Rule 38(4) EPC (OJ EPO 1999, 80 — Japanese patents are included in the
+file free of charge).
+Ms Sumo must either provide a translation of the priority document (Article 88(1 ) EPC)
+or, more simply, a declaration under Rule 38(5) EPC that the European application is a
+direct translation Of the Japanese application. The translation or the declaration must be
+-4-

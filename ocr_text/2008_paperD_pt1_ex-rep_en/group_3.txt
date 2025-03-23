@@ -1,0 +1,35 @@
+Possible Solution - Paper D 2008 - Part I
+Answer to question 1 (7 marks):
+a) It is possible to file a European patent application in Japanese, Article 14(2) EPC_ The
+fax contains an indication that a European patent is sought, therefore, Rule 40(1)(a)
+EPC is fulfilled. Name and e-mail address, or fax response number, are sufficient for
+identification if they allow the applicant to be contacted, Rule 40(1)(b) EPC The article
+IS considered a description. Only a description is required (no claims necessary), Rule
+40(1)(c) EPC_ Filing by means offax is possible, Rule 2(1) EPC, and decision of the
+President 12 July 2007, special edition Nr 3 of OJ 2007, page 7 or Guidelines A-II 1 _2
+All requirements of Rule 40 are fulfilled; according to Article 80 EPC, a date of filing is
+accorded.
+b) Appoint a representative, Article 133(2) EPC, Rule 57(h) EPC within nvo months from
+invitation according to Rule 58 EPC File a translation into an official language of the
+EPO within two months from filing the application, Article 14(2) EPC, Rule 6(1) EPC,
+i.e. by 4 May 2008 (which is a Sunday), extended to 5 May 2008 (which is a holiday in
+The Hague), thus extended to 6 May 2008, or according to Rule 57(a) EPC, within two
+months from invitation according to Rule 58 EPC Pay filing fee and search fee within
+one month of filing, Rule 38 EPC (ie_ until 4 April 2008). Use "request for grant" form
+(Form 1001) in order to fulfill Rule 41 EPC within two months from invitation according
+to Rule 58 EPC; Rule 57(b) EPC File clams and abstract according to Article 78(1)(c)
+and (e) EPC, Rule 57(c) and (d) EPC, respectively, within nvo months from invitation
+according to Rule 58 EPC_
+Answer to question 2 (5 marks):
+The 12 month time limit of Article 87 (1) EPC expired on 26 February 08. A German utility
+model can be the basis for claiming priority for a European patent application, Article 87(1)
+EPC. Since DE-IJ is available to the publC it will be novelty-destroying for EP-X under
+Article 54 (2) EPC if the right of priority is not saved. A request for re-establishment
+according to Article 122 EPC should be filed and the fee be paid The time limit for filing
+the request and paying the fee is two months from expiry of the priority period, Rule 136(1)
+EPC. This time limit ends on 26 April 08, which is a Saturday, extended to 28 April 08
+according to Rule 134(1) EPC The request should state the grounds and set out the facts
+on which it relies, Rule 136(2) EPC_ Application EP-X must be filed within the two month
+period, Rule 136(2) EPC and the priority of DE-U must be claimed. The car accident and
+the subsequent stay in the hospital appear to be sufficient grounds for re-establishment
+(Guidelines E-VIII 2.21).

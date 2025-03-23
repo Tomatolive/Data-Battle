@@ -1,0 +1,29 @@
+Possible Solution - Paper D 2009 - Part II
+Status of European patents and applications (8 marks)
+Priority
+One year from the filing date of GBI is 6th January 2008, which is a Sunday so the one
+year term for validly claiming priority is extended to 7th Janua1Y 2008. EPI, EP2, and EP3
+were all filed within this period.
+GBI was filed without claims but has unambiguous disclosure (paragraphs in the
+description) to support the claims of EPI, EP2 and EP3 and so the priority requirement of
+"same invention" is met
+GBI and EPI/EP2/EP3 have same applicant and so there is entitlement to claim priority.
+There is no exhaustion of priority right— several applications may claim the same priority.
+Therefore, the priority has been validly claimed for all claims in EPI , EP2 and EP3
+Actions due
+EPI and EP3 were granted ISt March 2009 so the three month term (in most countries) for
+national validation expires ISt June 2009 (which may be extended as ISt June is a holiday
+in some countries). For extension countries including Albania, which appears imponant in
+the present circumstances, the same three month term expiring ISt June 2009 also
+applies.
+The London Agreement has the effect that for many countries a full translation is not
+required.
+For EP2 claims translations, grant and printing fees, and approval of text are due in EPO
+in the next four months
+Problems in applications (11 marks)
+Prior art
+Slugbanites and escargines are known but this does not appear to prejudice novelty or
+inventive step of the subject matter of any of the claims of EPI , EP2 and EP3, since the
+only earlier uses of these compounds and minerals are remote from deterring slugs and
+snails. The deterrent effect was not known to exist for these compounds and minerals, but
+only known for copper metal.

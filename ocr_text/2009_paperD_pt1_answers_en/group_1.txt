@@ -1,0 +1,41 @@
+Candidate's answer
+IL a/_ A European patent application may be filed by any natural or legal person [Art.
+58].
+-4 Mr McX is therefore entitled to file the EP application
+A European application shall be filed in any of the three official languages (EN, FR, DE),
+or if filed in anv other language, translated into one of the official languages [AN 14(2):
+Art 14(1)]-
+If filed in a non-official language such as Italian, the translation into EN, FR, DE should
+be filed within nvo months of the filing date [Rule 6(1)]_
+The application is therefore validly filed, but a translation into EN/FR/DE must be filed
+within two months of "last week" _
+Note: Mr McX is QQ! entitled to a reduction in the filing fee, as he is not entitled to use
+Italian in accordance with Art 14(4) EPC
+bL According to Rule 3(2), amendments to a European patent application must be
+filed in the language of the proceedings, i.e. French.
+Under Alticle 14(4), a national or resident of a contracting state that has an official
+language other than EN, FR, DE may file a document that needs to be filed "within a
+time limit" in the official language of that state. However, Italian is not an official
+language of the UK, and so Mr McX is not entitled to use Italiam If he were, he must
+supply the translation into French within one month of "last week" [R 6(1)]. However,
+since Mr McX is not entitled, R.3(2) requires that the amendments should have been
+filed in French.
+Conclusion: The amendments are not validly filed [AN 14(4)].
+CL An opposition is a document to be filed in a time limit, and so potentially could be
+filed in Italian if Mr McX were entitled to use this language. However, as outlined in bL
+above, Mr McX is QQ! entitled to use Italian Mr McX should have filed the opposition in
+EN/FR/DE within the g month period, i.e. by yesterday [R 3(1), Art. 99(1
+The opposition will be deemed not filed and the opposition fee will be refunded
+[Guidelines, D-l\./, 1.2.1(v)]_
+The opposition will be fonnarded to the proprietor and put on the file as 3rd party
+observations [Art 115].
+2L An opposition must be filed within g months [Art 99(1)]_ It must therefore be filed
+today
+According to G3/gg, an opposition can be filed with joint opponents [construed in the
+light of Art. 58]. Therefore, in principle it would be possible to file the opposition in the
+name of A & B
+According to G4/88, an opposition can be transferred or assigned to a third party as part
+of the opponents business assets. However, this position was restricted in G2/04,
+which held that a conglomerate that filed an opposition could not transfer the opposition
+together with the subsidiary's assets, as it was deemed that the opposition could and
+should have been filed in the name of the subsidiary
