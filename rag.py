@@ -543,84 +543,127 @@ def build_exam_rag_system(text_root_dir: str, output_dir: str):
 #   Intégration avec le modèle génératif pour la génération de questions   #
 ###############################################################################
 def generate_exam_question(
-    topic: str,
-    difficulty: str,
-    vector_db: Dict[str, Any],
-    llm_components: tuple,
-    year: str = None,
-    part: str = None,
+    topic, difficulty, vector_db, llm_components, year=None, part=None
 ):
     """
-    Génère une question d'examen sur un sujet spécifique
-
-    Args:
-        topic: Sujet de la question
-        difficulty: Niveau de difficulté
-        vector_db: Base de connaissances vectorielle
-        llm_components: Modèle LLM et tokenizer
-        year: Année spécifique (optionnel)
-        part: Partie spécifique (optionnel)
-
-    Returns:
-        Question générée
+    Génère une question d'examen sur un sujet spécifique avec gestion d'erreurs améliorée
     """
-    llm, tokenizer = llm_components
+    try:
+        llm, tokenizer = llm_components
 
-    # Récupérer le contexte pertinent
-    context = generate_enriched_context(
-        query=f"question {topic} {difficulty}",
-        vector_db=vector_db,
-        topic=topic,
-        year=year,
-        part=part,
-        content_types=["questions", "example_solutions"],
-        top_k=3,
-    )
+        # Récupérer le contexte pertinent (avec gestion d'erreur)
+        try:
+            context = generate_enriched_context(
+                query=f"question {topic} {difficulty}",
+                vector_db=vector_db,
+                topic=topic,
+                year=year,
+                part=part,
+                content_types=["questions", "example_solutions"],
+                top_k=3,
+            )
+        except Exception as e:
+            print(f"Erreur lors de la récupération du contexte: {str(e)}")
+            context = f"Aucun contexte disponible. Erreur: {str(e)}"
 
-    # Construire le prompt
-    system_prompt = f"""
-    Tu es un expert en préparation au concours d'ingénieur brevet européen.
-    Ta tâche est de créer une question d'examen originale sur le sujet: {topic}.
-    La question doit être de niveau {difficulty}.
-    
-    Utilise les exemples fournis comme inspiration, mais crée une question unique.
-    La question doit être claire, précise et du même format que les exemples.
-    
-    Inclus également:
-    1. Une solution détaillée qui montre le raisonnement correct
-    2. Des critères d'évaluation pour noter la réponse
-    3. Des indications sur les erreurs courantes à éviter
-    
-    Contexte et exemples:
-    {context}
-    """
+        # Construire le prompt
+        system_prompt = f"""
+        Tu es un expert en préparation au concours d'ingénieur brevet européen.
+        Ta tâche est de créer une **question d'examen originale** sur le sujet : **{topic}**.
+        La question doit être de **niveau {difficulty}**.
 
-    # Générer la question
-    inputs = tokenizer(system_prompt, return_tensors="pt").to(llm.device)
+        ### Consignes :
+        - La question doit être **claire et précise**.
+        - Elle doit **être inédite** et ne pas reprendre mot pour mot le contexte.
+        - Le format doit correspondre aux standards d’un examen officiel.
+        - **Ne génère que la question** (pas d’introduction inutile).
 
-    with torch.no_grad():
-        output = llm.generate(
-            inputs.input_ids,
-            max_new_tokens=1024,
-            temperature=0.7,
-            top_p=0.9,
-            do_sample=True,
-        )
+        ### Format attendu :
+        1. **Énoncé de la question** (QCM, vrai/faux, rédaction…)
+        2. **Solution détaillée** (explication du raisonnement)
+        3. **Critères d'évaluation** (comment noter la réponse)
+        4. **Erreurs courantes à éviter** (ce que les candidats font mal)
 
-    # Décoder la sortie
-    full_output = tokenizer.decode(output[0], skip_special_tokens=True)
-    response = full_output[len(system_prompt) :].strip()
+        ### Contexte :
+        _(Utilise ce contexte uniquement pour t’inspirer, sans copier-coller directement)_
 
-    # Formater la réponse
-    formatted_response = {
-        "question": response,
-        "topic": topic,
-        "difficulty": difficulty,
-        "year_reference": year,
-        "part_reference": part,
-    }
+        {context}
+        """
 
-    return formatted_response
+        # S'assurer que pad_token est configuré
+        if tokenizer.pad_token is None:
+            tokenizer.pad_token = tokenizer.eos_token
+
+        # Tokeniser le prompt avec attention_mask explicite
+        inputs = tokenizer(
+            system_prompt,
+            return_tensors="pt",
+            padding=True,
+            truncation=True,
+            max_length=1024,
+        ).to(llm.device)
+
+        # Générer la question
+        with torch.no_grad():
+            try:
+                output = llm.generate(
+                    input_ids=inputs.input_ids,
+                    attention_mask=inputs.attention_mask,
+                    max_new_tokens=1024,
+                    temperature=0.7,
+                    top_p=0.9,
+                    do_sample=True,
+                    pad_token_id=tokenizer.pad_token_id,
+                )
+
+                # Décoder la sortie
+                full_output = tokenizer.decode(output[0], skip_special_tokens=True)
+                response = full_output[len(system_prompt) :].strip()
+
+                # Vérifier si la réponse est vide
+                if not response:
+                    response = "Aucune question n'a pu être générée. Veuillez réessayer avec un autre sujet."
+
+            except RuntimeError as e:
+                if "CUDA out of memory" in str(e):
+                    print(f"Erreur CUDA mémoire insuffisante: {str(e)}")
+                    response = "Erreur: La génération a échoué en raison de contraintes de mémoire. Veuillez réessayer avec un prompt plus court."
+                else:
+                    print(f"Erreur lors de la génération: {str(e)}")
+                    response = (
+                        f"Erreur lors de la génération. Détails techniques: {str(e)}"
+                    )
+
+            except Exception as e:
+                print(f"Exception lors de la génération: {str(e)}")
+                response = f"Une erreur est survenue lors de la génération: {str(e)}"
+
+        # Formater la réponse
+        formatted_response = {
+            "question": response,
+            "topic": topic,
+            "difficulty": difficulty,
+            "year_reference": year,
+            "part_reference": part,
+        }
+
+        return formatted_response
+
+    except Exception as e:
+        print(f"Exception générale dans generate_exam_question: {str(e)}")
+        import traceback
+
+        traceback.print_exc()
+
+        # Même en cas d'erreur, renvoyer une réponse structurée
+        return {
+            "question": f"Une erreur s'est produite lors de la génération de la question: {str(e)}",
+            "topic": topic,
+            "difficulty": difficulty,
+            "year_reference": year,
+            "part_reference": part,
+            "error": True,
+        }
 
 
 #################################################
@@ -725,6 +768,7 @@ def evaluate_student_answer(
     }
 
     return formatted_response
+
 
 if __name__ == "__main__":
     build_exam_rag_system("ocr_text", "test_output")
