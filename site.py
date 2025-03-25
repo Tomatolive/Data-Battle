@@ -5,7 +5,6 @@ import pickle
 from rag import (
     generate_enriched_context,
     generate_exam_question_with_ollama,
-    generate_exam_question,
     evaluate_student_answer,
     filtered_semantic_search,
 )
@@ -21,7 +20,7 @@ app = Flask(__name__)
 # Variables globales pour stocker les composants
 rag_components = None
 llm_components = None
-print("🚀 Le script site.py démarre...")
+print("Le site démarre")
 
 
 def load_rag_system(rag_dir):
@@ -46,10 +45,10 @@ def load_rag_system(rag_dir):
 
     # Charger le modèle d'embeddings
     model = SentenceTransformer(os.path.join(rag_dir, "sentence_transformer_model"))
-    print("✅ Modèle d'embeddings chargé :", model)
-    print("⏳ Test génération embeddings sur un exemple...")
+    print("Modèle d'embeddings chargé :", model)
+    print("Test génération embeddings sur un exemple...")
     test_embedding = model.encode(["Test embedding"], show_progress_bar=True)
-    print("✅ Embedding de test généré :", test_embedding.shape)
+    print("Embedding de test généré :", test_embedding.shape)
     # Assembler les composants
     rag_components = {
         "index": index,
@@ -85,7 +84,7 @@ def load_llm_model(model_path):
     )
 
     llm_components = (model, tokenizer)
-    print("Modèle LLM léger chargé avec succès.")
+    print("Modèle chargé")
 
 
 def initialize_app():
