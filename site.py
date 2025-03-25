@@ -3,6 +3,8 @@ import os
 import json
 import pickle
 from rag import (
+    generate_enriched_context,
+    generate_exam_question_with_ollama,
     generate_exam_question,
     evaluate_student_answer,
     filtered_semantic_search,
@@ -11,12 +13,15 @@ import faiss
 from sentence_transformers import SentenceTransformer
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformers import BitsAndBytesConfig
+
 
 app = Flask(__name__)
 
 # Variables globales pour stocker les composants
 rag_components = None
 llm_components = None
+print("🚀 Le script site.py démarre...")
 
 
 def load_rag_system(rag_dir):
@@ -41,7 +46,10 @@ def load_rag_system(rag_dir):
 
     # Charger le modèle d'embeddings
     model = SentenceTransformer(os.path.join(rag_dir, "sentence_transformer_model"))
-
+    print("✅ Modèle d'embeddings chargé :", model)
+    print("⏳ Test génération embeddings sur un exemple...")
+    test_embedding = model.encode(["Test embedding"], show_progress_bar=True)
+    print("✅ Embedding de test généré :", test_embedding.shape)
     # Assembler les composants
     rag_components = {
         "index": index,
@@ -54,19 +62,30 @@ def load_rag_system(rag_dir):
 
 
 def load_llm_model(model_path):
-    """Charge le modèle LLM"""
+    """Charge un modèle plus léger si nécessaire"""
     global llm_components
 
+    # Vous pouvez choisir un modèle plus petit
+    # Par exemple: "mistralai/Mistral-7B-Instruct-v0.2" au lieu d'un grand modèle
+
     tokenizer = AutoTokenizer.from_pretrained(model_path)
+
+    # S'assurer que pad_token est défini
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
+    bnb_config = BitsAndBytesConfig(
+        load_in_4bit=True,
+        bnb_4bit_compute_dtype=torch.float16,
+    )
+    # Charger le modèle avec des options pour réduire la consommation de mémoire
     model = AutoModelForCausalLM.from_pretrained(
         model_path,
-        load_in_8bit=True,
+        quantization_config=bnb_config,
         device_map="auto",
-        llm_int8_enable_fp32_cpu_offload=True,
     )
 
     llm_components = (model, tokenizer)
-    print("Modèle LLM chargé avec succès.")
+    print("Modèle LLM léger chargé avec succès.")
 
 
 def initialize_app():
@@ -112,50 +131,66 @@ def get_topics():
 
 @app.route("/api/generate_question", methods=["POST"])
 def api_generate_question():
-    """API pour générer une question"""
-    data = request.json
-
-    topic = data.get("topic", "")
-    difficulty = data.get("difficulty", "moyen")
-    year = data.get("year", None)
-    part = data.get("part", None)
-
+    """API pour générer une question avec gestion d'erreurs améliorée"""
     try:
-        # Générer la question
-        result = generate_exam_question(
+        data = request.json
+
+        topic = data.get("topic", "")
+        difficulty = data.get("difficulty", "moyen")
+        year = data.get("year", None)
+        part = data.get("part", None)
+
+        # Valider les entrées
+        if not topic:
+            return jsonify({"error": "Le sujet ne peut pas être vide"}), 400
+        context = ""
+        try:
+            context = generate_enriched_context(
+                query=f"question {topic} {difficulty}",
+                vector_db=rag_components,
+                topic=topic,
+                content_types=["questions", "example_solutions"],
+                top_k=2,
+            )
+
+        except Exception as e:
+            print("erreur de rag : {str(e)}")
+        # Générer la question avec gestion d'erreurs
+        result = generate_exam_question_with_ollama(
             topic=topic,
             difficulty=difficulty,
-            vector_db=rag_components,
-            llm_components=llm_components,
-            year=year,
-            part=part,
+            context=context,
         )
 
-        return jsonify(result)
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        # Vérifier si la question a bien été générée
+        if not result:
+            return jsonify({"error": "Résultat de génération vide"}), 500
 
-
-@app.route("/api/evaluate_answer", methods=["POST"])
-def api_evaluate_answer():
-    """API pour évaluer une réponse"""
-    data = request.json
-
-    question = data.get("question", "")
-    student_answer = data.get("answer", "")
-
-    try:
-        # Évaluer la réponse
-        result = evaluate_student_answer(
-            question=question,
-            student_answer=student_answer,
-            vector_db=rag_components,
-            llm_components=llm_components,
-        )
+        # En cas d'erreur dans la génération
+        if result.get("error", False):
+            return (
+                jsonify(
+                    {
+                        "question": result.get("question", "Erreur de génération"),
+                        "error": True,
+                    }
+                ),
+                200,
+            )  # Toujours renvoyer 200 même en cas d'erreur pour gérer l'affichage côté client
 
         return jsonify(result)
+
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        # Logguer l'erreur pour le débogage côté serveur
+        print(f"Erreur API de génération de question: {str(e)}")
+        import traceback
+
+        traceback.print_exc()
+
+        # Renvoyer une réponse d'erreur
+        return jsonify(
+            {"question": f"Une erreur s'est produite: {str(e)}", "error": True}
+        ), 200  # Toujours renvoyer 200 pour gérer l'affichage côté client
 
 
 @app.route("/api/search", methods=["POST"])

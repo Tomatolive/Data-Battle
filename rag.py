@@ -7,6 +7,8 @@ import faiss
 from sentence_transformers import SentenceTransformer
 import torch
 from typing import List, Dict, Any, Union, Tuple
+import ollama
+import requests
 
 
 #################################
@@ -252,11 +254,9 @@ def create_advanced_vector_db(
     texts = [chunk["text"] for chunk in chunks]
 
     # Générer les embeddings
-    print("Génération des embeddings...")
+    print("Génération des embeddings...\n")
     embeddings = model.encode(texts, show_progress_bar=True, batch_size=32)
-
     # Construire l'index FAISS
-    print("Construction de l'index FAISS...")
     dimension = embeddings.shape[1]
     index = faiss.IndexFlatL2(dimension)
     index.add(np.array(embeddings).astype("float32"))
@@ -318,11 +318,16 @@ def filtered_semantic_search(
     Returns:
         Liste des chunks les plus pertinents
     """
+    print("🔍 Encodage du texte pour la recherche :", query)
     # Créer l'embedding de la requête
     query_embedding = (
         vector_db["model"].encode([query])[0].reshape(1, -1).astype("float32")
     )
-
+    print("🔍 Recherche FAISS en cours...")
+    distances, indices = vector_db["index"].search(query_embedding, top_k)
+    print("📊 Résultats FAISS - Indices :", indices)
+    print("📊 Résultats FAISS - Distances :", distances)
+    print("✅ Embedding généré :", query_embedding.shape)
     # Si aucun filtre n'est spécifié, effectuer une recherche globale
     if filters is None or not filters:
         distances, indices = vector_db["index"].search(query_embedding, top_k)
@@ -539,125 +544,296 @@ def build_exam_rag_system(text_root_dir: str, output_dir: str):
     print(f"Système RAG sauvegardé dans {output_dir}")
 
 
+def clean_generated_response(response, context):
+    """Nettoie la réponse générée pour supprimer les parties du contexte RAG avec des critères moins stricts."""
+
+    # Si la réponse contient des marqueurs évidents du contexte RAG
+    context_markers = [
+        "[année:",
+        "année:",
+        "[source",
+        "RÉPONSE ASSOCIÉE",
+        "SOLUTION ASSOCIÉE",
+        "=====",
+    ]
+
+    # Vérifier si un des marqueurs est présent au début de la réponse
+    for marker in context_markers:
+        if marker.lower() in response.lower()[:200]:  # Vérifier seulement au début
+            # Chercher les sections standard
+            sections = [
+                "QUESTION:",
+                "SOLUTION:",
+                "CRITÈRES D'ÉVALUATION:",
+                "ERREURS COURANTES:",
+            ]
+            for section in sections:
+                if section in response:
+                    # Commencer à partir de la première section trouvée
+                    start_pos = response.find(section)
+                    response = response[start_pos:].strip()
+                    break
+            break
+
+    # Ne pas rejeter la réponse basée sur la similarité, simplement nettoyer les parties évidentes du contexte
+    # Si la réponse ne contient aucune des sections attendues, essayer de l'améliorer
+    if not any(section in response for section in ["QUESTION:", "SOLUTION:"]):
+        # Chercher le premier paragraphe qui semble être une question
+        paragraphs = response.split("\n\n")
+        for i, paragraph in enumerate(paragraphs):
+            if len(paragraph) > 50 and "?" in paragraph:
+                # Reconstruire avec un format plus clair
+                clean_response = "QUESTION:\n" + paragraph + "\n\n"
+                # Ajouter les paragraphes suivants comme solution
+                if i + 1 < len(paragraphs):
+                    clean_response += "SOLUTION:\n" + "\n\n".join(paragraphs[i + 1 :])
+                return clean_response
+
+    return response
+
+
+def generate_exam_question_with_ollama(topic, difficulty, context=""):
+    """Génère une question d'examen en utilisant Ollama avec la bonne syntaxe API"""
+
+    # Choisir un bon modèle
+    model_name = "llama3"  # ou "mistral", "phi3", etc.
+
+    # Créer un prompt bien structuré
+    prompt = f"""
+Crée une question d'examen sur le sujet: {topic}
+Niveau: {difficulty}
+
+Format requis:
+
+QUESTION:
+[Ta question ici]
+
+SOLUTION:
+[Ta solution détaillée]
+
+CRITÈRES D'ÉVALUATION:
+[Les critères]
+
+ERREURS COURANTES:
+[Les erreurs typiques]
+
+Contexte additionnel pour t'aider:
+{context}
+"""
+
+    try:
+        # Appeler Ollama avec la syntaxe correcte
+        response = requests.post(
+            "http://localhost:11434/api/generate",
+            json={
+                "model": model_name,
+                "prompt": prompt,
+                "options": {
+                    "temperature": 0.7,
+                    "top_p": 0.9,
+                },
+            },
+        )
+
+        if response.status_code == 200:
+            try:
+                result = response.json()
+                generated_text = result.get("response", "")
+            except json.JSONDecodeError:
+                # Si nous avons toujours une erreur de décodage JSON, traiter comme stream
+                text_response = response.text
+                generated_text = ""
+
+                # Traiter chaque ligne JSON séparément
+                for line in text_response.strip().split("\n"):
+                    try:
+                        line_data = json.loads(line)
+                        if "response" in line_data:
+                            generated_text += line_data["response"]
+                    except json.JSONDecodeError:
+                        continue
+        else:
+            generated_text = f"Erreur API: {response.status_code}"
+
+        return {
+            "question": generated_text,
+            "topic": topic,
+            "difficulty": difficulty,
+            "source": "ollama",
+        }
+
+    except Exception as e:
+        print(f"Erreur avec Ollama: {str(e)}")
+        return {
+            "question": f"Erreur: {str(e)}",
+            "topic": topic,
+            "difficulty": difficulty,
+            "error": True,
+        }
+
+
 ###############################################################################
 #   Intégration avec le modèle génératif pour la génération de questions   #
 ###############################################################################
 def generate_exam_question(
     topic, difficulty, vector_db, llm_components, year=None, part=None
 ):
-    """
-    Génère une question d'examen sur un sujet spécifique avec gestion d'erreurs améliorée
-    """
+    """Génère une question d'examen avec un exemple concret pour guider le modèle"""
+
     try:
         llm, tokenizer = llm_components
 
-        # Récupérer le contexte pertinent (avec gestion d'erreur)
-        try:
-            context = generate_enriched_context(
-                query=f"question {topic} {difficulty}",
-                vector_db=vector_db,
-                topic=topic,
-                year=year,
-                part=part,
-                content_types=["questions", "example_solutions"],
-                top_k=3,
-            )
-        except Exception as e:
-            print(f"Erreur lors de la récupération du contexte: {str(e)}")
-            context = f"Aucun contexte disponible. Erreur: {str(e)}"
+        # Prompt avec un exemple concret pour guider le modèle
+        prompt = f"""
+Tu dois créer une question d'examen sur "{topic}" pour le concours d'ingénieur brevet européen.
+Niveau de difficulté: {difficulty}
 
-        # Construire le prompt
-        system_prompt = f"""
-        Tu es un expert en préparation au concours d'ingénieur brevet européen.
-        Ta tâche est de créer une **question d'examen originale** sur le sujet : **{topic}**.
-        La question doit être de **niveau {difficulty}**.
+Voici un exemple du format attendu:
 
-        ### Consignes :
-        - La question doit être **claire et précise**.
-        - Elle doit **être inédite** et ne pas reprendre mot pour mot le contexte.
-        - Le format doit correspondre aux standards d’un examen officiel.
-        - **Ne génère que la question** (pas d’introduction inutile).
+QUESTION:
+En tenant compte de l'article 52 de la Convention sur le brevet européen (CBE), expliquez quelles sont les trois conditions principales de brevetabilité d'une invention en droit européen et donnez deux exemples d'exceptions à la brevetabilité prévues par l'article 53 CBE.
 
-        ### Format attendu :
-        1. **Énoncé de la question** (QCM, vrai/faux, rédaction…)
-        2. **Solution détaillée** (explication du raisonnement)
-        3. **Critères d'évaluation** (comment noter la réponse)
-        4. **Erreurs courantes à éviter** (ce que les candidats font mal)
+SOLUTION:
+Les trois conditions principales de brevetabilité selon l'article 52 CBE sont:
+1. Nouveauté: l'invention ne doit pas faire partie de l'état de la technique.
+2. Activité inventive: l'invention ne doit pas découler de manière évidente de l'état de la technique pour un homme du métier.
+3. Application industrielle: l'invention doit pouvoir être fabriquée ou utilisée dans tout genre d'industrie.
 
-        ### Contexte :
-        _(Utilise ce contexte uniquement pour t’inspirer, sans copier-coller directement)_
+Les exceptions à la brevetabilité selon l'article 53 CBE comprennent:
+- Les inventions contraires à l'ordre public ou aux bonnes mœurs
+- Les variétés végétales ou races animales et les procédés essentiellement biologiques d'obtention de végétaux ou d'animaux
+- Les méthodes de traitement chirurgical ou thérapeutique du corps humain ou animal et les méthodes de diagnostic appliquées au corps humain ou animal
 
-        {context}
-        """
+CRITÈRES D'ÉVALUATION:
+- Identification correcte des trois conditions de brevetabilité
+- Explication précise de chaque condition
+- Identification correcte d'au moins deux exceptions
+- Référence correcte aux articles pertinents de la CBE
 
-        # S'assurer que pad_token est configuré
+ERREURS COURANTES:
+- Confusion entre nouveauté et activité inventive
+- Omission de l'application industrielle comme condition de brevetabilité
+- Interprétation incorrecte des exceptions
+- Ne pas mentionner les bases légales (articles de la CBE)
+
+MAINTENANT, CRÉE UNE NOUVELLE QUESTION ORIGINALE SUR "{topic}" EN SUIVANT CE FORMAT.
+"""
+
+        # Configurer pad_token
         if tokenizer.pad_token is None:
             tokenizer.pad_token = tokenizer.eos_token
 
-        # Tokeniser le prompt avec attention_mask explicite
         inputs = tokenizer(
-            system_prompt,
-            return_tensors="pt",
-            padding=True,
-            truncation=True,
-            max_length=1024,
+            prompt, return_tensors="pt", padding=True, truncation=True
         ).to(llm.device)
 
-        # Générer la question
+        # Générer avec des paramètres optimisés pour éviter les répétitions
         with torch.no_grad():
             try:
                 output = llm.generate(
                     input_ids=inputs.input_ids,
                     attention_mask=inputs.attention_mask,
-                    max_new_tokens=1024,
-                    temperature=0.7,
-                    top_p=0.9,
+                    max_new_tokens=800,  # Limiter pour éviter les longues répétitions
+                    min_new_tokens=100,  # Forcer un minimum de génération
+                    temperature=0.8,
+                    top_p=0.92,
                     do_sample=True,
                     pad_token_id=tokenizer.pad_token_id,
+                    # Ces paramètres sont cruciaux pour éviter les répétitions
+                    repetition_penalty=1.2,  # Pénaliser la répétition
+                    no_repeat_ngram_size=4,  # Interdire la répétition de séquences de 4 tokens
                 )
 
-                # Décoder la sortie
-                full_output = tokenizer.decode(output[0], skip_special_tokens=True)
-                response = full_output[len(system_prompt) :].strip()
+                response = tokenizer.decode(output[0], skip_special_tokens=True)
 
-                # Vérifier si la réponse est vide
-                if not response:
-                    response = "Aucune question n'a pu être générée. Veuillez réessayer avec un autre sujet."
-
-            except RuntimeError as e:
-                if "CUDA out of memory" in str(e):
-                    print(f"Erreur CUDA mémoire insuffisante: {str(e)}")
-                    response = "Erreur: La génération a échoué en raison de contraintes de mémoire. Veuillez réessayer avec un prompt plus court."
+                # Extraire la question générée
+                question_start = response.find("QUESTION:")
+                if question_start != -1 and question_start > len(prompt) - 100:
+                    generated_response = response[question_start:]
                 else:
-                    print(f"Erreur lors de la génération: {str(e)}")
-                    response = (
-                        f"Erreur lors de la génération. Détails techniques: {str(e)}"
-                    )
+                    # Chercher après "MAINTENANT, CRÉE"
+                    prompt_end = response.find("MAINTENANT, CRÉE")
+                    if prompt_end != -1:
+                        second_part = response[prompt_end:]
+                        question_start = second_part.find("QUESTION:")
+                        if question_start != -1:
+                            generated_response = second_part[question_start:]
+                        else:
+                            # Chercher simplement après l'exemple
+                            solution_end = response.find("ERREURS COURANTES:")
+                            if solution_end != -1:
+                                potential_response = response[
+                                    solution_end + len("ERREURS COURANTES:") :
+                                ]
+                                # Chercher la première ligne qui ressemble à une question
+                                lines = potential_response.split("\n")
+                                for i, line in enumerate(lines):
+                                    if len(line) > 30 and "?" in line:
+                                        generated_response = (
+                                            "QUESTION:\n" + line + "\n\n"
+                                        )
+                                        # Ajouter les lignes suivantes comme solution
+                                        generated_response += "SOLUTION:\n" + "\n".join(
+                                            lines[i + 1 :]
+                                        )
+                                        break
+                                else:
+                                    generated_response = (
+                                        "Impossible d'extraire une question valide."
+                                    )
+                            else:
+                                generated_response = "Format de réponse incorrect."
+                    else:
+                        generated_response = "Format de réponse incorrect."
+
+                # Nettoyer la réponse générée
+                if len(generated_response) > 50:
+                    # Limiter le nombre de répétitions du sujet dans la question
+                    topic_count = generated_response.lower().count(topic.lower())
+                    if topic_count > 3:
+                        paragraphs = generated_response.split("\n\n")
+                        clean_paragraphs = []
+                        seen_content = set()
+
+                        for para in paragraphs:
+                            # Ignorer les paragraphes très similaires à ceux déjà vus
+                            para_simplified = "".join(para.lower().split())[:50]
+                            if para_simplified not in seen_content:
+                                clean_paragraphs.append(para)
+                                seen_content.add(para_simplified)
+
+                        generated_response = "\n\n".join(clean_paragraphs)
+
+                # Vérification finale du contenu
+                if generated_response.count("QUESTION:") > 1:
+                    # S'il y a plus d'une section "QUESTION:", garder seulement la première
+                    first_q = generated_response.find("QUESTION:")
+                    second_q = generated_response.find("QUESTION:", first_q + 1)
+                    generated_response = generated_response[:second_q]
+
+                return {
+                    "question": generated_response,
+                    "topic": topic,
+                    "difficulty": difficulty,
+                    "year_reference": year,
+                    "part_reference": part,
+                }
 
             except Exception as e:
-                print(f"Exception lors de la génération: {str(e)}")
-                response = f"Une erreur est survenue lors de la génération: {str(e)}"
-
-        # Formater la réponse
-        formatted_response = {
-            "question": response,
-            "topic": topic,
-            "difficulty": difficulty,
-            "year_reference": year,
-            "part_reference": part,
-        }
-
-        return formatted_response
+                print(f"Erreur lors de la génération: {str(e)}")
+                return {
+                    "question": f"Erreur lors de la génération: {str(e)}",
+                    "topic": topic,
+                    "difficulty": difficulty,
+                    "year_reference": year,
+                    "part_reference": part,
+                    "error": True,
+                }
 
     except Exception as e:
-        print(f"Exception générale dans generate_exam_question: {str(e)}")
-        import traceback
-
-        traceback.print_exc()
-
-        # Même en cas d'erreur, renvoyer une réponse structurée
+        print(f"Exception générale: {str(e)}")
         return {
-            "question": f"Une erreur s'est produite lors de la génération de la question: {str(e)}",
+            "question": f"Une erreur s'est produite: {str(e)}",
             "topic": topic,
             "difficulty": difficulty,
             "year_reference": year,
