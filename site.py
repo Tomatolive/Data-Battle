@@ -5,8 +5,8 @@ import pickle
 from rag import (
     generate_enriched_context,
     generate_exam_question_with_ollama,
+    generate_exam_response_with_ollama,
     evaluate_student_answer,
-    filtered_semantic_search,
 )
 import faiss
 from sentence_transformers import SentenceTransformer
@@ -130,7 +130,7 @@ def get_topics():
 
 @app.route("/api/generate_question", methods=["POST"])
 def api_generate_question():
-    """API pour générer une question avec gestion d'erreurs améliorée"""
+    """API pour générer une question et sa réponse modèle"""
     try:
         data = request.json
 
@@ -142,6 +142,8 @@ def api_generate_question():
         # Valider les entrées
         if not topic:
             return jsonify({"error": "Le sujet ne peut pas être vide"}), 400
+
+        # Récupérer le contexte RAG
         context = ""
         try:
             context = generate_enriched_context(
@@ -151,114 +153,99 @@ def api_generate_question():
                 content_types=["questions", "example_solutions"],
                 top_k=2,
             )
-
         except Exception as e:
-            print("erreur de rag : {str(e)}")
-        # Générer la question avec gestion d'erreurs
-        result = generate_exam_question_with_ollama(
+            print(f"Erreur de RAG: {str(e)}")
+
+        # Générer la question
+        question_result = generate_exam_question_with_ollama(
             topic=topic,
             difficulty=difficulty,
             context=context,
         )
 
         # Vérifier si la question a bien été générée
-        if not result:
-            return jsonify({"error": "Résultat de génération vide"}), 500
+        if not question_result or question_result.get("error", False):
+            return jsonify(
+                {
+                    "question": question_result.get("question", "Erreur de génération"),
+                    "error": True,
+                }
+            ), 200
 
-        # En cas d'erreur dans la génération
-        if result.get("error", False):
-            return (
-                jsonify(
-                    {
-                        "question": result.get("question", "Erreur de génération"),
-                        "error": True,
-                    }
-                ),
-                200,
-            )  # Toujours renvoyer 200 même en cas d'erreur pour gérer l'affichage côté client
+        # Extraire le texte de la question
+        question_text = question_result.get("question", "")
 
-        return jsonify(result)
+        # Générer la réponse modèle
+        model_answer_result = generate_exam_response_with_ollama(
+            question=question_text, topic=topic, context=context
+        )
+
+        # Combiner les résultats
+        combined_result = {
+            "question": question_text,
+            "topic": topic,
+            "difficulty": difficulty,
+            "model_answer": model_answer_result.get("model_answer", ""),
+            "year_reference": year,
+            "part_reference": part,
+        }
+
+        # Stocker la réponse modèle en session ou en cache pour une utilisation ultérieure
+        # Ici, on pourrait utiliser Flask-Session ou un autre mécanisme de stockage
+
+        return jsonify(combined_result)
 
     except Exception as e:
-        # Logguer l'erreur pour le débogage côté serveur
         print(f"Erreur API de génération de question: {str(e)}")
         import traceback
 
         traceback.print_exc()
 
-        # Renvoyer une réponse d'erreur
         return jsonify(
             {"question": f"Une erreur s'est produite: {str(e)}", "error": True}
-        ), 200  # Toujours renvoyer 200 pour gérer l'affichage côté client
-
-
-@app.route("/api/search", methods=["POST"])
-def api_search():
-    """API pour effectuer une recherche dans les documents"""
-    data = request.json
-
-    query = data.get("query", "")
-    filters = data.get("filters", {})
-    top_k = data.get("top_k", 5)
-
-    try:
-        # Effectuer la recherche
-        results = filtered_semantic_search(
-            query=query, vector_db=rag_components, filters=filters, top_k=top_k
-        )
-
-        # Formater les résultats pour l'API
-        formatted_results = []
-        for result in results:
-            chunk = result["chunk"]
-            formatted_results.append(
-                {
-                    "text": chunk["text"],
-                    "year": chunk["year"],
-                    "part": chunk["part"],
-                    "content_type": chunk["content_type"],
-                    "group": chunk["group"],
-                    "path": chunk["path"],
-                    "score": result["score"],
-                }
-            )
-
-        return jsonify({"results": formatted_results})
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        ), 200
 
 
 @app.route("/api/analyse_response", methods=["POST"])
-def api_evaluate_answer():  # Renommé pour éviter la confusion avec la fonction importée
+def api_evaluate_answer():
     """API pour analyser la réponse d'un étudiant"""
     try:
         data = request.json
 
         question = data.get("question", "")
-        student_answer = data.get("answer", "")  # Changé pour correspondre au frontend
+        student_answer = data.get("answer", "")
+        model_answer = data.get("model_answer", "")  # Récupérer la réponse modèle
 
         # Valider les entrées
         if not student_answer:
             return jsonify({"error": "Vous devez donner une réponse"}), 400
-            
-        context = ""
-        try:
-            context = generate_enriched_context(
-                query=f"analyse_response {student_answer}",
-                vector_db=rag_components,
-                topic=question,
-                content_types=["answers", "example_solutions"],
-                top_k=2,
-            )
-        except Exception as e:
-            print(f"Erreur de rag : {str(e)}")
-            
+
+        # Si la réponse modèle n'est pas fournie, la générer
+        if not model_answer:
+            try:
+                context = generate_enriched_context(
+                    query=question,
+                    vector_db=rag_components,
+                    content_types=["answers", "example_solutions"],
+                    top_k=2,
+                )
+
+                model_answer_result = generate_exam_response_with_ollama(
+                    question=question,
+                    topic="",  # Le sujet peut être extrait de la question
+                    context=context,
+                )
+
+                model_answer = model_answer_result.get("model_answer", "")
+            except Exception as e:
+                print(f"Erreur lors de la génération de la réponse modèle: {str(e)}")
+
         # Évaluer la réponse de l'étudiant
         result = evaluate_student_answer(
             question=question,
             student_answer=student_answer,
-            vector_db=rag_components,  # Corrigé de rags_components
-            llm_components=llm_components,
+            model_answer=model_answer,
+            vector_db=rag_components,
         )
 
         # Vérifier si l'évaluation a bien été générée
@@ -267,24 +254,24 @@ def api_evaluate_answer():  # Renommé pour éviter la confusion avec la fonctio
 
         # En cas d'erreur dans l'évaluation
         if result.get("error", False):
-            return jsonify({
-                "evaluation": result.get("evaluation", "Erreur d'évaluation"),
-                "error": True
-            }), 200  # Toujours renvoyer 200 pour gérer l'affichage côté client
+            return jsonify(
+                {
+                    "evaluation": result.get("evaluation", "Erreur d'évaluation"),
+                    "error": True,
+                }
+            ), 200
 
         return jsonify(result)
 
     except Exception as e:
-        # Logguer l'erreur pour le débogage côté serveur
         print(f"Erreur API d'évaluation de réponse: {str(e)}")
         import traceback
+
         traceback.print_exc()
 
-        # Renvoyer une réponse d'erreur
-        return jsonify({
-            "evaluation": f"Une erreur s'est produite: {str(e)}",
-            "error": True
-        }), 200  # Toujours renvoyer 200 pour gérer l'affichage côté client
+        return jsonify(
+            {"evaluation": f"Une erreur s'est produite: {str(e)}", "error": True}
+        ), 200
 
 
 if __name__ == "__main__":

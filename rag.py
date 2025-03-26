@@ -543,8 +543,8 @@ def build_exam_rag_system(text_root_dir: str, output_dir: str):
 #  Génération de questions d'examen avec Ollama  #
 ##################################################
 def generate_exam_question_with_ollama(topic, difficulty, context=""):
-    print("Passage par generate_exam_question_with_ollama")
     """Génère une question d'examen en utilisant Ollama avec la bonne syntaxe API"""
+    print("Passage par generate_exam_question_with_ollama")
 
     # Choisir un bon modèle
     model_name = "llama3"  # ou "mistral", "phi3", etc.
@@ -618,74 +618,38 @@ Contexte additionnel pour t'aider:
         }
 
 
-#################################################
-#   Intégration pour l'évaluation de réponses   #
-#################################################
-def evaluate_student_answer(
-    question: str, student_answer: str, vector_db: Dict[str, Any], llm_components: tuple
-):
-    """
-    Évalue la réponse d'un étudiant à une question
+def generate_exam_response_with_ollama(question, topic, context=""):
+    """Génère une réponse modèle à une question d'examen
 
     Args:
-        question: Question posée
-        student_answer: Réponse de l'étudiant
-        vector_db: Base de connaissances vectorielle
-        llm_components: Modèle LLM et tokenizer
+        question: La question d'examen à laquelle répondre
+        topic: Le sujet de la question
+        context: Contexte additionnel pour aider à la génération (optional)
 
     Returns:
-        Évaluation de la réponse
+        Dictionnaire contenant la réponse générée et des métadonnées
     """
-    llm, tokenizer = llm_components
+    # Choisir un bon modèle
+    model_name = "llama3"
 
-    # Récupérer le contexte pertinent
-    context = generate_enriched_context(
-        query=question[:100],  # Utiliser le début de la question comme requête
-        vector_db=vector_db,
-        content_types=["answers", "example_solutions"],
-        top_k=3,
-    )
+    # Créer un prompt bien structuré
+    prompt = f"""
+Tu es un expert du concours d'ingénieur brevet européen.
+Réponds de façon détaillée et professionnelle à cette question d'examen sur {topic}.
 
-    system_prompt = f"""
-Analyse la solution d'un étudiant à la question posée la question question d'examen suivante : {question}
+QUESTION:
+{question}
+
+Utilise tes connaissances et le contexte fourni pour donner une réponse complète et précise.
+Structure ta réponse clairement avec des titres et des sous-sections si nécessaire.
+
+Contexte additionnel:
+{context}
 
 Format requis:
-
-Question:
-    {question}
-    
-    Réponse de l'étudiant:
-    {student_answer}
-    
-    Utilise les exemples et solutions ci-dessous pour évaluer la réponse:
-    {context}
-    
-    Ton évaluation doit inclure:
-    1. Un score sur 10
-    2. Une analyse détaillée des points forts et des points faibles
-    3. Des suggestions d'amélioration spécifiques
-    4. Une comparaison avec les solutions de référence
-    
-    Format de sortie:
-    SCORE: [/10]
-    
-    ÉVALUATION DÉTAILLÉE:
-    [Ton analyse]
-    
-    POINTS FORTS:
-    [Liste des points forts]
-    
-    POINTS À AMÉLIORER:
-    [Liste des points à améliorer]
-    
-    COMPARAISON AVEC LA RÉFÉRENCE:
-    [Comparaison avec les réponses modèles]
-    
-    CONSEILS:
-    [Conseils pour améliorer]
-
+RÉPONSE MODÈLE:
+[Ta réponse détaillée et structurée ici]
 """
-    model_name = "llama3"
 
     try:
         # Appeler Ollama avec la syntaxe correcte
@@ -693,20 +657,21 @@ Question:
             "http://localhost:11434/api/generate",
             json={
                 "model": model_name,
-                "prompt": system_prompt,
+                "prompt": prompt,
                 "options": {
                     "temperature": 0.7,
                     "top_p": 0.9,
                 },
             },
         )
+
         # Vérifier le statut de la réponse
         if response.status_code == 200:
             try:
                 result = response.json()
                 generated_text = result.get("response", "")
             except json.JSONDecodeError:
-                # Si nous avons toujours une erreur de décodage JSON, traiter comme stream
+                # Si nous avons une erreur de décodage JSON, traiter comme stream
                 text_response = response.text
                 generated_text = ""
 
@@ -721,17 +686,171 @@ Question:
         else:
             generated_text = f"Erreur API: {response.status_code}"
 
+        # Nettoyer la sortie si nécessaire
+        if "RÉPONSE MODÈLE:" in generated_text:
+            generated_text = generated_text.split("RÉPONSE MODÈLE:")[1].strip()
+
         return {
-            "evaluation": generated_text,
+            "model_answer": generated_text,
+            "question": question,
+            "topic": topic,
             "source": "ollama",
         }
 
     except Exception as e:
         print(f"Erreur avec Ollama: {str(e)}")
         return {
-            "evaluation": f"Erreur: {str(e)}",
+            "model_answer": f"Erreur: {str(e)}",
             "question": question,
-            "reponse_eleve": student_answer,
+            "topic": topic,
+            "error": True,
+        }
+
+
+#################################################
+#   Intégration pour l'évaluation de réponses   #
+#################################################
+def evaluate_student_answer(
+    question: str,
+    student_answer: str,
+    model_answer: str,
+    vector_db: Dict[str, Any] = None,
+    llm_components: tuple = None,
+):
+    """
+    Évalue la réponse d'un étudiant en la comparant à une réponse modèle
+
+    Args:
+        question: Question posée
+        student_answer: Réponse de l'étudiant
+        model_answer: Réponse modèle générée
+        vector_db: Base de connaissances vectorielle (optional)
+        llm_components: Modèle LLM et tokenizer (optional)
+
+    Returns:
+        Évaluation de la réponse
+    """
+    # Récupérer le contexte pertinent si vector_db est fourni
+    context = ""
+    if vector_db:
+        try:
+            context = generate_enriched_context(
+                query=question[:100],
+                vector_db=vector_db,
+                content_types=["answers", "example_solutions"],
+                top_k=2,
+            )
+            print("Le coin du contexte est : ", context)
+        except Exception as e:
+            print(f"Erreur lors de la récupération du contexte: {str(e)}")
+
+    # Créer un prompt bien structuré pour l'évaluation
+    system_prompt = f"""
+Tu es un évaluateur expert pour le concours d'ingénieur brevet européen.
+Ta tâche est d'évaluer la réponse de l'étudiant en la comparant à la réponse modèle.
+Toute ton évaluation devra être rédigée en anglais.
+
+### QUESTION:
+{question}
+
+### RÉPONSE DE L'ÉTUDIANT:
+{student_answer}
+
+### RÉPONSE MODÈLE:
+{model_answer}
+
+{f"### CONTEXTE SUPPLÉMENTAIRE:\n{context}" if context else ""}
+
+### CONSIGNES D'ÉVALUATION:
+1. Compare la réponse de l'étudiant à la réponse modèle
+2. Évalue la précision technique et la justesse des informations (sois sévère et strict sur l'analyse)
+3. Considère la structure, la clarté et la complétude de la réponse
+4. Attribue un score juste en fonction des critères ci-dessus
+
+### FORMAT DE SORTIE (respecte strictement ce format):
+
+RÉPONSE DE L'ÉLÈVE : [{student_answer}]
+
+SCORE: [note sur 10]
+
+ÉVALUATION DÉTAILLÉE:
+[Analyse de la réponse de l'étudiant]
+
+POINTS FORTS:
+[Points forts]
+
+POINTS À AMÉLIORER:
+[Points à améliorer]
+
+COMPARAISON AVEC LA RÉPONSE MODÈLE:
+[Analyse comparative détaillée]
+
+CONSEILS:
+[Conseils spécifiques pour améliorer la réponse]
+"""
+
+    model_name = "llama3"
+
+    try:
+        # Appeler Ollama
+        response = requests.post(
+            "http://localhost:11434/api/generate",
+            json={
+                "model": model_name,
+                "prompt": system_prompt,
+                "options": {
+                    "temperature": 0.5,
+                    "top_p": 0.9,
+                },
+            },
+        )
+
+        # Traiter la réponse
+        if response.status_code == 200:
+            try:
+                result = response.json()
+                generated_text = result.get("response", "")
+            except json.JSONDecodeError:
+                text_response = response.text
+                generated_text = ""
+
+                for line in text_response.strip().split("\n"):
+                    try:
+                        line_data = json.loads(line)
+                        if "response" in line_data:
+                            generated_text += line_data["response"]
+                    except json.JSONDecodeError:
+                        continue
+        else:
+            generated_text = f"Erreur API: {response.status_code}"
+
+        # Extraire le score si présent
+        score = None
+        if "SCORE:" in generated_text:
+            score_match = re.search(
+                r"SCORE:\s*(\d+(?:\.\d+)?)\s*/\s*10", generated_text
+            )
+            if score_match:
+                try:
+                    score = float(score_match.group(1))
+                except:
+                    pass
+
+        return {
+            "evaluation": generated_text,
+            "score": score,
+            "question": question,
+            "student_answer": student_answer,
+            "model_answer": model_answer,
+            "source": "ollama",
+        }
+
+    except Exception as e:
+        print(f"Erreur lors de l'évaluation: {str(e)}")
+        return {
+            "evaluation": f"Erreur lors de l'évaluation: {str(e)}",
+            "question": question,
+            "student_answer": student_answer,
             "error": True,
         }
 
