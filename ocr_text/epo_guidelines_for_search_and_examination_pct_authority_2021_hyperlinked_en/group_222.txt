@@ -1,0 +1,47 @@
+Part F
+— Chapter IV-8
+PCT-EPO Guidelines
+4.21 Functional definition of a pathological condition
+March 2021
+GUISPE 5.42 15.25
+Rule 6 1(a)
+Art. 6
+Section F-IV,_ in the Gui<elines for Examination in the EPO applies
+mutatis mutandis
+See also GUPCT-EPO G-llz 4_2_
+4.22 Broad claims
+The PCT Regulations do not explicitly mention overly broad claims
+However, objections to such claims may arise for various reasons.
+Where there are discrepancies between the claims and the description, the
+claims are not sufficiently supported by the description (Art 6) and also, in
+most cases, the invention is not sufficiently disclosed (Art 5,
+see GUPCT-EPO F-IVL 6.1).
+Sometimes an objection of lack of novelty arises, for example if the claim is
+formulated in such broad terms that it also covers known subject-matter
+from other technical fields Broad claims may also cover embodiments for
+which a purported effect has not been achieved. On raising an objection of
+lack of inventive step in such cases, see G-VIL
+4.23 Order of claims
+There is no legal requirement that the first claim should be the broadest
+However, 6 requires that the claims must be clear not only individually
+but also as a whole. Therefore, where there are a large number of claims,
+they should be arranged with the broadest claim first. If the broadest of a
+large number of claims is a long way down, so that it could easily be
+overlooked, the applicant should be required either to re-arrange the claims
+in a more logical way or to direct attention to the broadest claim in the
+introductory part or in the summary of the description.
+Furthermore, if the broadest claim is not the first one, the later broader
+claim must also be an independent claim. Consequently, where these
+independent claims are of the same categoryq an objection may also arise
+under Rule 6 if they result in a lack of clarity and conciseness (see
+GWPCT-EPO 3_2)_
+5. Conciseness, number of claims
+See ISPE Guidelines 5.42
+The EPO applies option GUISPE A5.42L21 of the Appendix to Chapter 5 of
+the ISPE Guidelines.
+Where it is found that the claims lack conciseness under Art it may be
+appropriate for the examiner to first invite the applicant to provide informal
+clarification before the search is carried out (see W?Q.T.-EPQ E-Vlll, to
+6. Support in description
+6.1 General remarks
+See ISPE Guidelines 5.43.

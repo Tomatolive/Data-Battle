@@ -1,0 +1,57 @@
+March 2022
+Chapter II — Inventions
+1. General remarks
+PCT-EPO Guidelines
+Part G
+Art 33111
+Chapter II-I
+The objective of the international preliminary examination is to formulate a
+preliminary and non-binding opinion on the questions whether the claimed
+invention appears to be novel, to involve an inventive step and to be
+industrially applicable.
+The PCT does not define what is meant by "invention", but Rules 39 and 67
+contain a list of subject-matter for which the ISA or IPEA is not required to
+carry out an intemational search or an international preliminary
+examination, respectively (see also GLIPCT-EPO a-VIII, 2). The
+Agreement between the EPO and WIPO in relation to the functioning of the
+EPO as an International Authority under the PCT indicates the subject-
+matter which the EPO is not required to search or examine, and according
+to its Alt. 4 and Annex C the discretion not to search or examine is
+exercised by the EPO as ISA and IPEA only to the extent that such
+subject-matter is not searched under the provisions of the EPC, specifically
+Art 52(2), Art. 52(3), Ait. 53(b) and Art. 53(c) EPC
+2. Examination practice
+In carrying out the International preliminary examination, there are two
+general points the examiner must bear in mind. Firstly, any exclusion from
+patentability applies only to the extent to which the application relates to the
+excluded subject-matter as such. Secondly, the subject-matter of the claim
+should be considered as a whole, in order to decide whether the claimed
+subject-matter has a technical character.
+3. List of exclusions
+See ISPE Guidelines 9.02 to ISPE Guidelines 9.15.
+3.1 Discoveries
+Rules 39M and 67_1 do not explicitly exclude an international search or
+international preliminary examination on discoveries from being carried out
+by the ISA or IPEA, respectively. Howeveq under the Agreement between
+the EPO and WIPO these fall within the EPOs discretion to exclude matter
+which would be excluded under Ait and Art 52(3) EPC_
+Section G-IL 3.1: in the Guidelines for Examination in the EPO applies
+mutatis mutandis
+3.2 Scientific theories
+See ISPS Guidelines 9.05. However, under the Agreement between the
+EPO and WIPO these fall within the EPOs discretion to exclude matter
+which would be excluded under Art. and Ait 52(3) EPC_
+Section G-IL 3.2: in the Guidelines for Examination in the EPO applies
+mutatis mutandis
+Rule 43bis_ ILa)
+Art
+GUISPE g 02-g_ 15
+OJ EPO 2017, A115
+OJ EPO 2018, A24
+Rules 57 1
+OJ EPO 2017, A115
+OJ EPO 2018, A24
+Rule 39 1(i),
+Rule 57
+OJ EPO 2017, A115
+OJ EPO 2018, A24

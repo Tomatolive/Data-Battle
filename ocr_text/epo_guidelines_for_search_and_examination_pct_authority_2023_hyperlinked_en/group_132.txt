@@ -1,0 +1,60 @@
+Part a - Chapter VIII-2
+GUISPE g. 40
+Rule 39. I(iv)
+GUISPE g_08-g.10
+PCT-EPO Guidelines
+March 2023
+Where the subject-matter of all claims constitutes a subject excluded from
+the a declaration of non-establishment of the intemational search
+report is issued pursuant to on Form PCT/lSA'203i
+indicating the reasons. A written opinion is established, even though, in the
+absence of a it cannot address the questions of novelty and
+inventive step and may not be able to address other questions, such as that
+of industrial applicability. The written opinion should contain full reasoning
+as to why the search is not possible.
+2.1 Methods for treatment of the human or animal body by surgery
+or therapy and diagnostic methods practised on the human or animal
+Claims directed to medical treatment which would fall under the exceptions
+to patentability under Art 53(c) E-PC should, in principle, also be exempted
+from international search
+Yet the EPO as ISA applies the same practice as for European
+applications, and the examiner will explain so in the WO-ISA.
+In the table below, several types of claim involving a composition A or
+substance X in methods of treatment or diagnosis (hereinafter referred to
+as medical treatment) are listed. Depending on the situation, some of these
+could be patentable in an EP application (see also GLIEPO G-VI* 7 _ 1).
+a
+b
+c
+d
+e
+g
+h
+Claim wording
+compound X for use as a medicament
+compound X for use in treating disease Y
+composition A containing X for use in treating
+disease Y (composition A may be generally
+defined)
+medicament containing compound X
+use of X in a composition A for the treatment of
+disease Y
+use of X as a medicament for the treatment of
+disease Y
+use of X for the treatment of disease Y
+use of X for preparing a medicament
+use of X for the manufacture of a medicament
+for treating disease Y
+Excluded from
+patentability
+according to
+Art. 53(c) EPC
+NO
+NO
+NO
+NO
+YES
+YES
+YES
+NO
+NO

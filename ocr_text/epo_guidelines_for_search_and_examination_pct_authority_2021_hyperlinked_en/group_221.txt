@@ -1,0 +1,47 @@
+March 2021
+4.18 Reference signs
+PCT-EPO Guidelines
+See ISPE Guidelines 5.11.
+If there is a large number of different
+embodiments, only the reference signs of the most important embodiments
+need be incorporated in the independent claim(s).
+If text is added to reference signs in parentheses in the claims, lack of
+clarity can arise (Art 6)_ Expressions such as "securing means (screw 13,
+nail 14)" or "valve assembly (valve seat 23, valve element 27, valve
+seat 28)" are not reference signs in the sense of Rule 62(b) but are special
+features It is unclear whether the features added to the reference signs are
+limiting or not. Accordingly, such bracketed features are generally not
+permissible. However, additional references to those figures, where
+particular reference signs are to be found, such as "(13 - Figure 3;
+14 - Figure 4)", are unob]ectionable_
+A lack of clarity can also arise with bracketed expressions that do not
+include reference signs, e.g. "(concrete) moulded brick". In contrast,
+bracketed expressions with a generally accepted meaning are allowable,
+e.g. "(meth)acrylate" which is known as an abbreviation for "acrylate and
+methacrylate". The use of brackets in chemical or mathematical formulae is
+also unobjectionable. The use of brackets for providing physical values
+complying with the requirements of Rule 10_1 is unobjectionable as well.
+4.19 Negative limitations (e.g. disclaimers)
+A clam's subject-matter is normally defined in terms of positive features
+indicating that certain technical elements are present. Exceptionally,
+however, the subject-matter may be restricted using a negative limitation
+expressly stating that particular features are absent This may be done
+e.g. if the absence of a feature can be deduced from the application as
+Negative limitations such as disclaimers may be used only if adding
+positive features to the claim either would not define more clearly and
+concisely the subject-matter still protectable or would unduly limit the
+scope of the claim. It has to be clear what is excluded by means of the
+disclaimer A claim containing one or more disclaimers must also fully
+comply with the clarity and conciseness requirements of Art 6.
+For the allowability of disclaimers excluding embodiments that were
+disclosed in the original application as being part of the see
+GLIPCT-EPO H-lll„ 42. With respect to the allowability of a disclaimer not
+The EPO applies option GUISPE A20211?l of the Appendix to Chapter 20
+of the ISPE Guidelines.
+4.20 "Comprising" vs. "consisting"
+Section F-l\vq 4.212 in the Guidelines for Examinetipn in the EPO applies
+mutatis mutandis
+Pan F - Chapter IV-7
+Rule 5.21b)
+GUISPE 541
+GUISPE 5241a),

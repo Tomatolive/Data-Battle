@@ -1,0 +1,56 @@
+Part a
+— Chapter VIII-6
+PCT-EPO Guidelines
+March 2023
+Rule 52 13ter1
+OJ EPO 2011, 372
+OJ EPO 2013, 542
+OJ EPO 2021„
+OJ EPO 2021„ 47
+OJ EPO 2022 A60
+GL//SPE g 39
+GL,'/SPE 15 14A
+GUISPE 034, 9.35
+OJ EPO 2011, 327
+In all examples listed above, the examiner may where appropriate
+informally invite the applicant to provide clarification of the claimed
+subject-matter (see GLIPQT.-E-EQ 3-3).
+See ISPE Guidelines 901 and 19-030 for further information.
+3.2 Nucleotide and amino acid sequences
+If the sequence listing of an intematlonal application is not available or does
+not comply with WIPO Standard ST _26 (see Annex C to the Administrative
+Instructions, paragraph 4), the EPO as ISA will invite the applicant to
+furnish a sequence listing complying with the standard or a translation in
+the form of a new sequence listing in a language acceptable to it, as the
+case may be, and pay a late fumishing fee, and to perform these steps
+within a non-extendable time limit of one month from the date of the
+invitation.
+If, within the time limit set, the applicant has not submitted an ST.26-
+compliant sequence listing and paid the late furnishing fee, the EPO as ISA
+will carry out the international search without the sequence listing to the
+extent that a meaningful search can be carried out
+The examiner when performing the search will either:
+issue a declaration under Art and Rule that no
+meaningful search on any claimed subject-matter is possible due to
+the failure of the applicant to comply with Rule 5.2 (no sequence
+listing) and/or Rule 13ter_ 114) (no computer-readable sequence
+listing);
+issue an incomplete search report with a declaration under
+Act. and .l?ter..lßl that a meaningful search is not
+possible in respect of certain claimed subject-matter due to the
+failure to comply with Rule 52 (no sequence listing) and/or
+Rule 13ter.1La) (no computer-readable sequence listing).
+This also has consequences for the international preliminary examination
+procedure before the EPO as 'PEA (see GUPCT-EPO c-VIII, 21).
+3.3 Informal clarification
+Where the description, claims or drawings fail to comply with a requirement,
+such as clarity or support of the claims by the description, to such an extent
+that no meaningful search can be made, the examiner may informally
+contact the applicant to clarity specific aspects of the application before the
+search is carried out Such informal clarification may help the examiner to
+focus the search better It is highly recommended to invite the applicant to
+provide such informal clarification before issuing an incomplete ISR or a
+declaration of no search. However, there is no legal obligation on the
+examiner to use it and no legal consequences in the PCT if the applicant
+does not respond An incomplete search report or a declaration of no
+search may still be issued without prior clarification.

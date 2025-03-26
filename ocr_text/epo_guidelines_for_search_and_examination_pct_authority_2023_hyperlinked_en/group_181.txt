@@ -1,0 +1,49 @@
+March 2023
+PCT-EPO Guidelines
+Pat c
+— Chapter V-1
+Chapter V — Unity of invention
+1. unity of invention under
+If an invitation to pay additional fees was issued during Chapter I and the
+applicant paid some or all of the required additional fees, and if, where
+applicable, the objection as to lack of unity was at least partly upheld during
+a protest procedure, then under Chapter II the applicant will normally be
+invited (using Form 405) to pay additional examination fees if all the
+searched inventions are also to be examined under Chapter II. Inventions
+for which no search fees were paid cannot be pursued and will thus also
+not be objected to or commented om A review of the decision taken under
+Chapter I is not provided for in the PCT.
+A single WO-IPEA/IPER is then drafted by the examiner, dealing with all
+the inventions for which examination fees have been paid.
+In reply to the WO-ISA the applicant may have filed redrafted claims which
+differ substantially from those for which lack of unity was raised. In such a
+case it should be carefully considered whether.
+the lack of unity objection still applies to the new set of claims
+the amended claims relate to searched subject-matter
+the reasoning as to lack of unity has to be amended because of the
+new claims and/or the arguments presented.
+Normally, the examiner under Chapter II agrees with the objection made at
+the search stage. Exceptionally, if this is not the case (ege if the search and
+WO-ISA were made by another office), it is possible to send out an
+invitation to pay further examination fees (Form 405) even if this was not
+done at the search stage. However if a lack of unity objection was raised at
+the search stage resulting in a partial search and a different conclusion is
+reached under Chapter: II there is no possibility to ask for an additional
+search for unsearched subject-matter. In this case, examination in
+Chapter II is restricted to what has been searched
+Furthermore, it is possible that the original claims did not lack unity but the
+amended claims do. In such a case, if the amended claims lacking unity
+relate to unsearched subject-matter, they are not examined, and a
+WO-IPEA/IPER is established on searched subject-matter only (no
+Form 405 is to be sent out). It is also possible that the amended claims do
+not lack unity, but that these amended claims relate to subject-matter
+lacking unity with the originally searched invention or group of inventions. In
+such a case, the applicant is informed that the amended claims will not be
+examined in a WO-IPEA/IPER (no Form 405 is sent out) On the other
+hand, if e.g the applicant has generalised the original independent claim so
+that it is no longer novel and lack of unity a posteriori occurs, then an
+invitation to pay additional fees is sent before the WO-IPEA/IPER_
+Art.
+582
+GUISPE 10.74
+Rule 56 Ile)

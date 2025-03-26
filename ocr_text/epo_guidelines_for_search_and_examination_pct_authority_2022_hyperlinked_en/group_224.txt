@@ -1,0 +1,47 @@
+Part F - Chapter IV-6
+GUISPE AS 21
+Rule 6 2(a)
+PCT-EPO Guidelines
+4.16 use claims
+March 2022
+The EPO applies the first sentence conceming "use" claims of point
+GWISPE A5_21 of the Appendix to Chapter 5 of the ISPE Guidelines.
+Thus a claim in the form 'the use of substance X as an insecticide" should
+not be interpreted as directed to the substance X recognisable (e.g. by
+further additives) as intended for use as an insecticide Similarly, a claim for
+"the use of a transistor in an amplifying circuit" would be equivalent to a
+process claim for the process of amplifying using a circuit containing the
+transistor and should not be interpreted as being directed to "an amplifying
+circuit in which the transistor is used", nor to 'the process of using the
+transistor in building such a circuit". However, a claim directed to the use of
+a process for a particular purpose is equivalent to a claim directed to that
+very same process.
+Care should be taken when a claim relates to a two-step process which
+combines a use step with a product production step This may be the case
+e.g when a polypeptide and its use in a screening method have been
+defined as the only contribution to the art An example of such a claim
+would then be:
+"A method comprising:
+(a)
+(b)
+and
+contacting polypeptide X with a compound to be screened and
+determining whether the compound affects the activity of said
+polypeptide;
+then forrnulating any active compound into a pharrnaceutical
+composition. "
+Many variations of such a claim are conceivable, but in essence they
+combine (a) a screening step (i.e. using a specified test material to select a
+compound having a given property) with (b) further production steps
+(i.e further transforming the selected compound for instance into the
+desired composition).
+Two different types of process claim exist: (i) the use of an entity to achieve
+a technical effect and (ii) a process for the production of a product The
+above claim and its analogues represent a combination of two different and
+irreconcilable types of process claim. Step (a) of the claim relates to a
+process of type (i) step (b) to a process of type (ii). Step (b) builds on the
+"effect" achieved by step (a), rather than step (a) feeding into step (b) a
+specific starting material and resulting in a specific product. This results in
+an unclear claim according to Ait 6_
+4.17 References to the description or drawings
+See ISPE Guidelines 5.10.

@@ -1,0 +1,49 @@
+Part a
+— Chapter Xl-4
+PCT-EPO Guidelines
+March 2023
+GUISPE 3.05 17.71
+GUISPE 17.28-17.29
+If the application is severely deficient and it is clear that the claims will have
+to be drastically redrafted anyway, it is not necessary to make objections
+with respect to minor clarity issues and/or formal issues
+3.3 Making suggestions
+It is possible to make suggestions in the written opinion as to how certain
+objections raised may be overcome. However, examiners must not actually,
+of their own volition, make any final amendments to the application
+documents, however minor, for the reason that only amendments submitted
+by the applicant may be taken into consideration for the IPER_ In no
+circumstances should the impression be given that compliance with the
+suggestions would lead to an allowable application under the EPC or any
+national law
+If no demand for Chapter II is filed, the WO-ISA will automatically be
+converted into an IPRP Chapter l. Therefore, the WO-ISA should not
+contain formulations suggesting to the applicant to actively file submissions.
+3.4 Positive or negative WO-ISA
+The examiner needs to indicate whether the WO-ISA is to be considered
+positive or negative for further prosecution. The reason for this is that when
+entering the European phase the applicant is required to respond to the
+WO-ISA if it is negative, but not if it is positive (see GLIEPO E-IX, 3.3.2)_
+As a general rule, a WO-ISA is considered positive if it contains no
+objections at all or only minor objections which would not hinder a direct
+grant in the EP phase
+In the special case where the search report cites P and/or E documents but
+the priority could not be checked and there are no other objections, the
+WO-ISA is considered positive (since the examiner in the European phase
+first has to evaluate the validity of the priority and then decide whether a
+grant is still possible).
+On the other hand, if the relevance of the document is independent of the
+priority being valid, detailed reasons for the novelty objection will be given,
+as well as an indication to the applicant that such a document would be
+relevant when entering the European phase before the EPO
+In the case of method of treatment claims which can easily be reformulated
+into an allowable format (see also GLIPCT-EPO B-VIII, 21), the above
+applies as well; i.e. if this is the only objection, the WO-ISA will be
+considered positive since such a reformulation can be done by the
+examiner at the grant stage in the European phase before the EPO
+In the special case of a non-unitary' application, where all inventions
+searched were found to be novel and inventive, but still lacking unity — as
+the only objection — the WO-ISA is marked as negative.
+4. Priority claim and the WO-ISA
+Normally, priority need only be checked if a relevant P or E document is
+found during the search. However, there may also be cases where the

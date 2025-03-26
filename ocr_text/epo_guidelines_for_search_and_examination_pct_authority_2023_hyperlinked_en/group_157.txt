@@ -1,0 +1,49 @@
+March 2023
+PCT-EPO Guidelines
+Pat B -
+Chapter XII-5
+If the examiner finds that the application does not lack unity, a complete
+search is made for all the claims No reasons need be given why the lack-
+of-unity objection raised in the ISR could not be followed.
+Furthermore, if the main ISA has already objected to lack of unity, the
+applicant can indicate, on the supplementary search request form (in
+Box which of the inventions searched by the main ISA the SIS should
+be based upon.
+If the examiner agrees with the assessment of unity of invention made by
+the main ISA and the relevant claims are not excluded for any reason, the
+SIS will focus on the invention indicated by the applicant
+If examiners cannot follow the objection raised in the ISR, but raise a
+different non-unity objection, when deciding on the main invention to be
+searched, they will take the request by the applicant into account as far as
+possible. The examiner will provide complete reasoning for the lack-of-unity
+objection in the SISR and will include an explanation of the extent to which
+the applicant's request could be taken into account in view of the different
+non-unity objection raised by the EPO_
+10.4 Review procedure
+If applicants do not agree with the finding of lack of unity they can request a
+review of this finding. This procedure is similar to the protest procedure with
+the difference that additional fees cannot be paid.
+If applicants request a review of the non-unity finding they must pay a
+review fee If no fee is paid, the request for review is considered not to have
+been made.
+Similar to the protest procedure, a Review Panel is established consisting
+of the examiner responsible for the file an examiner as chairperson of the
+Review Panel and a further examiner. This Review Panel will, in case of
+entry into the European phase, constitute the Examining Division (see
+GLIPCT-EPO a-VII, 72). The examiner dealing with the file will make a first
+assessment of the arguments made by the applicant and will then discuss
+the case with the members of the Review Panel to come to a decision.
+The purpose of the Review Panel is to determine whether the lack-of-unity
+objection was justified on the basis of the reasoning given in the SISR_ The
+review does not include re-evaluation to determine possible additional
+grounds for lack of unity.
+Where the Review Panel determines that the objection was not justified, it
+will inform the applicant with Form 503; no reasoning needs to be given.
+Furthermore, it will order the reimbursement of the review fee. A corrected
+SISR must then be established on all claims.
+If the Review Panel considers that the objection is completely or partially
+justified, it will communicate this to the applicant with Form 503. In these
+cases, reasoning must be given indicating why the objection is (at least
+partially) upheld. This reasoning should also address the applicant's
+Rule 45bis Old)
+GUISPE 15.91

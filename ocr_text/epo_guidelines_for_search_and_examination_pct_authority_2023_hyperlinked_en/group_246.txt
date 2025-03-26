@@ -1,0 +1,49 @@
+Part F
+— Chapter VI-2
+PCT-EPO Guidelines
+March 2023
+In the case of US con or cip applications, the first sentence of the
+description reads as follows: "This application is a continuation in part
+(continuation) of Serial Number filed
+The following information is
+found on the title page under the heading "CONTINUING DATA"
+'VERIFIED THIS APPLICATION IS A CIP (or CON) OF
+A form
+Art 811)
+Art. 11
+Rule 410
+Art 811)
+Rule 4 10
+Rules 17 1
+and 66.714)
+Rule 66.71b)
+headed "Declaration for Patent Application" must also be attached to the
+end of the application (in this case the priority document), listing earlier
+foreign or US applications under the heading "foreign priority benefits under
+Title 35, United States Code, 119" or "benefit under Title 35, IJS_C., 120 of
+any United States application(s)"
+1.5 Multiple priorities
+See ISPE Guidelines 6.05.
+2. Determining priority dates
+2.1 Examining the validity of a right to priority
+See ISPE Guidelines 6.06.
+2.2 The same invention
+See ISPE Guidelines 607 to ISPE Guidelines 6.09.
+A disclaimer which is allowable under Art
+(see
+GWPCT-EPO H-lll. and GUPCT-EPO 4_2) does not change the
+identity of the invention within the meaning of Art 8. Therefore, such a
+disclaimer could be introduced when drafting and filing a successive
+intemational application, without affecting the right to priority from the first
+application not containing the disclaimer.
+2.3 Priority claim not valid
+See ISPE Guidelines 6.10.
+3. Claiming priority
+3.1 General remarks
+See ISPE Guidelines 6.11 and GUPCT-EPO A-VI. 1_6.
+3.2 Declaration of priority
+See ISPE Guidelines 6.13 to ISPE Guidelines 6.15.
+3.3 Certified copy of the previous application (priority document)
+See Euro-PCT Guide, points 216.001-2.16.004.
+3.4 Translation of the previous application
+See ISPE Guidelines 6.17.

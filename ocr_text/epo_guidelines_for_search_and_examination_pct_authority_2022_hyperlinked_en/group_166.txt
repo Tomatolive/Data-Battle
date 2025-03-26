@@ -1,0 +1,56 @@
+Part C - Chapter IV-6
+Art. 34131
+Art. 3414)
+Art. 341211b] and
+1912)
+GUISPE 19.17
+Rule 46.5(b) and 66.8
+Rule
+GUISPE 3.22
+GUISPE 19.21
+Rule 64.3
+Rule 64.1
+PCT-EPO Guidelines
+March 2022
+(b)
+(c)
+non-unity cases — inventions for which additional search fees were
+paid, but not additional examination fees;
+subject-matter which, although not excluded from the search, is
+excluded from preliminary examination;
+In addition to what is mentioned in i..l.tec PCT, the top-up search
+may be refused or limited by the EPO as IPEA:
+(d)
+(f)
+where amendments contain added matter;
+where there is no letter explaining the basis for amendments and/or
+indicating what has been amended in the application;
+where the EPO as ISA would not cite any documentary evidence as
+to the relevant state of the art (e.g. in case of "notorious knowledge"
+in the field of computer-implemented inventions).
+In case (d) above the examiner will perform the top-up search based on
+either the previous set of application documents or the amended set,
+ignoring the added subject-matter. In case (e) above, the same applies to
+unsupported amendments (see GUPCT-EPO C-lllz 4)_
+Where a top-up search is made for some claims or part of claims, there is
+no indication of:
+which claims are not covered by the top-up search (this should be
+derivable from the indications in Sections I and Ill of the WO/IPER);
+why no or only a partial top-up search has been made.
+5.3 Documents newly found in the top-up search, when further
+objections are present
+If the top-up search reveals pertinent prior art, according to present practice
+a WO-IPEA or a telephone consultation is the first action in Chapter II
+(see GUPCT-EPO c-IVZ 22). If a positive WO-ISA was drafted or the
+objections in the negative WO-ISA have been overcome by the applicant's
+amendments/arguments, see GUPCT-EPO C-IV, 5.4.
+The documents found are indicated as follows:
+(b)
+If the newly found documents are published after the filing date
+(E documents) and are relevant for novelty, they are mentioned in
+Section VI of the WO-IPEA and IPER (for the level of detail see
+GWPCT-EPO 4_3)_
+If the newly found documents are published before the priority date
+and are relevant for novelty and/or inventive step, they are
+mentioned in Section V of the WO-IPEA and IPER and detailed
+reasoning is provided.

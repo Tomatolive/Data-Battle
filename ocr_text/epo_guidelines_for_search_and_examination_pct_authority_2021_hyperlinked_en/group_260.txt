@@ -1,0 +1,53 @@
+Part G - Chapter VI-2
+Rule 33, Rule 64
+GUISPE 12.02
+GUISPE 12.08, 1209
+GUISPE 12.04
+PCT-EPO Guidelines
+4. Enabling disclosure of a prior document
+March 2021
+Subject-matter described in a document can only be regarded as having
+been made available to the public, and therefore as comprised in the prior
+art pursuant to Rules 33 and 64, if the information given therein to the
+skilled person is sufficient to enable them, at the relevant date of the
+document, to practise the technical teaching which is the subject of the
+document, taking into account also the general knowledge at that time in
+the field to be expected of them.
+Similarly, it should be noted that a chemical compound, the name or
+formula of which is mentioned in a prior-art document, is not thereby
+considered as known, unless the information in the document, together,
+where appropriate, with knowledge generally available on the relevant date
+of the document, enables it to be prepared and separated or, for instance in
+the case of a product of nature, only to be separated.
+The EPO applies option A12_02L1] of the Appendix to Chapter 12 of the
+'SPE Guidelines.
+5. Generic disclosure and specific examples
+In considering novelty, it should be borne in mind that a generic disclosure
+does not usually take away the novelty of any specific example falling
+within the terms of that disclosure, but that a specific disclosure does take
+away the novelty of a generic claim embracing that disclosure, e.g. a
+disclosure of copper takes away the novelty of metal as a generic concept,
+but not the novelty of any metal other than copper, and one of rivets takes
+away the novelty of fastening means as a generic concept but not the
+novelty of any fastening other than rivets
+6. Implicit disclosure and parameters
+In the case of a prior document, the lack of novelty may be apparent from
+what is explicitly stated in the document itself Alternativelyq it may be
+implicit in the sense that, in carrying out the teaching of the prior document,
+the skilled person would inevitably arrive at a result falling within the terms
+of the claim. An objection of lack of novelty of this kind should be raised by
+the examiner only where there can be no reasonable doubt as to the
+practical effect of the prior teaching. Situations of this kind may also occur
+when the claims define the invention, or a feature thereof, by parameters It
+may happen that in the relevant prior art a different parameter, or no
+parameter at all, is mentioned. If the known and the claimed products are
+identical in all other respects (which is to be expected if, for example, the
+starting products and the manufacturing processes are identical), then in
+the first place an objection of lack of novelty arises. The burden of proof for
+an alleged distinguishing feature lies with the applicant No benefit of doubt
+can be accorded if the applicant does not provide evidence in support of
+the allegations. If, on the other hand, the applicant is able to show, e.g. by
+appropriate comparison tests, that differences do exist with respect to the
+parameters, it is questionable whether the application discloses all the
+features essential to manufacture products having the parameters specified
+in the claims (Art 5)

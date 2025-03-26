@@ -1,0 +1,48 @@
+March 2021
+PCT-EPO Guidelines
+Part F-
+Chapter V-1
+Chapter V — Unity of invention
+1. General remarks
+The international application must relate to one invention only or to a group
+of inventions so linked as to form a single general inventive concept
+When determining unity of invention, a finding of lack of clarity of the claims
+is on its own not sufficient grounds for a finding of lack of unity.
+Normally, too, the sequence of the claims should not have an impact on the
+determination of unity of invention. However, it will have an impact on which
+invention is to be considered the first invention mentioned in the claims
+(see GUPCT-EPO F--vz 8_2)_
+Moreover the fact that the claimed separate inventions belong to different
+groups of the classification is not in itself a reason for a finding of lack of
+unity.
+An application may contain claims of different categories, or several
+independent claims of the same categorw This is not in itself a reason for
+an objection of lack of unity of invention if the requirements of
+Rules 131 to 133 are otherwise met
+With regard to substantive criteria, unity of invention is examined in search
+and substantive examination in both European and PCT procedures
+according to the same principles. This does not apply to the respective
+procedures themselves, where significant differences exist (see also
+GUPCT-EPO B-VII)_
+2. Special technical features
+See ISPE Guidelines 10_01 and 10.12-10_16.
+See also GUPCT-EPO F-l\..q 3.2 with regard to potential clarity and
+conciseness issues for plural independent claims in one category
+complying with the requirement of unity of invention.
+3. Intermediate and final products
+See ISPE Guidelines 10_18.
+4. Alternatives
+See ISPE Guidelines 10.09.
+5. Markush grouping
+See ISPE Guidelines 10.17.
+There is no need for the significant structural element to be novel in
+absolute terms (ie. novel per se)_ Rather, this expression means that in
+relation to the common property or activity there must be a common part of
+the chemical structure which distinguishes the claimed compounds from
+any known compounds having the same property or activity. Howeveq if it
+can be shown that at least one Markush alternative is not novel, unity of
+Art
+Rule 13 1
+Art 6
+Art 15012) e-pc
+Rule 132

@@ -1,0 +1,44 @@
+March 2021
+PCT-EPO Guidelines
+Part C
+Chapter VII-3
+3. Examination of observations by third parties
+For details on third-party observations please refer to GLIPCT-EPO E-ll.
+For relevant third party observations in Chapter II the following applies
+GUISPE 17.59
+(b)
+If a negative IPER is envisaged and a second written opinion has not
+been sent, a WO-IPEA (Form 408) is drafted taking into account the
+third-party observations and the applicant's comments where
+available, and referring to the new prior-art documents in section V
+(see also GUPCT-EPO c-IV, 2_2)_
+If the IPER would have been negative even without the third-party
+observations and a WO-IPEA has already been sent before receipt of
+these observations, no further written opinion is sent before
+establishment of the IPER
+If a WO-IPEA has already been sent before receipt of the third-party
+observations and the IPER would have been positive without the
+third-party observations, a new WO-IPEA is issued or the applicant is
+called, whichever course of action is considered the more expedient,
+in particular in the light of the deadline for issuing the IPER
+In cases (b) and (c) above, the IPER is established taking into account the
+third-party observations and the applicant's comments, and referring to the
+new documents where appropriate in Section V of the 'PER
+If a positive 'PER is envisaged since, even though the third-party
+observations may refer to more relevant documents than the ones on
+file, they do not prejudice novelty and inventive step, the newly cited
+relevant documents are dealt with in the reasons in favour of
+patentability in Section V on the separate sheet as appropriate.
+If the documents are relevant but do not add anything to what was
+already available, it is left to the examiner's discretion whether they
+need to be quoted in the 'PER For example, in those cases where
+the documents are a better starting point for the problem-solution
+approach, examiners may wish to review their argumentation in
+support of the positive assessment of inventive step.
+Third-party observations which are not relevant or not sufficiently
+understandable (see GLIPCT-EPO E-ll for observations not in an EPO
+official language) do not need to be dealt with substantially in the WO-IPEA
+and/or in the IPER. A comment is included in Section V of the WO-IPEA
+and/or in the 'PER indicating that the third-party observations have been
+taken into account and found not to be relevant or that the third-party
+observations could not be taken into account and why.

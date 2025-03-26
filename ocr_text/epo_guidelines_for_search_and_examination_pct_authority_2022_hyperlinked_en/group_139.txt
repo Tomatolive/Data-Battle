@@ -1,0 +1,51 @@
+March 2022
+PCT-EPO Guidelines
+Part
+— Chapter Xl-5
+examiner immediately realises that the priority is not valid (e.g. in the case
+of an alleged doublure (see GLIPCT-EPO B-lVl 1 M) or a continuation-in
+part (see Gl_JPß.T.-EPQ .E.-VI. 1-4)). Also, in case of restoration of priority
+rights the examiner may insert a comment in Box II (see
+4.1).
+4.1 Restoration of priority
+See GUPCT-EPO F--vn 3.7.
+If the examiner notices that the filing date exceeds the earliest priority date
+plus twelve and two months this may be indicated in the WO-ISA.
+4.2 use of "P' documents in the written opinion
+If the priority document IS not available the opinion will be established on
+the assumption that the claimed priority is valid. In this case, no comments
+need be made regarding 'P" documents but the "P" documents will
+nevertheless be indicated under Section VI. For potentially conflicting
+patent documents which might give rise to an objection under Art 54(3)
+EPC in the European phase, the statements in GWPCT-EPO B-XIZ 4_33
+below regarding "E" documents apply.
+If the priority document is available, the examiner will check the validity of
+the priority and indicate any negative finding under Section II. Should the
+priority be found not to be valid, detailed comments will be made for these
+documents with respect to novelty and inventive step of the claimed
+subject-matter under Section V, since these documents then become prior
+art under Rule 33.1 (a).
+Sometimes it is possible for the examiner to determine from the documents
+on file that the claimed priority is not valid. An example would be when
+during the search a document is found which shows that the priority
+document of the searched application is actually not the first application for
+the claimed invention.
+4.3 use of "E' documents in the written opinion
+Although there are no harmonised provisions in the PCT Contracting States
+that correspond to Alt 54(3) EPC, such documents will be mentioned
+under Section VI if they are considered prejudicial to the novelty of at least
+one claim. If the relevance of the document is independent of the priority
+being valid or if the priority could be checked and was found invalid,
+reasons for the novelty objection will be provided, together with an
+indication that such a document would be relevant when entering the
+European phase before the EPO.
+On the other hand, if the document would be relevant under Art 54(3) EPC
+only if the priority is not valid, and this could not be checked, then no
+reasons need to be given.
+5. unity in relation to the written opinion
+In the case of lack of unity where more than one invention has been
+searched, for each invention searched one independent claim in each
+category must be treated in detail.
+Rule 26bis 3
+GUISPE 17_29Lb)
+GUISPE 17_29Lc)

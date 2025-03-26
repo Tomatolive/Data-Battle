@@ -1,0 +1,88 @@
+Part F
+Terms like "about", "approximately" and
+— Contents d
+3.7
+3.8
+3_8.1
+3_8.2
+3.8.3
+4.
+4_5.1
+4_5.2
+4_5.3
+4_5.4
+4_5.5
+4_10
+4_11
+4_12
+412.1
+4_13
+4_14
+4_15
+4_16
+4_17
+PCT-EPO Guidelines
+Independent claims containing a reference to another
+clam or to features from a claim of another category
+Claims directed to computer-implemented inventions
+Cases where all method steps can be fully
+implemented by generic data processing means
+Cases where method steps require specific data
+processing means and/or require additional technical
+devices as essential features
+Cases where the invention is realised in a distributed
+computing environment
+Clarity and interpretation of claims
+Clarity
+Interpretation
+Inconsistencies
+General statements, "spirit" of invention
+Essential features
+Objections arising from missing essential features
+Definition of essential features
+Generalisation of essential features
+Implicit features
+Examples
+Relative terms
+"substantially"
+Trademarks
+Optional features
+Result to be achieved
+Parameters
+Product-by-process claim
+Product claim with process features
+Interpretation of expressions stating a purpose
+Definition by reference to use or another entity
+The expression 'fin"
+use claims
+References to the description or drawings
+March 2023
+IV-3
+IV-3
+IV-3
+IV-3
+IV-3
+IV-3
+IV-3
+IV-3
+IV-3
+IV-3
+IV-3
+11/-3
+IV_4
+IV_4
+IV_4
+IV_4
+IV_4
+IV_4
+IV_4
+IV_4
+IV_4
+IV_4
+IV-5
+IV-5
+IV-5
+IV-5
+IV-5
+IV-6
+IV-6

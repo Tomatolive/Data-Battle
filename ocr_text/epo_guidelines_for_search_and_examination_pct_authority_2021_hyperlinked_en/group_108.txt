@@ -1,0 +1,45 @@
+Part a
+— Chapter VII-2
+PCT-EPO Guidelines
+March 2021
+If an objection of lack of unity has been raised but it was exceptionally
+chosen not to request the applicant to pay additional search fees the ISR is
+issued for all inventions, indicating that the application lacks unity and
+listing the different groups of inventions. The WO-ISA is completed for all
+searched inventions. In Section IV of the WO-ISA the examiner indicates
+that the requirement of unity is not fulfilled and that all claims have been
+searched and examined and provides full reasons on the separate sheet
+4. Cascading non-unity
+If additional search fees are paid in response to an invitation to do so and
+the additional search(es) reveal(s) a further lack of unity "a posteriori", no
+further invitation to pay further additional search fees is issued.
+If the applicant pays (an) additional search fee(s), a search is carried out for
+the invention(s) for which the search fee(s) has/have been paid
+If the search reveals that one or more of these inventions also lack unity "a
+posteriori'l only the first invention of each of the groups of inventions is
+searched.
+The WO-ISA will be drafted for all the searched inventions. Section Ill must
+be modified to cover the inventions actually searched Under Section IV, full
+reasons must be given for all the non-unity objections raised Under
+Section V an opinion as to novelty inventive step and industrial applicability
+must be given for all searched inventions.
+Claims not searched during the intemational phase can be prosecuted
+during the regional phase before the EPO in accordance with GLIEPO F-V.
+T 1, as appropriate
+Example
+A lack of unity objection is raised by the EPO acting as ISA, identifying four
+different inventions A B, C and D. The first invention A is searched and the
+applicant is invited to pay further search fees for inventions B, C and D.
+The applicant pays two further search fees for inventions B and C. During
+the additional searclm B is found to lack unity "a posteriori" and is divided
+into the groups of inventions Bl , 82 and B3.
+In this case only Bl and C are searched, so in Section Ill of the WO-ISA
+the claims relating to inventions 82, 83 and D are indicated as not
+searched In Section IV, full reasons must be given for why the claims of
+the application were divided into A, C and D and why B was further
+subdivided into 81, 82 and B3_ Under Section V an opinion on patentability
+must be given for A Bl and C.
+Examination of the application in the European phase will be based on
+either A, Bl or C (see QUEPO .E-V„ 7.M(.lji))_ For the claims relating to
+inventions BZ 83 and D, an invitation under Rule 164(2) EPC will be
+issued in accordance with GUEPO F-V, 7 _ Iliv).

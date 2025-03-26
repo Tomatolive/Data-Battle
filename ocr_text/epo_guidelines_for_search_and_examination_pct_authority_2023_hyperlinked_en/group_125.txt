@@ -1,0 +1,51 @@
+March 2023
+PCT-EPO Guidelines
+Pat B -
+Chapter W-l
+Chapter VII — Unity of invention
+1. General remarks
+Unity is assessed in the same way in the PCT and European procedures.
+However, the consequences of a finding of lack of unity at the search
+and/or examination stages are different under the PCT, as are the actions
+to be taken by the examiner. In particular, the applicant may be asked to
+pay additional search and/or examination fees and may do so under
+protest
+Furthermore, divisional applications are not allowed under the PCT
+2. Lack of unity at the search stage
+If the lack of unity finding is raised at the search stage, a search is
+conducted for the invention first mentioned in the claims and the applicant
+is invited to pay additional search fees with Form PCT/lSA\206 (hereafter
+referred to as "Form 206"). The applicant can then decide to:
+(iii)
+not pay any additional fees,
+pay some or all fees without protest or
+pay some or all fees under protest.
+Art
+Rule 13, 40.1
+GUISPE 10
+OJ EPO 2017, A20
+At the same time as completing Form 206, the examiner completes the
+provisional opinion accompanying the partial search results (EPO Form
+1707) for the searched first invention Form 206 and EPO Form 1707 are
+sent together to the applicant The examiner must give a complete and self-
+contained reasoning for the lack of unity in EPO Form 1707.
+In the case of a doublure (see GLIPCT-EPO B-lV. 1.1) where the earlier
+application also lacked unity, the applicant should be invited to pay
+additional fees even if all inventions were searched in the earlier
+application. The amount refunded will then be decided for each invention
+separately.
+3. No request for payment of additional search fees
+Exceptionally it might be chosen not to request the applicant to pay
+additional search fees, even if an objection as to lack of unity occurs. This
+could be the case when the additional search effort for the other
+invention(s) is minor. In addition, no invitation to pay additional search fees
+should be issued when the other inventions are either not novel or do not
+possess an inventive step over the prior an at hand. However, it must be
+borne in mind that the written opinion under Chapter I must be written for all
+inventions that were searched, including those for which no additional
+search fees were requested If additional search fees are not requested, for
+consistency reasons the examiner should not ask for additional
+examination fees should a demand for international preliminary
+examination under Chapter II be filed (see GUPCT-EPO C-V, 3.3). Thus,
+when deciding on whether to ask for additional search fees, the
+examination effort for the whole procedure must also be taken into account.

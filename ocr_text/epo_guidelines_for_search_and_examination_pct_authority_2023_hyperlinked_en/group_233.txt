@@ -1,0 +1,43 @@
+March 2023
+PCT-EPO Guidelines
+Pan F -
+Chapter IV-3
+3.7 Independent claims containing a reference to another claim or to
+features from a claim of another category
+Section F-l\vq 3.8 in the Guidelines for Ex?mination in the EPO applies
+mutatis mutandis
+3.8 Claims directed to computer-implemented inventions
+Section F.-IV„.3.Q . the Guß?lln.ä. tQ!.. aarnjna!jon jn the.kPO applies
+mutatis mutandis
+3.8.1 Cases where all method steps can be fully implemented by
+generic data processing means
+Section F-IV* 3.9.1 in the Guidelines _ for Examination jn the EPO applies
+mutatis mutandis
+3.8.2 Cases where method steps require specific data processing
+means and/or require additional technical devices as essential
+features
+Section F-IVI 3.92 in the Guidelines for Examinetipn in the EPO applies
+mutatis mutandis
+3.8.3 Cases where the invention is realised in a distributed
+computing environment
+Section F-IV,_ 3.93 in the Guidelines for Examin?tion in the EPO applies
+mutatis mutandis
+4. Clarity and interpretation of claims
+4.1 Clarity
+See ISPE Guidelines 5.31 _
+Where it is found that the claims lack clarity, it may be appropriate for the
+examiner to first invite the applicant to provide informal clarification before
+the search is carried out (see GWPCT-EPO 3.3-36).
+4.2 Interpretation
+See Gui<elines 520. The EPO applies option A5_20L2] of the
+Appendix to Chapter 5 of the ISPE Guidelines.
+4.3 Inconsistencies
+See ISPE Guidelines 529 and 17.70.
+4.4 General statements, "spirit" of invention
+See ISPE Guidelines 5.30.
+4.5 Essential features
+4.5.1 Objections arising from missing essential features
+Section F-l\vq 4.5.1 in the Guidelines tpr Examinetlon in the EPO applies
+mutatis mutandis
+GUISPE 519
+Art. 6

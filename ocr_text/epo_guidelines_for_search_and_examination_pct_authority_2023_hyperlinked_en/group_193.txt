@@ -1,0 +1,47 @@
+March 2023
+Chapter VIII - The IPER
+PCT-EPO Guidelines
+Pan c
+— Chapter VIII-I
+1. Opinion given in the 'PER (Form 409)
+Art 35(2) specifies that the report shall not contain any statement on the
+question of whether the claimed invention is or seems to be patentable or
+unpatentable according to any national law. Moreover, the purpose of the
+preliminary examination is merely to give an opiniorm but it does not lead to
+a grant or a refusal of the application. In these circumstances, therefore,
+the report should not give the impression that any part of the application
+may or may not be allowable. It will only state whether or not the claims
+meet certain criteria
+2. Completing the 'PER
+The IPER is drafted in the same way as the WO-ISA, i.e. a positive or
+negative opinion will be given for all claims, taking into account the
+arguments and/or amendments submitted by the applicant.
+Therefore, the same criteria apply to the IPER as to the WO-ISA with
+respect to all examination issues (see also GUPCT-EPO B-XI).
+In particular the 'PER will only be established for claims which have been
+searched (as indicated in the WO-ISA); any amended claims that are
+directed to subject-matter not searched will not be considered and an
+indication will be made in Section III of the IPER (non-establishment of
+opinion), with reasons given on the separate sheet
+If no reply has been received to a written opinion or the objections raised in
+a previous written opinion are still valid, the comments contained in that
+written opinion can be transferred to the corresponding section in the IPER
+However, if the applicant has submitted arguments in favour of the claims,
+then even if the objections previously raised are still valid, the examiner
+should, in a neutral way (ie_ without direct reference to the letter of reply in
+the sense of "see reply/arguments from the applicant"), deal with at least
+the main arguments from the applicant in order to ensure that the applicant
+knows that the arguments made have been considered.
+If arguments, facts and evidence, such as the results of a comparative test,
+produced by an applicant in response to a written opinion are of crucial
+importance in assessing inventive step, the examiner may base the
+argumentation in the IPER on the applicant's response. This is of
+importance to other offices which need to know why a particular conclusion
+has been reached. However, since the IPER should be written in a neutral
+way and should be self-contained, the examiner should not append to the
+IPER portions of the applicant's reply or refer directly to the applicant's
+letter of reply.
+Art. 35121
+GUISPE 19.48
+Rule 56 Ile)
+GUISPE 19.25

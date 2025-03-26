@@ -1,0 +1,49 @@
+March 2023
+8. Reference documents
+See ISPE Guidelines 4.26.
+PCT-EPO Guidelines
+Part F
+— Chapter 111-3
+Where the reference document relates to the background art, it may be in
+the application as originally filed or introduced at a later date
+(see GUPCT-EPO F-ll, 4.3 and GUPCT-EPO H-IL 22.5).
+Incorporation of essential matter or essential features at a later date is,
+however, subject to the restrictions set out in GLIPCT-EPO H-lla 221 _ It
+may be that the examiner has requested the applicant to furnish the
+document referred to, in order to be able to carry out a meaningful search
+(see Guidelines 15.37).
+9. "Reach-through" claims
+Section F-lllz 9 in the Guidelines for Examination in the EPO applies
+mutatis mutandis
+10. Sufficiency of disclosure and Rule 20.é(e) or Rule 20.5bi5(e)
+The application may contain sheets stamped "Not to be considered
+(R. 205(e), R 205bis(e) or 20.7)"_ This means that these sheets were not
+allowed by the receiving Office (for formal or substantive reasons) or that
+the applicant has withdrawn those parts or elements in order to avoid re-
+dating of the application Such sheets thus do not form part of the
+application documents and should be ignored for search and examination.
+In this case, the examiner must carefully evaluate whether the invention is
+still sufficiently disclosed without relying on the technical information
+contained in the withdrawn parts or elements. Should the examiner reach
+the conclusion that the requirements of Ait 5 are not satisfied, a
+corresponding objection is raised. See also GLIPCT-EPO F-lll. 3 to 5
+11. Sufficiency of disclosure and clarity
+An ambiguity in the claims may lead to an insufficiency objection. However,
+ambiguity also relates to the scope of the claims, i.e. Art 6 (see
+GLIPCT-EPO F-IV. 4) Normally, therefore, an ambiguity in a claim will lead
+to an objection under Art 5 only if the whole scope of the claim is affected,
+in the sense that it is impossible to carry out at all the invention defined
+therein. Othervvise an objection under Art 6 is appropriate
+In particular, where a claim contains an ill-defined ("unclear", "ambiguous")
+parameter (see also GUPCT-EPO F-IVZ 4.11) and where as a
+consequence, the skilled person would not know whether they were
+working within or outside of the scope of the claim, this, by itself, is not a
+reason to deny sufficiency of disclosure as required by Alt 5. Nor is such a
+lack of clear definition necessarily a matter for objection under Art 6 only.
+What is decisive for establishing insufficiency within the meaning of Art. 5 is
+whether the parameter in the specific case, is so ill-clefined that the skilled
+person is not able, on the basis of the disclosure as a whole and using
+common general knovvledge, to identify (without undue burden) the
+technical measures necessary to solve the problem underlying the
+application at issue
+GUISPE 412, 5.58

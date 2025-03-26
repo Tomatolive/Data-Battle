@@ -1,0 +1,39 @@
+March 2023
+PCT-EPO Guidelines
+2.11 Nucleotide and amino acid sequences
+If, after an invitation from the EPO as ISA according to Rule 13tert the
+applicant has not submitted the sequence listing in the required format (in
+XML and complying with WIPO Standard ST .26) and in an accepted
+language and paid the late furnishing fee within the time limit sev the EPO
+as ISA will carry' out the international search without the sequence listing to
+the extent that a meaningful search can be carried out (see also
+GUPCT-EPO a-VIII. 3.2).
+If, in addition to an ST.26-compliant sequence listing, another sequence
+listing is also filed in another format accepted for the filing of documents,
+only the sequence listing complying with ST _26 will be taken into account
+when searching the application.
+2.12 Lack of unity
+When the claims of the international application do not relate to one
+invention only, or to a group of inventions so linked as to form a single
+general inventive concept, the applicant will normally be invited to pay
+additional search fees. If the applicant does not pay any additional search
+fees in response to the invitation, the international search will norrnally be
+restricted to those parts that relate to the invention, or so linked group of
+inventions, first mentioned in the claims. If additional fees have been paid
+within the prescribed time limit, those parts that relate to the inventions
+covered thereby are also searched See also GLIPCT-EPO B-VII.
+2.13 Technological background
+Section B-lll, 3.13 in the Guidelines for Examination in the EPO applies
+mutatis mutandis
+Part B — Chapter 111-5
+Rule 52, 13ter_1
+OJ EPO 2011, 372
+OJ EPO 2013, 542
+OJ EPO 2021, Ago
+.47
+OJ EPO 2022 A60
+GUISPE g 39, 15.12
+GUISPE 15.14A
+Art 1713) (a)
+GUISPE 15.24
+GUISPE 15.30

@@ -1,0 +1,46 @@
+Part C
+Chapter IV-2
+PCT-EPO Guidelines
+March 2021
+Rule 662(d)
+Rule
+due time a substantive reply to the WO-ISA in the form of amendments
+and/or arguments.
+Thus if, after reply to the WO-ISA, there are still objections outstanding,
+before issuing a negative IPER the examiner must send:
+as a rule, a (further) written opinion (Form 408, WO-IPEA), but:
+if a request for a telephone consultation was filed before the (further)
+written opinion was issued: telephone minutes;
+if a request for either a telephone consultation or a (further) written
+opinion (see GLIPCT-EPO C-V112 1) was filed before the (further)
+written opinion was issued: a written opinion or telephone minutes,
+in either case generally (see GLIPCT-EPO C-VII, 1) with a time limit to
+reply which is normally two months, in order to give the applicant a further
+opportunity to provide arguments and/or amendments in reply to any
+outstanding objections. Documents newly found during the top-up search
+(see GUPCT-EPO c-IV, 5) are attached to the WO-IPEA or to the
+telephone minutes, as appropriate.
+If the applicant has not submitted any response to the negative WO-ISA
+with the deman4 and the top-up search in Qhap.ter.ll does not reveal any
+new pertinent prior art, then a negative IPER, repeating the objections
+raised in the WO-ISA, will be issued directly.
+In the exceptional situation of a non-unitary application, where all inventions
+examined were found novel and inventive, but still lacking unity as the only
+remaining objection, a negative IPER can be sent directly without a further
+WO-IPEA (see GUPCT-EPO c-VIII. 3)_
+2.3 Supplementary international search (SIS) by another office
+When conducting preliminary examination under Chapter II, the examiner
+must also take into account any documents cited in any supplementary'
+international search report (SISR) by another office which is available in the
+If the SISR has not been received by the EPO 24 months after the priority
+date the file will be sent to the examiner anyway. If, after checking, the
+examiner concludes that an invitation to pay additional fees in case of lack
+of unity (see GUPCT-EPO C-V, 1) or a WO-IPEA (see
+GLIPCT-EPO C-IV, 22) has to be sent, this will happen as soon as
+possible without awaiting the SISR_
+If neither an invitation to pay additional fees in case of lack of unity nor a
+WO-IPEA needs to be sent out before the IPER is established, the
+examiner waits until 27 months from the priority date to establish the IPER
+to allow the SISR to arrive and be taken into account.
+If the IPER has not yet been established, the examiner will take the SISR
+into account when establishing the IPER
