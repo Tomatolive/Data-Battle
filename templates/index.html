@@ -28,6 +28,15 @@
             justify-content: center;
             margin: 20px 0;
         }
+        .model-answer-section {
+            margin-top: 20px;
+            border-left: 4px solid #6c757d;
+        }
+        .model-answer-toggle {
+            cursor: pointer;
+            color: #0d6efd;
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -109,6 +118,14 @@
                         <div class="card-body">
                             <div class="score-display" id="scoreDisplay"></div>
                             <div id="evaluationText"></div>
+                            
+                            <div class="mt-4">
+                                <p class="model-answer-toggle" id="toggleModelAnswer">Afficher la réponse modèle</p>
+                                <div id="modelAnswerContainer" style="display: none;" class="mt-3 p-3 bg-light rounded">
+                                    <h5>Réponse modèle</h5>
+                                    <div id="modelAnswerText"></div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -123,6 +140,11 @@
     </div>
 
     <script>
+        // Variables globales pour stocker les données importantes
+        window.currentQuestion = '';
+        window.modelAnswer = '';
+        window.currentTopic = '';
+        
         // Charger les années disponibles
         fetch('/api/topics')
             .then(response => response.json())
@@ -144,6 +166,9 @@
             const difficulty = document.getElementById('difficulty').value;
             const year = document.getElementById('year').value;
             const part = document.getElementById('part').value;
+            
+            // Stocker le sujet
+            window.currentTopic = topic;
             
             document.getElementById('loadingContainer').style.display = 'flex';
             document.getElementById('questionContainer').style.display = 'none';
@@ -168,7 +193,7 @@
                 return response.json();
             })
             .then(data => {
-                console.log('Réponse API brute:', data); // Pour débogage
+                console.log('Réponse API question:', data);
                 
                 if (data.error) {
                     // Afficher l'erreur dans l'interface utilisateur
@@ -180,16 +205,22 @@
                 } else {
                     // Afficher la question normalement
                     document.getElementById('questionText').innerHTML = formatText(data.question || 'Aucune question générée');
+                    
+                    // Stocker la question et la réponse modèle
+                    window.currentQuestion = data.question || '';
+                    window.modelAnswer = data.model_answer || '';
+                    
+                    // Préremplir la réponse modèle
+                    document.getElementById('modelAnswerText').innerHTML = formatText(window.modelAnswer);
                 }
                 
                 document.getElementById('questionContainer').style.display = 'block';
                 document.getElementById('loadingContainer').style.display = 'none';
                 document.getElementById('studentAnswer').value = '';
                 
-                // Stocker la question pour l'évaluation
-                window.currentQuestion = data.question || '';
             })
             .catch(error => {
+                console.error('Erreur:', error);
                 alert('Erreur lors de la génération de la question: ' + error);
                 document.getElementById('loadingContainer').style.display = 'none';
             });
@@ -207,14 +238,16 @@
             document.getElementById('loadingContainer').style.display = 'flex';
             document.getElementById('evaluationContainer').style.display = 'none';
             
-            fetch('/api/analyse_response', {  // Assurez-vous que l'URL correspond à celle définie dans site.py
+            fetch('/api/analyse_response', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
                     question: window.currentQuestion,
-                    answer: studentAnswer  // Utilisez 'answer' comme nom de paramètre
+                    answer: studentAnswer,
+                    model_answer: window.modelAnswer,
+                    topic: window.currentTopic
                 })
             })
             .then(response => {
@@ -234,8 +267,15 @@
                     `;
                 } else {
                     document.getElementById('evaluationText').innerHTML = formatText(data.evaluation || 'Aucune évaluation disponible');
+                    
+                    // Mettre à jour la réponse modèle si elle est fournie
+                    if (data.model_answer && data.model_answer !== window.modelAnswer) {
+                        window.modelAnswer = data.model_answer;
+                        document.getElementById('modelAnswerText').innerHTML = formatText(window.modelAnswer);
+                    }
+                    
                     // Afficher le score si disponible
-                    if (data.score !== undefined) {
+                    if (data.score !== undefined && data.score !== null) {
                         document.getElementById('scoreDisplay').textContent = `${data.score}/10`;
                     } else {
                         document.getElementById('scoreDisplay').textContent = 'Score non disponible';
@@ -252,27 +292,39 @@
                         <strong>Erreur:</strong> ${error.message || 'Une erreur est survenue lors de la communication avec le serveur'}
                     </div>
                 `;
-                document.getElementById('questionContainer').style.display = 'block';
-
+                document.getElementById('evaluationContainer').style.display = 'block';
                 document.getElementById('loadingContainer').style.display = 'none';
             });
         });
-
+        
+        // Toggle affichage réponse modèle
+        document.getElementById('toggleModelAnswer').addEventListener('click', function() {
+            const container = document.getElementById('modelAnswerContainer');
+            const toggle = document.getElementById('toggleModelAnswer');
+            
+            if (container.style.display === 'none') {
+                container.style.display = 'block';
+                toggle.textContent = 'Masquer la réponse modèle';
+            } else {
+                container.style.display = 'none';
+                toggle.textContent = 'Afficher la réponse modèle';
+            }
+        });
         // Formater le texte pour l'affichage HTML
-       function formatText(text) {
-        // Vérifier que text est bien défini et est une chaîne de caractères
-        if (!text || typeof text !== 'string') {
-            console.error('Le texte à formater est invalide:', text);
-            return 'Erreur: Texte non disponible';
-        }
-        
-        // Remplacer les sauts de ligne par des balises <br>
-        text = text.replace(/\n/g, '<br>');
-        
-        // Mettre en gras les titres comme "QUESTION:", "SOLUTION:", etc.
-        text = text.replace(/(QUESTION|SOLUTION|CRITÈRES D'ÉVALUATION|SCORE|ÉVALUATION DÉTAILLÉE|POINTS FORTS|POINTS À AMÉLIORER|CONSEILS|COMPARAISON):/g, '<strong>$1:</strong>');
-        
-        return text;
+        function formatText(text) {
+            // Vérifier que text est bien défini et est une chaîne de caractères
+            if (!text || typeof text !== 'string') {
+                console.error('Le texte à formater est invalide:', text);
+                return 'Erreur: Texte non disponible';
+            }
+            
+            // Remplacer les sauts de ligne par des balises <br>
+            text = text.replace(/\n/g, '<br>');
+            
+            // Mettre en gras les titres comme "QUESTION:", "SOLUTION:", etc.
+            text = text.replace(/(QUESTION|SOLUTION|CRITÈRES D'ÉVALUATION|SCORE|ÉVALUATION DÉTAILLÉE|POINTS FORTS|POINTS À AMÉLIORER|CONSEILS|COMPARAISON|RÉPONSE MODÈLE|JUSTIFICATION):/g, '<strong>$1:</strong>');
+            
+            return text;
         }
     </script>
 </body>
