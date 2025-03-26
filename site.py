@@ -229,69 +229,62 @@ def api_search():
 
 
 @app.route("/api/analyse_response", methods=["POST"])
-def evaluate_student_answer():
+def api_evaluate_answer():  # Renommé pour éviter la confusion avec la fonction importée
     """API pour analyser la réponse d'un étudiant"""
     try:
         data = request.json
 
-        question = data.get("topic", "")
-        student_answer = data.get("reponse_eleve", "")
-
-        year = data.get("year", None)
-        part = data.get("part", None)
+        question = data.get("question", "")
+        student_answer = data.get("answer", "")  # Changé pour correspondre au frontend
 
         # Valider les entrées
-        if not reponse_eleve:
+        if not student_answer:
             return jsonify({"error": "Vous devez donner une réponse"}), 400
+            
         context = ""
         try:
             context = generate_enriched_context(
                 query=f"analyse_response {student_answer}",
                 vector_db=rag_components,
                 topic=question,
-                content_types=["questions", "example_solutions"],
+                content_types=["answers", "example_solutions"],
                 top_k=2,
             )
-
         except Exception as e:
-            print("erreur de rag : {str(e)}")
-        # Générer la question avec gestion d'erreurs
+            print(f"Erreur de rag : {str(e)}")
+            
+        # Évaluer la réponse de l'étudiant
         result = evaluate_student_answer(
             question=question,
-            student_answer=reponse_eleve,
-            vector_db=rags_components,
+            student_answer=student_answer,
+            vector_db=rag_components,  # Corrigé de rags_components
             llm_components=llm_components,
         )
 
-        # Vérifier si la question a bien été générée
+        # Vérifier si l'évaluation a bien été générée
         if not result:
-            return jsonify({"error": "Résultat de génération vide"}), 500
+            return jsonify({"error": "Résultat d'évaluation vide"}), 500
 
-        # En cas d'erreur dans la génération
+        # En cas d'erreur dans l'évaluation
         if result.get("error", False):
-            return (
-                jsonify(
-                    {
-                        "question": result.get("question", "Erreur de génération"),
-                        "error": True,
-                    }
-                ),
-                200,
-            )  # Toujours renvoyer 200 même en cas d'erreur pour gérer l'affichage côté client
+            return jsonify({
+                "evaluation": result.get("evaluation", "Erreur d'évaluation"),
+                "error": True
+            }), 200  # Toujours renvoyer 200 pour gérer l'affichage côté client
 
         return jsonify(result)
 
     except Exception as e:
         # Logguer l'erreur pour le débogage côté serveur
-        print(f"Erreur API de génération de question: {str(e)}")
+        print(f"Erreur API d'évaluation de réponse: {str(e)}")
         import traceback
-
         traceback.print_exc()
 
         # Renvoyer une réponse d'erreur
-        return jsonify(
-            {"question": f"Une erreur s'est produite: {str(e)}", "error": True}
-        ), 200  # Toujours renvoyer 200 pour gérer l'affichage côté client
+        return jsonify({
+            "evaluation": f"Une erreur s'est produite: {str(e)}",
+            "error": True
+        }), 200  # Toujours renvoyer 200 pour gérer l'affichage côté client
 
 
 if __name__ == "__main__":

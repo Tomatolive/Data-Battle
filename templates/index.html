@@ -189,25 +189,52 @@
             document.getElementById('loadingContainer').style.display = 'flex';
             document.getElementById('evaluationContainer').style.display = 'none';
             
-            fetch('/api/evaluate_answer', {
+            fetch('/api/analyse_response', {  // Assurez-vous que l'URL correspond à celle définie dans site.py
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
                     question: window.currentQuestion,
-                    answer: studentAnswer
+                    answer: studentAnswer  // Utilisez 'answer' comme nom de paramètre
                 })
             })
-            .then(response => response.json())
+            .then(response => {
+                if (!response.ok && response.status !== 200) {
+                    throw new Error(`Erreur serveur: ${response.status}`);
+                }
+                return response.json();
+            })
             .then(data => {
-                document.getElementById('evaluationText').innerHTML = formatText(data.evaluation);
-                document.getElementById('scoreDisplay').textContent = data.score !== null ? `${data.score}/10` : 'Score non disponible';
+                console.log('Réponse API évaluation:', data);
+                
+                if (data.error) {
+                    document.getElementById('evaluationText').innerHTML = `
+                        <div class="alert alert-danger">
+                            <strong>Erreur:</strong> ${formatText(data.evaluation || 'Erreur inconnue')}
+                        </div>
+                    `;
+                } else {
+                    document.getElementById('evaluationText').innerHTML = formatText(data.evaluation || 'Aucune évaluation disponible');
+                    // Afficher le score si disponible
+                    if (data.score !== undefined) {
+                        document.getElementById('scoreDisplay').textContent = `${data.score}/10`;
+                    } else {
+                        document.getElementById('scoreDisplay').textContent = 'Score non disponible';
+                    }
+                }
+                
                 document.getElementById('evaluationContainer').style.display = 'block';
                 document.getElementById('loadingContainer').style.display = 'none';
             })
             .catch(error => {
-                alert('Erreur lors de l\'évaluation de la réponse: ' + error);
+                console.error('Erreur:', error);
+                document.getElementById('evaluationText').innerHTML = `
+                    <div class="alert alert-danger">
+                        <strong>Erreur:</strong> ${error.message || 'Une erreur est survenue lors de la communication avec le serveur'}
+                    </div>
+                `;
+                document.getElementById('evaluationContainer').style.display = 'block';
                 document.getElementById('loadingContainer').style.display = 'none';
             });
         });
