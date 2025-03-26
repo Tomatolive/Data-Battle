@@ -228,5 +228,71 @@ def api_search():
         return jsonify({"error": str(e)}), 500
 
 
+@app.route("/api/analyse_response", methods=["POST"])
+def evaluate_student_answer():
+    """API pour analyser la réponse d'un étudiant"""
+    try:
+        data = request.json
+
+        question = data.get("topic", "")
+        student_answer = data.get("reponse_eleve", "")
+
+        year = data.get("year", None)
+        part = data.get("part", None)
+
+        # Valider les entrées
+        if not reponse_eleve:
+            return jsonify({"error": "Vous devez donner une réponse"}), 400
+        context = ""
+        try:
+            context = generate_enriched_context(
+                query=f"analyse_response {student_answer}",
+                vector_db=rag_components,
+                topic=question,
+                content_types=["questions", "example_solutions"],
+                top_k=2,
+            )
+
+        except Exception as e:
+            print("erreur de rag : {str(e)}")
+        # Générer la question avec gestion d'erreurs
+        result = evaluate_student_answer(
+            question=question,
+            student_answer=reponse_eleve,
+            vector_db=rags_components,
+            llm_components=llm_components,
+        )
+
+        # Vérifier si la question a bien été générée
+        if not result:
+            return jsonify({"error": "Résultat de génération vide"}), 500
+
+        # En cas d'erreur dans la génération
+        if result.get("error", False):
+            return (
+                jsonify(
+                    {
+                        "question": result.get("question", "Erreur de génération"),
+                        "error": True,
+                    }
+                ),
+                200,
+            )  # Toujours renvoyer 200 même en cas d'erreur pour gérer l'affichage côté client
+
+        return jsonify(result)
+
+    except Exception as e:
+        # Logguer l'erreur pour le débogage côté serveur
+        print(f"Erreur API de génération de question: {str(e)}")
+        import traceback
+
+        traceback.print_exc()
+
+        # Renvoyer une réponse d'erreur
+        return jsonify(
+            {"question": f"Une erreur s'est produite: {str(e)}", "error": True}
+        ), 200  # Toujours renvoyer 200 pour gérer l'affichage côté client
+
+
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0", port=5000)

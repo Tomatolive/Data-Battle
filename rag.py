@@ -540,7 +540,7 @@ def build_exam_rag_system(text_root_dir: str, output_dir: str):
 
 
 ##################################################
-# Génération de questions d'examen avec Ollama   #
+#  Génération de questions d'examen avec Ollama  #
 ##################################################
 def generate_exam_question_with_ollama(topic, difficulty, context=""):
     print("Passage par generate_exam_question_with_ollama")
@@ -552,6 +552,7 @@ def generate_exam_question_with_ollama(topic, difficulty, context=""):
     # Créer un prompt bien structuré
     prompt = f"""
 Crée une question d'examen sur le sujet: {topic}
+Je ne veux pas de solution de ta part, juste la question.
 Niveau: {difficulty}
 
 Format requis:
@@ -559,14 +560,8 @@ Format requis:
 QUESTION:
 [Ta question ici]
 
-SOLUTION:
-[Ta solution détaillée]
-
 CRITÈRES D'ÉVALUATION:
 [Les critères]
-
-ERREURS COURANTES:
-[Les erreurs typiques]
 
 Contexte additionnel pour t'aider:
 {context}
@@ -651,12 +646,12 @@ def evaluate_student_answer(
         top_k=3,
     )
 
-    # Construire le prompt
     system_prompt = f"""
-    Tu es un expert en évaluation pour le concours d'ingénieur brevet européen.
-    Ta tâche est d'évaluer la réponse d'un étudiant à la question suivante:
-    
-    Question:
+Analyse la solution d'un étudiant à la question posée la question question d'examen suivante : {question}
+
+Format requis:
+
+Question:
     {question}
     
     Réponse de l'étudiant:
@@ -688,43 +683,57 @@ def evaluate_student_answer(
     
     CONSEILS:
     [Conseils pour améliorer]
-    """
 
-    # Générer l'évaluation
-    inputs = tokenizer(system_prompt, return_tensors="pt").to(llm.device)
+"""
+    model_name = "llama3"
 
-    with torch.no_grad():
-        output = llm.generate(
-            inputs.input_ids,
-            max_new_tokens=1024,
-            temperature=0.3,  # Température plus basse pour l'évaluation
-            top_p=0.9,
-            do_sample=True,
+    try:
+        # Appeler Ollama avec la syntaxe correcte
+        response = requests.post(
+            "http://localhost:11434/api/generate",
+            json={
+                "model": model_name,
+                "prompt": system_prompt,
+                "options": {
+                    "temperature": 0.7,
+                    "top_p": 0.9,
+                },
+            },
         )
-
-    # Décoder la sortie
-    full_output = tokenizer.decode(output[0], skip_special_tokens=True)
-    response = full_output[len(system_prompt) :].strip()
-
-    # Extraire le score (si présent)
-    score = None
-    if "SCORE:" in response:
-        score_line = re.search(r"SCORE:\s*(\d+(?:\.\d+)?)\s*/\s*10", response)
-        if score_line:
+        # Vérifier le statut de la réponse
+        if response.status_code == 200:
             try:
-                score = float(score_line.group(1))
-            except:
-                pass
+                result = response.json()
+                generated_text = result.get("response", "")
+            except json.JSONDecodeError:
+                # Si nous avons toujours une erreur de décodage JSON, traiter comme stream
+                text_response = response.text
+                generated_text = ""
 
-    # Formater la réponse
-    formatted_response = {
-        "evaluation": response,
-        "score": score,
-        "question": question,
-        "student_answer": student_answer,
-    }
+                # Traiter chaque ligne JSON séparément
+                for line in text_response.strip().split("\n"):
+                    try:
+                        line_data = json.loads(line)
+                        if "response" in line_data:
+                            generated_text += line_data["response"]
+                    except json.JSONDecodeError:
+                        continue
+        else:
+            generated_text = f"Erreur API: {response.status_code}"
 
-    return formatted_response
+        return {
+            "evaluation": generated_text,
+            "source": "ollama",
+        }
+
+    except Exception as e:
+        print(f"Erreur avec Ollama: {str(e)}")
+        return {
+            "evaluation": f"Erreur: {str(e)}",
+            "question": question,
+            "reponse_eleve": student_answer,
+            "error": True,
+        }
 
 
 if __name__ == "__main__":
