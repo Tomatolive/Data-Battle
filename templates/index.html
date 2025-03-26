@@ -190,13 +190,70 @@
                 window.currentQuestion = data.question || '';
             })
             .catch(error => {
+                alert('Erreur lors de la génération de la question: ' + error);
+                document.getElementById('loadingContainer').style.display = 'none';
+            });
+        });
+
+        // Soumettre une réponse
+        document.getElementById('submitAnswer').addEventListener('click', function() {
+            const studentAnswer = document.getElementById('studentAnswer').value;
+            
+            if (!studentAnswer.trim()) {
+                alert('Veuillez rédiger votre réponse avant de la soumettre.');
+                return;
+            }
+            
+            document.getElementById('loadingContainer').style.display = 'flex';
+            document.getElementById('evaluationContainer').style.display = 'none';
+            
+            fetch('/api/analyse_response', {  // Assurez-vous que l'URL correspond à celle définie dans site.py
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    question: window.currentQuestion,
+                    answer: studentAnswer  // Utilisez 'answer' comme nom de paramètre
+                })
+            })
+            .then(response => {
+                if (!response.ok && response.status !== 200) {
+                    throw new Error(`Erreur serveur: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log('Réponse API évaluation:', data);
+                
+                if (data.error) {
+                    document.getElementById('evaluationText').innerHTML = `
+                        <div class="alert alert-danger">
+                            <strong>Erreur:</strong> ${formatText(data.evaluation || 'Erreur inconnue')}
+                        </div>
+                    `;
+                } else {
+                    document.getElementById('evaluationText').innerHTML = formatText(data.evaluation || 'Aucune évaluation disponible');
+                    // Afficher le score si disponible
+                    if (data.score !== undefined) {
+                        document.getElementById('scoreDisplay').textContent = `${data.score}/10`;
+                    } else {
+                        document.getElementById('scoreDisplay').textContent = 'Score non disponible';
+                    }
+                }
+                
+                document.getElementById('evaluationContainer').style.display = 'block';
+                document.getElementById('loadingContainer').style.display = 'none';
+            })
+            .catch(error => {
                 console.error('Erreur:', error);
-                document.getElementById('questionText').innerHTML = `
+                document.getElementById('evaluationText').innerHTML = `
                     <div class="alert alert-danger">
                         <strong>Erreur:</strong> ${error.message || 'Une erreur est survenue lors de la communication avec le serveur'}
                     </div>
                 `;
                 document.getElementById('questionContainer').style.display = 'block';
+
                 document.getElementById('loadingContainer').style.display = 'none';
             });
         });
