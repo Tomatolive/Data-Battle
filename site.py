@@ -1,7 +1,10 @@
 from flask import Flask, request, jsonify, render_template
 import os
+import uuid
 import json
 import pickle
+
+from transformers.models.roc_bert.modeling_roc_bert import _TOKEN_CLASS_EXPECTED_OUTPUT
 from rag import (
     generate_enriched_context,
     generate_exam_question_with_ollama,
@@ -64,9 +67,6 @@ def load_llm_model(model_path):
     """Charge un modèle plus léger si nécessaire"""
     global llm_components
 
-    # Vous pouvez choisir un modèle plus petit
-    # Par exemple: "mistralai/Mistral-7B-Instruct-v0.2" au lieu d'un grand modèle
-
     tokenizer = AutoTokenizer.from_pretrained(model_path)
 
     # S'assurer que pad_token est défini
@@ -76,7 +76,7 @@ def load_llm_model(model_path):
         load_in_4bit=True,
         bnb_4bit_compute_dtype=torch.float16,
     )
-    # Charger le modèle avec des options pour réduire la consommation de mémoire
+    # Charger le modèle avec des options pour réduire la consommation de mémoire (BitsAndBytesConfig)
     model = AutoModelForCausalLM.from_pretrained(
         model_path,
         quantization_config=bnb_config,
@@ -87,18 +87,7 @@ def load_llm_model(model_path):
     print("Modèle chargé")
 
 
-def initialize_app():
-    """Initialise les composants au démarrage"""
-    # Configurer les chemins
-    rag_dir = "test_output"
-    model_path = "meta-llama/Llama-3.2-3B"
-
-    # Charger les composants
-    load_rag_system(rag_dir)
-    load_llm_model(model_path)
-
-
-initialize_app()
+load_rag_system("test_output")
 
 
 @app.route("/")
@@ -190,9 +179,6 @@ def api_generate_question():
             "part_reference": part,
         }
 
-        # Stocker la réponse modèle en session ou en cache pour une utilisation ultérieure
-        # Ici, on pourrait utiliser Flask-Session ou un autre mécanisme de stockage
-
         return jsonify(combined_result)
 
     except Exception as e:
@@ -204,6 +190,63 @@ def api_generate_question():
         return jsonify(
             {"question": f"Une erreur s'est produite: {str(e)}", "error": True}
         ), 200
+
+
+@app.route("/api/generate_question_progressive", methods=["POST"])
+def api_generate_question_progressive():
+    """Génère une question et la stocke en mémoire pour un accès progressif"""
+    data = request.json
+
+    topic = data.get("topic", "")
+    difficulty = data.get("difficulty", "moyen")
+
+    # Générer la question complète
+    result = generate_exam_question_with_ollama(
+        topic=topic, difficulty=difficulty, context=""
+    )
+
+    question_text = result.get("question", "")
+
+    # Stocker la question en mémoire avec un ID unique
+    question_id = str(uuid.uuid4())
+    app.config[f"question_{question_id}"] = {
+        "text": question_text,
+        "position": 0,
+        "total_length": len(question_text),
+    }
+
+    return jsonify({"question_id": question_id, "total_length": len(question_text)})
+
+
+@app.route("/api/fetch_question_chunk/<question_id>", methods=["GET"])
+def api_fetch_question_chunk(question_id):
+    """Récupère un morceau de la question générée"""
+    if f"question_{question_id}" not in app.config:
+        return jsonify({"error": "Question introuvable"}), 404
+
+    question_data = app.config[f"question_{question_id}"]
+    current_pos = question_data["position"]
+
+    # Simuler un délai de génération
+    chunk_size = min(5, question_data["total_length"] - current_pos)
+
+    if chunk_size <= 0:
+        return jsonify({"chunk": "", "completed": True})
+
+    chunk = question_data["text"][current_pos : current_pos + chunk_size]
+
+    # Mettre à jour la position
+    question_data["position"] += chunk_size
+    app.config[f"question_{question_id}"] = question_data
+
+    return jsonify(
+        {
+            "chunk": chunk,
+            "position": question_data["position"],
+            "total_length": question_data["total_length"],
+            "completed": question_data["position"] >= question_data["total_length"],
+        }
+    )
 
 
 @app.route("/api/analyse_response", methods=["POST"])
@@ -232,7 +275,7 @@ def api_evaluate_answer():
 
                 model_answer_result = generate_exam_response_with_ollama(
                     question=question,
-                    topic="",  # Le sujet peut être extrait de la question
+                    topic="",
                     context=context,
                 )
 

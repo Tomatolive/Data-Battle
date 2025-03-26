@@ -33,7 +33,6 @@ def load_text_documents(root_dir: str) -> List[Dict[str, Any]]:
 
             file_path = os.path.join(dirpath, filename)
 
-            # Extraire les métadonnées du chemin
             rel_path = os.path.relpath(file_path, root_dir)
             parts = rel_path.split(os.sep)
 
@@ -45,7 +44,6 @@ def load_text_documents(root_dir: str) -> List[Dict[str, Any]]:
 
             if len(parts) >= 2 and len(exam_info) >= 3:
                 try:
-                    # Lire le contenu du fichier
                     with open(file_path, "r", encoding="utf-8") as f:
                         content = f.read().strip()
 
@@ -119,7 +117,6 @@ def create_structured_chunks(
     for doc in documents:
         content = doc["content"]
 
-        # Pour les documents courts, les garder intacts
         if len(content) <= max_chunk_size:
             chunk = {
                 "text": content,
@@ -341,26 +338,23 @@ def filtered_semantic_search(
     candidate_indices = set()
     first_filter = True
 
-    # Appliquer les filtres
     for filter_key, filter_value in filters.items():
         if (
             filter_key not in vector_db["metadata_indices"]
             or filter_value not in vector_db["metadata_indices"][filter_key]
         ):
-            # Si le filtre ne correspond à aucun document, renvoyer un résultat vide
+            # Si le filtre ne correspond à aucun document, aucun resultat
             return []
 
-        # Récupérer les indices correspondant au filtre
+        # Recuperation des indices des filtres
         filtered_indices = set(vector_db["metadata_indices"][filter_key][filter_value])
 
-        # Intersection avec les résultats précédents ou initialisation
         if first_filter:
             candidate_indices = filtered_indices
             first_filter = False
         else:
             candidate_indices &= filtered_indices
 
-    # Si aucun document ne correspond à tous les filtres, renvoyer un résultat vide
     if not candidate_indices:
         return []
 
@@ -430,24 +424,21 @@ def generate_enriched_context(
     if part is not None:
         base_filters["part"] = part
 
-    # Enrichir la requête avec le sujet si spécifié
+    # Enrichir la requête avec le sujet
     enhanced_query = query
     if topic is not None:
         enhanced_query = f"{topic} {query}"
 
     all_results = []
 
-    # Effectuer une recherche pour chaque type de contenu
+    # Effectuer la recherche
     for content_type in content_types:
-        # Ajouter le filtre de type de contenu
         filters = base_filters.copy()
         filters["content_type"] = content_type
 
-        # Effectuer la recherche
         results = filtered_semantic_search(enhanced_query, vector_db, filters, top_k)
         all_results.extend(results)
 
-    # Trier par score
     all_results.sort(key=lambda x: x["score"])
 
     # Construire le contexte enrichi
@@ -546,13 +537,11 @@ def generate_exam_question_with_ollama(topic, difficulty, context=""):
     """Génère une question d'examen en utilisant Ollama avec la bonne syntaxe API"""
     print("Passage par generate_exam_question_with_ollama")
 
-    # Choisir un bon modèle
-    model_name = "llama3"  # ou "mistral", "phi3", etc.
+    model_name = "llama3"
 
-    # Créer un prompt bien structuré
     prompt = f"""
 Crée une question d'examen sur le sujet: {topic}
-Je ne veux pas de solution de ta part, juste la question.
+Je ne veux pas de solution de ta part, juste la question, rien d'autre.
 Niveau: {difficulty}
 
 Format requis:
@@ -560,15 +549,11 @@ Format requis:
 QUESTION:
 [Ta question ici]
 
-CRITÈRES D'ÉVALUATION:
-[Les critères]
-
 Contexte additionnel pour t'aider:
 {context}
 """
 
     try:
-        # Appeler Ollama avec la syntaxe correcte
         response = requests.post(
             "http://localhost:11434/api/generate",
             json={
@@ -580,13 +565,11 @@ Contexte additionnel pour t'aider:
                 },
             },
         )
-        # Vérifier le statut de la réponse
         if response.status_code == 200:
             try:
                 result = response.json()
                 generated_text = result.get("response", "")
             except json.JSONDecodeError:
-                # Si nous avons toujours une erreur de décodage JSON, traiter comme stream
                 text_response = response.text
                 generated_text = ""
 
@@ -629,10 +612,8 @@ def generate_exam_response_with_ollama(question, topic, context=""):
     Returns:
         Dictionnaire contenant la réponse générée et des métadonnées
     """
-    # Choisir un bon modèle
     model_name = "llama3"
 
-    # Créer un prompt bien structuré
     prompt = f"""
 Tu es un expert du concours d'ingénieur brevet européen.
 Réponds de façon détaillée et professionnelle à cette question d'examen sur {topic}.
@@ -652,7 +633,6 @@ RÉPONSE MODÈLE:
 """
 
     try:
-        # Appeler Ollama avec la syntaxe correcte
         response = requests.post(
             "http://localhost:11434/api/generate",
             json={
@@ -665,17 +645,14 @@ RÉPONSE MODÈLE:
             },
         )
 
-        # Vérifier le statut de la réponse
         if response.status_code == 200:
             try:
                 result = response.json()
                 generated_text = result.get("response", "")
             except json.JSONDecodeError:
-                # Si nous avons une erreur de décodage JSON, traiter comme stream
                 text_response = response.text
                 generated_text = ""
 
-                # Traiter chaque ligne JSON séparément
                 for line in text_response.strip().split("\n"):
                     try:
                         line_data = json.loads(line)
@@ -686,7 +663,6 @@ RÉPONSE MODÈLE:
         else:
             generated_text = f"Erreur API: {response.status_code}"
 
-        # Nettoyer la sortie si nécessaire
         if "RÉPONSE MODÈLE:" in generated_text:
             generated_text = generated_text.split("RÉPONSE MODÈLE:")[1].strip()
 
@@ -730,7 +706,6 @@ def evaluate_student_answer(
     Returns:
         Évaluation de la réponse
     """
-    # Récupérer le contexte pertinent si vector_db est fourni
     context = ""
     if vector_db:
         try:
@@ -744,7 +719,6 @@ def evaluate_student_answer(
         except Exception as e:
             print(f"Erreur lors de la récupération du contexte: {str(e)}")
 
-    # Créer un prompt bien structuré pour l'évaluation
     system_prompt = f"""
 Tu es un évaluateur expert pour le concours d'ingénieur brevet européen.
 Ta tâche est d'évaluer la réponse de l'étudiant en la comparant à la réponse modèle.
@@ -792,7 +766,6 @@ CONSEILS:
     model_name = "llama3"
 
     try:
-        # Appeler Ollama
         response = requests.post(
             "http://localhost:11434/api/generate",
             json={
@@ -805,7 +778,6 @@ CONSEILS:
             },
         )
 
-        # Traiter la réponse
         if response.status_code == 200:
             try:
                 result = response.json()
@@ -824,7 +796,6 @@ CONSEILS:
         else:
             generated_text = f"Erreur API: {response.status_code}"
 
-        # Extraire le score si présent
         score = None
         if "SCORE:" in generated_text:
             score_match = re.search(
