@@ -1,0 +1,51 @@
+March 2023
+PCT-EPO Guidelines
+Part B
+Chapter X-3
+It is to be noted that first filings (i.e. applications not claiming priority from
+an earlier application) cannot be published as AZ
+8. Restriction of the subject of the search
+In the following cases, the international search report, the declaration
+issued instead of the search report under An. or the incomplete or
+partial search report will indicate whether the subject of the search was
+restricted and which claims have or have not been searched:
+(iii)
+lack of unity of invention (see GUPCT-EPO B-VII).
+claims in respect of which no meaningful search or only an
+incomplete search can be carried out (see GUPCT-EPO B-VIII).
+In case (iii the following situations may occur:
+(a) A declaration that a meaningful search has not been possible
+on the basis of all claims is issued instead of the search report;
+If a meaningful search has not been possible for one or more
+of the claims in part or in the clams concerned are
+mentioned in the incomplete search report and/or in the written
+opinion.
+In case (a), the reasons for not carrying out the search should be
+indicated in the declaration.
+In case (b), a limitation of the search will not always be indicated in
+the ISR_ Rather the extent of the search as well as the reasons for
+the restriction will in many cases only be indicated in the WO-ISA
+See GUPCT-EPO B-VIII, 35 for details of whether an indication
+under Art .11 should be made in the ISR or only in the WO-ISA.
+missing sequence listings (see GL/?CT-EPO a-VIII, 3_2)_
+9. Documents noted in the search
+9.1 Identification of documents in the search report
+9.1.1 Bibliographic elements
+Section B-)C 9.1.1 in the Guidelines for Examination in the EPO applies
+mutatis mutandis
+9.1.2 "Corresponding documents"
+Section 9.12 in the Guidelines for Examinatipn in the EPO applies
+mutatis mutandis
+9.1.3 Languages of the documents cited
+Section 9.1.3 in the Guidelines for Examination _in the EPO applies
+mutatis mutandis
+GUISPE 1519
+GUISPE 1528-16.32
+Art Rule 13
+Art 17L21(aQ
+Art
+Rule 52, 13ter_1
+GUISPE 1578
+Rule 331
+GUISPE 16_54La)
+GUISPE 1559 15.72

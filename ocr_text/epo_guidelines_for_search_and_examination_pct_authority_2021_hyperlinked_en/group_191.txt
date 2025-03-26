@@ -1,0 +1,27 @@
+March 2021
+PCT-EPO Guidelines
+Part E
+— Chapter Ill-I
+Chapter Ill — Patent Prosecution Highway (PPH)
+1. General
+The Patent Prosecution Highway (PPH) enables an applicant whose claims
+have been determined to be patentable/allowable to have a corresponding
+application which has been filed with a PPH partner office processed in an
+accelerated manner while at the same time allowing the offices involved to
+exploit available work results.
+Currently, the EPO's PPH partner offices are: JPO (Japan), KIPO (South
+Korea), CNIPA (China), USPTO (USA), ILPO (Israel), CIPO (Canada), IMPI
+(Mexico), IPOS (Singapore), IPA (Australia) SIC (Colombia), ROSPATENT
+(Russian Federation), MylPO (Malaysia), IPOPHL (Philippines), EAPO
+(Eurasia), INPI (Brazil) and INDECOPI (Peru).
+Under the PPH pilot programme a PPH request can be based on:
+(i) the latest PCT work product (WO-ISA or IPRP/IPER) established by
+one of the PPH partner offices as ISA or IPEA (PPH based on PCT
+work products) (except under the PPH pilot programme with INPI
+(Brazil)); or
+any national work product (office action
+indicating
+patentable/allowable claims) established during the processing of a
+national application or of a PCT application that has entered the
+national phase before one of the PPH partner offices (PPH based on
+national work products).

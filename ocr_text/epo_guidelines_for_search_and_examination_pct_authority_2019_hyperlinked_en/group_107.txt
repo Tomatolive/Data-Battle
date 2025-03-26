@@ -1,0 +1,52 @@
+November 2019
+Claim wording
+PCT-EPO Guidelines
+Excluded from
+patentability
+according to
+Ait 53 c EPC
+Part B
+— Chapter VIII-3
+k
+process for the preparation of a medicament for
+treating disease Y using compound X as an
+active ingredient
+method of treatment of disease Y using X
+NO
+YES
+For claims of type (a), (b) or (c), the examiner will search and examine the
+claims and assess the novelty and inventive step of the indicated uses, as
+is the case for an EP application. In the WO-ISA, a remark will be added
+that novelty and inventive step have been assessed according to EPO
+practice. The reason for adding this remark is that under Art 54(4) and 15)
+EPC it is possible to obtain patent protection for any substance or
+composition comprised in the state of the art, for any use or specific use
+respectively, in a (medical) method referred to in Art. 53@) EPC, provided
+that such use is not comprised in the state of the an. Claims seeking this
+kind of protection may be drafted as "Substance X for use as a
+medicament/for use in therapy" or 'Substance X for use in the treatment of
+disease Y", respectively. See also GI_JEPO G-VL Tl
+For claims of type (d) or (h), the examiner will search and examine the
+claims and assess the novelty and inventive step thereon as is the case for
+an EP application In the WO-ISA, a remark will be added that novelty and
+inventive step have been assessed according to EPO practice
+For claims of type (i) or (j), the examiner will search and examine the claims
+and assess the novelty and inventive step of the indicated uses. In the
+WO-ISA a remark regarding EPO practice with regard to such claims will
+be added.
+For claims of type (e), (f), (g) or (k), in the vast majority of caseS a search
+report is established on the basis of the alleged effects of the
+product/composition, because their subject-matter can readily and in a
+straightfoward manner be understood in terms of these effects. For
+reasons of efficiency an opinion on novelty, inventive step and industrial
+applicability will be given for (at least) the independent claims, as far as
+relating to the alleged effects of the compound/composition, as would be
+done for an EP application. A reservation conceming patentability will be
+added, indicating that at the EPO claims directed to a method of treatment
+or the use of a composition in a treatment are exempted from patentability,
+but that a claim directed to a composition or substance for such use would
+be admissible
+In some cases, no search report can be established for claims of type (e),
+(f), (g) or (k), because their subject-matter cannot readily and in a
+straightforw•ard manner be understood in terms of the alleged effects of the
+Rule 33 31b)

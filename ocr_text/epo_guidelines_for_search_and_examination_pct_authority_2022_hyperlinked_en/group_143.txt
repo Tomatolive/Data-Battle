@@ -1,0 +1,47 @@
+March 2022
+PCT-EPO Guidelines
+Pat B -
+Chapter XII-3
+An example would be that of a document cited in the ISR which could be
+used as a Y document for inventive step for some dependent claims in the
+Scope Annex. In this case it might be necessary to cite the document again
+in the SISR as a Y document for those claims if this was not already
+indicated in the main ISR (see also GWPPT.:E-PO 6), and to provide
+argumentation in the Scope Annex.
+It may also occur that although the EPO as SISA finds further pertinent
+prior art, objections may also be raised based on X and/or Y documents
+cited in the ISR_ In such a case, the examiner may choose to base
+objections only on the documents cited in the ISR if considered expedient.
+Should the objections correspond to those raised in the WO-ISA from the
+main ISA, a mere reference to the WO-ISA objections will suffice.
+There may also be cases where the ISR contains documents pertinent for
+novelty and/or inventive step and the EPO as SISA cannot find any further
+relevant documents (only possibly A documents). In such a case the
+following two possibilities will arise:
+if the examiner agrees with the categories (X, Y) given in the ISR for
+these documents, it is not necessary to cite the documents again in
+the SISR. The examiner will then use the documents cited in the ISR
+to raise objections of lack of novelty and/or inventive step. If the
+WO-ISA from the main ISA has raised the same objections and the
+examiner agrees with the given reasoning, a mere reference to the
+objections raised in the WO-ISA from the main ISA will suffice.
+if the examiner does not agree with some or all of the categories (X,
+Y, A) given in the ISR for any such documents considered pertinent
+and upon which the examiner wishes to base the objections in the
+Scope Annex, such documents will be cited again in the SISR
+In both these cases the A documents found by the EPO as SISA will be
+cited in the SISR.
+Generally, an explicit re-evaluation of the objections raised in the WO-ISA
+will be avoided. The examiner will thus refrain from negatively commenting
+on any reasoning given in the WO-ISA, bearing in mind that national law
+differs amongst the PCT contracting states.
+8. Validity of priority and EIP documents
+At this stage the priority document should be available in the file and it can
+therefore be checked if E/P documents were found during the search.
+Should the priority document not be available, for the purposes of the
+search the priority is assumed to be valid. No indication in the Scope Annex
+IS necessary.
+If the priority is not valid, this will be explained in the Scope Annex, and any
+P documents found to be relevant will be dealt with in detail.
+On the other hand, if the priority is valid, any cited P documents do not
+need to be dealt with in detail.

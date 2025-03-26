@@ -1,0 +1,27 @@
+March 2021
+PCT-EPO Guidelines
+Part G
+— Chapter IV-7
+7. Cross-references between prior-art documents
+If a document (the "primary'" document) refers explicitly to another
+document (the "secondary" document) as providing more detailed
+information on certain features, the teaching of the latter is to be regarded
+as incorporated into the primary document if the document was available to
+the public on the publication date of the primary' document The relevant
+date for novelty purposes, however, is always the date of the primary'
+document
+8. Errors in prior-art documents
+Errors may exist in prior-art documents.
+When a potential error is detected, three situations may arise depending on
+whether the skilled person, using general knowledge,
+(iii)
+can immediately see that the document contains an error and
+immediately identify what the only possible correction should be;
+can immediately see that the document contains an error, but is able
+to identify more than one possible correction; or
+cannot immediately recognise that an error has occurred.
+When assessing the relevance of a document to patentability,
+in case (i), the disclosure is considered to contain the correction;
+in case (ii), the disclosure of the passage containing the error is not taken
+into account;
+in case (iii), the disclosure is taken into account as is.

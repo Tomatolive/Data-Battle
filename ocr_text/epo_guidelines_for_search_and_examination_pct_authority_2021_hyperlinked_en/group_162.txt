@@ -1,0 +1,53 @@
+Part C - Chapter IV-6
+GUISPE 19.15
+Rule 66. Iter
+Rule 66.
+Art. 3413)
+Art. 3414)
+Art. 341211b] and
+1912)
+GUISPE 19.17
+Rule 46.5@) and 66.8
+Rule
+GUISPE 3.22
+PCT-EPO Guidelines
+5.2 Exemptions from top-up search
+March 2021
+As a general rule, a top-up search will be conducted for all the claims
+forming the basis for the Chapter II examination, as indicated in boxes I and
+Ill of the WOIIPER.
+A top-up search is not conducted on:
+(a)
+(b)
+(c)
+subject-matter not searched by the ISA;
+non-unity cases — inventions for which additional search fees were
+paid, but not additional examination fees;
+subject-matter which, although not excluded from the search, is
+excluded from preliminary examination;
+In addition to what is mentioned in Rule 60. Iter PCT, the top-up search
+may be refused or limited by the EPO as IPEA:
+(d)
+(f)
+where amendments contain added matter;
+where there is no letter explaining the basis for amendments and/or
+indicating what has been amended in the application;
+where the EPO as ISA would not cite any documentary evidence as
+to the relevant state of the art (e.g. in case of "notorious knowledge"
+in the field of computer-implemented inventions).
+In case (d) above, the examiner will perform the top-up search based on
+either the previous set of application documents or the amended set,
+ignoring the added subject matter. In case (e) above, the same applies to
+unsupported amendments (see Gl_JPß.T.-EPQ Q-lll. 4)_
+Where a top-up search is made for some claims or part of claims, there is
+no indication of:
+which claims are not covered by the top-up search (this should be
+derivable from the indications in Sections I and Ill of the WO/IPER);
+why no or only a partial top-up search has been made.
+5.3 Documents newly found in the top-up search, when further
+objections are present
+If the top-up search reveals pertinent prior art, according to present practice
+a WO-IPEA or a telephone consultation is the first action in Chapter II
+(see GUPCT-EPO c-IVZ 22). If a positive WO-ISA was drafted or the
+objections in the negative WO-ISA have been overcome by the applicant's
+amendments/arguments, see GLJPCT-EPO C-IV, 5.4.

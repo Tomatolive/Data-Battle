@@ -1,0 +1,54 @@
+Part
+— Chapter VIII-4
+A117
+PCT-EPO Guidelines
+November 2019
+OJ EPO 2014
+OJ EPO 2007, 592
+OJ EPO 2017„A115
+OJ EPO .A24
+GUISPE g. 07
+GUISPE g. 01
+compound/composition. For these claims, no assessment under Art. 3311),
+i.e. novelty, inventive step and industrial applicability, will be carried out.
+2.2 Subject-matter according to {üil, and
+Section B-VIIL 2.2, in the Guidelines tpr Examnation in the SPO applies
+mutatis mutandis
+The EPO applies options A9.07[21 and A9_1512] of the Appendix to
+Chapter 9 of the ISPE Guidelines.
+2.2.1 Computer-implemented business methods
+As a result of an amendment to the Agreement between the EPO and
+WIPO under the PCT, any national or resident of the United States of
+America filing an intemational application on or after 1 January 2015 with
+the United States Patent and Trademark Office (LISP TO) or the 1B as
+receiving Office will be able to select the EPO as ISA irrespective of the
+technical field in which the application is classified It should, however, be
+noted that the Notice from the EPO dated 1 October 2007 conceming
+business methods remains applicable. Therefore the EPO as ISA in all
+cases where the subject-matter of the intemational application involves
+technical meanS consider the application and to the extent possible
+provide a search report for those parts of it which are more than mere
+business methods.
+Section a-VIII* 2.2.1, in the Guidelines for Examination in the EPO applies
+mutatis mutandis
+3. No meaningful search possible
+The meaning of the word "meaningful" in the context of Art is
+essentially a matter for the examiner to decide The examiner's finding may
+change in the light of any reply from the applicant to the invitation for
+informal clarification, if available (see GLIPCT-EPO B-VIII„ 33 and 3.4).
+The exercise of the examinees discretion will depend upon the facts of the
+The term "meaningful search" in Article should be read to
+include a search that within reason is complete enough to determine
+whether the claimed invention complies with the substantive requirements,
+that is, the novelty, inventive step, and industrial applicability requirements,
+and/or the sufficiency, support and clarity requirements of Articles 5 and &
+Accordingly, a finding of "no meaningful search" should be limited to
+exceptional situations in which no search at all is possible for a particular
+claim, for example where the description, the claims or the drawings are
+totally unclear To the extent that the description, the claims or the drawings
+can be sufficiently understood, even though parts of the application are not
+in compliance with the prescribed requiremenw a search should be
+performed recognising that the non-compliance may have to be taken into
+account for determining the extent of the search
+As there is no legal provision providing that an applicant must formulate the
+application in such a way as to make an economical search possible,

@@ -1,0 +1,55 @@
+Part a
+— Chapter VIII-4
+,424
+A117
+PCT-EPO Guidelines
+March 2023
+OJ EPO 201'
+OJ EP02017,
+OJ EPO
+OJ EPO 2007, 592
+GUISPE g. 07
+GUISPE g. 01
+2.2 Subject-matter according to Rules 39.10), (iii), (v) and (vi)
+Section B-VIIIZ 22 in the Guidelines for Examinetion in the EPO applies
+mutatis mutandis_
+The EPO applies options A9.QZL21 and A9i15[21 of the Appendix to
+Chapter 9 of the ISPE Guidelines.
+2.2.1 Computer-implemented business methods
+As a result of an amendment to the Agreement between the EPO and
+WIPO under the PCT, any national or resident of the United States of
+America filing an international application on or after 1 January' 2015 with
+the United States Patent and Trademark Office (USPTO) or the 1B as
+receiving Office will be able to select the EPO as ISA irrespective of the
+technical field in which the application is classified. It should, however, be
+noted that the Notice from the EPO dated 1 October 2007 concerning
+business methods remains applicable. Therefore, the EPO as ISA will, in all
+cases where the subject-matter of the international application involves
+technical means, consider the application and to the extent possible
+provide a search report for those parts of it which are more than mere
+business methods.
+Section a-VIII. 22_1 in the Guidelines for Examjnation in the EPO applies
+mutatis mutandis_
+3. No meaningful search possible
+The meaning of the word "meaningful" in the context of Alt. is
+essentially a matter for the examiner to decide. The examinees finding may
+change in the light of any reply from the applicant to the invitation for
+informal clarificatiorm if available (see GLIPCT-EPO B-VIII, 3.3 and 34).
+The exercise of the examiner's discretion will depend upon the facts of the
+The term "meaningful search" in A1-tiGk should be read to
+include a search that within reason is complete enough to determine
+whether the claimed invention complies with the substantive requirements,
+that is, the novelty, inventive step, and industrial applicability requirements,
+and/or the sufficiencyq support and clarity requirements of Articles and 6.
+Accordingly, a finding of "no meaningful search" should be limited to
+exceptional situations in which no search at all is possible for a particular
+claim, for example where the description, the claims or the drawings are
+totally unclear To the extent that the description, the claims or the drawings
+can be sufficiently understood, even though parts of the application are not
+in compliance with the prescribed requirements, a search should be
+performed recognising that the non-compliance may have to be taken into
+account for determining the extent of the search.
+As there is no legal provision providing that an applicant must formulate the
+application in such a way as to make an economical search possible,
+"reasons of economy" cannot be used as a reason, or part of a reason, for
+issuing an incomplete search report.

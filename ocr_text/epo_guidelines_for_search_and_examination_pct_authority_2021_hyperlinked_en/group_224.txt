@@ -1,0 +1,19 @@
+Part F — Chapter IV-IO
+GUISPE 412 558
+PCT-EPO Guidelines
+March 2021
+An objection under both Art 5 and Art 6 may also be justified. An example
+would be a claim relating to a known class of chemical compounds defined
+by measurable parameters, when the description does not disclose a
+technical teaching allowing the skilled person to manufacture those
+compounds complying with the parametric definition, and this is not
+othemise feasible by the application of common general knowledge or
+routine experimentation. Such a claim would be both technically not
+supported and not sufficiently disclosed, regardless of whether the
+parametric definition meets the clarity requirement of Alt. 6.
+6.5 Definition in terms of function
+See ISPE Guidelines 5.56.
+See also GUPCT-EPO F-IV. 2.1 and 4.10.
+6.6 Support for dependent claims
+Section F-IV,_ 6.6L in the Guidelines for Examinatipn in the EPO applies
+mutatis mutandis

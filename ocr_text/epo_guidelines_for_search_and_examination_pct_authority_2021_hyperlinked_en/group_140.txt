@@ -1,0 +1,53 @@
+Part a
+— Chapter XII-4
+PCT-EPO Guidelines
+March 2021
+OJ EPO 2010, 316
+GUISPE 15.97
+Rule 45b's_6
+GUISPE 15.89-1580
+Rule 45b'* lidl
+Rule
+Rule 45b's_61G)
+Any E document which is a potential Art 54(3) E-PC document will be dealt
+with in the Scope Annex. In this case the applicant's attention should be
+drawn to the relevance of such a document if the application enters the
+European phase before the EPO and a reasoned statement as to lack of
+novelty will be given
+9. Copies of documents cited in the SISR
+The applicant will receive a copy of each document cited in the SISR free of
+charge.
+10. Non-unity
+10.1 General procedure
+In case of non-unity only one invention is searched; there is no possibility to
+pay additional fees for further inventions. Furthermore, the decision as to
+which invention should be considered the main invention and thus
+searched is handled differently for the SIS procedure, as set out in detail in
+GWPCT-EPO B-XII. 10.2.
+Where the main ISA has already objected to lack of unity, the applicant can
+indicate together with the supplementary search request which of the
+inventions should be searched by the SISA For further details see
+GWPCT-EPO B-XIIZ 10.3.
+If on the other hand the main ISA has not objected to lack of unity, the EPO
+as SISA is free to do so, as the SISA is not bound by any finding on unity
+made by the ISA but merely obliged to take such a finding into account.
+As for any international search where lack of unity is objected to, the
+applicant has the right to protest against the non-unity finding In the SIS
+procedure this protest is called a review (see GLIPCT-EPO 10.4).
+10.2 Deciding what is to be considered the main invention
+The main Invention will normally be the Invention first mentioned in the
+claims. However, the examiner will exercise due discretion in selecting the
+invention to be searched where the first mentioned invention is one for
+which no search report would be established, or else where the applicant
+has requested that the supplementary search should be limited to one of
+the inventions other than the first identified by the ISA responsible for the
+main intemational search. For details, see GLIPCT-EPO 10.3.
+10.3 The main ISA found that unity of invention is lacking
+If the main ISA has already objected to lack of unity and the examiner
+agrees with the assessment in the main ISR, this can be reported by simply
+referring to the ISR_
+If the examiner forms a different point of view, or agrees with a revised view
+on unity of invention in a decision relating to a protest before the ISA the
+reasoning will be set out in full so that it is easily understood by both the
+applicant and third parties. No reasons need be given why the lack-of-unity
+objection raised in the ISR could not be followed

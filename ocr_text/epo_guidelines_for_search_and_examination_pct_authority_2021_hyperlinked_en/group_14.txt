@@ -1,0 +1,50 @@
+General Part
+-2
+Art. 150(2) EPC
+Guidelines for Examination in the EPO
+Thus, these Guidelines comprise the following seven parts:
+March 2021
+Part A:
+Part B:
+Part C:
+Part E:
+Part F:
+Part G.
+Part H.
+Guidelines for Formalities Examination,
+Guidelines for Search;
+Guidelines for Procedural Aspects in Chapter..ll;
+Guidelines on General Procedural Matters,
+The International Application
+Patentability
+Amendments and Corrections
+Part A deals with the procedures for formalities examination at the EPO in
+its capacity as RO, (S)ISA and IPEA Pan B deals with search matters.
+Q relates to procedures to be followed in Qhapkr..ll.
+part E deals with procedural matters relevant to several or all of the stages
+in procedure at the EPO as PCT Authority Pan F deals with the
+requirements which the application must fulfil other than patentability, in
+particular unity of invention (Rule 13), sufficiency of disclosure (Art 5)
+clarity (Art 6) and the right to priority (Art 8). Part G deals with excluded
+subject-matter (Art and Rule 39; Art and Rule 67),
+novelty (Art. 33(2)), inventive step (Art. 33(3)) and industrial application
+(Art. 33(4))_ Part H deals with the requirements relating to amendments and
+corrections. It relates in particular to the right to amend, the allowability of
+amendments and the correction of defects and errors.
+Each part of the Guidelines is divided into chapters, each subdivided into
+numbered sections which may be further divided into subsections.
+Cross-references to other sections and subsections are in the format
+GUPCT-EPO, followed by the relevant letter of that part, then the chapter
+number (a Roman numeral) and then the section or subsection number
+(thus, e_g_ GUPCT-EPO C-V, 42, would be used to refer to subsection 42
+of chapter V of Part C of the PCT-EPO Guidelines). When referring to the
+Guidelines for Examination in the EPO, the same format is used, but with
+"GUEPO' instead of "GWPCT-EPO".
+Marginal references to articles and rules without further identification relate
+to the Alticles or Rules of the Patent Cooperation Treaty which provide
+authority for what is stated. It is believed that such references avoid the
+need for extensive quotation from the PCT itself. References to Articles or
+Rules of the European Patent Convention are followed by "EPC".
+Marginal references to the RO and ISPE Guidelines relate to the
+corresponding sections in those Guidelines and are an indication that the
+present Guidelines apply within the framework of the RO and ISPE

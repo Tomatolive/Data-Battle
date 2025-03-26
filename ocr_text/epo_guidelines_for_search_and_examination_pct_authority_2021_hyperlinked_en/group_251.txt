@@ -1,0 +1,54 @@
+March 2021
+PCT-EPO Guidelines
+Part G
+— Chapter IV-3
+A general statement that machine translations as such cannot be trusted is
+not sufficient to contest the value of the translation. If the applicant objects
+to the use of a specific machine translation, the applicant bears the burden
+of adducing evidence (in the form of, for instance, an improved translation
+of the whole or salient parts of the document) showing the extent to which
+the quality of the machine translation is defective and should therefore not
+be relied upon.
+When the applicant provides substantiated reasoning for questioning the
+objections raised based on the translated text the examiner will have to
+take these reasons into account, similarly to when the publication date is
+questioned.
+5. Conflict with other applications
+5.1 Prior art pursuant to Rules 33.11c) and 64.3
+Under the PCT, the prior art does not comprise the content of other
+applications filed or validly claiming a priority date earlier than — but
+published on or after— the date of filing or valid date of priority of the
+application being examined. However, attention must be drawn to such
+applications in the international search report and, where applicable, the
+preliminary examination report, as they may become relevant under
+Article 5413) (see also GUPCT-EPO 43). By the "content" of an
+application is meant the whole disclosure, i.e. the description, drawings and
+claims, including:
+(iii)
+any matter explicitly disclaimed (with the exception of disclaimers for
+unworkable embodiments);
+any matter for which an allowable reference (see GUEPO F-lll. 8,
+penultimate paragraph) to other documents is made; and
+prior art insofar as explicitly described
+However, the "content' does not include any priority document (the purpose
+of such document being merely to determine to what extent the priority date
+is valid for the disclosure of the international application).
+5.2 Co-pending applications
+The PCT does not deal explicitly with the case of co-pending international
+applications of the same applicant of the same effective date, see
+ISPE Guidelines 11 _ 10.
+6. Prior art made available to the public anywhere in the world by
+non-written disclosure
+A non-wntten disclosure is not considered part of the prior art for the
+purposes of Ait. 33(2) and (3) if the date of that non-written disclosure is
+indicated in a written disclosure which has been made available to the
+public on or after the relevant date of the application (i.e. on or after the
+intemational filing date or, if a priority has been validly claimed, the earliest
+priority date).
+GUISPE 11.07-11_og
+Rui? 33 1(c),
+Rule 64 3,
+Rule 70 10
+Rui? 33
+Rule 64 2
+GUISPE 11_22

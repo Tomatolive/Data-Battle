@@ -1,0 +1,58 @@
+March 2022
+PCT-EPO Guidelines
+Part B
+— Chapter VIII-5
+3.1 Examples of impossibility to perform a meaningful search over
+the whole of the claimed scope
+A number of non-limiting examples will illustrate where a restriction of the
+search may find application:
+claims lacking support; insufficient disclosure
+(iii)
+One example would be a claim so broadly formulated that at least
+part of its scope is speculative, i.e. not supported by the disclosure of
+the application. In this case the broadness of the claim is such as to
+render a meaningful search over the whole of the claim impossible,
+and a meaningful search can be performed only on the basis of the
+narroweq disclosed invention, for example only on the basis of that
+part of the claim which is supported. In extreme cases, this may
+mean a search directed to only one or more of the specific examples
+disclosed in the description The examiner should bear in mind that
+the requirements under Alt 5 and 6 concerning sufficiency of
+disclosure and support should be seen from the perspective of the
+person skilled in the art.
+claims lacking conciseness
+An example would be where there are so many claims, or so many
+possibilities within a claim, that it becomes unduly burdensome to
+determine the matter for which protection is sought (for the case of
+multiple independent claims
+in the same category
+see GLIPCT-EPO B-VIII, 4). A complete search (or any search at all)
+may de facto be impossible.
+It is noted that the EPO allows multiple dependent claims, provided
+that they do not detract from the clarity of the claims as a whole and
+that the arrangement of claims does not create obscurity in the
+definition of the subject-matter to be protected (see also
+GLIPCT-EPO F-IVL 3.4). In case of unclarity, it may be appropriate
+for the examiner to first invite the applicant for informal clarification
+before the search is carried out (see GLIPCT-EPO B-VIII, 3.3-3_6)_
+claims lacking clarity
+An example would be where the applicant's choice of parameter to
+define the invention renders a meaningful comparison with the prior
+art impossible, perhaps because the prior art has not employed the
+same parameter, or has employed no parameter at all. In such a
+case, the parameter chosen by the applicant may lack clarity
+(see Art. 6; cf. GUPCT-EPO 4.11)_ It may be that the lack of
+clarity of the parameter is such as to render a meaningful search of
+the claims or of a claim or of a part of a claim impossible because
+the choice of parameter renders a sensible comparison of the
+claimed invention with the prior art impossible. If so, the search may
+possibly be restricted to the worked examples, as far as they can be
+understood, or to the way in which the desired parameter is obtained.
+Art 5 and 6
+Art 6
+Rule I(a)
+GUISPE g 25 and
+g. 30
+Rule
+GUISPE 941
+GUISPE g 22

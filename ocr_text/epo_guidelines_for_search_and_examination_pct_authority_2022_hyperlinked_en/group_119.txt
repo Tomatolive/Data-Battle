@@ -1,0 +1,57 @@
+March 2022
+PCT-EPO Guidelines
+Part B
+— Chapter VIII-I
+Chapter VIII — Subject-matter to be excluded
+from the search
+1. General remarks
+The aim of the EPO as ISA is to issue international search reports which
+are as complete as possible. Nevertheless, there are situations in which the
+search report and the written opinion cover only part of the subject-matter
+claimed, or in which no search report is issued. This may be either because
+the international application includes subject-matter which the ISA is not
+required to deal with (see GLIPCT-EPO B-VIII, 2) or else because the
+descriptiorm claims or drawings fail to meet a requirement, such as clarity or
+support of the claims by the description, to such an extent that no
+meaningful search can be made of all or some of the claims (see
+GLIPCT-EPO a-VIII, 3). Applications of the latter kind are often referred to
+as "complex applications"
+The same approach is taken as for European applications.
+In principle, a declaration of no search under Art. should remain
+an exception. Under the PCT, even if the applicant amends the claims to
+overcome the objection, an additional search is not possible. When a
+declaration of no search is issued, the search must be performed at the
+examination stage without requesting an additional fee if the international
+application enters the European phase before the EPO and if the objection
+leading to the declaration has been overcome (_GI_/EPO C-lV2 7.2).
+Therefore, at least some effort should be made to carry out a meaningful
+search of at least part of the claimed subject-matter.
+2. Subject-matter which the ISA is not required to search and
+examine
+Art and Art together with and are the
+equivalents of Alt 52(2), 13) and 53(b), 'c) EPC conceming the exclusion
+from patentability of non-technical inventions programs for computers,
+methods of doing business medical methods and the exception to
+patentability for plant or animal varieties or essentially biological processes
+for the production of plants and animals, respectively Since the PCT
+procedure does not lead to a grant, subject-matter which would be
+excluded from patentability under the EPC is identified as subject-matter for
+which the ISA and/or the 'PEA is not required to carry out search and
+international preliminary examination.
+The criteria applied for the decision not to perform an international search
+are the same as for the European procedure. This means that the
+discretion of an ISA not to search subject-matter set forth in Rule 39.1 is
+exercised by the EPO as ISA only to the extent that such subject-matter is
+not searched under the provisions of the EPC
+For subject-matter which the ISA is not required to search under
+Art and where, as a consequence, an incomplete search report
+will be issued, the restriction should always be indicated both in the search
+report and in the WO-ISA
+GUISPE g 01
+Art
+GUISPE g 40
+Art
+Art
+Rule 39
+Rule 57 1
+GUISPE g 02-g_ 15

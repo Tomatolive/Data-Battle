@@ -1,0 +1,48 @@
+Part a
+— Chapter IV-2
+PCT-EPO Guidelines
+1.2.1 Requests for PCT Direct
+March 2023
+PCTA' Part 8
+Applicants may request to have their intemational application processed
+under PCT Direct by filing a letter ("PCT Direct letter") containing informal
+comments aimed at overcoming objections raised in the search opinion
+established by the EPO for the priority application. Such informal comments
+are to be understood as arguments regarding the patentability of the claims
+of the international application and also possibly as explanations regarding
+any modifications to the application documents in particular to the claims,
+in comparison with the earlier application. PCT Direct letters do not form
+part of the international application.
+upon receipt of a PCT Direct letter, the intemational application will be
+processed under PCT Direct only where the following two requirements are
+met
+(a) the informal comments are filed together with the international
+application with the receiving Office in the form specified in
+GUPCT-EPO 1_23 and
+(b) the international application claims priority of an earlier application
+searched by the EPO (European, national or intemational first filing).
+1.2.2 Processing of PCT Direct letters
+PCT Direct letters filed With the receiving Office will be transmitted to the
+EPO as Intemational Searching Authority and to the International Bureau of
+WIPO together with the search copy and record copy, respectively.
+At the EPO as International Searching Authority, the examiner performing
+the international search will take informal comments filed under PCT Direct
+into account when preparing the intemational search report and written
+opinion, provided that they meet the requirements (a) and (b) listed in
+GL/PCT-EPO B-l\.q 1.21 and that they are in the form specified in
+GWPCT-EPO 1.2
+The written opinion will reflect this by acknowledging the PCT Direct letter
+and addressing its content insofar as it is relevant to the international
+search procedure. The examiner, howeveq may make explicit reference to
+the earlier search opinion only if it is annexed to the PCT Direct letter.
+In accordance with the PCT provisions on file inspection, PCT Direct letters
+will be available to the public on WIPO's PATENTSCOPE.
+1.3 Third-party observations
+For general Information on third-party observations in the PCT phase, see
+GWPCT-EPO E-li_
+If the formalities officer forvvards third-pany observations to the examiner
+before a final report (ISR, SISR or 'PER) is establishe4 the examiner
+should consider them in the same way as in the European procedure (see
+GL/EPO E-Vlö 3)_ However, given that under the PCT third-pany
+observations should refer to novelty or inventive step only, their relevance
+will in most cases depend on the relevance of the prior-art documents in

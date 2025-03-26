@@ -1,0 +1,37 @@
+Part C
+Chapter IX-2
+PCT-EPO Guidelines
+3. Request for examination of certain claims only
+March 2022
+Art.
+Art and (iil
+Art. 35121
+Art
+Art. and
+Applicants sometimes file a request for examination of cenain claims only
+without actually restricting the set of claims, e.g. in order to achieve a
+positive IPER although the findings for some claims would be negative An
+example would be where in reply to the WO-ISA which contained a
+negative opinion on claims 1-5 and a positive one on claims 6 and 7, the
+applicant does not change the claims but asks that the IPER be established
+for claims 6 and 7 only.
+A request for examination of certain claims only is not accepted since the
+'PER is established on the claims on file and can only be restricted by the
+examiner, e.g on the grounds of lack of unity with not all fees paid,
+unsearched claims clarity or added subject-matter. A restriction at the
+request of the applicant would be contrary to Art 35(2), which states that
+the 'PER relates to "each In such a case the applicant is informed
+that unless a restricted set of claims is filed the IPER will be established for
+all claims.
+4. Complaint against the findings at the search stage
+If the search was restricted and the applicant complains about the findings
+at the search stage, the complaint will be dealt with by the Complaint
+Handling unit at the EPO_
+In order to ensure that a submission is treated as a complaint, applicants
+are advised to use the online complaint form and explicitly state that their
+reply is to be considered as a complaint A letter of reply in which an
+applicant submits only substantive counterarguments contesting the
+findings of the ISA is not a complaint (see also WPß.T.-EPQ Q-IV, 4.1)_
+While there is no provision for a review based on substantive arguments,
+the ISA may exceptionally have to issue a corrected ISR in the event of a
+procedural flaw.

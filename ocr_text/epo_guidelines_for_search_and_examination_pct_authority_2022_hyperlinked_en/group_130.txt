@@ -1,0 +1,59 @@
+Part a - Chapter X-2
+OJ EPO 2017, A106
+Rule 43.3(a)
+GUISPE 16.52
+GUISPE 16.53
+Rule 44.2
+GUISPE 16.33
+Rule 8 1, Rule 38
+GUISPE 16.39-15.47
+Rule 37
+GUISPE 16.35-1538
+Rule 8 2
+GUISPE 16.48-1551
+GUISPE 15.40
+PCT-EPO Guidelines
+3.4 Record of search strategy
+March 2022
+Since 1 November 2015, all search reports drawn up by the EPO under
+both the PCT and EP procedures, including partial search reports, have
+been automatically supplemented with an information sheet entitled
+"Information on Search Strategy't If the application lacks unity of invention,
+the data contained in this sheet only concerns the invention(s) for which the
+search fee(s) has (have) been paid. The information sheet is automatically
+generated based on the data entered by the examiner when drawing up the
+search report It lists the databases in which the examiner conducted the
+prior-art search, the classification symbols defining the extent of the search,
+and the keywords selected by the examiner or any other element relating to
+the invention to be searched and used to retrieve the relevant prior art
+upon publication of a search report drawn up under the PCT procedure, the
+information sheet will be made available to the public via file inspection on
+WIPO's PATENTSCOPE.
+4. Identification of the patent application and type of search report
+Section B-Xz 4 in the Guidelines for Examination in the EPO applies mutatis
+mutandis
+5. Classification of the patent application
+The EPO as ISA classifies the application according to the IPC and CPC
+6. Areas of technology searched
+Section B-Xz 6 in the Guidelines for Examination in the EPO applies mutatis
+mutandis
+7. Title, abstract and figure(s) to be published with the abstract (as
+indicated on supplemental sheet A)
+The international application must contain an abstract and a title (see also
+GUPCT-EPO F-ll, 2 and 3). If the search report is published together with
+the application (A1 publication), the examiner indicates on supplemental
+sheet A:
+0)
+(ii)
+(iii)
+the approval or amendment of the text of the abstract, which should
+not exceed 150 words;
+the approval or amendment of the title of the invention (see also
+GUPCT-EPO 7); and
+the figure which is to accompany the abstract It is possible to
+indicate multiple figures from various sheets but the overall size
+should not exceed what could fit on an A4 sheet.
+If the application is to be published before the international search report is
+prepared (A2 publication, see GLIEPO B-X: 4), the examiner only needs to
+prepare the classification data Titles, abstracts and figures are published
+as submitted by the applicant.

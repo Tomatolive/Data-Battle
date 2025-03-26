@@ -1,0 +1,54 @@
+March 2023
+PCT-EPO Guidelines
+Part B
+Art 1514)
+Rule 34
+— Chapter Ill-I
+Chapter Ill — Characteristics of the search
+1. Scope of the search
+1.1 Completeness of the search
+The scope of the international search is defined in Alt. 15(4), stipulating
+that the International Searching Authority must endeavour to discover as
+much of the relevant prior art as its facilities permit and must, in any case,
+consult the documentation specified in the PCT Regulations (Rule 34). It
+follows from this definition ("as its facilities permit") that the scope of an
+international search is equivalent to that of a European search.
+International and European searches are thus fully identical in scope.
+See also ISPE Guidelines 1518 and 15.20.
+1.2 Effectiveness and efficiency of the search
+Section a-Ill. 22 in the GujdelJnes_ for Examination _in the EPO applies
+mutatis mutandis
+1.3 Search in analogous fields
+Section 8-111, 2.3 in the Guidelines for Examinatipn in the EPO applies
+mutatis mutandis
+1.4 Search on the intemet
+Section 8-111, 2.4 in the Guidelines for examinatiqn in the EPO applies
+mutatis mutandis
+Concerning the dating of internet citations, see GWPCT.-E-PO
+2. The subject of the search
+2.1 Basis for the search
+The international search is carried out on the basis of the search copy of
+the application as transmitted to the ISA by the RO (see
+GUPCT-EPO a-ill, 2.3.1).
+Concerning rectification of obvious mistakes and/or incorporation by
+reference of missing or correct parts or elements, see
+GUPCT-EPO a-ill, 2.3 and H-ll, 2.2_2_
+2.2 Interpretation of claims
+Section .thÉ...Gui#lines. for Äaminatipn jn. the. EPO applies
+mutatis mutandis
+2.2.1 Claims with explicit references to the description or drawings
+Although explicit references in the claims to features elucidated in the
+description or in the drawings are only permissible where "absolutely
+necessary", if claims contain such references, the examiner should strive to
+search these technical features as long as they are unambiguously defined
+by specific parts of the description.
+GUISPE 15.46-15.47
+Rule 33 2(b), (c)
+GUISPE 15.48-15.51
+GUISPE 15.56-15.59
+Art 15131
+Rule 33 3(a)
+GUISPE 15.10
+GUISPE 1521-1523
+Rule
+GUISPE 5 10, 16.30

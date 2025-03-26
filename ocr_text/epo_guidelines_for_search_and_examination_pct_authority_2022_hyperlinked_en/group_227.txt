@@ -1,0 +1,51 @@
+March 2022
+Regarding support for dependent
+GUPCT-EPO 66.
+6.2 Extent of generalisation
+See ISPE Guidelines 5.52
+PCT-EPO Guidelines
+claims by the description,
+see
+Pan F -
+Art 5, 6
+Chapter IV-9
+An invention which opens up a whole new field is entitled to more generality
+in the claims than one which is concerned with advances in a known
+technology
+6.3 Objection of lack of support
+See ISPE Guidelines 5.44.
+Once the examiner has set out a reasoned case that, for example, a broad
+claim is not supported over the whole of its breadth, the onus of
+demonstrating that the claim is fully supported lies with the applicant
+(see GUPCT-EPO F-lll, 4).
+The question of support is illustrated by examples (i) to (iii) in GUEPO
+F-IV„ 6.3. See also ISPE Guidelines 5.53.
+Where it is found that the claims lack support in the description under
+Art O, it may be appropriate for the examiner to first invite the applicant to
+provide informal clarification before the search is carried out (see
+GUPCT-EPO 3.3-3.6)_
+6.4 Lack of support vs. insufficient disclosure
+It should be noted that, although an objection of lack of support is an
+objection under Ait it can often, as in examples (i) to (iii) of
+GLIEPO F-l\vq 6.3, also be considered as an objection of insufficient
+disclosure of the invention under Alt 5 (see GL/?CT-EPO F-lll. 1 to
+GLIPCT-EPO F-III, 3), the objection being that the disclosure is insufficient
+to enable the skilled person to carry out the "invention" over the whole of
+the broad field claimed (although sufficient in respect of a narrow
+"invention") Both requirements are designed to reflect the principle that the
+terms of a claim should be commensurate with, or be justified b•yq the
+invention's technical contribution to the an. Therefore the extent to which
+an invention is sufficiently disclosed is also highly relevant to the issue of
+support The reasons for failure to meet the requirements of An. 5 may in
+effect be the same as those that lead to the infringement of Alt 6 as well,
+namely that the invention, over the whole range claime4 extends to
+technical subject-matter not made available to the person skilled in the art
+by the application as filed.
+For example, where a technical feature is described and highlighted in the
+description as being an essential feature of the invention, to comply with
+Art this must also be part of the independent claim(s) defining the
+invention (see GL/PCT-EPQ F-IV= 45.1) By the same token, if the
+(essential) technical feature in question is absent from the claims and no
+information is given on how to perform the claimed invention successfully
+without the use of said feature, the description does not disclose the
+invention defined in the daim(s) in the manner prescribed by Art. 5.

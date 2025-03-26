@@ -1,0 +1,45 @@
+March 2021
+PCT-EPO Guidelines
+Part
+— Chapter Xl-3
+international publication, i.e. English, French or German in the case of the
+Netherlands patent office as RO The EPO as ISA will establish the ISR
+and WO-ISA in that language if it is already known at the time of carrying
+out the international search; othervvise they will be in the language of the
+request form, i.e. English, French or German. See also PCT Applicant's
+Guide, Intemational Phase, Annex C, NC
+3. Analysis of the application and content of the written opinion
+3.1 The examiners dossier
+Section 3-XI„ 3.1. in the Gujdeljnes for Examinatjon in the EPO applies
+mutatis mutandis
+3.2 Reasoned objections
+3.2.1 Opinion on novelty, inventive step and industrial applicability
+The opinion given in the WO-ISA is restricted to what has actually been
+searched; this should also be made clear in the WO-ISA
+A full explanation of the conclusions reached should always be given for all
+searched claims, regardless of whether this conclusion is positive or
+negative. Normally only one independent claim in each category is treated
+in detail; for negative conclusions regarding further independent claims, as
+well as for dependent claims, comments may be shorter
+3.2.2 Multiple independent claims
+Multiple independent claims in one category are per se not a reason for a
+restriction of the search (see GLIPCT-EPO B-VIIIZ 4).
+If appropriate, an objection as to clarity and conciseness under Article 6
+may be made under Box VIII (see GLIPCT-EPO F-IVZ 32). As an
+alternative, for cases where multiple independent claims in one category do
+not affect the clarity of the definition of the invention, a minor objection may
+be raised under Box VII.
+3.2.3 Dependent claims — WO-ISA
+Dependent claims should be indicated as complying or not with the
+requirements of novelty, inventive step and industrial applicability Short
+statements of the reasons why the claims do not comply with these
+requirements should be given on the separate sheet At the discretion of
+the examiner, more detailed comments may be made about selected
+dependent claims. If any claims are found to be novel and inventive, brief
+reasons for this too should be given on the separate sheet
+3.2.4 Clarity, conciseness, support and formal defects — WO-ISA
+Major clarity, conciseness or support issues will be mentioned under
+Box VIII, unless they result in a meaningful search being impossible, in
+which case they will be treated under Section Ill.
+GUISPE 513 and
+5.14

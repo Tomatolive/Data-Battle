@@ -1,0 +1,57 @@
+Part a
+— Chapter 111-2
+PCT-EPO Guidelines
+March 2023
+Art. 19
+Rule 91.1
+GUISPE 15.10, 1523
+Rule 91
+Art. 19
+GUISPE 1510
+Rule 20.5
+However, where the reference does not clearly identify which
+subject-matter of the description and/or drawings is to be considered as
+included in the claim, the examiner may informally contact the applicant for
+clarification before the search is carried out (see GLIPCT-EPO a-VIII, 33).
+In the special case of "omnibus claims" (e.g. a claim reading "The invention
+substantially as herein described") no request for informal clarification
+should be issued, and subsequently the search report will be designated as
+complete.
+The procedure above should be followed regardless of whether or not the
+reference to the drawings and/or the description is allowable according to
+Rule 6.2(a).
+Where the reference does not appear to be justified, the examiner should
+raise an objection in the written opinion.
+2.3 Obvious mistakes and missing or correct parts/elements
+2.3.1 General considerations
+Since there is no right to amend the application until after the intemational
+search has been established, the international search must be carried out
+on the basis of the search copy of the application as transmitted to the EPO
+as ISA by the RO, except that obvious mistakes or formal matters which
+are contrary' to the PCT and are called to the applicant's attention by the
+RO may be corrected (see also GUPCT-EPO H-IV).
+2.3.2 Request for rectification of obvious mistakes (Rule 91)
+An applicant can request authorisation to recti'/ obvious mistakes in the
+intemational application (see GLIPCT-EPO H-IV, The examiner (if the
+request relates to the description, claims or drawings) will have to assess
+whether such a request can be authorised according to the criteria set out
+in Rule 91
+see GUISPE 8_07-808. If RO has erroneously authorised
+such rectification, this may affect the search (see GIJPPT-E-PO H-IV, 2,.1)_
+If the changes requested by the applicant before the receipt of the ISR are
+not rectifications, but rather amendments, the examiner must refuse them,
+because there is no right to amend the application until after the
+intemational search report has been established. This applies even if the
+applicant refers to them as rectifications and even if they would be
+allowable amendments not adding subject-matter to the application as
+originally filed. For example, reformulation of claims, deletion of technical
+terms, deletion or limitation of claims and the taking of subject-matter from
+the description into the claims must all be refused at this stage regardless
+of whether or not they might be allowable, since they are not rectifications,
+but rather substantive amendments.
+2.3.3 Incorporating missing parts or elements, or correct parts or
+elements, completely contained in the priority document
+If applicants omit to file part(s) of the application and/or (an) entire
+element(s) thereof (i.e all of the description and/or all of the claims), they
+may still fumish it (them) at a later date without affecting the international
+filing date, subject to the requirements of Rule 4.18 and Rule 20.6(a) and

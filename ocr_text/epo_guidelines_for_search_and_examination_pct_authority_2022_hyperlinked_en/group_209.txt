@@ -1,0 +1,50 @@
+March 2022
+PCT-EPO Guidelines
+Part F
+Chapter 11-3
+4.3.1 Format of background art citations
+Section F-llz in the Guidelines for Examination in the EPO applies
+mutatis mutandis
+4.3.1.1 Examples of quotation for non-patent literature
+Section F-II, in the Guidelines for Examination in the EPO applies
+mutatis mutandis
+4.3.1.2 Examples of quotation for patent literature
+Section F-II, in the Guidelines for Examination in _the EPO applies
+mutatis mutandis
+4.4 Irrelevant matter
+Section F-II, 4_4 in the Guidelines _ for Examination in the EPO applies
+mutatis mutandis
+See also GLIPCT-EPO F-ll. 7_4_
+4.5 Technical problem and its solution
+See ISPE Guidelines 4.06-4.07.
+4.6 Reference in the description to drawings
+See ISPE Guidelines 4.08.
+4.7 Reference signs
+See ISPE Guidelines 4.09.
+4.8 Industrial applicability
+The description should indicate explicitly the way in which the invention is
+capable of exploitation in industry', if this is not obvious from the description
+or from the nature of the invention (see also GLIPCT-EPQ G-lll). The
+expression "capable of exploitation in industry'" means the same as
+"susceptible of industrial application". In view of the broad meaning given to
+the latter expression in the Appendix to Chapter 14 of the ISPE Gui<elines,
+A14.01[21.1(1) and A14_01L21.2, it is to be expected that, in most cases, the
+way in which the invention can be exploited in industry' will be self-evident,
+so that no more explicit description on this point will be required; but there
+may be a few instances, e.g. in relation to methods of testing, where the
+manner of industrial exploitation is not apparent and must therefore be
+explicitly indicated.
+Also, in relation to certain biotechnological inventions, i.e. sequences and
+partial sequences of genes, the industrial application is not self-evident and
+must be disclosed in the patent application.
+4.9 Manner and order of presentation
+See ISPE Guidelines 4.21 _
+4.10 Terminology
+See ISPE Guidelines 4.22
+Rules 51
+Art 3311), (4)
+Rule 5_
+GUISPE A1401121
+Rule 511b)
+Sect,on 204 PCT A/
+Rule 102

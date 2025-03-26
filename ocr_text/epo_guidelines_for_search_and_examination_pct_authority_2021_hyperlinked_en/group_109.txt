@@ -1,0 +1,50 @@
+March 2021
+PCT-EPO Guidelines
+Pat B -
+Chapter W-3
+5. Documents relevant only to other inventions
+The provisions of section B-VIIZ 1 In the Guidelines for Examination in the
+EPO apply mutatis mutandis
+6. Reply from the applicant to the invitation to pay additional search
+6.1 No payment of additional search fees
+If, after an invitation to pay additional search fees the applicant does not do
+so, the file will not be returned to the examiner, but the final search report
+and the which were already prepared by the examiner at the initial
+search stage, will be sent out by the formalities officer.
+During the European phase, the applicant may still pursue claimed
+inventions which were not searched in the international phase upon
+invitation to pay search fees by the examining division. See GLIEPO
+c-lll„ 2.3_
+6.2 Payment of additional search fees without protest
+If, after an invitation to pay additional search fees, the applicant has paid
+additional search fees without protest, a complete search will be carried out
+for the inventions for which search fees have been paid and the ISR will be
+issued for these inventions. The WO-ISA will be drafted for the claims for
+which search fees have been paid. Section IV is to be filled out, and
+Section Ill must be modified to the actual payment of fees.
+6.3 Payment of additional search fees under protest
+In reply to Form applicants may pay some or all of the additional fees
+under protest. If they do so, then this triggers the protest procedure for
+determining whether the request for payment of the additional fees was
+justified (see also GUPCT-EPO B-VIIZ 7).
+If the applicant has paid additional search fees under protest and the
+Review Panel decided that the protest was fully or partly justified, the
+examiner will follow the decision of the Review Panel and will proceed to
+establish the ISR and WO-ISA for the inventions for which search fees
+have been paid In the ISR the examiner will adapt the number of
+inventions and their definitions as well as the non-unity reasoning to be
+consistent with the decision of the review panel. In the WO-ISA Section IV
+and the reasoning will be adapted to the decision of the Review Panel and
+Section Ill will be modified to the actual payment of fees. Under Section V
+an opinion as to novelty, inventive step and industrial applicability for all
+searched inventions will be given.
+In the special situation where the protest was fully justified and where, as a
+consequence, the application is considered unitary', the examiner will follow
+the decision of the Review Panel and send a final ISR with no indication of
+non-unity_ In Section IV of the WO-ISA the examiner will indicate that the
+requirement of unity of invention is complied with and that the search report
+has been established in respect of all parts of the application; no reasons
+need to be given on the separate sheet Under Section V, an opinion as to
+novelty, inventive step and industrial applicability for all claims will be given.
+Rule 40 2(c)
+GUISPE 10.56-10.69

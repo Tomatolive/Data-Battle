@@ -1,0 +1,63 @@
+Part C - Chapter VIII-2
+Rule 52
+Rule 13ter 2
+Rule 66.
+OJ EPO 2011, 372
+OJ EPO 2013, 542
+OJ EPO 2021=.46
+OJ EPO 2021=.47
+OJ EPO 2022= A60
+15.12,
+15.13 and 17.37
+Rule 66.4bis
+PCT-EPO Guidelines
+2.1 Sequence listings
+March 2023
+Where no (complete) international search was carried out because the
+applicant did not file an electronic sequence listing conforming to WIPO
+Standard ST .26 in response to a request from the ISA or did not pay the
+late furnishing fee, the IPER will indicate under Section III that the
+examination is limited according to Rule 13ter2 to the same extent as the
+search was limited because the applicant failed to comply with (no
+sequence listing) and/or .13t% (no computer-readable sequence
+listing). The examiner also indicates in Section III of the IPER that the
+examination is also limited according to Rule 66.1(e) because the search
+was incomplete.
+Where a sequence listing in electronic form and compliant with WIPO
+Standard ST.26 is not available to the EPO as IPEA, the applicant may be
+invited to furnish such a sequence listing under Rule 13ter 114) and to pay
+the late fumishing fee under Rule 13ter I(c) within a non-extendable period
+of one month from the date of the invitation.
+3. Positive or negative 'PER
+As for the WO-ISA, the examiner needs to indicate whether the IPER is to
+be considered positive or negative. The same criteria apply as in
+GWPCT-EPO 3.4.
+In the special case of a non-unitary' application, where all inventions
+examined (normally after issuance of an invitation to pay additional fees
+(Form 405); see WPCT-EPO C-V. 1) were found novel and inventive, but
+still lacking unity — as the only remaining objection — the IPER is marked as
+negative Under Section a positive statement as to novelty and inventive
+step is given for all examined inventions, and the objection as to lack of
+unity is reasoned under Section IV
+In this special case, the negative IPER can be sent directly without any
+further written opinion, as an exception to the general principle outlined
+in GUPCT-EPO c-IV: 2_2, that prior to issuing a negative IPER a WO-IPEA
+(Form 408) is to be sent The reason for this exception is that the applicant
+is entitled to have multiple inventions examined in Chapter II if additional
+fees have been paid, so that there is no objection to be raised in the
+WO-IPEA.
+In the case of a non-unitary application where no additional search fees
+were paid and the report on the first invention is positive, the 'PER is also
+marked as negative (because the non-unity objection will prevent a direct
+grant upon entry into the European phase) and can be sent directly. Under
+Section V, a positive statement as to novelty and inventive step is given for
+the first invention only. Section IV is
+(see GUPCT-EPO C-V. 2).
+4. Rectification of the IPER
+Since an IPER is a non-binding opinion and not
+provides for neither opposition nor appeal against it.
+'PER is normally the end of the international
+not filled out
+a decision, the PCT
+Establishment of the
+phase Any further

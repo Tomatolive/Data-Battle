@@ -1,0 +1,47 @@
+Part C — Chapter IV-4
+GUISPE 19.33
+Rule 66.
+Art. and
+Rule 66.
+PCT-EPO Guidelines
+March 2021
+In practice, if the applicant's reply is received after the time limit set in the
+WO-IPEA (Form 408) but before an IPER (Form 409) has been started, the
+late-filed reply is taken into consideration for drawing up the IPER_
+If a reply is received after the IPER has actually been started and the
+applicant has not met all the objections set out in the last written opinion,
+the late reply is not considered and the 'PER is drawn up on the basis of
+the conclusions set out in the last WO-IPEA
+If a reply is received after the IPER has actually been started and all the
+objections set out in the last WO-IPEA have been met, the late-filed reply is
+taken into consideration for drawing up the IPER
+If no reply has been received, the IPER is drawn up on the basis of the
+conclusions set out in the last WO-IPEA
+4. Consequences of a restriction of the search
+4.1 Submissions prompted by a restriction of the search or a
+declaration that no search is possible
+If the search covered only some claims or part of one or more claims (see
+GLIPCT-EPO B-VIII) only the subject-matter which has been searched - as
+indicated in the ISR (GUPCT-EPO B-&8) and/or in the WO-ISA
+(_GL/PCT-EPO B-Xk 6) - can be the object of the international preliminary
+examination. It should always be made clear which claims have been
+examined.
+After a restriction of the search, either because subject-matter is excluded
+from the search or because a meaningful search is not possible, or after a
+declaration that no search at all is possible, the applicant's reply may, at
+subsequent stages of the procedure, challenge the ISA's findings.
+However, the IPEA has no responsibility for actions taken by the ISA and
+there is no provision in the PCT for an IPEA review of, or for an appeal
+against, such an ISA decision.
+Any written arguments from the applicant relating to the completeness of
+the search are not to be treated as a communication with the IPEA, unless
+the applicant's reply contains a complaint against the findings at the search
+stage when the EPO acted as ISA (see GUPCT-EPO 4).
+If the reply to the WO-ISA contains arguments challenging the findings at
+the search stage related to the restriction of the search, the examiner will
+mention in the WO-IPEA or 'PER (under Section Ill) that the findings of the
+ISA cannot be reviewed by the IPEA.
+If the applicant phones the examiner to discuss the issue orally, the
+examiner will inform the applicant that this is a matter which is the
+responsibility of the ISA under Ghap.ter..l Qt the.P.C.T and that the procedure
+before the ISA is closed.

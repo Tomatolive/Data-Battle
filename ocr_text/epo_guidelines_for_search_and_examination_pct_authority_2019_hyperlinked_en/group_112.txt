@@ -1,0 +1,53 @@
+Part - Chapter VIII-8
+Art
+Art
+Rule 39
+Rule 13
+Art 1 7
+GUISPE 513-514
+PCT-EPO Guidelines
+November 2019
+If only some of the claims and/or parts of the claims can be searched and it
+is not possible, on the basis of the descriptiorm to foresee a likely fallback
+position for the unsearched subject-matter, even taking any reply from the
+applicant into consideration, a precise indication of what has been
+searched with the corresponding claims, together with full reasoning why
+the search was restricted, are entered into both the ISR and the WO-ISA. In
+addition, in the WO-ISA an opinion as to novelty, inventive step and
+industrial applicability of the searched subject-matter must be given.
+If some claims or parts of claims cannot be searched but it is possible, on
+the basis of the description, to foresee a searchable fallback position,
+taking any possible reply from the applicant into consideration, the ISR will
+be filled out as for a complete search in respect of those claims An
+indication which claims have been searched (in part), together with full
+reasoning why the search was restricted, and a precise indication of what
+has been searched are entered into the WO-ISA. In the ISR the cited
+documents will relate to the searched (or partially searched) claims only. In
+addition, in the WO-ISA an opinion as to novelty, inventive step and
+industrial applicability of the searched subject-matter must be given.
+If, even taking any reply from the applicant into consideration, it is not
+possible to perform a search at all, a declaration of no searclm together with
+full reasoning why, is issued instead of the ISR. The WO-ISA must contain
+full reasoning why the search is not possible.
+A restriction of the search due to exceptions mentioned in Rule 39
+(e.g. medical treatment claims) must always be indicated in the search
+report
+3.6 Combination of an incomplete search and lack of unity
+The requirements of unity of invention and the requirements of
+Ait are separate requirements. However, it is possible that an
+application both violates the requirements of clarity, disclosure, support or
+conciseness to such an extent that a meaningful search cannot be carried
+out, and lacks unity. In that case, the examiner can combine an incomplete
+search and a finding of non-unity_ Howeveq the applicant should not be
+invited to pay additional fees for subject-matter which will later not be
+searched under Art. Typically, a non-unity objection could be
+made first and then an incomplete search applied to the searched
+invention. In such a case the examiner may send an informal clarification
+request for the first invention only and include in the invitation to pay
+additional fees remarks on clarity problems related to further inventions.
+However, if the complexity lies in lack of clarity, the search will be restricted
+firsv and the non-unity objection applied to the clear parts of the claimed
+subject matter.
+4. Multiple independent claims per category
+Multiple independent claims in one category are per se not a reason for an
+incomplete search

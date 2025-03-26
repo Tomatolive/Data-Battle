@@ -1,0 +1,51 @@
+Part a - Chapter xn-2
+GUISPE 15.87
+Rule 45b's_5Ld2 and
+Rule 45b'S_5Le2
+GUISPE 15.96
+Rule 45b,s_ 71e)
+GUISPE 15.960„), fy)
+PCT-EPO Guidelines
+March 2021
+5. Limitation of the search for reasons other than non-unity
+With respect to limitations of the search for reasons other than non-unity
+(including the issuance of a declaration of no search), the same criteria
+apply as for any intemational search carried out by the EPO as ISA (see
+GUPCT-EPO B-VIIIZ 2, 3 and subsections).
+Any such limitation of the search will be indicated in the search report
+and/or the annexed explanations (of equal value to the information
+contained in a WO-ISA) as set out in W?ß.T.-EPO e, and with
+the exception that in the case of a declaration of no search (Form
+PCT/SlSA'502) no explanations from the SISA are provided for. For any
+other limitation of the search, the reasoning will be given only in the
+explanations annexed to the SISR and an automatic reference thereto will
+be inserted in the SISR_
+Furthermore, the SISA does not have to search claims which were not
+searched by the main ISA. However, the examiner will not limit the SIS
+merely on the grounds that the main ISA did so, but will make a case-by-
+case assessment based on EPO practice to determine whether the
+limitation made by the main ISA was appropriate under EPO practice.
+For non-unity: see WPGT.-E-PO 10.
+6. Filling out the search report
+The SISR is filled out in the same way as for any international search, with
+the exception that publication details do not have to be provided since the
+main ISA has already provided the publication data and IPC classes.
+Examiners will not cite in the SISR a document already cited in the ISR
+unless they attach a different significance to it, e.g. as a Y document in
+combination with a newly cited document or where the main ISR has clearly
+failed to recognise the extent of the documents relevance.
+Furthermore, it will be indicated in the SISR whether or not the main ISR
+was available and taken into account.
+7. Explanations under Rule
+No separate WO-ISA is established for a SIS_ Instead, only a free-text
+sheet is used, and this will contain the same information as the separate
+sheet that is part of the WO-ISA in the form of "explanations". Upon entry'
+into the European phase, the applicant is obliged to respond to these
+explanations, as set out in Rule 161(1) EPC. A positive conclusion must be
+reasoned in the same way as in a WO-ISA/IPER.
+Formally, the explanations under Rule 45bis7(e) are part of the SISR
+(Form PCT/SlSA'501) and are contained in an annex called the "Scope
+Annex".
+Although the Scope Annex will concentrate on the documents cited in the
+SISR, in some circumstances it might be appropriate to raise objections
+based on documents cited in the ISR.

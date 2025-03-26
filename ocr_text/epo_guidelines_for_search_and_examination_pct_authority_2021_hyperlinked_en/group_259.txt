@@ -1,0 +1,57 @@
+March 2021
+Chapter VI — Novelty
+1. Prior art pursuant to
+PCT-EPO Guidelines
+Under the PCT, an invention is considered to be novel if it is not anticipated
+by the prior art Everything which is made available to the public anynvhere
+in the world by means of a written disclosure is considered prior art
+provided that such making available occurred prior to the relevant date In
+cases where the making available to the public occurred by non-written
+means, it constitutes prior art only if a written disclosure that occurred
+before the relevant date confirms the non-written disclosure. The relevant
+date is the intemational filing date or, where at least one priority has been
+validly claimed, the date of the earliest priority. It should be noted that in
+considering novelty (as distinct from inventive step), it is not permissible to
+combine separate items of prior art together. It is also not permissible to
+combine separate items belonging to dfferent embodiments described in
+one and the same document, unless such combination has specifically
+been suggested, see also ISPE Guidelines 12.06.
+For the specific case of selection inventions see ISPS Guidelines 12.10_
+Furthermore, any matter explicitly disclaimed (with the exception of
+disclaimers which exclude unworkable embodiments) and prior art
+acknowledged in a document, insofar as explicitly described therein, are to
+be regarded as incorporated in the document
+It is further permissible to use a dictionary or similar document of reference
+in order to interpret a special term used in a document
+2. Implicit features or well-known equivalents
+A document takes away the novelty of any claimed subject-matter derivable
+directly and unambiguously from that document including any features
+implicit to a person skilled in the art in what is expressly mentioned in the
+document, e.g. a disclosure of the use of rubber in circumstances where
+clearly its elastic properties are used even if this is not explicitly stated
+takes away the novelty of the use of an elastic material. The limitation to
+subject-matter "derivable directly and unambiguously" from the document is
+important. Thus, when considering novelty, it is not correct to interpret the
+teaching of a document as embracing well-known equivalents which are not
+disclosed in the documents; this is a matter of inventive step.
+3. Relevant date of a prior document
+In determining novelty, a prior document should be read as it would have
+been read by a person skilled in the art on the relevant date of the
+document. For the purpose of assessing novelty the "relevant" date for
+written disclosures is the date as defined by Rule 64. I(b), i.e. either the
+international filing date of the application under consideration or, if a priority
+has been validly claimed, the application date of that earlier application (if
+the filing date of the application is within the two-month period after the
+expiry of the priority period of the earlier application, the relevant date is
+also the application date of that earlier application); for non-written
+disclosures see Rules 331 (b) and 64.2.
+Part G
+— Chapter VI-I
+Art 33121
+Rule 43bis_
+Rule 54 1, Rule 64.2
+GUISPE 12.01 12.02
+GUISPE 12.06
+GUISPE 12.04
+Rule 54 1, Rule 642,
+Rule 33 11b)

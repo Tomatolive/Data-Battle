@@ -1,0 +1,50 @@
+Pat G
+— Chapter IV-2
+PCT-EPO Guidelines
+March 2022
+Rule 205
+Rule 20 5b,s
+cited against another claim or another altemative in the same claim
+because it has an earlier effective date.
+If the applicant subsequently furnishes missing parts of the description,
+parts of the claims or all or parts of the drawings under Rule 20.5 the
+international filing date is the date on which the purported intemational
+application is completed by the furnishing of the missing parts, unless the
+missing parts are completely contained in the priority document and the
+requirements given in Rule 206 are satisfied, in which case the original
+filing date is maintained. The date of the application as a whole is thus
+either the date on which the missing parts are received or the original filing
+date (see GL,'PCT-EPO c-IIIL 2, and GUPCT-EPO H-IL 2.22).
+If the applicant subsequently furnishes (a) correct element(s) (an element
+being the description or the claims) or correct parts of the description, parts
+of the claims or all or parts of the drawings under Rule 20.5bis, the
+international filing date is the date on which the purported intemational
+application is corrected by the fumishing of the correct elements or parts
+unless the correct elements or parts are completely contained in the priority
+document and the requirements given in Rule 20.6 are satisfied, in which
+case the original filing date is maintained The date of the application as a
+whole is thus either the date on which the correct elements or parts are
+received or the original filing date (see GLIPCT-EPO C-lll, 2, and
+GUPCT-EPO H-ll„ 2.2.2)_
+4. Documents in a nonofficial language of the (S)ISA or 'PEA
+Where applicants
+(i) dispute the relevance of a document in a non-official language cited
+in the search report (for procedure at the search stage,
+see GUPCT-EPO B-x. 9.1.2 and 9.1_3), and
+(ii) give specific reasons,
+examiners should consider whether, in the light of these reasons and of the
+other prior art available to them, they are justified in pursuing the matter If
+so, they should obtain a translation of the document (or merely the relevant
+part of it if that can be easily identified). If they remain of the view that the
+document is relevant, they should send a copy of the translation to the
+applicant with the next communication in the PCT Chapter II phase.
+4.1 Machine translations
+In order to overcome the language barrier constituted by a document in an
+unfamiliar non-official language, it might be appropriate for the examiner to
+rely on a machine translation of the document, which should be sent to the
+applicant If only part of the translated document is relevant, the particular
+passage relied upon should be identified. A translation has to serve the
+purpose of rendering the meaning of the text in a familiar language.
+Therefore mere grammatical or syntactical errors which have no impact on
+the possibility of understanding the content do not hinder its qualification as
+a translation.

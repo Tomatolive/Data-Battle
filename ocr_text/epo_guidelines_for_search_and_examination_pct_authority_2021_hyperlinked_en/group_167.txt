@@ -1,0 +1,46 @@
+March 2021
+PCT-EPO Guidelines
+Pat c
+— Chapter V-3
+invention mentioned in the invitation to pay additional fees (Form 405) and
+for which the search fee has been paid. Section IV is filled out and the
+reasons for lack of unity are given on the separate sheet.
+If, in reply to the invitation in Form 405, the applicant restricted the claims,
+the examiner has to check whether the restricted set of claims is unitary
+and whether all claims relate to searched subject-matter.
+If this is the case, the WO-IPEA/IPER is established on the restricted set of
+claims, and Section IV is not filled out.
+If this is not the case, the WO-IPEA\IPER is established on the main or first
+invention mentioned in Form 405 and for which the search fee has been
+paid; Section IV is filled ouv and any claims relating to non-searched
+subject-matter are indicated in Section Ill.
+4.2 Payment of additional examination fees without protest
+If, in reply to the invitation in Form 405, the applicant pays additional
+preliminary examination fees without protest, the WO-IPEA\IPER is
+established on the basis of those inventions for which examination fees
+have been paid. Section IV is filled out and the reasons for lack of unity are
+given on the separate sheet.
+If, in reply to the invitation in Form 405, the applicant restricted the claims
+and paid additional fees, the examiner has to verify that the restricted set of
+claims does not contain more inventions than those for which additional
+fees have been paid and that the restricted claims relate to subject-matter
+that has been searched.
+If this is the case, the WO-IPEA/IPER is established on the restricted set of
+claims, and Section IV is filled out.
+If this is not the case, the WO-IPEA\IPER is established on as many
+inventions mentioned in Form 405 as additional fees have been paid for.
+Section IV is filled out and any claims relating to unsearched subject-matter
+are indicated in Section Ill.
+In both cases the reasons for the lack of unity are given on the separate
+sheet
+4.3 Payment of additional examination fees under protest
+In reply to Form 405, applicants may pay some or all of the additional fees
+under protest. If they do so, then this triggers the protest procedure for
+determining whether the request for payment of the additional fees was
+justified (see also GWPCT-EPO C-V, 5).
+5. Protest procedure
+The protest procedure consists of a review within the IPEA first by the
+formalities officer and then by a Review Panel.
+Rule 58 31q) and (g)
+GUISPE 10.78
+Rule 58 3(c), (d)

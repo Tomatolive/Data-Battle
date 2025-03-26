@@ -1,0 +1,31 @@
+Part a
+— Chapter IV-4
+PCT-EPO Guidelines
+3. Procedure after searching
+3.1 Preparation of the search report
+March 2021
+Art. 18
+Rule 43.5
+GUISPE 15.67, 1569
+and 1572
+OJ EPO 2017„A106
+Section B-lVz in the Guidelines for Examination in the EPO applies
+mutatis mutandis_
+An information sheet regarding the search strategy is systematically
+annexed to all international search reports including partial search reports.
+If the application lacks unity of invention, the data contained in this sheet
+will only concern the invention(s) for which the search fee(s) has (have)
+been paid. The information sheet will contain certain details about the
+databases in which the examiner conducted the prior-art search, the
+classification symbols defining the extent of the search, and the kemords
+selected by the examiner or any other element relating to the invention to
+be searched and used to retrieve the relevant prior art Upon publication of
+the international search report, the information sheet will be made available
+to the public via file inspection on WIPOs PATENTSCOPE and in the
+European Patent Register.
+3.2 Amended international search report
+It might happen that there was an error in the intemational search report
+and the applicant requests correction of that error. In such a case the
+examiner should consider issuing a corrected ISR (and possibly WO-ISA).
+Further reasons for amending the intemational search report are indicated
+in ISPE Guidelines 15.74
