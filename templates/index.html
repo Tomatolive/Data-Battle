@@ -161,72 +161,61 @@
                     part: part || null
                 })
             })
-            .then(response => response.json())
+            .then(response => {
+                if (!response.ok && response.status !== 200) {
+                    throw new Error(`Erreur serveur: ${response.status}`);
+                }
+                return response.json();
+            })
             .then(data => {
-                document.getElementById('questionText').innerHTML = formatText(data.question);
+                console.log('Réponse API brute:', data); // Pour débogage
+                
+                if (data.error) {
+                    // Afficher l'erreur dans l'interface utilisateur
+                    document.getElementById('questionText').innerHTML = `
+                        <div class="alert alert-danger">
+                            <strong>Erreur:</strong> ${formatText(data.question || 'Erreur inconnue')}
+                        </div>
+                    `;
+                } else {
+                    // Afficher la question normalement
+                    document.getElementById('questionText').innerHTML = formatText(data.question || 'Aucune question générée');
+                }
+                
                 document.getElementById('questionContainer').style.display = 'block';
                 document.getElementById('loadingContainer').style.display = 'none';
                 document.getElementById('studentAnswer').value = '';
                 
                 // Stocker la question pour l'évaluation
-                window.currentQuestion = data.question;
+                window.currentQuestion = data.question || '';
             })
             .catch(error => {
-                alert('Erreur lors de la génération de la question: ' + error);
-                document.getElementById('loadingContainer').style.display = 'none';
-            });
-        });
-
-        // Soumettre une réponse
-        document.getElementById('submitAnswer').addEventListener('click', function() {
-            const studentAnswer = document.getElementById('studentAnswer').value;
-            
-            if (!studentAnswer.trim()) {
-                alert('Veuillez rédiger votre réponse avant de la soumettre.');
-                return;
-            }
-            
-            document.getElementById('loadingContainer').style.display = 'flex';
-            document.getElementById('evaluationContainer').style.display = 'none';
-            
-            fetch('/api/evaluate_answer', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({
-                    question: window.currentQuestion,
-                    answer: studentAnswer
-                })
-            })
-            .then(response => response.json())
-            .then(data => {
-                document.getElementById('evaluationText').innerHTML = formatText(data.evaluation);
-                document.getElementById('scoreDisplay').textContent = data.score !== null ? `${data.score}/10` : 'Score non disponible';
-                document.getElementById('evaluationContainer').style.display = 'block';
-                document.getElementById('loadingContainer').style.display = 'none';
-            })
-            .catch(error => {
-                alert('Erreur lors de l\'évaluation de la réponse: ' + error);
+                console.error('Erreur:', error);
+                document.getElementById('questionText').innerHTML = `
+                    <div class="alert alert-danger">
+                        <strong>Erreur:</strong> ${error.message || 'Une erreur est survenue lors de la communication avec le serveur'}
+                    </div>
+                `;
+                document.getElementById('questionContainer').style.display = 'block';
                 document.getElementById('loadingContainer').style.display = 'none';
             });
         });
 
         // Formater le texte pour l'affichage HTML
-        function formatText(text) {
-
-            if(!text || typeof text !== 'string') {
-                console.error('Le texte à formatter est invalide:', text);
-                return 'Erreur: Texte non disponible';
-            }
-
-            // Remplacer les sauts de ligne par des balises <br>
-            text = text.replace(/\n/g, '<br>');
-            
-            // Mettre en gras les titres comme "QUESTION:", "SOLUTION:", etc.
-            text = text.replace(/(QUESTION|SOLUTION|CRITÈRES D'ÉVALUATION|SCORE|ÉVALUATION DÉTAILLÉE|POINTS FORTS|POINTS À AMÉLIORER|CONSEILS|COMPARAISON):/g, '<strong>$1:</strong>');
-            
-            return text;
+       function formatText(text) {
+        // Vérifier que text est bien défini et est une chaîne de caractères
+        if (!text || typeof text !== 'string') {
+            console.error('Le texte à formater est invalide:', text);
+            return 'Erreur: Texte non disponible';
+        }
+        
+        // Remplacer les sauts de ligne par des balises <br>
+        text = text.replace(/\n/g, '<br>');
+        
+        // Mettre en gras les titres comme "QUESTION:", "SOLUTION:", etc.
+        text = text.replace(/(QUESTION|SOLUTION|CRITÈRES D'ÉVALUATION|SCORE|ÉVALUATION DÉTAILLÉE|POINTS FORTS|POINTS À AMÉLIORER|CONSEILS|COMPARAISON):/g, '<strong>$1:</strong>');
+        
+        return text;
         }
     </script>
 </body>
