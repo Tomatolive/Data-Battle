@@ -504,17 +504,16 @@ def build_exam_rag_system(text_root_dir: str, output_dir: str):
 ##################################################
 #  Génération de questions d'examen avec Ollama  #
 ##################################################
-def generate_exam_question_with_ollama(topic, difficulty, context=""):
+def generate_exam_question_with_ollama(topic, difficulty, language, context=""):
     """Génère une question d'examen en utilisant Ollama avec la bonne syntaxe API"""
     print("Passage par generate_exam_question_with_ollama")
 
-    # Choisir un bon modèle
-    model_name = "llama3"  # ou "mistral", "phi3", etc.
-
+    model_name = "llama3"
     # Créer un prompt bien structuré
     prompt = f"""
 Crée une question d'examen sur le sujet: {topic}
 Je ne veux pas de solution de ta part, juste la question.
+La question doit être en {language}.
 Niveau: {difficulty}
 
 Format requis:
@@ -527,7 +526,6 @@ Contexte additionnel pour t'aider:
 """
 
     try:
-        # Appeler Ollama avec la syntaxe correcte
         response = requests.post(
             "http://localhost:11434/api/generate",
             json={
@@ -577,7 +575,7 @@ Contexte additionnel pour t'aider:
         }
 
 
-def generate_exam_response_with_ollama(question, topic, context=""):
+def generate_exam_response_with_ollama(question, topic, language, context=""):
     """Génère une réponse modèle à une question d'examen
 
     Args:
@@ -595,7 +593,7 @@ def generate_exam_response_with_ollama(question, topic, context=""):
     prompt = f"""
 Tu es un expert du concours d'ingénieur brevet européen.
 Réponds de façon détaillée et professionnelle à cette question d'examen sur {topic}.
-
+Toute ta réponse doit être en {language}.
 QUESTION:
 {question}
 
@@ -673,6 +671,7 @@ def evaluate_student_answer(
     question: str,
     student_answer: str,
     model_answer: str,
+    language: str,
     vector_db: Dict[str, Any] = None,
     llm_components: tuple = None,
 ):
@@ -707,7 +706,7 @@ def evaluate_student_answer(
     system_prompt = f"""
 Tu es un évaluateur expert pour le concours d'ingénieur brevet européen.
 Ta tâche est d'évaluer la réponse de l'étudiant en la comparant à la réponse modèle.
-Toute ton évaluation devra être rédigée en anglais.
+Toute ton évaluation devra être rédigée en {language}.
 
 ### QUESTION:
 {question}
