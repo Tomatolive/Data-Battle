@@ -33,17 +33,18 @@ def load_text_documents(root_dir: str) -> List[Dict[str, Any]]:
 
             file_path = os.path.join(dirpath, filename)
 
+            # Extraire les métadonnées du chemin
             rel_path = os.path.relpath(file_path, root_dir)
             parts = rel_path.split(os.sep)
 
             if len(parts) < 2:
                 continue
 
-            # Structure: année_type_partie_langue/groupe.txt
             exam_info = parts[0].split("_")
 
             if len(parts) >= 2 and len(exam_info) >= 3:
                 try:
+                    # Lire le contenu du fichier
                     with open(file_path, "r", encoding="utf-8") as f:
                         content = f.read().strip()
 
@@ -61,26 +62,12 @@ def load_text_documents(root_dir: str) -> List[Dict[str, Any]]:
                     else:
                         content_type = "questions"
 
-                    # Déterminer la partie
-                    part = None
-                    for part_id in ["pt1", "pt2"]:
-                        if part_id in parts[0]:
-                            part = part_id
-                            break
-
-                    # Extraire le numéro de groupe
-                    group = None
-                    if "group_" in parts[1]:
-                        group = int(parts[1].replace("group_", "").replace(".txt", ""))
-
                     # Créer le document avec métadonnées
                     document = {
                         "content": content,
                         "path": rel_path,
                         "year": year,
-                        "part": part,
                         "content_type": content_type,
-                        "group": group,
                         "filename": filename,
                     }
 
@@ -117,13 +104,12 @@ def create_structured_chunks(
     for doc in documents:
         content = doc["content"]
 
+        # Pour les documents courts, les garder intacts
         if len(content) <= max_chunk_size:
             chunk = {
                 "text": content,
                 "year": doc["year"],
-                "part": doc["part"],
                 "content_type": doc["content_type"],
-                "group": doc["group"],
                 "path": doc["path"],
                 "is_complete_document": True,
             }
@@ -144,9 +130,7 @@ def create_structured_chunks(
                         {
                             "text": current_chunk.strip(),
                             "year": doc["year"],
-                            "part": doc["part"],
                             "content_type": doc["content_type"],
-                            "group": doc["group"],
                             "path": doc["path"],
                             "is_complete_document": False,
                         }
@@ -161,9 +145,7 @@ def create_structured_chunks(
                 {
                     "text": current_chunk.strip(),
                     "year": doc["year"],
-                    "part": doc["part"],
                     "content_type": doc["content_type"],
-                    "group": doc["group"],
                     "path": doc["path"],
                     "is_complete_document": False,
                 }
@@ -185,13 +167,12 @@ def link_questions_with_answers(chunks: List[Dict[str, Any]]) -> List[Dict[str, 
     Returns:
         Chunks enrichis avec des références croisées
     """
-    # Créer des dictionnaires pour accéder rapidement aux chunks par année, partie et groupe
     questions_dict = {}
     answers_dict = {}
     solutions_dict = {}
 
     for i, chunk in enumerate(chunks):
-        key = f"{chunk['year']}_{chunk['part']}_{chunk['group']}"
+        key = f"{chunk['year']}"
 
         if chunk["content_type"] == "questions":
             questions_dict[key] = i
@@ -202,7 +183,7 @@ def link_questions_with_answers(chunks: List[Dict[str, Any]]) -> List[Dict[str, 
 
     # Enrichir les chunks avec des références
     for i, chunk in enumerate(chunks):
-        key = f"{chunk['year']}_{chunk['part']}_{chunk['group']}"
+        key = f"{chunk['year']}"
 
         # Pour les questions, ajouter les références aux réponses et solutions
         if chunk["content_type"] == "questions":
@@ -259,7 +240,7 @@ def create_advanced_vector_db(
     index.add(np.array(embeddings).astype("float32"))
 
     # Créer des indices pour les métadonnées pour faciliter le filtrage
-    metadata_indices = {"year": {}, "part": {}, "content_type": {}, "group": {}}
+    metadata_indices = {"year": {}, "content_type": {}}
 
     for i, chunk in enumerate(chunks):
         # Indexer par année
@@ -268,23 +249,11 @@ def create_advanced_vector_db(
             metadata_indices["year"][year] = []
         metadata_indices["year"][year].append(i)
 
-        # Indexer par partie
-        part = chunk["part"]
-        if part not in metadata_indices["part"]:
-            metadata_indices["part"][part] = []
-        metadata_indices["part"][part].append(i)
-
         # Indexer par type de contenu
         content_type = chunk["content_type"]
         if content_type not in metadata_indices["content_type"]:
             metadata_indices["content_type"][content_type] = []
         metadata_indices["content_type"][content_type].append(i)
-
-        # Indexer par groupe
-        group = chunk["group"]
-        if group not in metadata_indices["group"]:
-            metadata_indices["group"][group] = []
-        metadata_indices["group"][group].append(i)
 
     return {
         "index": index,
@@ -309,7 +278,7 @@ def filtered_semantic_search(
     Args:
         query: Requête de recherche
         vector_db: Base de connaissances vectorielle
-        filters: Filtres sur les métadonnées (année, partie, type, groupe)
+        filters: Filtres sur les métadonnées (année et type)
         top_k: Nombre de résultats à retourner
 
     Returns:
@@ -338,23 +307,26 @@ def filtered_semantic_search(
     candidate_indices = set()
     first_filter = True
 
+    # Appliquer les filtres
     for filter_key, filter_value in filters.items():
         if (
             filter_key not in vector_db["metadata_indices"]
             or filter_value not in vector_db["metadata_indices"][filter_key]
         ):
-            # Si le filtre ne correspond à aucun document, aucun resultat
+            # Si le filtre ne correspond à aucun document, renvoyer un résultat vide
             return []
 
-        # Recuperation des indices des filtres
+        # Récupérer les indices correspondant au filtre
         filtered_indices = set(vector_db["metadata_indices"][filter_key][filter_value])
 
+        # Intersection avec les résultats précédents ou initialisation
         if first_filter:
             candidate_indices = filtered_indices
             first_filter = False
         else:
             candidate_indices &= filtered_indices
 
+    # Si aucun document ne correspond à tous les filtres, renvoyer un résultat vide
     if not candidate_indices:
         return []
 
@@ -395,7 +367,6 @@ def generate_enriched_context(
     vector_db: Dict[str, Any],
     topic: str = None,
     year: str = None,
-    part: str = None,
     content_types: List[str] = None,
     top_k: int = 5,
 ):
@@ -407,7 +378,6 @@ def generate_enriched_context(
         vector_db: Base de connaissances vectorielle
         topic: Sujet spécifique à chercher
         year: Année spécifique
-        part: Partie spécifique
         content_types: Types de contenu à inclure
         top_k: Nombre de résultats par catégorie
 
@@ -421,24 +391,25 @@ def generate_enriched_context(
     base_filters = {}
     if year is not None:
         base_filters["year"] = year
-    if part is not None:
-        base_filters["part"] = part
 
-    # Enrichir la requête avec le sujet
+    # Enrichir la requête avec le sujet si spécifié
     enhanced_query = query
     if topic is not None:
         enhanced_query = f"{topic} {query}"
 
     all_results = []
 
-    # Effectuer la recherche
+    # Effectuer une recherche pour chaque type de contenu
     for content_type in content_types:
+        # Ajouter le filtre de type de contenu
         filters = base_filters.copy()
         filters["content_type"] = content_type
 
+        # Effectuer la recherche
         results = filtered_semantic_search(enhanced_query, vector_db, filters, top_k)
         all_results.extend(results)
 
+    # Trier par score
     all_results.sort(key=lambda x: x["score"])
 
     # Construire le contexte enrichi
@@ -446,8 +417,8 @@ def generate_enriched_context(
 
     # Fonction pour formater un chunk
     def format_chunk(chunk, prefix=""):
-        source_info = f"[Année: {chunk['year']}, Partie: {chunk['part']}, "
-        source_info += f"Groupe: {chunk['group']}, Type: {chunk['content_type']}]"
+        source_info = f"Année: {chunk['year']}"
+        source_info += f"Type: {chunk['content_type']}"
 
         return f"{prefix}{source_info}\n\n{chunk['text']}"
 
@@ -537,11 +508,13 @@ def generate_exam_question_with_ollama(topic, difficulty, context=""):
     """Génère une question d'examen en utilisant Ollama avec la bonne syntaxe API"""
     print("Passage par generate_exam_question_with_ollama")
 
-    model_name = "llama3"
+    # Choisir un bon modèle
+    model_name = "llama3"  # ou "mistral", "phi3", etc.
 
+    # Créer un prompt bien structuré
     prompt = f"""
 Crée une question d'examen sur le sujet: {topic}
-Je ne veux pas de solution de ta part, juste la question, rien d'autre.
+Je ne veux pas de solution de ta part, juste la question.
 Niveau: {difficulty}
 
 Format requis:
@@ -554,6 +527,7 @@ Contexte additionnel pour t'aider:
 """
 
     try:
+        # Appeler Ollama avec la syntaxe correcte
         response = requests.post(
             "http://localhost:11434/api/generate",
             json={
@@ -565,11 +539,13 @@ Contexte additionnel pour t'aider:
                 },
             },
         )
+        # Vérifier le statut de la réponse
         if response.status_code == 200:
             try:
                 result = response.json()
                 generated_text = result.get("response", "")
             except json.JSONDecodeError:
+                # Si nous avons toujours une erreur de décodage JSON, traiter comme stream
                 text_response = response.text
                 generated_text = ""
 
@@ -612,8 +588,10 @@ def generate_exam_response_with_ollama(question, topic, context=""):
     Returns:
         Dictionnaire contenant la réponse générée et des métadonnées
     """
+    # Choisir un bon modèle
     model_name = "llama3"
 
+    # Créer un prompt bien structuré
     prompt = f"""
 Tu es un expert du concours d'ingénieur brevet européen.
 Réponds de façon détaillée et professionnelle à cette question d'examen sur {topic}.
@@ -633,6 +611,7 @@ RÉPONSE MODÈLE:
 """
 
     try:
+        # Appeler Ollama avec la syntaxe correcte
         response = requests.post(
             "http://localhost:11434/api/generate",
             json={
@@ -645,14 +624,17 @@ RÉPONSE MODÈLE:
             },
         )
 
+        # Vérifier le statut de la réponse
         if response.status_code == 200:
             try:
                 result = response.json()
                 generated_text = result.get("response", "")
             except json.JSONDecodeError:
+                # Si nous avons une erreur de décodage JSON, traiter comme stream
                 text_response = response.text
                 generated_text = ""
 
+                # Traiter chaque ligne JSON séparément
                 for line in text_response.strip().split("\n"):
                     try:
                         line_data = json.loads(line)
@@ -663,6 +645,7 @@ RÉPONSE MODÈLE:
         else:
             generated_text = f"Erreur API: {response.status_code}"
 
+        # Nettoyer la sortie si nécessaire
         if "RÉPONSE MODÈLE:" in generated_text:
             generated_text = generated_text.split("RÉPONSE MODÈLE:")[1].strip()
 
@@ -706,6 +689,7 @@ def evaluate_student_answer(
     Returns:
         Évaluation de la réponse
     """
+    # Récupérer le contexte pertinent si vector_db est fourni
     context = ""
     if vector_db:
         try:
@@ -719,6 +703,7 @@ def evaluate_student_answer(
         except Exception as e:
             print(f"Erreur lors de la récupération du contexte: {str(e)}")
 
+    # Créer un prompt bien structuré pour l'évaluation
     system_prompt = f"""
 Tu es un évaluateur expert pour le concours d'ingénieur brevet européen.
 Ta tâche est d'évaluer la réponse de l'étudiant en la comparant à la réponse modèle.
@@ -766,6 +751,7 @@ CONSEILS:
     model_name = "llama3"
 
     try:
+        # Appeler Ollama
         response = requests.post(
             "http://localhost:11434/api/generate",
             json={
@@ -778,6 +764,7 @@ CONSEILS:
             },
         )
 
+        # Traiter la réponse
         if response.status_code == 200:
             try:
                 result = response.json()
@@ -796,6 +783,7 @@ CONSEILS:
         else:
             generated_text = f"Erreur API: {response.status_code}"
 
+        # Extraire le score si présent
         score = None
         if "SCORE:" in generated_text:
             score_match = re.search(

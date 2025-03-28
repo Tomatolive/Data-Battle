@@ -75,11 +75,11 @@
                                 </select>
                             </div>
                             <div class="mb-3">
-                                <label for="part" class="form-label">Partie (optionnel)</label>
-                                <select class="form-select" id="part">
-                                    <option value="">Toutes</option>
-                                    <option value="pt1">Partie 1</option>
-                                    <option value="pt2">Partie 2</option>
+                                <label for="language" class="form-label">Langue</label>
+                                <select class="form-select" id="language">
+                                    <option value="Anglais"selected>Anglais</option>
+                                    <option value="Français">Français</option>
+                                    <option value="Allemand">Allemand</option>
                                 </select>
                             </div>
                             <button type="submit" class="btn btn-primary">Générer</button>
@@ -165,8 +165,8 @@
             const topic = document.getElementById('topic').value;
             const difficulty = document.getElementById('difficulty').value;
             const year = document.getElementById('year').value;
-            const part = document.getElementById('part').value;
-            
+            const language =document.getElementById('language').value;
+
             // Stocker le sujet
             window.currentTopic = topic;
             
@@ -183,7 +183,7 @@
                     topic: topic,
                     difficulty: difficulty,
                     year: year || null,
-                    part: part || null
+                    language: language
                 })
             })
             .then(response => {
