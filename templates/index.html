@@ -159,26 +159,28 @@
             });
 
         // Générer une question
+        // Générer une question
         document.getElementById('questionForm').addEventListener('submit', function(e) {
             e.preventDefault();
             
             const topic = document.getElementById('topic').value;
             const difficulty = document.getElementById('difficulty').value;
             const year = document.getElementById('year').value;
-            const language =document.getElementById('language').value;
-
+            const language = document.getElementById('language').value;
+            
             // Stocker le sujet
             window.currentTopic = topic;
             
             document.getElementById('loadingContainer').style.display = 'flex';
-            document.getElementById('questionContainer').style.display = 'none';
+            document.getElementById('questionContainer').style.display = 'block';
             document.getElementById('evaluationContainer').style.display = 'none';
+            document.getElementById('questionText').innerHTML = '';
+            document.getElementById('studentAnswer').value = '';
             
-            fetch('/api/generate_question', {
+            // Démarrer la génération
+            fetch('/api/generate_question_progressive', {
                 method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
+                headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
                     topic: topic,
                     difficulty: difficulty,
@@ -193,35 +195,86 @@
                 return response.json();
             })
             .then(data => {
-                console.log('Réponse API question:', data);
-                
                 if (data.error) {
                     // Afficher l'erreur dans l'interface utilisateur
                     document.getElementById('questionText').innerHTML = `
                         <div class="alert alert-danger">
-                            <strong>Erreur:</strong> ${formatText(data.question || 'Erreur inconnue')}
+                            <strong>Erreur:</strong> ${formatText(data.error || 'Erreur inconnue')}
                         </div>
                     `;
-                } else {
-                    // Afficher la question normalement
-                    document.getElementById('questionText').innerHTML = formatText(data.question || 'Aucune question générée');
-                    
-                    // Stocker la question et la réponse modèle
-                    window.currentQuestion = data.question || '';
-                    window.modelAnswer = data.model_answer || '';
-                    
-                    // Préremplir la réponse modèle
-                    document.getElementById('modelAnswerText').innerHTML = formatText(window.modelAnswer);
+                    document.getElementById('loadingContainer').style.display = 'none';
+                    return;
                 }
                 
-                document.getElementById('questionContainer').style.display = 'block';
-                document.getElementById('loadingContainer').style.display = 'none';
-                document.getElementById('studentAnswer').value = '';
+                const questionId = data.question_id;
+                let displayedText = '';
                 
+                // Fonction pour récupérer les morceaux progressivement
+                function fetchNextChunk() {
+                    fetch(`/api/fetch_question_chunk/${questionId}`)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`Erreur de récupération: ${response.status}`);
+                        }
+                        return response.json();
+                    })
+                    .then(chunkData => {
+                        if (chunkData.error) {
+                            throw new Error(chunkData.error);
+                        }
+                        
+                        displayedText += chunkData.chunk;
+                        document.getElementById('questionText').innerHTML = formatText(displayedText);
+                        
+                        if (!chunkData.completed) {
+                            // Continuer avec le prochain morceau
+                            setTimeout(fetchNextChunk, 50);  // Ajuster pour contrôler la vitesse
+                        } else {
+                            // Terminé
+                            document.getElementById('loadingContainer').style.display = 'none';
+                            window.currentQuestion = displayedText;
+                            
+                            // Générer la réponse modèle
+                            fetch('/api/generate_model_answer', {
+                                method: 'POST',
+                                headers: { 'Content-Type': 'application/json' },
+                                body: JSON.stringify({
+                                    question: displayedText,
+                                    topic: topic
+                                })
+                            })
+                            .then(response => response.json())
+                            .then(modelData => {
+                                window.modelAnswer = modelData.model_answer || '';
+                                document.getElementById('modelAnswerText').innerHTML = formatText(window.modelAnswer);
+                            })
+                            .catch(error => {
+                                console.error('Erreur réponse modèle:', error);
+                            });
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Erreur de récupération:', error);
+                        document.getElementById('questionText').innerHTML = `
+                            <div class="alert alert-danger">
+                                <strong>Erreur:</strong> ${error.message || 'Erreur lors de la génération progressive'}
+                            </div>
+                        `;
+                        document.getElementById('loadingContainer').style.display = 'none';
+                    });
+                }
+                
+                // Démarrer le processus de récupération
+                fetchNextChunk();
             })
             .catch(error => {
                 console.error('Erreur:', error);
-                alert('Erreur lors de la génération de la question: ' + error);
+                document.getElementById('questionText').innerHTML = `
+                    <div class="alert alert-danger">
+                        <strong>Erreur:</strong> ${error.message || 'Erreur lors de la génération de la question'}
+                    </div>
+                `;
+                document.getElementById('questionContainer').style.display = 'block';
                 document.getElementById('loadingContainer').style.display = 'none';
             });
         });

@@ -122,7 +122,7 @@ def api_generate_question():
     """API pour générer une question et sa réponse modèle"""
     try:
         data = request.json
-        language = data.get("language", "Anglais")
+
         topic = data.get("topic", "")
         difficulty = data.get("difficulty", "moyen")
         year = data.get("year", None)
@@ -148,7 +148,6 @@ def api_generate_question():
         # Générer la question
         question_result = generate_exam_question_with_ollama(
             topic=topic,
-            language=language,
             difficulty=difficulty,
             context=context,
         )
@@ -167,7 +166,7 @@ def api_generate_question():
 
         # Générer la réponse modèle
         model_answer_result = generate_exam_response_with_ollama(
-            question=question_text, topic=topic, language=language, context=context
+            question=question_text, topic=topic, context=context
         )
 
         # Combiner les résultats
@@ -197,7 +196,6 @@ def api_generate_question():
 def api_generate_question_progressive():
     """Génère une question et la stocke en mémoire pour un accès progressif"""
     data = request.json
-
     language = data.get("language", "Anglais")
     topic = data.get("topic", "")
     difficulty = data.get("difficulty", "moyen")
@@ -256,7 +254,7 @@ def api_evaluate_answer():
     """API pour analyser la réponse d'un étudiant"""
     try:
         data = request.json
-        language = data.get("language", "Anglais")
+
         question = data.get("question", "")
         student_answer = data.get("answer", "")
         model_answer = data.get("model_answer", "")  # Récupérer la réponse modèle
@@ -278,7 +276,6 @@ def api_evaluate_answer():
                 model_answer_result = generate_exam_response_with_ollama(
                     question=question,
                     topic="",
-                    language=language,
                     context=context,
                 )
 
@@ -290,7 +287,6 @@ def api_evaluate_answer():
         result = evaluate_student_answer(
             question=question,
             student_answer=student_answer,
-            language=language,
             model_answer=model_answer,
             vector_db=rag_components,
         )
