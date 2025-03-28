@@ -1,14 +1,15 @@
-import os
 import json
-import re
+import os
 import pickle
-import numpy as np
+import re
+from typing import Any, Dict, List, Tuple, Union
+
 import faiss
-from sentence_transformers import SentenceTransformer
-import torch
-from typing import List, Dict, Any, Union, Tuple
+import numpy as np
 import ollama
 import requests
+import torch
+from sentence_transformers import SentenceTransformer
 
 
 #################################
@@ -504,15 +505,15 @@ def build_exam_rag_system(text_root_dir: str, output_dir: str):
 ##################################################
 #  Génération de questions d'examen avec Ollama  #
 ##################################################
-def generate_exam_question_with_ollama(topic, difficulty, language, context=""):
+def generate_exam_question_with_ollama(topic, difficulty, style, language, context=""):
     """Génère une question d'examen en utilisant Ollama avec la bonne syntaxe API"""
     print("Passage par generate_exam_question_with_ollama")
 
     model_name = "llama3"
     # Créer un prompt bien structuré
     prompt = f"""
-Crée une question d'examen sur le sujet: {topic}
-Je ne veux pas de solution de ta part, juste la question.
+Crée une question d'examen sur le sujet: {topic}. Il s'agit ici de {style}.
+Je ne veux pas de solution de ta part, juste la question : {style}.
 La question doit être en {language}.
 Niveau: {difficulty}
 
@@ -575,13 +576,14 @@ Contexte additionnel pour t'aider:
         }
 
 
-def generate_exam_response_with_ollama(question, topic, language, context=""):
+def generate_exam_response_with_ollama(question, topic, style, language, context=""):
     """Génère une réponse modèle à une question d'examen
 
     Args:
         question: La question d'examen à laquelle répondre
         topic: Le sujet de la question
         context: Contexte additionnel pour aider à la génération (optional)
+        style: style de la question (QCM ou bien question ouverte)
 
     Returns:
         Dictionnaire contenant la réponse générée et des métadonnées
@@ -592,7 +594,7 @@ def generate_exam_response_with_ollama(question, topic, language, context=""):
     # Créer un prompt bien structuré
     prompt = f"""
 Tu es un expert du concours d'ingénieur brevet européen.
-Réponds de façon détaillée et professionnelle à cette question d'examen sur {topic}.
+Réponds de façon détaillée et professionnelle à ce sujet d'examen sur {topic}. Il s'agit ici de {style}.
 Toute ta réponse doit être en {language}.
 QUESTION:
 {question}
@@ -698,14 +700,13 @@ def evaluate_student_answer(
                 content_types=["answers", "example_solutions"],
                 top_k=2,
             )
-            print("Le coin du contexte est : ", context)
         except Exception as e:
             print(f"Erreur lors de la récupération du contexte: {str(e)}")
 
     # Créer un prompt bien structuré pour l'évaluation
     system_prompt = f"""
 Tu es un évaluateur expert pour le concours d'ingénieur brevet européen.
-Ta tâche est d'évaluer la réponse de l'étudiant en la comparant à la réponse modèle.
+Ta tâche est d'évaluer la réponse de l'étudiant en la comparant à la réponse, tu dois être extrêmement sévère, précis et juste quant à l'évaluation d'un QCM.
 Toute ton évaluation devra être rédigée en {language}.
 
 ### QUESTION:
@@ -720,8 +721,8 @@ Toute ton évaluation devra être rédigée en {language}.
 {f"### CONTEXTE SUPPLÉMENTAIRE:\n{context}" if context else ""}
 
 ### CONSIGNES D'ÉVALUATION:
-1. Compare la réponse de l'étudiant à la réponse modèle
-2. Évalue la précision technique et la justesse des informations (sois sévère et strict sur l'analyse)
+1. Compare la réponse de l'étudiant à la réponse modèle, et dans le cas d'un QCM, vérifie chaque réponse et soit strict.
+2. Évalue la précision technique et la justesse des informations (sois sévère et strict sur l'analyse, une mauvaise réponse ou un hors sujet vaut 0/10)
 3. Considère la structure, la clarté et la complétude de la réponse
 4. Attribue un score juste en fonction des critères ci-dessus
 
